@@ -11,8 +11,9 @@ from langchain_core.documents import Document
 from langchain_classic.text_splitter import RecursiveCharacterTextSplitter
 from langchain_classic.chains.summarize import load_summarize_chain
 
-# Load your text (example: Coinbase 10-K)
-FILING_PATH = "0001679788/000167978824000022.tar__coin-20231231.htm.json"
+
+# Load your text (T-Mobile 10-K)
+FILING_PATH = "0001283699/000128369924000008.tar__tmus-20231231.htm.json"
 
 with open(FILING_PATH) as f:
     data = json.load(f)
@@ -133,7 +134,7 @@ print(f"\nTotal processing time: {total_time:.1f} seconds ({total_time/60:.1f} m
 
 # Save the result
 os.makedirs("summaries", exist_ok=True)
-output_path = "summaries/coinbase_10k_summary.txt"
+output_path = "summaries/tmobile_10k_summary.txt"
 with open(output_path, "w") as f:
     f.write(summary_text)
 

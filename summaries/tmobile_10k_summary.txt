@@ -1,0 +1,284 @@
+# T-MOBILE US, INC. - CYBERSECURITY & DATA RISK SUMMARY
+## Form 10-K for Fiscal Year Ended December 31, 2023
+
+---
+
+## EXECUTIVE OVERVIEW
+
+T-Mobile US, Inc. (CIK: 0001283699), based in Bellevue, Washington and Overland Park, Kansas, is the second-largest wireless communications services provider in the United States, serving 119.7 million postpaid and prepaid customers as of December 31, 2023. The company disclosed significant cybersecurity incidents in 2021 and 2023, triggering substantial litigation, regulatory inquiries, and financial consequences. This summary extracts evidence-backed cybersecurity and data protection disclosures from T-Mobile's 10-K filing, with emphasis on incident response, governance, controls, and ongoing risks.
+
+---
+
+## 1. MATERIAL CYBERSECURITY INCIDENTS
+
+### August 2021 Breach: Compromise of Millions of Customer Records
+
+**Incident Details:**
+According to Item 1A (Risk Factors), "In August 2021, we disclosed that our systems were subject to a criminal cyberattack that compromised certain data of millions of our current customers, former customers, and prospective customers, including, in some instances, social security numbers, names, addresses, dates of birth and driver's license/identification numbers."
+
+**Scale and Data Compromised:**
+The 10-K notes that T-Mobile was "subject to numerous claims, lawsuits and regulatory inquiries" as a result of this breach. The filing identifies the full scope of personally identifiable information (PII) exposed, including:
+- Social security numbers
+- Names
+- Addresses
+- Dates of birth
+- Driver's license/identification numbers
+
+**Financial and Legal Consequences:**
+- **Settlement Amount**: $350 million aggregate settlement to fund claims submitted by class members, plus legal fees for plaintiffs' counsel and settlement administration costs
+- **Data Security Commitment**: $150 million incremental commitment for data security and related technology in 2022 and 2023
+- **Claims Administration Pre-payment**: $35 million paid for claims administration purposes
+- **Total Recorded Charge**: Approximately $400 million pre-tax charge recorded during the three months ended June 30, 2022 (in connection with the class action settlement and other separate consumer claim settlements)
+
+**Litigation Status:**
+The filing states: "On July 22, 2022, we entered into an agreement to settle the consolidated class action lawsuit. On June 29, 2023, the Court issued an order granting final approval of the settlement, which is subject to potential appeals." A class member subsequently filed an appeal to the final approval order challenging attorneys' fees, with payments expected once that appeal is resolved.
+
+### January 2023 Breach: API Compromise and Customer Data Exposure
+
+**Incident Discovery:**
+"In January 2023, we disclosed that a bad actor was obtaining data through a single Application Programming Interface ("API") without authorization that was only able to provide a limited set of customer account data, including name, billing address, email, phone number, date of birth, T-Mobile account number and information such as the number of lines on the account and plan features."
+
+**Scope of Exposure:**
+"Our investigation indicated that the bad actor(s) obtained data from this API for approximately 37 million current postpaid and prepaid customer accounts, though many of these accounts did not include the full data set."
+
+**Ongoing Regulatory and Litigation Response:**
+"In addition, in connection with the January 2023 cyberattack, we have received notices of consumer class actions and regulatory inquires, to which we will continue to respond in due course."
+
+### Non-Material Incidents
+
+The 10-K discloses: "In addition to the August 2021 cyberattack and the January 2023 cyberattack, we have experienced other unrelated non-material incidents involving unauthorized access to certain Confidential Information and Systems. Typically, these incidents have involved attempts to commit fraud by taking control of a customer's phone line, often by exploiting insider access or using compromised credentials."
+
+These non-material incidents also included unauthorized access to customer credit card information, financial data, social security numbers, passwords, and to intellectual property, some occurring at third-party providers.
+
+---
+
+## 2. CYBERSECURITY GOVERNANCE AND OVERSIGHT
+
+### Board and Committee Structure
+
+**Nominating and Corporate Governance (NCG) Committee:**
+The filing states: "The NCG Committee oversees risks associated with data privacy and information security, which encompasses cybersecurity. Our CSO and Chief Compliance Officer, among other executives, provide periodic reports to the NCG Committee and also meet with the NCG Committee to discuss any material events when they arise."
+
+The NCG Committee receives reports designed to keep it "abreast of the Company's cybersecurity practices, risks and trends in cybersecurity threats," with discussions focused on evaluating "the Company's exposure to cybersecurity risks and cybersecurity practices in place to mitigate such risks."
+
+**Audit Committee:**
+"The Audit Committee is integral to overseeing the Company's overall risk management strategies, including cybersecurity risks and disclosures. To keep the Audit Committee informed, the Chief Audit Executive maintains a direct and open communication channel with the Audit Committee. Regular meetings are held for the Chief Audit Executive to report to the Audit Committee. These include an enterprise-wide risk assessment that highlights cybersecurity risks and cybersecurity risk mitigation actions."
+
+**Board Reporting:**
+"Our Board of Directors oversees risks from cybersecurity threats using a multi-faceted approach that involves the NGC Committee and Audit Committee and various executive roles. Additionally, our Transformation and Chief Information & Digital Officer and CSO report on cybersecurity to the full Board."
+
+### Executive Leadership and Expertise
+
+**Transformation and Chief Information & Digital Officer:**
+The 10-K notes that "The Transformation and Chief Information & Digital Officer under the direction of the Company's Chief Executive Officer, is responsible for overseeing the Company's information technology systems, digital capabilities, and cybersecurity practices."
+
+**Chief Security Officer (CSO):**
+"The CSO, under the direction of the Transformation and Chief Information & Digital Officer, is responsible for overseeing the cybersecurity organization and promoting a security-centric culture throughout our business and operational functions. The CSO is at the forefront of enhancing our cybersecurity framework and strengthening the overall cybersecurity program."
+
+**CSO Background:**
+"As the Company's CSO, Jeff Simon has extensive experience in risk management and information security, including serving as the Chief Information Security Officer at Fidelity National Information Services, Inc. Mr. Simon received his Master of Science in Computer Science, Software Engineering & Artificial Intelligence from the Johns Hopkins Whiting School of Engineering and Bachelor of Science in Business Administration and Applied Economics from Marquette University. Mr. Simon is a Certified Information Systems Security Professional."
+
+### Enterprise Risk & Compliance Committee
+
+The filing describes the governance structure: "Our Enterprise Risk & Compliance Committee is comprised of a collective of senior management representatives and subject matter experts from across the Company. The Enterprise Risk & Compliance Committee is chaired by the Chief Financial Officer ("CFO") of the Company, with the Executive Vice President & General Counsel as the co-chair and comprises core members including the Transformation and Chief Information & Digital Officer, while the CSO serves in an advisory capacity."
+
+---
+
+## 3. CYBERSECURITY RISK MANAGEMENT FRAMEWORK
+
+### NIST Cybersecurity Framework Adoption
+
+The filing states: "We utilize the National Institute of Standards and Technology's Cybersecurity Framework ("NIST CSF") as a guide in cyber risk management to identify, assess, and assist the CSO in managing cybersecurity risks. Cyber risk management encompasses partnerships among teams that are responsible for cyber governance, prevention, detection, and remediation activities within the Company's cybersecurity environment."
+
+### Integrated Risk Assessment
+
+"Our management also conducts a quarterly enterprise-wide risk assessment that considers a wide spectrum of risks facing the Company, including cybersecurity. Through these quarterly risk assessments, management informs the Audit Committee on the cyber risk landscape facing the Company and the Company's preparedness to manage such risk. The enterprise-wide risk assessment is a top-down risk assessment that leverages the assessments performed by cyber risk management."
+
+### Employee Training and Mitigation
+
+"As part of our cyber risk management efforts, we conduct periodic reviews and collaborate with enterprise-wide risk assessments to assess and manage cybersecurity risks. Our cybersecurity team also provides enterprise-wide cybersecurity training for employees to continuously improve our mitigation against human-driven vulnerabilities."
+
+### Third-Party Risk Management
+
+"Our third-party risk management program includes processes for identifying and managing material cybersecurity risks arising from third-party providers. Our third-party risk management program actively engages with the enterprise-wide risk assessment process and partners with cyber risk management to report relevant risks to the NCG Committee, the Audit Committee and our internal Enterprise Risk & Compliance Committee."
+
+The 10-K notes: "Our third-party risk management program includes cybersecurity as an aspect of its risk assessment of third parties with the objective that key risks are identified and addressed. Moreover, the program also considers risks associated with certain fourth parties, entities that are partners or subcontractors of our direct third-party vendors, through assessments carried out by our third-party service providers."
+
+---
+
+## 4. THREAT LANDSCAPE AND CYBERATTACK CHARACTERISTICS
+
+### Sophistication and Scale of Threats
+
+The filing emphasizes: "Cyberattacks against companies like ours have increased in frequency and scope of potential harm over time, and the methods used to gain unauthorized access constantly evolve, making it increasingly difficult to anticipate, prevent, and detect incidents successfully in every instance."
+
+**Attacker Profile:**
+"They are perpetrated by a variety of groups and persons, including state-sponsored parties, malicious actors, employees, contractors, or other unrelated third parties. Some of these persons reside in jurisdictions where law enforcement measures to address such attacks are ineffective or unavailable, and such attacks may even be perpetrated by or at the behest of foreign governments."
+
+### Attack Methods and Objectives
+
+The 10-K details: "We are subject to persistent cyberattacks and threats to our business from a variety of bad actors, many of whom attempt to gain unauthorized access to and compromise Confidential Information and Systems. In some cases, the bad actors exploit bugs, errors, misconfigurations or other vulnerabilities in our Systems to obtain Confidential Information. In other cases, these bad actors may obtain unauthorized access to Confidential Information by exploiting insider access or utilizing log in credentials taken from our customers, employees, or third-party providers through credential harvesting, social engineering or other means. Other bad actors aim to cause serious operational disruptions to our business and Systems through ransomware or distributed denial of services attacks."
+
+### Future Threat Evolution
+
+"We also expect that threat actors will continue to gain sophistication including in the use of tools and techniques (such as artificial intelligence) that are specifically designed to circumvent security controls, evade detection, and obfuscate forensic evidence, making it more challenging for us to identify, investigate and recover from future cyberattacks in a timely and effective manner."
+
+---
+
+## 5. THIRD-PARTY CYBERSECURITY RISKS
+
+### External Cybersecurity Advisors
+
+"The Company engages top-tier external cyber security firms, as needed, leveraging their expertise as part of our ongoing effort to evaluate and enhance our cybersecurity program. They help with cyber defense capabilities (including staff enhancement of certain functions) and transformation to mitigate associated threats, reduce risk, enhance our cybersecurity posture, and meet the Company's evolving needs."
+
+### Third-Party Provider Dependencies
+
+"In addition, we routinely rely upon third-party providers whose products and services are used in our business. These third-party providers have experienced in the past, and will continue to experience in the future, cyberattacks that involve attempts to obtain unauthorized access to our Confidential Information and/or to create operational disruptions that could adversely affect our business, and these providers also face other security challenges common to all parties that collect and process information."
+
+### Limitations on Third-Party Oversight
+
+The filing candidly states: "Additionally, we do not have control of the cybersecurity systems, breach prevention, and response protocols of our third-party providers, including through our cybersecurity programs or policies. While T-Mobile may have contractual rights to assess the effectiveness of many of our providers' systems and protocols, we do not have the means to know or assess the effectiveness of all of our providers' systems and controls at all times."
+
+---
+
+## 6. DATA TYPES AND PRIVACY OBLIGATIONS
+
+### Categories of Sensitive Information at Risk
+
+The 10-K defines "Confidential Information" broadly: "Our business involves the receipt, storage, and transmission of confidential information about our customers, such as sensitive personal, account and payment card information, confidential information about our employees and suppliers, and other sensitive information about our Company, such as our business plans, transactions, financial information, and intellectual property (collectively, "Confidential Information")."
+
+### Regulatory Compliance Framework
+
+**State Privacy Laws:**
+"Since 2020, a number of states have enacted new, comprehensive privacy laws that create new data privacy rights for residents of those states and new compliance obligations for us and the industry in general, in addition to private rights of action for certain types of data breaches."
+
+**Specific Regulations Cited:**
+- California Consumer Privacy Act (CCPA)
+- California Privacy Rights Act (CPRA)
+- Colorado, Connecticut, Utah, and Virginia privacy laws (effective 2023)
+- Delaware, Indiana, Iowa, Montana, Oregon, Tennessee, and Texas (effective in coming years)
+
+**Compliance Costs:**
+"We have incurred and will continue to incur significant implementation costs to ensure compliance with the CCPA, the CPRA, new privacy laws in other states, and their related regulations, including managing the complexity of laws that vary from state to state."
+
+---
+
+## 7. FINANCIAL IMPACT AND INSURANCE LIMITATIONS
+
+### Total Financial Exposure
+
+The filing states: "As a result of the August 2021 cyberattack and the January 2023 cyberattack, we have incurred and may continue to incur significant costs or experience other material financial impacts, which may not be covered by, or may exceed the coverage limits of, our cyber liability insurance, and such costs and impacts may have a material adverse effect on our business, reputation, financial condition, cash flows and operating results."
+
+### Key Financial Components:
+- Settlement commitments: $350 million (class action claims)
+- Data security investment: $150 million (2022-2023)
+- Additional ongoing litigation and regulatory costs: Not yet fully quantified
+- Potential for further regulatory actions and private litigation
+
+### Materiality and Contingencies
+
+The filing notes: "In light of the inherent uncertainties involved in such matters and based on the information currently available to us, we believe it is reasonably possible that we could incur additional losses associated with these proceedings and inquiries, and we will continue to evaluate information as it becomes known and will record an estimate for losses at the time or times when it is both probable that a loss has been incurred and the amount of the loss is reasonably estimable."
+
+---
+
+## 8. RISK FACTORS AND MATERIAL CYBERATTACK RISKS
+
+### Critical Vulnerability to Cyberattacks
+
+The 10-K emphasizes: "We have experienced criminal cyberattacks and are vulnerable to disruption, data loss and other security breaches, whether directly or indirectly through third parties whose products and services we rely on in operating our business."
+
+### Inability to Guarantee Mitigation
+
+"We cannot provide any assurances that actions taken by us, or our third-party providers, including through our cybersecurity programs or policies, will adequately repel a significant cyberattack or prevent or substantially mitigate the impacts of cybersecurity breaches or misuses of Confidential Information, unauthorized access to our networks or systems or exploits against third-party environments, or that we, or our third-party providers, will be able to effectively identify, investigate, and remediate such incidents in a timely manner or at all."
+
+### Ongoing Threat Expectation
+
+"We expect to continue to be the target of cyberattacks, given the nature of our business, and we expect the same with respect to our third-party providers."
+
+### Legacy System Vulnerabilities
+
+"In addition, we have acquired and continue to acquire companies with cybersecurity vulnerabilities or unsophisticated security measures, which exposes us to significant cybersecurity, operational, and financial risks."
+
+---
+
+## 9. SYSTEM MODERNIZATION AND INFRASTRUCTURE RISKS
+
+### Challenges in Modernizing Legacy Systems
+
+The 10-K identifies: "As we work to modernize our existing applications and systems, challenges with execution could have adverse operational, financial, and reputational effects on our business."
+
+**Specific Challenges:**
+"We are currently integrating, upgrading, and replacing many of our existing applications and systems, including numerous legacy systems from previous acquisitions. This process is complex and involves challenges in integrating and modernizing outdated IT infrastructure within a limited timeframe."
+
+**Execution Dependencies:**
+"The success of these efforts depends on the effective allocation of resources, expansion of our technology development capabilities, leveraging artificial intelligence and emerging technologies, and ensuring access to subject-matter experts. Any delays or failures in these initiatives could impact our ability to comply with legal or regulatory requirements, ensure reliable system performance and effective cybersecurity, recover promptly from system outages, and maintain satisfactory customer and employee experiences."
+
+### Potential Operational Impact
+
+"These issues could also hinder our ability to meet customer expectations in terms of future service capabilities and offerings and to grow our business, potentially affecting our operational and financial results and our reputational standing."
+
+---
+
+## 10. INCIDENT RESPONSE AND CURRENTLY KNOWN RISKS
+
+### Disclosed Risks and Investigations
+
+The filing states: "We have not identified other known risks from previous cybersecurity threats that have materially affected or are reasonably likely to materially affect us. However, we face ongoing risks from certain cybersecurity threats that, if realized, are reasonably likely to materially affect business strategy, results of operations, or financial condition."
+
+### Forward-Looking Risk Disclosure
+
+The 10-K notes under Risk Factors: "See 'Risk Factors – We have experienced criminal cyberattacks and could in the future be further harmed by disruption, data loss or other security breaches, whether directly or indirectly through third parties whose products and services we rely on in operating our business.'"
+
+---
+
+## 11. LEGAL PROCEEDINGS AND ONGOING LITIGATION
+
+### Class Action Settlements
+
+The filing provides comprehensive litigation status:
+- **Settlement Date**: July 22, 2022 (consolidated class action lawsuit agreement)
+- **Final Approval**: June 29, 2023 (Court order granting final approval, subject to potential appeals)
+- **Appeals**: One class member filed an appeal challenging attorneys' fees award; settlement payments expected upon appeal resolution
+
+### Regulatory Inquiries
+
+"We are cooperating fully with regulators and vigorously defending against the class actions and other lawsuits."
+
+### Continuing Contingencies
+
+"Ongoing legal and other costs related to these proceedings and inquiries, as well as any potential future proceedings and inquiries related to the August 2021 cyberattack and the January 2023 cyberattack, may be substantial, and losses associated with any adverse judgments, settlements, penalties or other resolutions of such proceedings and inquiries could be significant and have a material adverse impact on our business, reputation, financial condition, cash flows and operating results."
+
+---
+
+## 12. REGULATORY AND COMPLIANCE OBLIGATIONS
+
+### FCC Privacy Regulations
+
+The 10-K notes: "The FCC imposes significant regulation on licensees of wireless spectrum with respect to how radio spectrum is used by licensees, the nature of the services that licensees may offer and how the services may be offered" and specifically regulates issues "relating to the wireless industry that include, but are not limited to, roaming, interconnection, spectrum allocation and licensing, facilities siting, pole attachments, intercarrier compensation, Universal Service Fund ("USF"), 911 services, robocalling/robotexting, consumer protection, consumer privacy, and cybersecurity."
+
+### Data Protection Regulatory Changes
+
+"Failure to comply with applicable regulations could have a material adverse effect on our business, financial condition, and operating results. We could be subject to fines, forfeitures, and other penalties (including, in extreme cases, revocation of our spectrum licenses) for failure to comply with the FCC or other governmental regulations, even if any such noncompliance was unintentional."
+
+---
+
+## 13. OUTSTANDING EXPOSURES AND RISK FACTORS
+
+### Unquantified Financial Exposure
+
+The filing indicates multiple sources of potential financial exposure:
+1. Ongoing class action litigation related to 2021 and 2023 incidents
+2. Regulatory inquiries from state and federal agencies
+3. Potential additional litigation from consumer claims
+4. Potential regulatory fines and penalties
+5. Ongoing data security investment requirements
+
+### Reputational and Operational Risks
+
+The filing emphasizes: "If we fail to protect Confidential Information or to prevent operational disruptions from future cyberattacks, there may be a material adverse effect on our business, reputation, financial condition, cash flows, and operating results."
+
+---
+
+## CONCLUSION
+
+T-Mobile's 10-K filing reveals a company managing significant cybersecurity challenges stemming from two major incidents in 2021 and 2023 that compromised the personal information of tens of millions of customers. The company has implemented governance structures involving Board-level oversight, executive leadership with relevant expertise, third-party risk management, and a NIST-based framework for cyber risk management. However, the filing also candidly acknowledges ongoing vulnerabilities, the evolving sophistication of threats (including AI-based techniques), limitations in third-party oversight, and the impossibility of providing absolute assurance against future breaches. Financial impacts from the 2021 and 2023 incidents exceed $400 million in recorded charges with ongoing litigation, regulatory inquiries, and uncertain future exposures. The company faces ongoing challenges in modernizing legacy systems, managing third-party cybersecurity risks, and complying with evolving state and federal privacy regulations.

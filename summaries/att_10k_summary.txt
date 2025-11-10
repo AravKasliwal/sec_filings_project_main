@@ -1,0 +1,93 @@
+# AT&T 2023 10-K — Comprehensive Cybersecurity & Data Risk Summary (Evidence-Backed)
+
+## 1. Board & Executive Governance of Cybersecurity
+
+- **Board Audit Committee Oversight**: "Our Board of Directors has delegated to the Audit Committee the oversight responsibility to review and discuss with management the Company's privacy and data security, including cybersecurity, risk exposures, policies and practices, and the steps management has taken to detect, monitor and control such risks and the potential impact of those exposures on our business, financial results, operations and reputation. The full Board and Audit Committee regularly receives reports and presentations on privacy and data security, which address relevant cybersecurity issues and risks and span a wide range of topics. These reports and presentations are provided by officers with responsibility for privacy and data security, who include our Chief Information Security Officer (CISO), Chief Technology Officer (CTO) and AT&T's Legal team. In addition to regular reports to the Audit Committee, we have protocols by which certain security incidents are escalated within the Company and, where appropriate, reported in a timely manner to the Audit Committee."
+
+## 2. Chief Security Office (CSO) & Leadership
+
+- **Organizational Structure**: "We maintain a Chief Security Office (CSO), which is charged with management-level responsibility for all aspects of network and information security within the Company. Led by our CISO and comprised of a large team of highly trained security professionals across multiple countries, the CSO is responsible for: (a) establishing the policies, standards and requirements for the security of AT&T's computing and network environments; (b) protecting AT&T-owned and -managed assets and resources against unauthorized access by monitoring potential security threats, correlating network events, and overseeing the execution of corrective actions; (c) promoting compliance with AT&T's security policies and network and information security program in a consistent manner on network systems and applications; and (d) providing security thought leadership in the global security arena."
+
+- **CISO Qualifications & Experience**: "Our CISO plays the key management role in assessing and managing our material risks from cybersecurity threats. The CISO also works closely with AT&T Legal to oversee compliance with legal, regulatory and contractual security requirements. The CISO has extensive technical leadership experience and cybersecurity expertise, gained from approximately 20 years of experience, including serving as the Chief Information Security Officer and Director of the Office of Cybersecurity at a U.S. government agency, in addition to serving as the Chief Information Security Officer of two large public companies. Prior to that, he served for 20 years in the U.S. military, in various information technology roles of increasing seniority. The security professionals in the CSO have cybersecurity backgrounds and expertise relevant to their roles, including, in certain circumstances, relevant industry certifications."
+
+## 3. Network & Information Security Program
+
+- **Core Program Description**: "We maintain a network and information security program that is reasonably designed to protect our information, and that of our customers, from unauthorized risks to their confidentiality, integrity, or availability. Our program encompasses the CSO and its policies, platforms, procedures, and processes for assessing, identifying, and managing risks from cybersecurity threats, including third-party risk from vendors and suppliers; and the program is generally designed to identify and respond to security incidents and threats in a timely manner to minimize the loss or compromise of information assets and to facilitate incident resolution."
+
+- **Continuous Monitoring & Threat Detection**: "We maintain continuous and near-real-time security monitoring of the AT&T network for investigation, action and response to network security events. This security monitoring leverages tools, where available, such as near-real-time data correlation, situational awareness reporting, active incident investigation, case management, trend analysis and predictive security alerting."
+
+## 4. Risk Assessment & Vulnerability Management
+
+- **Comprehensive Assessment Mechanisms**: "We assess, identify, and manage risks from cybersecurity threats through various mechanisms, which from time to time may include tabletop exercises to test our preparedness and incident response process, business unit assessments, control gap analyses, threat modeling, impact analyses, internal audits, external audits, penetration tests and engaging third parties to conduct analyses of our information security program."
+
+- **Vulnerability Testing & Prioritization**: "We conduct vulnerability testing and assess identified vulnerabilities for severity, the potential impact to AT&T and our customers, and likelihood of occurrence. We regularly evaluate security controls to maintain their functionality in accordance with security policy."
+
+- **Threat Intelligence & Government Collaboration**: "We also obtain cybersecurity threat intelligence from recognized forums, third parties, and other sources as part of our risk assessment process. In addition, as a critical infrastructure entity, we collaborate with numerous agencies in the U.S. government to help protect U.S. communications networks and critical infrastructure, which, in turn, informs our cybersecurity threat intelligence."
+
+## 5. Incident Response Plans & Framework
+
+- **Formal Response Procedures**: "With respect to incident response, the Company has adopted a Cybersecurity Incident Response Plan, as well as a Data Privacy Incident Response Plan that applies if customer information has been compromised (together, the 'IRPs'), to provide a common framework for responding to security incidents. This framework establishes procedures for identifying, validating, categorizing, documenting and responding to security events that are identified by or reported to the CSO. The IRPs apply to all AT&T personnel (including contractors and partners) that perform functions or services that require securing AT&T information and computing assets, and to all devices and network services that are owned or managed by the Company."
+
+- **Multi-Functional Response Approach**: "The IRPs set out a coordinated, multi-functional approach for investigating, containing, and mitigating incidents, including reporting findings to senior management and other key stakeholders and keeping them informed and involved as appropriate. In general, our incident response process follows the NIST (National Institute of Standards and Technology) framework and focuses on four phases: preparation; detection and analysis; containment, eradication and recovery; and post-incident remediation."
+
+## 6. Cybersecurity R&D Investment
+
+- **Research & Development Focus**: "AT&T scientists and engineers conduct research in a variety of areas, including IP networking, advanced network design and architecture, network and cybersecurity, network operations support systems and data analytics. The majority of the development activities are performed to create new services and to invent tools and systems to manage secure and reliable networks for us and our customers. Research and development expenses were $954M in 2023, $1,236M in 2022, and $1,325M in 2021."
+
+## 7. 2023 Cyber Incident Status
+
+- **No Material Breaches in 2023**: "In 2023, we did not identify and were not aware of any cybersecurity breaches that we believe have materially affected or are reasonably likely to materially affect our business strategy, results of operations, or financial condition."
+
+## 8. Cyberattack Risk Factors (Item 1A)
+
+### Attack Vectors & Emerging Threats:
+- **Escalating Threat Landscape**: "Cyberattacks – including through the use of malware, computer viruses, distributed denial of services attacks, ransomware attacks, credential harvesting, social engineering and other means for obtaining unauthorized access to or disrupting the operation of our networks and systems and those of our suppliers, vendors and other service providers – could have a material adverse effect on our operations."
+
+- **Potential Impacts of Successful Attacks**: "Cyberattacks can cause equipment or network failures, loss of information, including sensitive personal information of customers or employees or proprietary information, as well as disruptions to our or our customers', suppliers' or vendors' operations, which could result in significant expenses, potential investigations and legal liability, a loss of current or future customers and reputational damage."
+
+- **AI & ML-Enabled Attacks**: "Further, the use of artificial intelligence and machine learning by cybercriminals may increase the frequency and severity of cybersecurity attacks against us or our suppliers, vendors and other service providers."
+
+- **Post-Attack Investigation Uncertainties**: "Additionally, as cyberattacks become increasingly sophisticated, a post-attack investigation may not be able to ascertain the entire scope of the attack's impact."
+
+### Limitations of Preventive Controls:
+- **Insufficient Defenses Against Major Attacks**: "Extensive and costly efforts are undertaken to develop and test systems before deployment and to conduct ongoing monitoring and updating to prevent and withstand such attacks. While, to date, we have not been subject to cyberattacks that, individually or in the aggregate, have been material to our operations or financial condition, the preventive actions we take to reduce the risks associated with cyberattacks may be insufficient to repel or mitigate the effects of a major cyberattack in the future."
+
+### Software-Reliant Networks:
+- **Increasing Software Dependence**: "As our networks evolve, they are becoming increasingly reliant on software to handle growing demands for data consumption. Cyberattacks against companies, including the Company and its suppliers and vendors, have occurred and will continue to occur and have increased in frequency, scope and potential harm in recent years."
+
+## 9. Third-Party & Supply-Chain Cyber Risks
+
+- **Supplier Cybersecurity Dependence**: "We depend on suppliers to provide us, directly or through other suppliers, with items such as network equipment, customer premises equipment and wireless-related equipment such as mobile hotspots, handsets, wirelessly enabled computers, wireless data cards and other connected devices for our customers. In some instances, we depend on key single-source suppliers to provide important inputs where there are few alternative suppliers available. These suppliers could fail to provide equipment on a timely or cost effective basis, or fail to meet our performance expectations, for a number of reasons, including difficulties in obtaining export licenses for certain technologies, inflationary pressures, inability to secure component parts, general business disruption, natural disasters, safety issues, economic and political instability, including the outbreak of war and other hostilities, and public health emergencies."
+
+## 10. Privacy Violations & Customer Data Risk
+
+- **Privacy Litigation Exposure**: "We are subject to a number of lawsuits both in the United States and in foreign countries, including, at any particular time, claims relating to antitrust, patent infringement, wage and hour, personal injury, environmental, customer privacy violations, cyberattacks, regulatory proceedings, breach of contract, and selling and collection practices."
+
+## 11. Notable Recent Disclosure: Lead-Clad Cable Litigation
+
+- **New Reputational & Legal Risk (2023)**: "In 2023, The Wall Street Journal published a series of articles alleging that lead-clad telecommunications cables are a public-health hazard or may pose environmental risks. We are currently subject to litigation and have received inquiries from government authorities as a result of these assertions. We may be subject to additional litigation, government investigations and potentially new regulation or legislation relating to lead-clad cables. Any damage to our reputation or payments of significant amounts as a result of any of these issues, even if reserved, could materially and adversely affect our business, ability to serve customers, reputation, financial condition, results of operations and cash flows."
+
+## 12. Software-Based Network Risks
+
+- **New Technology Dependency**: "Customer adoption of new software-based technologies may require higher quality services from us, and meeting these demands could create supply chain issues and could increase capital costs. The communications industry has experienced rapid changes in the past several years. An increasing number of our customers are using mobile devices as their primary means of viewing video. In addition, businesses and government bodies are broadly shifting to wireless-based services for homes and infrastructure to improve services to their respective customers and constituencies. We have spent, and continue to spend, significant capital to shift our wired network to software-based technology and are expanding 5G wireless technology to address these demands. We are entering into a significant number of software licensing agreements and working with software developers to provide network functions in lieu of installing switches or other physical network equipment in order to respond to rapid developments in wireless demand. While software-based functionality can be changed much more quickly than, for example, physical switches, the rapid pace of development means that we may increasingly need to rely on single-source and software solutions that have not previously been deployed in production environments. Should this software not function as intended or our license agreements provide inadequate protection from intellectual property infringement claims, we could be forced to either substitute (if available) or else spend time to develop alternative technologies at a much higher cost and incur harm to our reputation for reliability, and, as a result, our ability to remain competitive could be materially adversely affected."
+
+## 13. Outstanding Exposures & Risk Items to Flag
+
+- **Cyber Incident Response Residual Risk**: While AT&T has formal IRPs and continuous monitoring, the filing emphasizes that sophisticated attackers may evade detection and investigations may not fully ascertain breach scope.
+
+- **Supplier & Vendor Concentration Risk**: AT&T's reliance on key single-source suppliers and the increasing dependence on third-party software and cloud services introduce supply-chain vulnerabilities.
+
+- **Software-Based Network Transition Risk**: Shift to SDN/NFV and software licensing with unproven third-party solutions introduces new attack surfaces and IP infringement risks.
+
+- **AI-Enabled Cyber Threats**: Explicit acknowledgment that AI and machine learning are being leveraged by threat actors, and AT&T's defenses may not be sufficient against advanced attacks.
+
+- **Regulatory & Legal Uncertainty**: New areas of litigation exposure (lead-clad cables, privacy violations, government inquiries) suggest emerging regulatory and legal risk that could be compounded by cybersecurity incidents.
+
+- **Customer Data in Motion**: As a critical communications infrastructure provider, AT&T handles vast quantities of sensitive customer data; exposure in transit and at endpoints remains a persistent risk.
+
+---
+
+**Summary Statement:**
+AT&T maintains a robust, board-level cybersecurity governance structure with an experienced CISO, comprehensive security program including continuous monitoring, formal incident response aligned with NIST, and significant R&D investment. The company collaborates with U.S. government agencies on critical infrastructure protection. However, AT&T explicitly acknowledges that its preventive measures may be insufficient against increasingly sophisticated cyberattacks, particularly those leveraging AI/ML. Key residual risks include software-based network dependencies, supplier concentration, supply chain vulnerabilities, third-party IP infringement exposure, and emerging litigation around privacy and environmental compliance. No material cyber breaches were reported in 2023, though the company remains exposed to significant reputational, operational, and financial risks should a major incident occur.
+
+*This summary is built directly from AT&T's 10-K text and includes verbatim excerpts and paraphrases for all major cyber-related disclosures across Items 1A, 1C, and business operation sections.*
