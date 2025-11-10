@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): August 22, 2022",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g286699g78n17.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\nincorporation or organization)",
+                      "(Commission\nFile Number)",
+                      "(I.R.S. Employer\nIdentification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\nSymbol",
+                          "Name of each exchange\non which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company \u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a01.01.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Entry into a Material Definitive Agreement.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "Following T-Mobile USA, Inc. (\u201cTMUSA\u201d), a wholly-owned subsidiary of T-Mobile US, Inc. (the \u201cCompany\u201d), achieving an investment grade issuer rating from each of the three main credit rating agencies, on August\u00a022, 2022, TMUSA entered into an amendment (the \u201cCredit Agreement Amendment\u201d) to its Credit Agreement, dated as of April\u00a01, 2020, as previously amended, among TMUSA, the banks and financial institutions party thereto as lenders and issuing banks, and Deutsche Bank AG New York Branch, as administrative agent (the \u201cCredit Agreement\u201d), pursuant to which the lenders and issuing banks under the Credit Agreement released the liens securing obligations under the Credit Agreement.",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "Upon effectiveness of the Credit Agreement Amendment, the liens securing TMUSA\u2019s senior secured notes issued pursuant to the Indenture, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Company and Deutsche Bank Trust Company Americas, as trustee (collectively, the \u201cNotes\u201d), were automatically released pursuant to the terms thereof. Further, upon effectiveness of the Credit Agreement Amendment, the liens securing the obligations of Sprint Communications LLC, formerly known as Sprint Communications, Inc. (\u201cSprint Communications\u201d), as lessee under the Intra-Company Spectrum Lease Agreement, dated as of October\u00a027, 2016 and as amended prior to the date hereof, among Sprint Spectrum License Holder LLC, Sprint Spectrum License Holder II LLC and Sprint Spectrum License Holder III LLC, Sprint Communications, Sprint Intermediate HoldCo LLC, Sprint Intermediate Holdco II LLC, Sprint Intermediate Holdco III LLC and the other guarantors party thereto (the \u201cSpectrum Lease Agreement\u201d) were automatically released pursuant to the terms thereof. As a result of the lien release pursuant to the Credit Agreement Amendment, the obligations under the Credit Agreement, the Notes and the Spectrum Lease Agreement are senior unsecured obligations of the obligors thereunder, including the Company and TMUSA.",
+              "class": "predicted header"
+            },
+            "33": {
+              "title": "The above description of the Credit Agreement Amendment is a summary only and is qualified in its entirety by the full and complete terms of the Credit Agreement Amendment, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "title": "Item\u00a01.02.",
+      "standardized_title": "item1.02",
+      "class": "item",
+      "contents": {
+        "35": {
+          "title": "Termination of a Material Definitive Agreement.",
+          "class": "predicted header",
+          "contents": {
+            "36": {
+              "title": "In connection with the Credit Agreement Amendment, all liens under the Collateral Agreement, dated as of April\u00a01, 2020 (the \u201cCollateral Agreement\u201d), by and among T-Mobile US, Inc., T-Mobile USA, Inc. and the other grantors party thereto in favor of Deutsche Bank Trust Company Americas, as collateral trustee, have been released and the Collateral Agreement has terminated pursuant to its terms effective August\u00a022, 2022. In addition, the Collateral Trust and Intercreditor Agreement, dated as of April\u00a01, 2020, by and among T-Mobile US, Inc., T-Mobile USA, Inc., the other grantors party thereto, Deutsche Bank AG New York Branch, as first priority agent, the holder representatives party thereto and Deutsche Bank Trust Company Americas, as collateral trustee, has terminated pursuant to its terms effective August\u00a022, 2022.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "37": {
+      "title": "Item\u00a03.03.",
+      "standardized_title": "item3.03",
+      "class": "item",
+      "contents": {
+        "38": {
+          "title": "Material Modification to Rights of Security Holders.",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "title": "The disclosure set forth in Items 1.01 and 1.02 of this Current Report on Form 8-K is also responsive to Item 3.03 of this Current Report on Form 8-K and is incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "40": {
+      "title": "Item\u00a09.01.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "41": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "42": {
+              "title": "The following exhibits are provided as part of this Current Report on Form 8-K:",
+              "class": "predicted header"
+            },
+            "43": {
+              "title": "(d) Exhibits:",
+              "class": "predicted header",
+              "contents": {
+                "44": {
+                  "table": [
+                    [
+                      "Exhibit\u00a0No.",
+                      "Description"
+                    ],
+                    [
+                      "10.1*",
+                      "Third Amendment and Collateral Release, dated as of August\u00a022, 2022, to the Credit Agreement, dated as of April\u00a01, 2020, among T-Mobile USA, Inc., Deutsche Bank AG New York Branch, as administrative agent and each of the issuing banks and lenders party thereto."
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "45": {
+              "title": "*",
+              "class": "predicted header"
+            },
+            "46": {
+              "title": "In accordance with Item 601(a)(5) of Regulation S-K, certain schedules (or similar attachments) to this exhibit have been omitted from this filing. The registrant will provide a copy of any omitted schedule to the Securities and Exchange Commission or its staff upon request.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "47": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "48": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "49": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "August\u00a022, 2022",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Name:",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Title:",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

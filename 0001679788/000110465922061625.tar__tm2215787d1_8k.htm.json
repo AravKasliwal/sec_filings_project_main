@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM\u00a08-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)\u00a0of\nthe Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "Date of Report (Date of earliest event reported):\nMay 16, 2022",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Coinbase Global,\u00a0Inc.",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "9": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\n\n    of incorporation)",
+                          "(Commission\n\n    File Number)",
+                          "(IRS Employer\n\n    Identification No.)"
+                        ]
+                      ]
+                    },
+                    "10": {
+                      "table": [
+                        [
+                          "Address Not Applicable(1)",
+                          "Address Not Applicable(1)"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "11": {
+                      "title": "Not Applicable(1)",
+                      "class": "predicted header"
+                    }
+                  }
+                },
+                "12": {
+                  "title": "(Registrant\u2019s telephone number, including\narea code)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                },
+                "14": {
+                  "title": "(Former name or former address, if changed since\nlast report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "text": "Check the appropriate box below if the Form\u00a08-K\nfiling is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General\nInstructions A.2. below):"
+                    },
+                    "16": {
+                      "text": "\u00a8Written communications pursuant to Rule\u00a0425 under the Securities Act (17 CFR 230.425)"
+                    },
+                    "17": {
+                      "text": "\u00a8Soliciting material pursuant to Rule\u00a014a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    },
+                    "18": {
+                      "text": "\u00a8Pre-commencement communications pursuant to Rule\u00a014d-2(b)\u00a0under the Exchange Act (17 CFR 240.14d-2(b))"
+                    },
+                    "19": {
+                      "text": "\u00a8Pre-commencement communications pursuant to Rule\u00a013e-4(c)\u00a0under the Exchange Act (17 CFR 240.13e-4(c))"
+                    },
+                    "20": {
+                      "text": "Securities registered pursuant to Section\u00a012(b)\u00a0of\nthe Act:"
+                    },
+                    "21": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading Symbol(s)",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Class\u00a0A common stock, $0.00001 par value",
+                          "COIN",
+                          "Nasdaq Global Select Market"
+                        ]
+                      ]
+                    },
+                    "22": {
+                      "text": "Indicate by check mark whether the registrant\nis an emerging growth company as defined in Rule\u00a0405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule\u00a012b-2\nof the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                    },
+                    "23": {
+                      "text": "Emerging growth\ncompany\u00a0\u00a0 \u00a8"
+                    },
+                    "24": {
+                      "text": "If an emerging growth\ncompany, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or\nrevised financial accounting standards provided pursuant to Section\u00a013(a)\u00a0of the Exchange Act.\u00a0\u00a0 \u00a8"
+                    },
+                    "25": {
+                      "text": "_________________________________"
+                    },
+                    "26": {
+                      "text": "(1)We are a remote-first company. Accordingly, we do not maintain\na headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and Securities Exchange\nAct of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email\naddress set forth in our proxy materials and/or identified on our investor relations website."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "27": {
+      "title": "Item 7.01",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "28": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "29": {
+              "text": "On May\u00a016, 2022, Coinbase Global,\u00a0Inc.\n(\u201cCoinbase\u201d or the \u201cCompany\u201d) issued a blog post (the \u201cBlog Post\u201d) relating to its hiring plans. In\nconnection with the Blog Post, Coinbase affirmed its expense outlook for the second quarter of 2022 and full year 2022 that the Company\nprovided on May\u00a010, 2022 in a letter to its shareholders announcing its financial results for the quarter ended March\u00a031, 2022.\nA copy of the Blog Post is furnished as Exhibit\u00a099.1 to this Current Report on Form\u00a08-K."
+            },
+            "30": {
+              "text": "Coinbase\nannounces material information to its investors using filings with the Securities and Exchange Commission, the Company\u2019s website\nat www.coinbase.com and blog.coinbase.com, as well as press releases, public conference calls, public webcasts, its Twitter feed (@coinbase),\nits Facebook page, its LinkedIn page, its YouTube channel, and Brian Armstrong\u2019s Twitter feed (@brian_armstrong). Therefore, Coinbase\nencourages investors, the media and others interested in the Company to review the information it makes public in these locations, as\nsuch information could be deemed to be material information."
+            },
+            "31": {
+              "text": "The information in Item 7.01\nof this Current Report on Form\u00a08-K, including Exhibit\u00a099.1, is being furnished and shall not be deemed \u201cfiled\u201d for\nthe purposes of Section\u00a018 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject\nto the liability of such section or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange\nAct, except as shall be expressly set forth by specific reference in such a filing."
+            }
+          }
+        }
+      }
+    },
+    "32": {
+      "title": "Item 9.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "33": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "34": {
+              "table": [
+                [
+                  "Exhibit\n\n    No.",
+                  "Description"
+                ],
+                [
+                  "99.1",
+                  "Blog Post, dated May\u00a016, 2022."
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "35": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "36": {
+          "text": "Pursuant to the requirements of the Securities\nExchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly\nauthorized."
+        },
+        "37": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL,\u00a0INC.",
+              "COINBASE GLOBAL,\u00a0INC."
+            ],
+            [
+              "Date: May\u00a017, 2022",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

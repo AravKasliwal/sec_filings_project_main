@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): September 14, 2023",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "ny20010326x4_8kimg01.jpg",
+                    "alt": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware\n\n          (State or other jurisdiction of incorporation)",
+                      "1-33409\n\n          (Commission\n\n              File Number)",
+                      "1-33409\n\n          (Commission\n\n              File Number)",
+                      "20-0836269\n\n          (IRS Employer\n\n              Identification No.)"
+                    ],
+                    [
+                      "12920 SE 38th Street\n\n            Bellevue, Washington\n\n            (Address of principal executive offices)",
+                      "12920 SE 38th Street\n\n            Bellevue, Washington\n\n            (Address of principal executive offices)",
+                      "98006-1350\n\n            (Zip Code)",
+                      "98006-1350\n\n            (Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s telephone number, including area code: (425)\n      378-4000",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "14": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:"
+                },
+                "15": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "16": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "17": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d- 2(b))"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e- 4(c))"
+                },
+                "19": {
+                  "text": "Securities registered pursuant to Section\u00a012(b) of the Act:"
+                },
+                "20": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading Symbol",
+                      "Name of each exchange on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "21": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities\n    Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "22": {
+                  "text": "Emerging growth company \u2610"
+                },
+                "23": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting\n    standards provided pursuant to Section 13(a) of the Exchange Act. \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "title": "Item 8.01. Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "25": {
+          "text": "On September 14, 2023, T-Mobile USA, Inc. (\u201cT-Mobile USA\u201d), a direct, wholly-owned subsidiary of T-Mobile US, Inc. (the \u201cCompany\u201d),\n    closed an underwritten public offering of $1.0 billion in aggregate principal amount of its 5.750% Senior Notes due 2034 (the \u201c2034 Notes\u201d) and $1.0 billion in aggregate principal amount of its 6.000% Senior Notes due 2054 (the \u201c2054 Notes\u201d\n    and, together with the 2034 Notes, the \u201cNotes\u201d) pursuant to an underwriting agreement, dated as of September 11, 2023 (the \u201cUnderwriting Agreement\u201d), with the several underwriters named therein, for which Citigroup Global Markets Inc.,\n    Morgan Stanley & Co. LLC, RBC Capital Markets, LLC and Wells Fargo Securities, LLC acted as representatives. The Notes were issued pursuant to an Indenture (the \u201cBase Indenture\u201d), dated as of September 15, 2022, among T-Mobile USA, the\n    Company and Deutsche Bank Trust Company Americas, as trustee (the \u201cTrustee\u201d), as amended and supplemented by (i) a Tenth Supplemental Indenture, dated as of September 14, 2023 (the \u201cTenth Supplemental Indenture\u201d), among T-Mobile USA, the\n    Company, the other guarantors party thereto and the Trustee, with respect to the 2034 Notes and (ii) an Eleventh Supplemental Indenture, dated as of September 14, 2023 (the \u201cEleventh Supplemental Indenture\u201d), among T-Mobile USA, the Company, the\n    other guarantors party thereto and the Trustee, with respect to the 2054 Notes (the Base Indenture, as amended and supplemented by each of the Tenth Supplemental Indenture and the Eleventh Supplemental Indenture, each an \u201cIndenture\u201d and,\n    collectively, the \u201cIndentures\u201d). The offering of the Notes was registered pursuant to an automatic shelf registration statement on Form S-3 that the Company, T-Mobile USA and certain guarantors filed with the SEC on May 1, 2023, as amended (File\n    No. 333-271553)."
+        },
+        "26": {
+          "text": "The net proceeds from the sale of the Notes are expected to be used for general corporate purposes, which may include among other things, share\n    repurchases, any dividends declared by the Company\u2019s Board of Directors and refinancing of existing indebtedness on an ongoing basis."
+        },
+        "27": {
+          "text": "T-Mobile USA\u2019s obligations under the Notes will be guaranteed on a senior unsecured basis initially by the Company and certain wholly-owned\n    subsidiaries, subject to release under the conditions provided in the Indenture."
+        },
+        "28": {
+          "text": "The above description of the Underwriting Agreement and the Indentures is a summary only and is subject to, and qualified entirely by, the\n    Underwriting Agreement, the Base Indenture, the Tenth Supplemental Indenture and the Eleventh Supplemental Indenture, which are filed or incorporated by reference as Exhibits 1.1, 4.1, 4.2 and 4.3, respectively, to this Current Report on Form 8-K."
+        }
+      }
+    },
+    "29": {
+      "title": "Item 9.01.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "text": "The following exhibits are provided as part of this Current Report on Form 8-K:"
+            },
+            "32": {
+              "text": "(d) Exhibits:"
+            },
+            "33": {
+              "table": [
+                [
+                  "Exhibit No.",
+                  "Description"
+                ],
+                [
+                  "1.1",
+                  "Underwriting Agreement, dated September 11, 2023, among T-Mobile USA, Inc., T-Mobile US, Inc., the other guarantors party thereto and the several underwriters named in Schedule 1 thereto for which Citigroup Global Markets Inc., Morgan Stanley\n          & Co. LLC, RBC Capital Markets, LLC and Wells Fargo Securities, LLC acted as representatives."
+                ],
+                [
+                  "4.1",
+                  "Indenture, dated as of September 15, 2022 by and among T-Mobile USA, Inc., the Company and Deutsche Bank Trust Company Americas, as trustee (incorporated by reference to Exhibit 4.1 to the Company\u2019s Current Report on Form 8-K filed on September\n          15, 2022)."
+                ],
+                [
+                  "4.2",
+                  "Tenth Supplemental Indenture, dated as of September 14, 2023, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 5.750% Senior Note due 2034."
+                ],
+                [
+                  "4.3",
+                  "Eleventh Supplemental Indenture, dated as of September 14, 2023, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 6.000% Senior Note due 2054."
+                ],
+                [
+                  "5.1",
+                  "Opinion of Fried, Frank, Harris, Shriver & Jacobson LLP."
+                ],
+                [
+                  "5.2",
+                  "Opinion of Polsinelli PC."
+                ],
+                [
+                  "23.1",
+                  "Consent of Fried, Frank, Harris, Shriver & Jacobson LLP (included in Exhibit 5.1)."
+                ],
+                [
+                  "23.2",
+                  "Consent of Polsinelli PC (included in Exhibit 5.2)."
+                ],
+                [
+                  "99.1",
+                  "Press release entitled \u201cT-Mobile Announces Proposed Public Offering of Senior Notes.\u201d"
+                ],
+                [
+                  "99.2",
+                  "Press release entitled \u201cT-Mobile Agrees to Sell $2.0 Billion of Senior Notes.\u201d"
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "35": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of\n    1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "36": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "September 14, 2023",
+              "/s/ Peter Osvaldik",
+              "/s/ Peter Osvaldik"
+            ],
+            [
+              "",
+              "Name:",
+              "Peter Osvaldik"
+            ],
+            [
+              "",
+              "Title:",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

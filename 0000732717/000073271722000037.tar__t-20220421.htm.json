@@ -1,0 +1,573 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of report (Date of earliest event reported) April 21, 2022",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "textsmall": "______________________________________________________"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "12": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "______________________________________________________"
+                },
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "75202\n(Zip Code)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "\u2610",
+                      "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    ],
+                    [
+                      "\u2610",
+                      "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                    ]
+                  ]
+                }
+              }
+            },
+            "16": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "18": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "20": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "title": "Item 8.01  Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "23": {
+          "text": "Throughout this document, AT&T Inc. is referred to as \u201cwe\u201d or \u201cAT&T.\u201d AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications, media and technology industries."
+        },
+        "24": {
+          "title": "Overview",
+          "class": "predicted header",
+          "contents": {
+            "25": {
+              "text": "We announced on April\u00a021, 2022 that first-quarter 2022 net income attributable to common stock totaled $4.8 billion, or $0.65 per diluted share. First-quarter 2022 income per diluted share included amounts totaling to $(961) million (pre-tax), or $(0.12) per share, resulting from the following significant items: $(0.10) per share for the amortization of merger-related intangible assets, $(0.04) per share of transaction costs, $(0.04) per share from our proportionate share of DIRECTV intangible amortization, $(0.05) per share of other charges, including the impact from the adoption of Accounting Standards Update (ASU) No. 2020-06 (ASU 2020-06), partially offset by an actuarial gain on remeasurement of our pension benefit plan assets and obligations of $0.11. These results compare with a reported net income attributable to common stock of $7.5 billion, or $1.02 per diluted share, in the first quarter of 2021, which reflects our retrospective adoption of ASU 2020-06."
+            },
+            "26": {
+              "text": "Operating revenues in the first quarter of 2022 were $38.1 billion, down 13.3 percent from the first quarter of 2021, reflecting the impact of our divested Video and Vrio businesses, which were sold in the third and fourth quarter of 2021, respectively, and lower Business Wireline revenues. The declines were partially offset by higher Mobility, and, to a lesser extent, increased WarnerMedia, Consumer Wireline and Mexico revenues."
+            },
+            "27": {
+              "text": "Operating expenses in the first quarter of 2022 were $32.5 billion, down 10.5 percent, driven by impacts from divested businesses. Expenses in the quarter reflect updates to the expected economic lives of customer relationships, which extended the amortization period of deferred acquisition and fulfillment costs and reduced expenses approximately $135 million, with approximately $60 million recorded to Mobility, $35 million to Business Wireline and $40 million to Consumer Wireline. Effective January 1, 2022, we also extended the estimated economic lives and depreciation period of AT&T owned fiber assets, which decreased depreciation expense approximately $70 million. Partially offsetting the decreases were higher wireless equipment costs, including 3G network shutdown costs, and higher WarnerMedia programming, marketing and selling costs."
+            },
+            "28": {
+              "text": "Operating income in the first quarter was $5.6 billion compared to $7.7 billion in the comparable 2021 period, and AT&T\u2019s first-quarter operating income margin was 14.8 percent, compared to 17.4 percent in the comparable 2021 period."
+            },
+            "29": {
+              "text": "Cash from operating activities in the first quarter of 2022 was $5.7 billion, down $4.2 billion when compared to 2021, reflecting lower receivable securitization, increased cash spend for content and higher bonus payouts. Total cash paid for WarnerMedia's content investment in the first quarter of 2022 was $5.1 billion ($0.6 billion higher than the prior-year comparable period). Capital expenditures in the first quarter of 2022 were $4.7 billion, and when including $1.6 billion cash paid for vendor financing, capital investment was $6.3 billion, compared to prior-year first quarter capital investment of $5.7 billion (capital expenditures of $4.0 billion and vendor financing of $1.7 billion)."
+            }
+          }
+        },
+        "30": {
+          "title": "Segment Summary",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "text": "We analyze our segments based on, among other things, segment contribution, which consists of operating income, excluding acquisition-related costs and other significant items, and equity in net income (loss) of affiliates for investments managed within each segment. Our reportable segments are: Communications, WarnerMedia and Latin America."
+            },
+            "32": {
+              "text": "For the quarter ended March 31, 2022, to conform with the current period presentation, we have reclassified into \"Corporate\" certain administrative costs borne by AT&T where the business units do not influence decision making. This recast increased Corporate operations and support expenses by approximately $100 million in the first quarter of 2021 (full-year 2021 increase of $270 million). Correspondingly, this recast lowered administrative expenses at AT&T's Communications operations, Video and WarnerMedia with no change on a consolidated basis."
+            }
+          }
+        },
+        "33": {
+          "title": "Communications",
+          "class": "predicted header",
+          "contents": {
+            "34": {
+              "text": "Our Communications segment consists of our Mobility, Business Wireline and Consumer Wireline business units."
+            },
+            "35": {
+              "text": "First-quarter 2022 operating revenues were $28.9 billion, up 2.5 percent versus first-quarter 2021, with segment operating contribution of $7.0 billion, down 5.4 percent versus the year-ago quarter. The Communications segment operating income margin was 24.3 percent, compared to 26.4 percent in the year-earlier quarter."
+            },
+            "36": {
+              "title": "1",
+              "class": "predicted header",
+              "contents": {
+                "37": {
+                  "title": "Mobility",
+                  "class": "predicted header",
+                  "contents": {
+                    "38": {
+                      "text": "Mobility revenues for the first quarter of 2022 were $20.1 billion, up 5.5 percent versus the first quarter of 2021, driven by service revenue growth from subscriber gains, and equipment revenue growth from higher priced smartphone sales. Mobility operating expenses totaled $14.2 billion, up 9.5 percent versus the first quarter of 2021 due to increased equipment costs, including 3G network shutdown costs, higher costs associated with bundling HBO Max and the elimination of CAF II government credits. Mobility\u2019s operating income margin was 29.2 percent compared to 31.8 percent in the year-ago quarter."
+                    },
+                    "39": {
+                      "text": "In our Mobility business unit, during the first quarter of 2022, we reported a net gain of 5.5 million wireless subscribers. At March\u00a031, 2022, wireless subscribers totaled 196.6 million (including approximately 3.3 million FirstNet connections) compared to 186.1 million at March\u00a031, 2021. Wireless subscribers at March 31, 2022, include a reduction of 10.7 million subscribers and connections (899,000 postpaid, including 438,000 phones, 234,000 prepaid, 749,000 reseller and 8.8 million connected devices) resulting from our 3G network shutdown in February 2022."
+                    },
+                    "40": {
+                      "text": "During the first quarter, total phone net adds (postpaid and prepaid) were 804,000 with total net adds by subscriber category as follows:"
+                    },
+                    "41": {
+                      "text": "\u2022Postpaid subscriber net adds were 965,000, with phone net adds of 691,000 and additions from wearables and non-tablet computing devices."
+                    },
+                    "42": {
+                      "text": "\u2022Prepaid subscriber net adds were 116,000, with phone net adds of 113,000."
+                    },
+                    "43": {
+                      "text": "\u2022Reseller net losses were 17,000."
+                    },
+                    "44": {
+                      "text": "\u2022Connected device net adds were 4.5 million, 1.5 million of which were primarily attributable to wholesale connected cars."
+                    },
+                    "45": {
+                      "text": "For the quarter ended March\u00a031, 2022, postpaid phone-only ARPU decreased 0.2 percent versus the year-earlier quarter."
+                    },
+                    "46": {
+                      "text": "Postpaid phone-only churn was 0.79 percent compared to 0.76 percent in the first quarter of 2021. Total postpaid churn was 0.94 percent compared to 0.93 percent in the year-ago quarter."
+                    }
+                  }
+                },
+                "47": {
+                  "title": "Business Wireline",
+                  "class": "predicted header",
+                  "contents": {
+                    "48": {
+                      "text": "Business Wireline revenues for the first quarter of 2022 were $5.6 billion, down 6.7 percent versus the year-ago quarter, primarily due to lower demand for legacy voice and data services and a strategic decision to deemphasize non-core services. Business Wireline operating expenses totaled $4.8 billion, down 3.7 percent when compared to the first quarter of 2021 due to ongoing operational cost efficiencies and lower amortization of deferred fulfillment costs, partially offset by higher depreciation expense. Business Wireline operating income margin was 15.2 percent compared to 17.9 percent in the year-earlier quarter."
+                    }
+                  }
+                },
+                "49": {
+                  "title": "Consumer Wireline",
+                  "class": "predicted header",
+                  "contents": {
+                    "50": {
+                      "text": "Consumer Wireline revenues for the first quarter of 2022 were $3.2 billion, up 2.0 percent versus the year-ago quarter, driven by growth in broadband revenues attributable to fiber growth, partially offset by declines in legacy voice and data services. Consumer Wireline operating expenses totaled $2.8 billion, up 1.9 percent versus the first quarter of 2021, largely driven by higher advertising costs and the elimination of CAF II government credits. These expense increases were partially offset by lower amortization of deferred fulfillment costs. Consumer Wireline operating income margin was 10.0 percent compared to 9.9 percent in the year-earlier quarter."
+                    },
+                    "51": {
+                      "text": "At March\u00a031, 2022, Consumer Wireline had approximately 13.9\u00a0million broadband connections compared to 13.8\u00a0million at March\u00a031, 2021. During the first quarter, broadband subscriber net adds were 5,000, with fiber broadband net adds of 289,000. Total broadband and DSL connection were 14.1\u00a0million at March\u00a031, 2022, compared to 14.1\u00a0million at March\u00a031, 2021."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "52": {
+          "title": "WarnerMedia",
+          "class": "predicted header",
+          "contents": {
+            "53": {
+              "text": "WarnerMedia revenues for the first quarter of 2022 were $8.7 billion, up 2.5 percent versus the year-ago quarter, driven by increased subscription revenues and higher content and other revenues, partially offset by lower advertising revenues. Subscription revenues increased primarily due to growth of HBO Max subscribers. Content and other revenues increased driven by higher theatrical revenues, with higher HBO Max licensing, partially offset by lower TV licensing. Advertising revenues declined from lower linear audiences and lower political ad spending, partially offset by higher sports."
+            },
+            "54": {
+              "text": "WarnerMedia operating expenses totaled $7.4 billion, up 13.0 percent when compared to the first quarter of 2021, driven by higher marketing costs, programming costs, and incremental selling costs associated with DIRECTV advertising revenue sharing arrangements."
+            },
+            "55": {
+              "text": "WarnerMedia segment operating contribution was $1.3 billion, down 35.7 percent. The WarnerMedia segment operating income margin was 15.1 percent, compared to 23.0 percent in the year-earlier quarter."
+            },
+            "56": {
+              "title": "2",
+              "class": "predicted header"
+            }
+          }
+        },
+        "57": {
+          "title": "Latin America",
+          "class": "predicted header",
+          "contents": {
+            "58": {
+              "text": "Our Latin America segment consists of our Mexico business unit, and prior to the November 2021 disposition of Vrio, our Vrio business unit, and is subject to foreign currency fluctuations."
+            },
+            "59": {
+              "text": "First-quarter 2022 operating revenues were $0.7 billion, down 49.8 percent versus the prior year, reflecting the sale of Vrio in the fourth quarter of 2021. Segment operating contribution was $(102) million, versus $(173) million in the comparable 2021 period. The Latin America operating income margin was (14.8) percent, compared to (12.3) percent in the year-earlier quarter."
+            },
+            "60": {
+              "title": "Mexico",
+              "class": "predicted header",
+              "contents": {
+                "61": {
+                  "text": "Revenues were $690 million, up 9.4 percent when compared to the first quarter of 2021, primarily due to increased service revenues driven by growth in other services and the subscriber base. Operating expenses were $792 million, up 3.5 percent, driven by increased depreciation expense from higher in-service assets and equipment costs from customer growth. Mexico\u2019s operating income margin was (14.8) percent, compared to (21.2) percent in the year-earlier quarter."
+                },
+                "62": {
+                  "text": "We had approximately 20.5 million Mexico wireless subscribers at March\u00a031, 2022 compared to 19.0 million at March\u00a031, 2021. During the first quarter of 2022, we had postpaid net adds of 3,000 and prepaid net adds of 178,000."
+                }
+              }
+            }
+          }
+        },
+        "63": {
+          "title": "Subsequent Event",
+          "class": "predicted header",
+          "contents": {
+            "64": {
+              "text": "On April 8, 2022, we completed the separation of our WarnerMedia business in a Reverse Morris Trust transaction, under which Magallanes, Inc., which held the WarnerMedia business (Spinco), was distributed to AT&T stockholders via a pro rata dividend, followed by the combination of Spinco with a subsidiary of Discovery, Inc., which was renamed Warner Bros. Discovery, Inc. (WBD). Each AT&T shareholder was entitled to receive 0.241917 shares of WBD common stock for each share of AT&T common stock held as of the record date."
+            },
+            "65": {
+              "text": "With the separation and distribution of WarnerMedia, the WarnerMedia business will meet the criteria for discontinued operations for our second-quarter 2022 reporting. For discontinued operations, we evaluated transactions completed during 2021 that were components of AT&T\u2019s single plan of a strategic shift, including dispositions that may not have individually met the criteria due to materiality, and have determined discontinued operations to be comprised of the WarnerMedia, Vrio, Xandr and Playdemic Ltd. transactions. Beginning with the second quarter of 2022, the transactions will be reflected in our historical financial statements as discontinued operations."
+            },
+            "66": {
+              "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+              "class": "predicted header",
+              "contents": {
+                "67": {
+                  "text": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and uncertainties. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on new information or otherwise."
+                }
+              }
+            },
+            "68": {
+              "title": "3",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "69": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "70": {
+          "text": "The following exhibits are furnished as part of this report:"
+        },
+        "71": {
+          "table": [
+            [
+              "(d)",
+              "Exhibits",
+              "Exhibits"
+            ],
+            [
+              "",
+              "99.1",
+              "AT&T Inc. selected financial statements and operating data."
+            ],
+            [
+              "",
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        },
+        "72": {
+          "title": "4",
+          "class": "predicted header"
+        }
+      }
+    },
+    "73": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "74": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "75": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: April\u00a021, 2022",
+              "By: /s/ Debra L. Dial\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Debra L. Dial\n\u00a0Senior Vice President and Controller"
+            ]
+          ]
+        },
+        "76": {
+          "title": "5",
+          "class": "predicted header"
+        }
+      }
+    }
+  }
+}

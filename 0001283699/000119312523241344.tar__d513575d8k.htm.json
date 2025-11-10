@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): September 25, 2023",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g513575g0923053444208.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "16": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\nSymbol",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Common Stock, par value $0.00001 per share",
+                              "TMUS",
+                              "The NASDAQ Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "27": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act. \u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u20098.01 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "On September\u00a025, 2023, the Board of Directors (the \u201cBoard\u201d) of T-Mobile US, Inc. (the \u201cCompany\u201d) declared a cash dividend of $0.65 per share on its issued and outstanding shares of common stock. The dividend is payable on December\u00a015, 2023 to stockholders of record as of the close of business on December\u00a01, 2023.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "This is the first quarterly cash dividend declared by the Company following the Board approval in early September 2023 of a shareholder return program of up to $19.0\u00a0billion that will run through December\u00a031, 2024, consisting of share repurchases and cash dividends. As previously communicated, the Company intends to declare and pay approximately $3.0\u00a0billion in dividends in 2024, with payments occurring each quarter during the year. The dividend amount paid per share is expected to grow by around 10% annually. The amount available under the shareholder return program for share repurchases will be reduced by the amount of cash dividends declared and paid by the Company, including the December 2023 dividend.",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "In accordance with the terms of the February 2020 Letter Agreement (the \u201cLetter Agreement\u201d) among the Company, Deutsche Telekom AG and SoftBank Group Corp. (\u201cSoftBank\u201d), filed as Exhibit 10.15 to the Company\u2019s Annual Report on Form 10-K for the fiscal year ended December\u00a031, 2022, the threshold price that would trigger the issuance of an additional 48,751,557\u00a0shares of T-Mobile common stock to SoftBank is subject to downward adjustment by the per share amount of any cash dividends or other cash distributions declared or paid on the Company\u2019s common stock during the measurement period set forth in the Letter Agreement. As a result of the declaration of the December 2023 dividend, the threshold price under the Letter Agreement was adjusted to $149.35 as of the declaration date. It will automatically further adjust upon the declaration of any future cash dividends by the Company.",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "title": "This communication contains certain forward-looking statements concerning the Company\u2019s expectations with respect to its shareholder return program and the declaration and payment of any dividends thereunder. All statements other than statements of fact, including information concerning future results, are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate,\u201d \u201cexpect,\u201d \u201cinitiative,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201cpresent,\u201d \u201ccould\u201d or similar expressions. Such forward-looking statements include, but are not limited to, statements about T-Mobile\u2019s objectives, expectations and intentions with respect to the payment of dividends under the Company\u2019s shareholder return program. There are several factors which could cause actual plans and results to differ materially from those expressed or implied in forward-looking statements. Such factors include, but are not limited to, general market conditions, access to credit or debt capital markets, applicable securities laws and alternative uses of capital, Company performance, and other risks and uncertainties detailed in T-Mobile\u2019s Annual Report on Form 10-K for the fiscal year ended December\u00a031, 2022, including in the sections thereof captioned \u201cRisk Factors\u201d and \u201cCautionary Statement Regarding Forward-Looking Statements,\u201d as well as in its subsequent reports on Form 8-K and Form 10-Q, all of which are filed with the SEC and available at www.sec.gov and www.t-mobile.com. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to differ materially from those expressed in or implied by such forward-looking statements. Given these risks and uncertainties, persons reading this communication are cautioned not to place undue reliance on such forward-looking statements. T-Mobile assumes no obligation to update or revise the information contained in this communication (whether as a result of new information, future events or otherwise), except as required by applicable law. References to our and the SEC\u2019s website are inactive textual references only. Information contained on our and the SEC\u2019s website is not incorporated by reference in this Report and should not be considered to be a part of this Report.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "36": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "37": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "38": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "September\u00a025, 2023",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik\n Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

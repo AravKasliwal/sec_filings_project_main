@@ -1,0 +1,447 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C.\u00a0 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d) of the",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): June 15, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "logo_tmobile.jpg",
+                    "alt": "graphic"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware\n\n          \n\n          (State or other jurisdiction of \n\n          incorporation or organization)",
+                      "1-33409\n\n          \n\n          (Commission\n\n          File Number)",
+                      "1-33409\n\n          \n\n          (Commission\n\n          File Number)",
+                      "20-0836269\n\n          \n\n          (I.R.S. Employer\n\n          Identification No.)"
+                    ],
+                    [
+                      "12920 SE 38th Street\n\n          \n\n          Bellevue, Washington\n\n          (Address of principal executive offices)",
+                      "12920 SE 38th Street\n\n          \n\n          Bellevue, Washington\n\n          (Address of principal executive offices)",
+                      "98006-1350\n\n          \n\n          (Zip Code)",
+                      "98006-1350\n\n          \n\n          (Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header"
+            },
+            "13": {
+              "title": "(Former Name or Former Address, if Changed Since Last Report):",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following\n    provisions:"
+                },
+                "15": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Written communications\n      pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "16": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Soliciting material\n      pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "17": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pre-commencement\n      communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02(b))"
+                },
+                "18": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pre-commencement\n      communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a04(c))"
+                },
+                "19": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "20": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n          Symbol",
+                      "Name of each exchange\n\n          on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "21": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter) or\n    Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter)."
+                },
+                "22": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "23": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or\n    revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "title": "Item 2.06.",
+      "standardized_title": "item2.06",
+      "class": "item",
+      "contents": {
+        "25": {
+          "title": "Material Impairments.",
+          "class": "predicted header",
+          "contents": {
+            "26": {
+              "text": "As previously reported, on April 1, 2020, T-Mobile US, Inc. (\u201cT-Mobile,\u201d \u201cwe\u201d or\u00a0 \u201cus\u201d) completed its merger (the \u201cMerger\u201d) with Sprint\n    Corporation (\u201cSprint\u201d), pursuant to that certain Business Combination Agreement, dated as of April 29, 2018, by and among T-Mobile, Sprint and the\n      other parties thereto.\u00a0 In connection with the continuing integration of the businesses of T-Mobile and Sprint, T-Mobile concluded on June 16, 2020 that it will be required to recognize impairment charges relating to the U2 Postpaid Impairment\n    and Layer3 Goodwill Impairment, discussed below.\u00a0 T-Mobile estimates that these impairments will result in non-cash impairment charges of $418 million in the quarter ending June 30, 2020. These non-cash impairment charges are preliminary, unaudited,\n    and subject to change pending completion of our quarter-end closing review procedures."
+            },
+            "27": {
+              "title": "U2 Postpaid Impairment",
+              "class": "predicted header",
+              "contents": {
+                "28": {
+                  "text": "In connection with the Merger, we are evaluating the long-term billing system architecture strategy for our postpaid customers.\u00a0 In order to\n    facilitate customer migration from the Sprint legacy billing platform, our postpaid billing system replacement plan and associated development will no longer serve our future needs.\u00a0 As a result, we anticipate a non-cash impairment of $200 million (the\n    \u201cU2 Postpaid Impairment\u201d), related to capitalized software development costs, for the quarter ended June 30, 2020.\u00a0 Any impairment would impact Net Income but would be excluded from Adjusted EBITDA."
+                }
+              }
+            },
+            "29": {
+              "title": "Layer3 Goodwill Impairment",
+              "class": "predicted header",
+              "contents": {
+                "30": {
+                  "text": "We expect our significantly enhanced spectrum position will allow us to accelerate our in-home broadband internet service strategy.\u00a0 The\n    enhanced in-home broadband opportunity, along with the acquisition of certain content rights has created a strategic shift in our TVisionTM Home service offering to developing a video product which will be complementary to the in-home\n    broadband offering and which we believe is necessary to enable higher penetration into the in-home broadband market.\u00a0 We believe the strategic shift will allow for greater competition and customer value by offering a more complete product suite for\n    these customers.\u00a0 As a result of the change in the stand-alone product offering plans and timing, we are completing an interim goodwill impairment analysis for the stand-alone Layer3 reporting unit.\u00a0 We anticipate the analysis will result in a non-cash\n    impairment in the Layer3 reporting unit goodwill of $218 million (the \u201cLayer3 Goodwill Impairment\u201d) for the quarter ended June 30, 2020.\u00a0 Any impairment would impact Net Income but would be excluded from Adjusted EBITDA."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Item 5.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "32": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory\n                Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "text": "On June 15, 2020, the Board of Directors (the \u201cBoard\u201d) of T-Mobile appointed Peter Osvaldik, who currently serves as Senior Vice President,\n    Finance and Chief Accounting Officer of T-Mobile, to Executive Vice President and Chief Financial Officer (\u201cCFO\u201d) of T-Mobile, effective as of July 1, 2020, replacing J. Braxton Carter, who will retire from his position as Executive Vice President and\n    CFO of T-Mobile, effective as of July 1, 2020. To facilitate a smooth transition, Mr. Carter will provide certain consulting services to T-Mobile for a period of up to six months following his retirement. Also on June 15, 2020, the Board appointed Dara\n    Bazzano as Senior Vice President and Chief Accounting Officer (\u201cCAO\u201d) of T-Mobile, effective as of July 20, 2020. Mr. Osvaldik will continue to serve as the principal accounting officer of T-Mobile until July 20, 2020."
+            },
+            "34": {
+              "text": "Mr. Osvaldik, age 43, has served as Senior Vice President and Chief Accounting Officer for T-Mobile since June 20, 2016. Previously, Mr.\n    Osvaldik served as Vice President, External Reporting & Technical Accounting of T-Mobile from January 2016 to June 2016. From May 2014 to December 2015, he served as Chief Accounting Officer at Outerwall Inc. (formerly known as Coinstar, Inc.), a\n    provider of automated retail solutions, including movie and video game rental kiosks as well as coin-counting kiosks. Prior to that, he served in various other capacities at Outerwall, Inc. Prior to joining Outerwall, Mr. Osvaldik was a Senior Manager\n    at PricewaterhouseCoopers LLP (\u201cPwC\u201d), a national public accounting firm. Mr. Osvaldik received a Bachelor\u2019s degree in Accounting and Biochemistry from Western Washington University."
+            },
+            "35": {
+              "text": "Ms. Bazzano, age 52, previously served as Chief Accounting Officer at CBRE Group, Inc. (\u201cCBRE\u201d), the world\u2019s largest commercial real estate\n    services and investment firm, from May 2018 to June 2020, and as Senior Vice President, Global Finance at CBRE from April 2018 to May 2018. Prior to joining CBRE, Ms. Bazzano served as Global Controller and Chief Accounting Officer at The Gap, Inc., a\n    leading global retailer offering clothing, accessories, and personal care products, from July 2013 to April 2018.\u00a0 Prior to that Ms. Bazzano served as an Assurance Partner at PwC and KPMG where she served numerous roles over 13 years. Ms. Bazzano\n    received a Bachelor\u2019s degree in Accounting from California State University, Sacramento."
+            },
+            "36": {
+              "text": "In addition, on June 15, 2020, the Compensation Committee (the \u201cCommittee\u201d) of the Board approved (i) new compensation terms for Mr. Osvaldik\n    (the \u201cOsvaldik Compensation\u201d) that will take effect upon his commencement as Executive Vice President and CFO, (ii) an offer of employment letter with Ms. Bazzano (the \u201cBazzano Offer Letter\u201d) that will govern the terms of Ms. Bazzano\u2019s service as\n    Senior Vice President and CAO of T-Mobile and (iii) the terms of\u00a0 a consulting agreement between Mr. Carter and T-Mobile (the \u201cCarter Consulting Agreement\u201d)\u00a0 pursuant to which Mr. Carter will provide consulting services to T-Mobile following his\n    retirement as Executive Vice President and CFO, for a period of three months, with an option by T-Mobile to extend the agreement for an additional three months until December 31, 2020."
+            },
+            "37": {
+              "text": "The material terms of the Osvaldik Compensation, the Bazzano Offer Letter and the Carter Consulting Agreement are described below."
+            },
+            "38": {
+              "title": "Osvaldik Compensation",
+              "class": "predicted header",
+              "contents": {
+                "39": {
+                  "text": "In connection with Mr. Osvaldik\u2019s appointment as Executive Vice President and CFO of T-Mobile, effective July 1, 2020, Mr. Osvaldik will\n    receive an annual base salary of $750,000 and an annual short-term incentive (\u201cSTI\u201d) award targeted at 150% of base salary. In addition, commencing with calendar year 2021, Mr. Osvaldik will be eligible for annual long-term incentive (\u201cLTI\u201d) awards\n    with an annual aggregate grant-date target value (as determined by the Committee) equal to 200% of base salary (or $3,750,000)."
+                },
+                "40": {
+                  "text": "In addition, in connection with Mr. Osvaldik\u2019s commencement as Executive Vice President and CFO, he will be granted a one-time award of\n    performance-based restricted stock units (the \u201cOsvaldik PRSUs\u201d) with an aggregate grant-date target value of $1,000,000. The Osvaldik PRSUs will be eligible to cliff-vest on the third anniversary of the grant date, based on T-Mobile\u2019s total shareholder\n    return relative to T-Mobile\u2019s peer group during the applicable performance period and subject to Mr. Osvaldik\u2019s continued employment through the vesting date (subject to accelerated vesting as provided in the applicable award agreement). In addition,\n    Mr. Osvaldik will receive a one-time cash payment of $600,000 upon his commencement as Executive Vice President and CFO."
+                }
+              }
+            },
+            "41": {
+              "title": "Bazzano Offer Letter",
+              "class": "predicted header",
+              "contents": {
+                "42": {
+                  "text": "The Bazzano Offer Letter provides that Ms. Bazzano will serve as T-Mobile\u2019s Senior Vice President and CAO, effective July 20, 2020. Pursuant\n    to the Bazzano Offer Letter, Ms. Bazzano is entitled to (i) an annual base salary equal to $490,000, (ii) commencing with calendar year 2020, an annual STI award targeted at 75% of her base salary, payable based on the attainment of pre-established\n    performance goals, (iii) employee benefits to the same extent and on the same terms as such benefits are provided generally by T-Mobile to similarly-situated executives, (iv) relocation assistance for the costs associated with Ms. Bazzano\u2019s move to the\n    Bellevue, Washington area in accordance with the terms of T-Mobile\u2019s Relocation Policy, and (v) commencing with calendar year 2021, annual LTI awards with an annual aggregate target grant-date value that is no less than 100% of the sum of her\n    then-current base salary and target STI."
+                },
+                "43": {
+                  "text": "Additionally, Ms. Bazzano will receive a one-time sign-on bonus in an amount equal to $100,000, payable within 30 days after her commencement\n    as Senior Vice President and CAO, subject to her continued employment through the payment date. If Ms. Bazzano voluntarily terminates employment with T-Mobile or is terminated by T-Mobile for cause within twelve months following July 20, 2020, Ms.\n    Bazzano will be required to repay the full amount of the sign-on bonus to T-Mobile."
+                },
+                "44": {
+                  "text": "In connection with Ms. Bazzano\u2019s commencement as Senior Vice President and CAO, Ms. Bazzano will be granted the following one-time LTI\n    awards:"
+                },
+                "45": {
+                  "text": "(i) a one-time award of restricted stock units (the \u201cSpecial RSUs\u201d) with respect to a number of shares of T-Mobile common stock equal to the\n    quotient of $800,000 divided by the average closing price of T-Mobile\u2019s common stock over the 30 calendar-day period ending five (5) business days prior to the grant date.\u00a0 One-third of the Special RSUs will vest on each of the first, second, and third\n    anniversaries of the grant date, subject to Ms. Bazzano\u2019s continued employment through the applicable vesting date (subject to accelerated vesting in accordance with the applicable award agreement); and"
+                },
+                "46": {
+                  "text": "(ii) a one-time award of performance-based restricted stock units (the \u201cSpecial PRSUs\u201d) with respect to a target number of shares of T-Mobile\n    common stock equal to the quotient of $800,000 divided by the average closing price of T-Mobile\u2019s common stock over the 30 calendar-day period ending five (5) business days prior to the grant date. The Special PRSUs will be eligible to cliff-vest on\n    the third anniversary of the grant date, based on T-Mobile\u2019s total shareholder return relative to T-Mobile\u2019s peer group during the applicable performance period and subject to Ms. Bazzano\u2019s continued employment through the vesting date (subject to\n    accelerated vesting as provided in the applicable award agreement)."
+                },
+                "47": {
+                  "text": "In addition, to the extent that any payment or benefit received by Ms. Bazzano pursuant to the Bazzano Offer Letter or otherwise would be\n    subject to an excise tax under Internal Revenue Code Section 4999, such payments and/or benefits will be subject to a \u201cbest pay cap\u201d reduction if such reduction would result in a greater net after-tax benefit to Ms. Bazzano than receiving the full\n    amount of such payments."
+                },
+                "48": {
+                  "title": "Carter Consulting Agreement",
+                  "class": "predicted header",
+                  "contents": {
+                    "49": {
+                      "text": "Pursuant to the Carter Consulting Agreement, Mr. Carter will provide consulting services to T-Mobile during the period beginning on July 1,\n    2020, the date on which he retires as Executive Vice President and CFO of T-Mobile, and ending on September 30, 2020, with the option by T-Mobile to extend the term for an additional three months. During the term of his consulting services, Mr. Carter\n    will be paid a consulting fee equal to $210,000 per month and provide no more than ten full or partial days of consulting services per month. If T-Mobile terminates the Carter Consulting Agreement (other than for cause) prior to September 30, 2020,\n    T-Mobile will pay to Mr. Carter, in connection with such termination, the aggregate amount of the monthly consulting fees that would have otherwise been paid through September 30, 2020. Additionally, Mr. Carter will remain eligible for continued\n    employee mobile service discounts during the term of the Carter Consulting Agreement and thereafter."
+                    },
+                    "50": {
+                      "text": "The foregoing description of the Carter Consulting Agreement is qualified in its entirety by the full text of the Carter Consulting\n    Agreement, a copy of which will be subsequently filed with the Securities and Exchange Commission."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "51": {
+      "title": "Item 7.01",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "52": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "53": {
+              "text": "On June 17, 2020, T-Mobile issued a press release announcing the appointment of Mr. Osvaldik as Executive Vice President and CFO, a copy of\n    which is attached hereto as Exhibit 99.1 and is incorporated herein by reference."
+            },
+            "54": {
+              "text": "The information contained in Item 7.01 and Exhibit 99.1, shall not be deemed \u201cfiled\u201d for purposes of Section 18 of the Securities Exchange\n    Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be\n    expressly set forth by specific reference in such a filing."
+            },
+            "55": {
+              "title": "Postpaid Net Customer Additions",
+              "class": "predicted header",
+              "contents": {
+                "56": {
+                  "title": "We also now expect total Postpaid net customer additions for Q2 2020 to be between 800,000 to 900,000, up from 0 to 150,000, reflecting a\n        faster recovery in retail than expected as well as new opportunities in T-Mobile for Business. The increase from our prior guidance is primarily driven by higher Postpaid other net additions.",
+                  "class": "predicted header"
+                },
+                "57": {
+                  "title": "Merger-Related Costs",
+                  "class": "predicted header",
+                  "contents": {
+                    "58": {
+                      "text": "As highlighted in T-Mobile\u2019s results of operations and financial condition as of and for the quarter ended March 31, 2020 and associated\n    earnings call, guidance for Merger-related costs for the quarter ending June 30, 2020 of $500 to $600 million before taxes excluded any incremental opportunities to accelerate synergy realization through a potential pull forward of additional spending\n    into the quarter ending June 30, 2020, such as severance related restructuring, store rationalization and network build expenses.\u00a0 We now expect an incremental $300 million before taxes in Merger-related costs related to identified opportunities to\n    accelerate synergy realization, primarily related to severance expense, for a total updated range of $800 to $900 million before taxes in Merger-related costs for the quarter ending June 30, 2020.\u00a0 These incremental expenses will impact Net Income but\n    will be excluded from Adjusted EBITDA."
+                    }
+                  }
+                },
+                "59": {
+                  "title": "COVID-19 Costs",
+                  "class": "predicted header",
+                  "contents": {
+                    "60": {
+                      "text": "Also highlighted in T-Mobile\u2019s results of operations and financial condition as of and for the quarter ended March 31, 2020 and associated\n    earnings call, guidance for COVID-19 costs for the quarter ending June 30, 2020 were expected to be $450 to $550 million before taxes. We now expect these costs to be in the range of $350 to $450 million before taxes. These costs are excluded from\n    Adjusted EBITDA but will impact Net income and cash flows."
+                    }
+                  }
+                }
+              }
+            },
+            "61": {
+              "title": "Revised Guidance Summary",
+              "class": "predicted header",
+              "contents": {
+                "62": {
+                  "text": "Including the elements discussed in Item 2.06 above, we expect the following updated before tax expenses for the quarter ending June 30,\n    2020, which will impact Net Income but will be excluded from Adjusted EBITDA:"
+                },
+                "63": {
+                  "text": "\u2022Merger-Related costs of $800 to $900 million before taxes;"
+                },
+                "64": {
+                  "text": "\u2022COVID-19 costs of $350 to $450 million before taxes; and"
+                },
+                "65": {
+                  "text": "\u2022Non-Cash Impairment related costs of $418 million before taxes.\u00a0 These non-cash impairment charges are preliminary, unaudited, and subject to change pending completion of\n            our quarter-end closing review procedures."
+                },
+                "66": {
+                  "title": "We also expect Postpaid net customer additions for Q2 2020 to be between 800,000 to 900,000, primarily driven by higher Postpaid other net\n      additions.",
+                  "class": "predicted header"
+                },
+                "67": {
+                  "title": "Other guidance elements for Q2 2020 remain unchanged.",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "68": {
+      "title": "Item 8.01.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "69": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "70": {
+              "title": "SOX Exemption",
+              "class": "predicted header",
+              "contents": {
+                "71": {
+                  "text": "In accordance with guidance issued by the Securities and Exchange Commission, registrants are permitted to exclude acquired businesses from\n    management\u2019s report on internal control over financial reporting for a period not to extend beyond one year from the date of acquisition or beyond more than one annual management report on internal control over financial reporting.\u00a0 T-Mobile is in the\n    process of assessing and integrating the internal control, compliance and operations over financial reporting of Sprint.\u00a0 Given the significance of the Sprint acquisition and complexity of its systems and business processes, we intend to exclude the\n    acquired Sprint business from our assessment and report on internal control over financial reporting for the year ending December 31, 2020."
+                }
+              }
+            },
+            "72": {
+              "title": "Unaudited Pro Forma Condensed Combined Financial Information",
+              "class": "predicted header",
+              "contents": {
+                "73": {
+                  "text": "Included in this Current Report on Form 8-K as Exhibit 99.2 are the unaudited pro forma condensed combined balance sheet as of March 31, 2020\n    and the unaudited pro forma condensed combined statement of operations for the three months ended March 31, 2020 and the year ended December 31, 2019, giving effect to the Merger and related transactions."
+                },
+                "74": {
+                  "text": "The pro forma financial information included in this Current Report on Form 8-K has been presented for informational purposes only.\u00a0 It\n    does not purport to represent the actual results of operations that T-Mobile and Sprint would have achieved had the companies been combined during the periods presented in the pro forma financial information and is not intended to project the future\n    results of operations that the combined company may achieve after the Merger.\u00a0 The financial statements of the combined company may reflect\n      significant differences due to final purchase price accounting, accounting policy alignment and other adjustments and assumptions.\u00a0 This unaudited pro forma condensed combined financial information should be read in conjunction with:"
+                },
+                "75": {
+                  "text": "\u2022the separate historical unaudited consolidated financial statements of T-Mobile as of and for the three months ended March 31, 2020, included in T-Mobile\u2019s Quarterly\n            Report on Form 10-Q filed on May 6, 2020;"
+                },
+                "76": {
+                  "text": "\u2022the separate historical audited consolidated financial statements of T-Mobile as of and for the year ended December 31, 2019, included in T-Mobile\u2019s Annual Report on Form\n            10-K filed on February 6, 2020;"
+                },
+                "77": {
+                  "text": "\u2022the separate historical unaudited consolidated financial statements of Sprint as of and for the nine months ended December 31, 2019, included in Sprint\u2019s Quarterly Report\n            on Form 10-Q filed on January 27, 2020; and"
+                },
+                "78": {
+                  "text": "\u2022the separate historical audited consolidated financial statements of Sprint as of and for the year ended March 31, 2020, included in the Current Report on Form 8-K filed\n            by T-Mobile US on May 18, 2020."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "79": {
+      "title": "Item 9.01.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "80": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "81": {
+              "text": "The following exhibits are provided as part of this Current Report on Form 8-K:"
+            },
+            "82": {
+              "text": "(d) Exhibits:"
+            },
+            "83": {
+              "table": [
+                [
+                  "Exhibit No.",
+                  "Description"
+                ],
+                [
+                  "99.1",
+                  "Press Release, dated June 17, 2020."
+                ],
+                [
+                  "99.2",
+                  "Unaudited pro forma condensed combined balance sheet of T-Mobile as of March 31, 2020, the unaudited pro forma condensed combined statement of\n            operations for the three months ended March 31, 2020 and the year ended December 31, 2019 and the notes thereto."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)"
+                ]
+              ]
+            }
+          }
+        },
+        "84": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "85": {
+              "text": "The information contained in this Current Report on Form 8-K includes forward-looking statements within the meaning of the Private Securities\n    Litigation Reform Act of 1995.\u00a0 All statements other than statements of historical fact, including information concerning T-Mobile US, Inc.\u2019s estimates as to impairment charges and severance and termination costs, and expectations regarding\n    management\u2019s report on internal control over financial reporting for the year ending December 31, 2020, are forward-looking statements.\u00a0 These forward-looking statements are generally identified by the words \u201canticipate\u201d, \u201cbelieve\u201d, \u201cestimate\u201d,\n    \u201cexpect\u201d, \u201cintend\u201d, \u201cmay\u201d, \u201ccould\u201d or similar expressions.\u00a0 Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties and may cause actual results to differ materially from the\n    forward-looking statements.\u00a0 Important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among others, the following: the failure to realize the\n    expected benefits and synergies of the merger with Sprint, pursuant to the Business Combination Agreement with Sprint and the other parties named therein (as amended, the \u201cBusiness Combination Agreement\u201d) and the other transactions contemplated by the\n    Business Combination Agreement (collectively, the \u201cTransactions\u201d) in the expected timeframes, in part or at all; adverse economic, political or market conditions in the U.S. and international markets, including those caused by the COVID-19 pandemic;\n    costs of or difficulties in integrating Sprint\u2019s network and operations into our network and operations, including intellectual property and communications systems, administrative and information technology infrastructure and accounting, financial\n    reporting and internal control systems; changes in key customers, suppliers, employees or other business relationships as a result of the consummation of the Transactions; our ability to make payments on debt or to repay existing or future indebtedness\n    when due or to comply with the covenants contained therein; adverse changes in the ratings of our debt securities or adverse conditions in the credit markets; the assumption of significant liabilities, including the liabilities of Sprint, in connection\n    with, and significant costs, including financing costs, related to, the Transactions; the risk of future material weaknesses resulting from the differences between T-Mobile\u2019s and Sprint\u2019s internal controls environments as we work to integrate and align\n    guidelines and practices; the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory approvals of the Transactions including costs or difficulties related to the completion of the divestiture of Sprint\u2019s\n    prepaid wireless businesses to DISH Network Corporation and the satisfaction of any related government commitments to such divestiture and any other commitments or undertakings that we have entered into; natural disasters, public health crises,\n    including the COVID-19 pandemic, terrorist attacks or similar incidents, and the impact that any of the foregoing may have on us and our customers and other stakeholders; competition, industry consolidation and changes in the market for wireless\n    services, which could negatively affect our ability to attract and retain customers; the effects of any future merger, investment, or acquisition involving us, as well as the effects of mergers, investments or acquisitions in the technology, media and\n    telecommunications industry; our business, investor confidence in our financial results and stock price may be adversely affected if our internal controls are not effective; the effects of the material weakness in Sprint\u2019s internal controls over\n    financial reporting or the identification of any additional material weaknesses as we complete our assessment of the Sprint control environment; breaches of our and/or our third-party vendors\u2019 networks, information technology and data security,\n    resulting in unauthorized access to customer confidential information; the inability to implement and maintain effective cyber-security measures over critical business systems; challenges in implementing our business strategies or funding our\n    operations, including payment for additional spectrum or network upgrades; the impact on our networks and business from major system and network failures; difficulties in managing growth in wireless data services, including network quality; material\n    changes in available technology and the effects of such changes, including product substitutions and deployment costs and performance; the timing, scope and financial impact of our deployment of advanced network and business technologies; the\n    occurrence of high fraud rates related to device financing, credit cards, dealers or subscriptions; our inability to retain and hire key personnel; any changes in the regulatory environments in which we operate, including any increase in restrictions\n    on the ability to operate our networks and changes in data privacy laws; unfavorable outcomes of existing or future litigation or regulatory actions, including litigation or regulatory actions related to the Transactions; the possibility that we may be\n    unable to adequately protect our intellectual property rights or be accused of infringing the intellectual property rights of others; changes in tax laws, regulations and existing standards and the resolution of disputes with any taxing jurisdictions;\n    the possibility that we may be unable to renew our spectrum licenses on attractive terms or acquire new spectrum licenses at reasonable costs and terms; any disruption or failure of our third parties\u2019 (including key suppliers\u2019) provisioning of products\n    or services; material adverse changes in labor matters, including labor campaigns, negotiations or additional organizing activity, and any resulting financial, operational and/or reputational impact; changes in accounting assumptions that regulatory\n    agencies, including the Securities and Exchange Commission, may require, which could result in an impact on earnings; ongoing purchase price accounting allocations, accounting policy alignments and other adjustments and assumptions; and interests of\n    our significant stockholders that may differ from the interests of other stockholders. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.\u00a0 We undertake no obligation to revise or\n    publicly release the results of any revision to these forward-looking statements, except as required by law."
+            }
+          }
+        }
+      }
+    },
+    "86": {
+      "title": "SIGNATURE",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "87": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by\n    the undersigned hereunto duly authorized."
+        },
+        "88": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "June 17, 2020",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "Name:",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "Title:",
+              "Executive Vice President and\n\n          Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

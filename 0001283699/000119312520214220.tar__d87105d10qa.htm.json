@@ -1,0 +1,1224 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header",
+          "contents": {
+            "2": {
+              "title": "Washington, D.C. 20549",
+              "class": "predicted header"
+            }
+          }
+        },
+        "3": {
+          "title": "FORM 10-Q",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "title": "(Amendment No.\u00a01)",
+              "class": "predicted header",
+              "contents": {
+                "5": {
+                  "title": "\u2612",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "6": {
+              "title": "QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "For the quarterly period ended June 30, 2020",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "or",
+              "class": "predicted header",
+              "contents": {
+                "9": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "10": {
+              "title": "TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934",
+              "class": "predicted header"
+            },
+            "11": {
+              "title": "For the transition period from",
+              "class": "predicted header"
+            },
+            "12": {
+              "title": "to",
+              "class": "predicted header"
+            },
+            "13": {
+              "title": "Commission File Number: 1-33409",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "image": {
+                    "src": "g87105g0807235928131.jpg",
+                    "alt": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "15": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "16": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\n\n\nincorporation or organization)",
+                      "(I.R.S. Employer\n\n\nIdentification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "18": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "20": {
+                      "textsmall": "(Address of principal executive offices)"
+                    }
+                  }
+                }
+              }
+            },
+            "21": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "22": {
+                  "textsmall": "(Zip Code)"
+                }
+              }
+            },
+            "23": {
+              "title": "(425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "24": {
+                  "textsmall": "(Registrant\u2019s telephone number, including area code)"
+                }
+              }
+            },
+            "25": {
+              "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+              "class": "predicted header",
+              "contents": {
+                "26": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n\nSymbol",
+                      "Name of each exchange\n\n\non which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "27": {
+                  "title": "Indicate by check mark whether the registrant (1)\u00a0has filed all reports required to be filed by Section\u00a013 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)\u00a0has been subject to such filing requirements for the past 90 days.\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T",
+                  "class": "predicted header"
+                },
+                "29": {
+                  "title": "(\u00a7232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "30": {
+                  "title": "Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated",
+                  "class": "predicted header"
+                },
+                "31": {
+                  "title": "filer, a smaller reporting company, or an emerging growth company. See the definitions of \u201clarge accelerated filer,\u201d \u201caccelerated filer,\u201d \u201csmaller reporting company,\u201d and \u201cemerging growth company\u201d in Rule 12b-2",
+                  "class": "predicted header"
+                },
+                "32": {
+                  "title": "of the Exchange Act.",
+                  "class": "predicted header",
+                  "contents": {
+                    "33": {
+                      "table": [
+                        [
+                          "Large accelerated filer",
+                          "\u2612",
+                          "Accelerated filer",
+                          "\u2610"
+                        ],
+                        [
+                          "Non-accelerated\n filer",
+                          "\u2610",
+                          "Smaller\u00a0reporting\u00a0company",
+                          "\u2610"
+                        ],
+                        [
+                          "",
+                          "",
+                          "Emerging growth company",
+                          "\u2610"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "34": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "35": {
+                  "title": "Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2",
+                  "class": "predicted header"
+                },
+                "36": {
+                  "title": "of the Exchange Act).\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2610\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2612",
+                  "class": "predicted header"
+                },
+                "37": {
+                  "title": "Indicate the number of shares outstanding of each of the issuer\u2019s classes of common stock, as of the latest practicable date.",
+                  "class": "predicted header",
+                  "contents": {
+                    "38": {
+                      "table": [
+                        [
+                          "Class",
+                          "Shares\u00a0Outstanding\u00a0as\u00a0of\u00a0August\u00a03,\u00a02020"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "1,237,808,926"
+                        ]
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "39": {
+          "title": "EXPLANATORY NOTE",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "title": "T-Mobile",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "US, Inc. (the \u201cCompany\u201d) is filing this Amendment No.\u00a01 on Form 10-Q",
+              "class": "predicted header"
+            },
+            "42": {
+              "title": "(this \u201cAmendment No.\u00a01\u201d) to amend the Company\u2019s Quarterly Report on Form 10-Q",
+              "class": "predicted header"
+            },
+            "43": {
+              "title": "for the quarterly period ended June\u00a030, 2020 (the \u201cForm 10-Q\u201d),",
+              "class": "predicted header"
+            },
+            "44": {
+              "title": "as originally filed with the Securities and Exchange Commission (the \u201cCommission\u201d) on August\u00a06, 2020 (the \u201cOriginal Filing Date\u201d). This Amendment No.\u00a01 is being filed solely to (a)\u00a0include Exhibits 10.1 through 10.33 in the Exhibit Index, which were inadvertently omitted from the Exhibit Index to the Form 10-Q,",
+              "class": "predicted header"
+            },
+            "45": {
+              "title": "(b)\u00a0re-file",
+              "class": "predicted header"
+            },
+            "46": {
+              "title": "Exhibits 4.7, 4.13, 4.19, 4.27, 4.36 and 22.1 (collectively, the \u201cRe-Filed",
+              "class": "predicted header"
+            },
+            "47": {
+              "title": "Exhibits\u201d) in order to correct minor formatting and other errors in the exhibits as originally filed due to file corruption discovered after filing the Form 10-Q",
+              "class": "predicted header"
+            },
+            "48": {
+              "title": "and (c)\u00a0file Exhibits 10.3 through 10.8, 10.13 through 10.15, 10.25 through 10.26, and 10.29 through 10.30, which were inadvertently omitted from the Form 10-Q",
+              "class": "predicted header"
+            },
+            "49": {
+              "title": "(collectively, the \u201cFiled Exhibits\u201d). Additionally, in connection with the filing of this Amendment No.\u00a01, the Company is including new certifications of the Company\u2019s chief executive officer and chief financial officer pursuant to Rule 13a-14(a)",
+              "class": "predicted header"
+            },
+            "50": {
+              "title": "of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d). The Company is not including new certifications pursuant to Section\u00a01350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350) as no financial statements are being filed with this Amendment No.\u00a01.",
+              "class": "predicted header"
+            },
+            "51": {
+              "title": "Except for the corrected Exhibit Index, the Re-Filed",
+              "class": "predicted header"
+            },
+            "52": {
+              "title": "Exhibits and the Filed Exhibits, this Amendment No.\u00a01 does not amend the Form 10-Q",
+              "class": "predicted header"
+            },
+            "53": {
+              "title": "in any way and does not modify or otherwise update any disclosures contained in the Form 10-Q,",
+              "class": "predicted header"
+            },
+            "54": {
+              "title": "which continues to speak as of the Original Filing Date (including, but not limited to, any forward-looking statements made in the Form 10-Q,",
+              "class": "predicted header"
+            },
+            "55": {
+              "title": "which have not been revised to reflect events that occurred or facts that became known after the date of the Form 10-Q,",
+              "class": "predicted header"
+            },
+            "56": {
+              "title": "and such forward-looking statements should be read in their historical context). Accordingly, this Amendment No.\u00a01 should be read in conjunction with the Form 10-Q",
+              "class": "predicted header"
+            },
+            "57": {
+              "title": "and the Company\u2019s other filings made with the Commission.",
+              "class": "predicted header"
+            },
+            "58": {
+              "title": "2",
+              "class": "predicted header"
+            }
+          }
+        },
+        "59": {
+          "title": "Item\u00a06. Exhibits",
+          "standardized_title": "item6",
+          "class": "item",
+          "contents": {
+            "60": {
+              "table": [
+                [
+                  "",
+                  "",
+                  "Incorporated by Reference",
+                  "Incorporated by Reference",
+                  "Incorporated by Reference",
+                  ""
+                ],
+                [
+                  "Exhibit\u00a0No.",
+                  "Exhibit Description",
+                  "Form",
+                  "Date\u00a0of\u00a0First\nFiling",
+                  "Exhibit\nNumber",
+                  "Filed\nHerein"
+                ],
+                [
+                  "2.1",
+                  "First Amendment, dated as of June\u00a017, 2020, to the Asset Purchase Agreement, dated as of July\u00a026, 2019, by and among T-Mobile US, Inc., Sprint Corporation and DISH Network Corporation.",
+                  "8-K",
+                  "6/17/2020",
+                  "2.1",
+                  ""
+                ],
+                [
+                  "3.1",
+                  "Fifth Amended and Restated Certificate of Incorporation of T-Mobile US, Inc.",
+                  "8-K",
+                  "4/1/2020",
+                  "3.1",
+                  ""
+                ],
+                [
+                  "3.2",
+                  "Seventh Amended and Restated Bylaws of T-Mobile US, Inc.",
+                  "8-K",
+                  "4/1/2020",
+                  "3.2",
+                  ""
+                ],
+                [
+                  "4.1",
+                  "Indenture, dated as of April\u00a09, 2020 by and among T-Mobile USA, Inc., the Company and Deutsche Bank Trust Company Americas, as trustee.",
+                  "8-K",
+                  "4/13/2020",
+                  "4.1",
+                  ""
+                ],
+                [
+                  "4.2",
+                  "First Supplemental Indenture, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 3.500% Senior Secured Note due 2025.",
+                  "8-K",
+                  "4/13/2020",
+                  "4.2",
+                  ""
+                ],
+                [
+                  "4.3",
+                  "Second Supplemental Indenture, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 3.750% Senior Secured Note due 2027.",
+                  "8-K",
+                  "4/13/2020",
+                  "4.3",
+                  ""
+                ],
+                [
+                  "4.4",
+                  "Third Supplemental Indenture, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 3.875% Senior Secured Note due 2030.",
+                  "8-K",
+                  "4/13/2020",
+                  "4.4",
+                  ""
+                ],
+                [
+                  "4.5",
+                  "Fourth Supplemental Indenture, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 4.375% Senior Secured Note due 2040.",
+                  "8-K",
+                  "4/13/2020",
+                  "4.5",
+                  ""
+                ],
+                [
+                  "4.6",
+                  "Fifth Supplemental Indenture, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 4.500% Senior Secured Note due 2050.",
+                  "8-K",
+                  "4/13/2020",
+                  "4.6",
+                  ""
+                ],
+                [
+                  "4.7",
+                  "Sixth Supplemental Indenture, dated as of May\u00a07, 2020, by and among T-Mobile USA, Inc., the guarantors party thereto, and Deutsche Bank Trust Company Americas, as trustee.",
+                  "",
+                  "",
+                  "",
+                  "X"
+                ],
+                [
+                  "4.8",
+                  "Seventh Supplemental Indenture, dated as of June\u00a024, 2020 by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 1.500% Senior Secured Note due 2026.",
+                  "8-K",
+                  "6/26/2020",
+                  "4.2",
+                  ""
+                ],
+                [
+                  "4.9",
+                  "Eighth Supplemental Indenture, dated as of June\u00a024, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 2.050% Senior Secured Note due 2028.",
+                  "8-K",
+                  "6/26/2020",
+                  "4.3",
+                  ""
+                ],
+                [
+                  "4.10",
+                  "Ninth Supplemental Indenture, dated as of June\u00a024, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 2.550% Senior Secured Note due 2031.",
+                  "8-K",
+                  "6/26/2020",
+                  "4.4",
+                  ""
+                ]
+              ]
+            },
+            "61": {
+              "title": "3",
+              "class": "predicted header",
+              "contents": {
+                "62": {
+                  "table": [
+                    [
+                      "4.11",
+                      "Registration Rights Agreement, dated as of June\u00a024, 2020, by and among T-Mobile USA, Inc., the Initial Guarantors (as defined therein) and Credit Suisse Securities (USA) LLC, Deutsche Bank Securities Inc. and Wells Fargo Securities, LLC, as representatives of the Initial Purchasers (as defined therein).",
+                      "8-K",
+                      "6/26/2020",
+                      "4.5",
+                      ""
+                    ],
+                    [
+                      "4.12",
+                      "Forty-First Supplemental Indenture, dated as of April\u00a01, 2020, by and among T-Mobile USA, Inc., T-Mobile US, Inc., the other guarantors party thereto, and Deutsche Bank Trust Company Americas, as trustee.",
+                      "10-Q",
+                      "8/6/2020",
+                      "4.12",
+                      ""
+                    ],
+                    [
+                      "4.13",
+                      "Forty-Second Supplemental Indenture, dated as of May\u00a07, 2020, by and among T-Mobile USA, Inc., T-Mobile US, Inc., the other guarantors party thereto, and Deutsche Bank Trust Company Americas, as trustee.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "4.14",
+                      "Indenture, dated as of October\u00a01, 1998, by and among Sprint Capital Corporation, Sprint Corporation and The Bank of New York Mellon Trust Company, N.A. (as successor to Bank One, N.A.)",
+                      "10-Q\n\n(SEC File No.\u00a0001-04721)",
+                      "11/2/1998",
+                      "4(b)",
+                      ""
+                    ],
+                    [
+                      "4.15",
+                      "First Supplemental Indenture, dated as of January\u00a015, 1999, by and among Sprint Capital Corporation, Sprint Corporation and The Bank of New York Mellon Trust Company, N.A. (as successor to Bank One, N.A.)",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "2/3/1999",
+                      "4(b)",
+                      ""
+                    ],
+                    [
+                      "4.16",
+                      "Second Supplemental Indenture, dated as of October\u00a015, 2001, by and among Sprint Capital Corporation, Sprint Corporation and The Bank of New York Mellon Trust Company, N.A. (as successor to Bank One, N.A.)",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "10/29/2001",
+                      "99",
+                      ""
+                    ],
+                    [
+                      "4.17",
+                      "Third Supplemental Indenture, dated as of September\u00a011, 2013, by and among Sprint Corporation, Sprint Capital Corporation, Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A. (as successor to Bank One, N.A.)",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "9/11/2013",
+                      "4.5",
+                      ""
+                    ],
+                    [
+                      "4.18",
+                      "Fourth Supplemental Indenture, dated as of May\u00a018, 2018, by and among Sprint Capital Corporation, Sprint Communications, Inc., and The Bank of New York Mellon Trust Company, N.A. (as successor to Bank One, N.A.)",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "5/18/2018",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.19",
+                      "Fifth Supplemental Indenture, dated as of April\u00a01, 2020, by and among Sprint Capital Corporation, Sprint Communications, Inc., Sprint Corporation, T-Mobile US, Inc., T-Mobile USA, Inc. and The Bank of New York Mellon Trust Company, N.A. (as successor to Bank One, N.A.), as trustee.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "4.20",
+                      "Indenture, dated as of November\u00a020, 2006, by and between Sprint Nextel Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "11/9/2011",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.21",
+                      "First Supplemental Indenture, dated as of November\u00a09, 2011, by and between Sprint Nextel Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "11/9/2011",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.22",
+                      "Fifth Supplemental Indenture, dated as of August\u00a014, 2012, by and between Sprint Nextel Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "8/14/2012",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.23",
+                      "Sixth Supplemental Indenture, dated as of November\u00a014, 2012, by and between Sprint Nextel Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "11/14/2012",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.24",
+                      "Seventh Supplemental Indenture, dated as of November\u00a020, 2012, by and between Sprint Nextel Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "11/20/2012",
+                      "4.1",
+                      ""
+                    ]
+                  ]
+                }
+              }
+            },
+            "63": {
+              "title": "4",
+              "class": "predicted header",
+              "contents": {
+                "64": {
+                  "table": [
+                    [
+                      "4.25",
+                      "Eighth Supplemental Indenture, dated as of September\u00a011, 2013, by and among Sprint Corporation, Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "9/11/2013",
+                      "4.4",
+                      ""
+                    ],
+                    [
+                      "4.26",
+                      "Thirteenth Supplemental Indenture, dated as of May\u00a014, 2018, by and between Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "5/14/2018",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.27",
+                      "Sixteenth Supplemental Indenture, dated as of April\u00a01, 2020, by and among Sprint Communications, Inc., T-Mobile US, Inc., T-Mobile USA, Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "4.28",
+                      "Indenture, dated as of September\u00a011, 2013, by and between Sprint Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "9/11/2013",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.29",
+                      "First Supplemental Indenture, dated as of September\u00a011, 2013, by and among Sprint Corporation, Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "9/11/2013",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.30",
+                      "Second Supplemental Indenture, dated as of September\u00a011, 2013, by and among Sprint Corporation, Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "9/11/2013",
+                      "4.3",
+                      ""
+                    ],
+                    [
+                      "4.31",
+                      "Third Supplemental Indenture, dated as of December\u00a012, 2013, by and among Sprint Corporation, Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "12/12/2013",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.32",
+                      "Fourth Supplemental Indenture, dated as of February\u00a024, 2015, by and among Sprint Corporation, Sprint Communications, Inc. and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "2/24/2015",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.33",
+                      "Fifth Supplemental Indenture, dated as of February\u00a022, 2018, by and among Sprint Corporation, Sprint Communications, Inc., and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "2/22/2018",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.34",
+                      "Sixth Supplemental Indenture, dated as of May\u00a014, 2018, by and between Sprint Corporation and The Bank of New York Mellon Trust Company, N.A.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "5/14/2018",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.35",
+                      "Seventh Supplemental Indenture, dated as of February\u00a03, 2020, by and among Sprint Corporation, Sprint Communications, Inc., the subsidiary guarantors party thereto, and the Bank of New York Mellon Trust Company, N.A., as trustee.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "2/3/2020",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.36",
+                      "Eighth Supplemental Indenture, dated as of April\u00a01, 2020, by and among Sprint Corporation, Sprint Communications, Inc., T-Mobile US, Inc., T-Mobile USA, Inc. and The Bank of New York Mellon Trust Company, N.A., as trustee.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "4.37",
+                      "First Supplemental Indenture, dated as of March\u00a012, 2018, by and among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas, as trustee and securities intermediary.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "3/12/2018",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.38",
+                      "Second Supplemental Indenture, dated as of June\u00a06, 2018, to the Indenture, dated as of October\u00a027, 2016, by and among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas as trustee.",
+                      "8-K\n\n(SEC File No.\u00a0001-04721)",
+                      "6/6/2018",
+                      "4.1",
+                      ""
+                    ]
+                  ]
+                }
+              }
+            },
+            "65": {
+              "title": "5",
+              "class": "predicted header",
+              "contents": {
+                "66": {
+                  "table": [
+                    [
+                      "4.39",
+                      "Third Supplemental Indenture, dated as of December\u00a010, 2018, by and among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas, as trustee and securities intermediary.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "1/31/2019",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.40",
+                      "Indenture, dated as of October\u00a027, 2016, among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas, as trustee and securities intermediary.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "11/2/2016",
+                      "4.1",
+                      ""
+                    ],
+                    [
+                      "4.41",
+                      "Series 2016-1 Supplement, dated as of October\u00a027, 2016, among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas, as trustee and securities intermediary.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "11/2/2016",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.42",
+                      "First Supplemental Indenture to the Series 2016-1 Supplement, dated as of March\u00a021, 2018 by and among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas, as trustee and securities intermediary.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "3/21/2018",
+                      "10.2",
+                      ""
+                    ],
+                    [
+                      "4.43",
+                      "Series 2018-1 Supplement, dated as of March\u00a021, 2018 by and among Sprint Spectrum Co LLC, Sprint Spectrum Co II LLC, Sprint Spectrum Co III LLC and Deutsche Bank Trust Company Americas, as trustee and securities intermediary.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "3/21/2018",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "4.44",
+                      "Registration Rights Agreement, dated as of April\u00a09, 2020, by and among T-Mobile USA, Inc., the Initial Guarantors (as defined therein) and Barclays Capital Inc., Deutsche Bank Securities Inc. and Goldman Sachs\u00a0& Co. LLC, as representatives of the Initial Purchasers (as defined therein).",
+                      "8-K",
+                      "4/13/2020",
+                      "4.7",
+                      ""
+                    ],
+                    [
+                      "4.45",
+                      "Form of Transferable Subscription Rights Certificate.",
+                      "8-K",
+                      "6/26/2020",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.46",
+                      "Proxy, Lock-Up and ROFR Agreement, dated as of June\u00a022, 2020, among Deutsche Telekom, Claure Mobile LLC and Raul Marcelo Claure.",
+                      "13D/A",
+                      "6/24/2020",
+                      "49",
+                      ""
+                    ],
+                    [
+                      "10.1",
+                      "Second Amended and Restated Stockholders\u2019 Agreement, dated as of June 22, 2020, by and among T-Mobile US, Inc., Deutsche Telekom AG and SoftBank Group Corp.",
+                      "3ASR",
+                      "6/22/2020",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "10.2",
+                      "Amendment No.\u00a01, dated as of April\u00a01, 2020, to the License Agreement, dated as of April\u00a030, 2013, by and between T-Mobile US, Inc. and Deutsche Telekom AG.",
+                      "8-K",
+                      "4/1/2020",
+                      "10.3",
+                      ""
+                    ],
+                    [
+                      "10.3",
+                      "Credit Agreement, dated as of April\u00a01, 2020, by and among T-Mobile USA, Inc., the issuing banks and lenders party thereto, and Deutsche Bank AG New York Branch, as administrative agent.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.4",
+                      "Guarantee Agreement, dated as of April\u00a01, 2020, by and among T-Mobile US, Inc., T-Mobile USA, Inc. and the other guarantors party thereto in favor of Deutsche Bank AG New York Branch, as administrative agent.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.5",
+                      "Bridge Term Loan Credit Agreement, dated as of April\u00a01, 2020, by and among T-Mobile USA, Inc., the lenders party thereto, and Goldman Sachs Bank USA, as administrative agent.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.6",
+                      "Guarantee Agreement, dated as of April\u00a01, 2020, by and among T-Mobile US, Inc., T-Mobile USA, Inc. and the other guarantors party thereto in favor of Goldman Sachs Bank USA, as administrative agent.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.7",
+                      "Collateral Agreement, dated as of April\u00a01, 2020, by and among T-Mobile US, Inc., T-Mobile USA, Inc. and the other grantors party thereto in favor of Deutsche Bank Trust Company Americas, as collateral trustee.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ]
+                  ]
+                }
+              }
+            },
+            "67": {
+              "title": "6",
+              "class": "predicted header",
+              "contents": {
+                "68": {
+                  "table": [
+                    [
+                      "10.8",
+                      "Collateral Trust and Intercreditor Agreement, dated as of April\u00a01, 2020, by and among T-Mobile US, Inc., T-Mobile USA, Inc., the other grantors party thereto, Deutsche Bank AG New York Branch, as first priority agent, the holder representatives party thereto and Deutsche Bank Trust Company Americas, as collateral trustee.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.9",
+                      "Guarantee and Collateral Agreement, dated October\u00a027, 2016, among Deutsche Bank Trust Company Americas, Sprint Spectrum PledgeCo LLC, Sprint Spectrum PledgeCo II LLC, Sprint Spectrum PledgeCo III LLC, Sprint Spectrum License Holder LLC, Sprint Spectrum License Holder II LLC and Sprint Spectrum License Holder III LLC.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "11/2/2016",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "10.10",
+                      "Intra-Company Spectrum Lease Agreement, dated as of October\u00a027, 2016, among Sprint Spectrum License Holder LLC, Sprint Spectrum License Holder II LLC and Sprint Spectrum License Holder III LLC, Sprint Communications, Inc., Sprint Intermediate HoldCo LLC, Sprint Intermediate HoldCo II LLC, Sprint Intermediate HoldCo III LLC and the guarantors.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "11/2/2016",
+                      "10.2",
+                      ""
+                    ],
+                    [
+                      "10.11",
+                      "First Amendment to Intra-Company Spectrum Lease Agreement, dated as of March\u00a012, 2018, among Sprint Spectrum License Holder, LLC, Sprint Spectrum License Holder II LLC and Sprint Spectrum License Holder III LLC, Sprint Communications, Inc., Sprint Intermediate HoldCo LLC, Sprint Intermediate HoldCo II LLC, Sprint Intermediate HoldCo III LLC.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "3/12/2018",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "10.12",
+                      "Second Amendment to Intra-Company Spectrum Lease Agreement, dated as of June\u00a06, 2018, among Sprint Spectrum License Holder, LLC, Sprint Spectrum License Holder II LLC and Sprint Spectrum License Holder III LLC, Sprint Communications, Inc., Sprint Intermediate HoldCo LLC, Sprint Intermediate HoldCo II LLC, Sprint Intermediate HoldCo III LLC, Sprint Corporation and the subsidiary guarantors.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "6/6/2018",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "10.13",
+                      "Guarantee Assumption Agreement, dated as of April\u00a01, 2020, by and among Sprint Spectrum License Holder, LLC, Sprint Spectrum License Holder II LLC, Sprint Spectrum License Holder III LLC, T-Mobile, T-Mobile USA and certain subsidiary guarantors.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.14",
+                      "Guarantee Assumption Agreement, dated as of May\u00a07, 2020, by and among Sprint Spectrum License Holder, LLC, Sprint Spectrum License Holder II LLC, Sprint Spectrum License Holder III LLC and certain subsidiary guarantors.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.15",
+                      "Third Amendment to the Third Amended and Restated Receivables Purchase and Administration Agreement, dated as of April\u00a030, 2020, among T-Mobile Handset Funding LLC, as transferor, T-Mobile Financial LLC, as servicer, T-Mobile US, Inc. and T-Mobile USA, Inc., jointly and severally as guarantors, Royal Bank of Canada, as Administrative Agent, and the various funding Agents party to the RPAA.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.16*",
+                      "Sprint Corporation 2007 Omnibus Incentive Plan.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "9/20/2013",
+                      "10.2",
+                      ""
+                    ],
+                    [
+                      "10.17*",
+                      "Sprint Corporation Amended and Restated 2015 Omnibus Incentive Plan.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "2/6/2017",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "10.18*",
+                      "Form of Sprint Corporation Evidence of Award 2014 Long-term Incentive Plan Stock Options.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "8/11/2015",
+                      "Exhibit B to 10.1",
+                      ""
+                    ]
+                  ]
+                }
+              }
+            },
+            "69": {
+              "title": "7",
+              "class": "predicted header",
+              "contents": {
+                "70": {
+                  "table": [
+                    [
+                      "10.19*",
+                      "Form of Sprint Corporation Evidence of Award Turnaround Incentive Award Restricted Stock Units.",
+                      "8-K\n\n (SEC File No.\u00a0001-04721)",
+                      "8/11/2015",
+                      "Exhibit E to 10.1",
+                      ""
+                    ],
+                    [
+                      "10.20*",
+                      "Form of Sprint Corporation Evidence of Award 2014 Long-term Incentive Plan Stock Options.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "8/8/2014",
+                      "10.12",
+                      ""
+                    ],
+                    [
+                      "10.21*",
+                      "Form of Sprint Corporation Award Agreement (awarding restricted stock units) under the Sprint Corporation 2015 Amended and Restated Omnibus Incentive Plan.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "8/3/2017",
+                      "10.5",
+                      ""
+                    ],
+                    [
+                      "10.22*",
+                      "Form of Sprint Corporation Award Agreement (awarding performance-based restricted stock units) under the Sprint Corporation 2015 Amended and Restated Omnibus Incentive Plan.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "8/3/2017",
+                      "10.6",
+                      ""
+                    ],
+                    [
+                      "10.23*",
+                      "Form of Sprint Corporation Award Agreement (awarding stock options) under the Sprint Corporation 2015 Amended and Restated Omnibus Incentive Plan.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "8/3/2017",
+                      "10.3",
+                      ""
+                    ],
+                    [
+                      "10.24*",
+                      "Form of Sprint Corporation Turnaround Incentive Award Agreement (awarding performance-based restricted stock units) under the Sprint Corporation 2015 Amended and Restated Omnibus Incentive Plan.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "11/1/2016",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "10.25*",
+                      "Form of Restricted Stock Unit Award Agreement (Time-Vesting) for Executive Officers under the Sprint Corporation 2015 Amended and Restated Omnibus Incentive Plan.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.26*",
+                      "Form of Restricted Stock Unit Award Agreement (Performance-Vesting) for Executive Officers under the Sprint Corporation 2015 Amended and Restated Omnibus Incentive Plan.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.27*",
+                      "Form of Award Agreement (awarding restricted stock units) under the Sprint Corporation Amended and Restated 2015 Omnibus Incentive Plan for non-employee directors.",
+                      "10-Q\n\n (SEC File No.\u00a0001-04721)",
+                      "11/9/2015",
+                      "10.5",
+                      ""
+                    ],
+                    [
+                      "10.28*",
+                      "Sprint Corporation Form of Election to Defer Delivery of Shares Subject to RSUs (Outside Directors).",
+                      "10-K\n\n (SEC File No.\u00a0001-04721)",
+                      "5/17/2016",
+                      "10.95",
+                      ""
+                    ],
+                    [
+                      "10.29*",
+                      "Consulting Agreement by and between the Company and J. Braxton Carter effective as of July\u00a01, 2020.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.30*",
+                      "Amended Director Compensation Program effective as of May\u00a01, 2013 (amended June\u00a04, 2014 and further amended on June\u00a01, 2015, June\u00a016, 2016, June\u00a013, 2017, June\u00a013, 2019 and June\u00a04, 2020).",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "10.31",
+                      "Master Framework Agreement, dated as of June\u00a022, 2020, by and among SoftBank Group Corp., SoftBank Group Capital Ltd, Delaware Project 4 L.L.C., Delaware Project 6 L.L.C., Claure Mobile LLC, Deutsche Telekom AG, T-Mobile US, Inc. and T-Mobile Agent LLC.",
+                      "8-K",
+                      "6/26/2020",
+                      "10.1",
+                      ""
+                    ],
+                    [
+                      "10.32",
+                      "Share Repurchase Agreement, dated as of June\u00a022, 2020, between SoftBank Group Capital Ltd and T-Mobile US, Inc.",
+                      "8-K",
+                      "6/26/2020",
+                      "10.2",
+                      ""
+                    ],
+                    [
+                      "10.33",
+                      "Share Purchase Agreement, dated as of June\u00a022, 2020, among Raul Marcelo Claure, Claure Mobile LLC and T-Mobile US, Inc.",
+                      "13D/A",
+                      "6/25/2020",
+                      "15",
+                      ""
+                    ],
+                    [
+                      "22.1",
+                      "List of Guarantor Subsidiaries",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "31.1",
+                      "Certifications of Chief Executive Officer Pursuant to Section\u00a0302 of the Sarbanes-Oxley Act of 2002.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ]
+                  ]
+                }
+              }
+            },
+            "71": {
+              "title": "8",
+              "class": "predicted header",
+              "contents": {
+                "72": {
+                  "table": [
+                    [
+                      "31.2",
+                      "Certifications of Chief Financial Officer Pursuant to Section\u00a0302 of the Sarbanes-Oxley Act of 2002.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "32.1**",
+                      "Certification of Chief Executive Officer Pursuant to Section\u00a0906 of the Sarbanes-Oxley Act of 2002.",
+                      "10-Q",
+                      "8/6/2020",
+                      "32.1",
+                      ""
+                    ],
+                    [
+                      "32.2**",
+                      "Certification of Chief Financial Officer Pursuant to Section\u00a0906 of the Sarbanes-Oxley Act of 2002.",
+                      "10-Q",
+                      "8/6/2020",
+                      "32.2",
+                      ""
+                    ],
+                    [
+                      "101.INS",
+                      "XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "101.SCH",
+                      "XBRL Taxonomy Extension Schema Document.",
+                      "10-Q",
+                      "8/6/2020",
+                      "101.SCH",
+                      "X"
+                    ],
+                    [
+                      "101.CAL",
+                      "XBRL Taxonomy Extension Calculation Linkbase Document.",
+                      "10-Q",
+                      "8/6/2020",
+                      "101.CAL",
+                      "X"
+                    ],
+                    [
+                      "101.DEF",
+                      "XBRL Taxonomy Extension Definition Linkbase Document.",
+                      "10-Q",
+                      "8/6/2020",
+                      "101.DEF",
+                      "X"
+                    ],
+                    [
+                      "101.LAB",
+                      "XBRL Taxonomy Extension Label Linkbase Document.",
+                      "10-Q",
+                      "8/6/2020",
+                      "101.LAB",
+                      "X"
+                    ],
+                    [
+                      "101.PRE",
+                      "XBRL Taxonomy Extension Presentation Linkbase Document.",
+                      "10-Q",
+                      "8/6/2020",
+                      "101.PRE",
+                      "X"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document).",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ]
+                  ]
+                }
+              }
+            },
+            "73": {
+              "title": "*",
+              "class": "predicted header"
+            },
+            "74": {
+              "title": "Indicates a management contract or compensatory plan or arrangement.",
+              "class": "predicted header"
+            },
+            "75": {
+              "title": "**",
+              "class": "predicted header"
+            },
+            "76": {
+              "title": "Previously furnished and not filed.",
+              "class": "predicted header"
+            },
+            "77": {
+              "title": "9",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "78": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "79": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "80": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE\n US, INC."
+                ],
+                [
+                  "August\u00a010, 2020",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Executive Vice President and Chief Financial Officer"
+                ],
+                [
+                  "",
+                  "(Principal Financial Officer and Authorized Signatory)"
+                ]
+              ]
+            }
+          }
+        },
+        "81": {
+          "title": "10",
+          "class": "predicted header"
+        }
+      }
+    }
+  }
+}

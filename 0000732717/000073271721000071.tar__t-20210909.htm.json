@@ -1,0 +1,479 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of report (Date of earliest event reported) September 9, 2021",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "textsmall": "______________________________________________________"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "12": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "______________________________________________________"
+                },
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "75202\n(Zip Code)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "\u2610",
+                      "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    ],
+                    [
+                      "\u2610",
+                      "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                    ]
+                  ]
+                }
+              }
+            },
+            "16": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                      "T 21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "18": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "20": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "title": "Item 7.01 Regulation FD Disclosure",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "23": {
+          "text": "AT&T Inc. (AT&T or the Company) is providing, as a convenience to its investors, the following supplemental operating information reflecting the July 31, 2021 separation of the U.S. video business including products commercially branded AT&T TV, AT&T TV Now, AT&T U-verse and DIRECTV. In the following discussion, \u201cVideo\u201d refers to the historical U.S. video operations as defined and reported in AT&T\u2019s Form 10-Q for the three-months ended June 30, 2021 and \u201cDIRECTV\u201d refers to the new company formed with TPG Capital. For more information on the transaction with TPG, please refer to AT&T\u2019s Current Reports on Form 8-K filed February 25, 2021 and August 2, 2021."
+        },
+        "24": {
+          "text": "The information included herein (Exhibit 99.1) is intended to reflect the historical operating results of the Company excluding the businesses transferred to form the new DIRECTV on July 31, 2021, as if such transfer occurred as of January 1, 2020. This supplemental pro forma information is not intended to be a complete presentation of AT&T\u2019s operating results or financial position. This pro forma presentation is presented for information purposes only and does not purport to represent what AT&T operations would have been nor do they purport to project the results or operations for any future period. Accordingly, such information should not be relied upon as an indicator of future performance, financial condition or liquidity."
+        },
+        "25": {
+          "title": "Significant adjustments include:",
+          "class": "predicted header",
+          "contents": {
+            "26": {
+              "text": "(A1)\u00a0\u00a0\u00a0\u00a0Removal of AT&T\u2019s reported Video business. This adjustment reflects the removal of operating results of the Video business transferred on July 31, 2021, though does not adjust for certain shared costs that will be retained by the Company or amounts that may be reimbursed or paid for by DIRECTV under transition service agreements (TSAs) and commercial arrangements, except as discussed in (A2) and (A3) below. The information in Exhibit 99.1 has assumed that all NFL SUNDAY TICKET (NFLST) costs were part of the Video business for all historical periods presented."
+            },
+            "27": {
+              "text": "(A2)\u00a0\u00a0\u00a0\u00a0Removal of intercompany eliminations. WarnerMedia licenses content and programming to DIRECTV. Historically, the revenue recorded by the WarnerMedia segment and expenses recorded in Video were eliminated in consolidation but are third-party activities after the close of the transaction. The information in Exhibit 99.1 has assumed that these transactions were third-party agreements starting January 1, 2020."
+            },
+            "28": {
+              "text": "(A3) \u00a0\u00a0\u00a0\u00a0Pursuant to a commercial agreement, WarnerMedia will continue to sell DIRECTV\u2019s advertising inventory until the completion of the Warner Bros. Discovery Transaction. In exchange for DIRECTV\u2019s advertising inventory, DIRECTV will receive a 70% revenue share. WarnerMedia will record amounts billed as advertising revenue and recognize an expense for DIRECTV\u2019s 70% revenue share. This adjustment reflects recognition of the advertising revenues and associated expenses assuming the commercial agreement was in place as of January 1, 2020. Historically, these revenues and expenses were reflected in both the WarnerMedia segment and Video results with elimination of the dual reporting in consolidation."
+            },
+            "29": {
+              "title": "AT&T\u2019s Accounting for DIRECTV",
+              "class": "predicted header"
+            }
+          }
+        },
+        "30": {
+          "title": "Retained Costs, Transition Service Arrangements and Commercial Agreements",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "text": "Video\u2019s reported results included certain costs that will be retained by AT&T after separation, including depreciation of AT&T\u2019s network infrastructure that provides both U-verse video and broadband services to customers. AT&T estimates that the Company will retain approximately $500 million of operations and support costs and $150 million of network depreciation costs per quarter. AT&T\u2019s current expectation is that approximately 50% of these expenses will be reimbursed or paid for through TSAs and commercial agreements with DIRECTV and will partially offset the retained expenses. The amount and duration of these arrangements are dependent on the future operational needs of DIRECTV and have not been included as adjustments to Exhibit 99.1. To maintain comparability of AT&T\u2019s operating segment results, and while operational plans and cost reduction initiatives are developed, AT&T intends to report the retained costs and reimbursements in Corporate and Other for the remainder of 2021."
+            },
+            "32": {
+              "title": "NFL SUNDAY TICKET",
+              "class": "predicted header",
+              "contents": {
+                "33": {
+                  "text": "AT&T agreed to pay net losses under the NFLST contract up to a cap of $2.1 billion over the remaining period of the contract (through the end of the 2022 NFL regular season). At the closing of the transaction, AT&T recognized a payable to DIRECTV associated with this agreement and these payments will be reported as financing activities."
+                },
+                "34": {
+                  "title": "Reported and Adjusted Earnings",
+                  "class": "predicted header",
+                  "contents": {
+                    "35": {
+                      "text": "Beginning in the third quarter of 2021, AT&T will record its share of DIRECTV\u2019s reported earnings as equity in net income of affiliates. DIRECTV\u2019s reported results will include merger costs, including amortization of intangible assets established in purchase accounting, and will reflect accounting policies and capital allocation decisions as determined by DIRECTV. AT&T is not currently able to reasonably estimate these impacts."
+                    },
+                    "36": {
+                      "text": "DIRECTV\u2019s earnings and losses will be allocated to the investors based on the distribution waterfall pursuant to the Amended and Restated Limited Liability Company Agreement of New DTV dated July 31, 2021. AT&T will recognize its pro rata share of DIRECTV\u2019s earnings as equity in net income of affiliates. Consistent with AT&T\u2019s historical presentation of adjustment for merger-related costs to reported diluted earnings per share (EPS), the Company expects to exclude its share of DIRECTV\u2019s merger-related amortization and other purchase accounting impacts (which are included in DIRECTV results and therefore AT&T\u2019s reported equity in net income of affiliates) in determining adjusted diluted EPS. The Company has not changed its expectation on adjusted equity in net income from DIRECTV for the remainder of 2021."
+                    }
+                  }
+                },
+                "37": {
+                  "title": "Cash Flow Presentation",
+                  "class": "predicted header",
+                  "contents": {
+                    "38": {
+                      "text": "In connection with the closing of the transaction, of the $7.6 billion proceeds, AT&T will report approximately $1.8 billion as cash received from financing activities as it relates to the payable to DIRECTV, and the remaining net proceeds as cash received from investing activities."
+                    },
+                    "39": {
+                      "text": "Pursuant to U.S. generally accepted accounting principles (GAAP), AT&T will treat distributions received from DIRECTV, including tax distributions, as returns on investment and classify them as cash flows from operating activities until those distributions exceed AT&T\u2019s cumulative reported equity in the earnings of DIRECTV. AT&T will treat the excess amount as a return of investment and classify it as cash flows from investing activities. Beginning in the third quarter of 2021, AT&T will include all cash received from DIRECTV as part of its non-GAAP measure, Free Cash Flow, including distributions reported as investing activities pursuant to GAAP."
+                    }
+                  }
+                },
+                "40": {
+                  "title": "Other Reporting Matters",
+                  "class": "predicted header",
+                  "contents": {
+                    "41": {
+                      "text": "Following the separation, AT&T does not expect to provide disclosures of subscribers or other key performance metrics for DIRECTV."
+                    },
+                    "42": {
+                      "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+                      "class": "predicted header",
+                      "contents": {
+                        "43": {
+                          "text": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and uncertainties. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on new information or otherwise."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "44": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "45": {
+          "text": "The following exhibits are furnished as part of this report:"
+        },
+        "46": {
+          "table": [
+            [
+              "(d)",
+              "Exhibits",
+              "Exhibits"
+            ],
+            [
+              "",
+              "99.1",
+              "Supplemental Quarterly Pro Forma Financial Information"
+            ],
+            [
+              "",
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        }
+      }
+    },
+    "47": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "48": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "49": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: September\u00a09, 2021",
+              "By: /s/ Debra L. Dial\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Debra L. Dial\n\u00a0Senior Vice President and Controller"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

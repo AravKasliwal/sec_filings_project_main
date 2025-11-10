@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): January 31, 2022",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable",
+                          "Address Not Applicable"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                },
+                "17": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "18": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "20": {
+                      "table": []
+                    },
+                    "21": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "22": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "27": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "Nasdaq Global Select Market"
+                            ]
+                          ]
+                        },
+                        "28": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "29": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "30": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Item 5.02    Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "32": {
+          "title": "(d)",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "text": "On February 2, 2022, the Board of Directors (the \u201cBoard\u201d) of Coinbase Global, Inc. (the \u201cCompany\u201d), following a recommendation from the Nominating and Corporate Governance Committee of the Board, appointed Tobi L\u00fctke to serve as a director of the Company, effective immediately. Mr. L\u00fctke will serve until the earliest to occur of the Company\u2019s 2022 annual meeting of stockholders (the \u201cAnnual Meeting\u201d) and until his successor is duly elected and qualified, or until his death, resignation, disqualification or removal."
+            },
+            "34": {
+              "text": "Mr. L\u00fctke\u2019s compensation will be as provided under the Company\u2019s non-employee director compensation program (the \u201cNon-Employee Director Compensation Program\u201d). In connection with his election as a non-employee director of the Board and consistent with the Non-Employee Director Compensation Program, the Board granted to Mr. L\u00fctke, effective February 2, 2022, an initial award of 1,867 restricted stock units (\u201cRSUs\u201d), which will vest annually over three years, subject to Mr. L\u00fctke\u2019s continued service as a director on the Board (the \u201cInitial Award\u201d), and a pro-rated annual award of 522 RSUs, which will vest on the date of the Annual Meeting, subject to Mr. L\u00fctke\u2019s continued service as a director on the Board (the \u201cAnnual Award\u201d). The Initial Award and the Annual Award will accelerate in full upon the consummation of a Corporate Transaction (as defined in the Company\u2019s 2021 Equity Incentive Plan)."
+            },
+            "35": {
+              "text": "The Company has entered into its standard form of indemnification agreement with Mr. L\u00fctke. The form of the indemnification agreement was previously filed by the Company as Exhibit 10.1 to the Company\u2019s Registration Statement on Form S-1 filed with the Securities and Exchange Commission on February 25, 2021 (File No. 333-253482) and is incorporated by reference herein."
+            },
+            "36": {
+              "text": "Similar to certain of our executive officers, directors, and holders of more than 5% of our capital stock, Mr. L\u00fctke and other entities affiliated with Mr. L\u00fctke have accounts on our platform and use our products and services in the ordinary course. Similar to our other customers, these individuals and entities pay us transaction and other fees related to such uses.  There are no arrangements or understandings between Mr. L\u00fctke and any other persons pursuant to which Mr. L\u00fctke was selected as a member of the Board. There are also no family relationships between Mr. L\u00fctke and any director or executive officer of the Company. Except as disclosed herein, Mr. L\u00fctke does not have any other direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K promulgated under the Securities Exchange Act of 1934, as amended."
+            }
+          }
+        },
+        "37": {
+          "title": "(e)",
+          "class": "predicted header",
+          "contents": {
+            "38": {
+              "text": "On January 31, 2022, the Compensation Committee (the \u201cCompensation Committee\u201d) of the Board approved the payment or reimbursement by the Company to Brian Armstrong, the Company\u2019s Chief Executive Officer, of up to $4.0 million annually in expenses related to personal security services and information technology support (the \u201cCEO Security and IT Expenses\u201d) together with any associated tax gross-up payments. Additionally, for 2022, the Compensation Committee approved the one-time payment or reimbursement by the Company to Mr. Armstrong of up to $1.1 million for expenses related to personal security services and information technology support improvements (the \u201cAdditional Expenses\u201d) together with any associated tax gross-up payments. The Compensation Committee believes that the CEO Security and IT Expenses and Additional Expenses are appropriate and necessary due to the importance of Mr. Armstrong to the Company and because of his unique position with the Company, the high visibility of the Company and Mr. Armstrong, and, as a result of the Company\u2019s business, the size of its user base, and the Company and Mr. Armstrong\u2019s continued exposure to global media and regulatory attention."
+            }
+          }
+        }
+      }
+    },
+    "39": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "40": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "41": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Dated: February 2, 2022",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): April 10, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g883806g0415123302604.jpg",
+                    "alt": "IMAGE"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ],
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "14": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "15": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "16": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "17": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "19": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "20": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n symbol",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Stock, $0.00001 par value per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "21": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "22": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "23": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "title": "Item\u00a05.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "25": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "26": {
+              "text": "As previously announced on March\u00a012, 2020, David Carey is retiring from his position as Executive Vice President, Corporate Services of T-Mobile US, Inc. (the \u201cCompany\u201d). On April\u00a010, 2020, the Company and Mr.\u00a0Carey determined that Mr.\u00a0Carey would depart the Company effective April\u00a013, 2020."
+            },
+            "27": {
+              "text": "In connection with his departure, Mr.\u00a0Carey will be eligible to receive certain severance payments and benefits described in, and, in accordance with the terms of, his existing employment, severance and equity award agreements with the Company."
+            }
+          }
+        }
+      }
+    },
+    "28": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "29": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "30": {
+          "table": [
+            [
+              "Date: April\u00a016, 2020",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

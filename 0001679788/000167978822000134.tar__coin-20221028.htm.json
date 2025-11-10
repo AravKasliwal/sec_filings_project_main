@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K/A",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "title": "(Amendment No. 1)",
+              "class": "predicted header"
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): October 28, 2022",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable(1)",
+                          "Address Not Applicable(1)"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "17": {
+              "title": "(1)",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    }
+                  }
+                }
+              }
+            },
+            "23": {
+              "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+              "class": "predicted header"
+            },
+            "24": {
+              "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+              "class": "predicted header"
+            },
+            "25": {
+              "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+              "class": "predicted header"
+            },
+            "26": {
+              "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+              "class": "predicted header",
+              "contents": {
+                "27": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "28": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading Symbol(s)",
+                      "Name of each exchange on which registered"
+                    ],
+                    [
+                      "Class\u00a0A common stock, $0.00001 par value",
+                      "COIN",
+                      "Nasdaq Global Select Market"
+                    ]
+                  ]
+                },
+                "29": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "30": {
+                  "text": "(1) We are a remote-first company. Accordingly, we do not maintain a headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and Securities Exchange Act of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email address set forth in our proxy materials and/or identified on our investor relations website."
+                },
+                "31": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "32": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 5.02 - Departure of Directors or Certain Officers\u037e Election of Directors\u037e Appointment of Certain Officers\u037e Compensatory Arrangements of Certain Officers.",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "As previously disclosed by Coinbase Global, Inc. (\u201cCoinbase\u201d or the \u201cCompany\u201d) on a Current Report on Form 8-K filed on November 2, 2022, the Company and Surojit Chatterjee mutually agreed on October 28, 2022 that Mr. Chatterjee would step down as Chief Product Officer, effective November 30, 2022. The Company also disclosed at that time that it was expected that Mr. Chatterjee will continue to serve Coinbase in an advisory role through at least February 3, 2023."
+        },
+        "35": {
+          "text": "On November 30, 2022, in recognition of Mr. Chatterjee\u2019s contributions throughout his employment to Coinbase, the Company and Mr. Chatterjee entered into a separation agreement (the \u201cSeparation Agreement\u201d) that provides, among other things, that Mr. Chatterjee\u2019s last date of employment with the Company will be February 3, 2023 (the \u201cSeparation Date\u201d), that the vesting of Mr. Chatterjee\u2019s Company stock options and Company restricted stock units shall cease vesting effective as of November 30, 2022 except as set forth below, and that Mr. Chatterjee is entitled to certain severance benefits, including (i) a lump sum payment consistent with our existing Change of Control and Severance Policy, which provides for payments and benefits to executive officers upon certain qualifying terminations and (ii) payment by the Company of insurance premiums in order to continue to receive health insurance coverage pursuant to COBRA for a period of ten months following the month of the Separation Date. Pursuant to the Separation Agreement, provision of these severance benefits is contingent upon Mr. Chatterjee not revoking a separation and release of claims in favor of the Company. Additionally, the Company and Mr. Chatterjee entered into an advisory agreement on November 30, 2022 (the \u201cAdvisory Agreement\u201d) pursuant to which Mr. Chatterjee will provide advisory services during the period commencing on  February 4, 2023 through December 31, 2023 and 249,315 of the shares subject to Mr. Chatterjee\u2019s unvested stock options shall be eligible to vest, subject to Mr. Chatterjee\u2019s continued services under the Advisory Agreement."
+        },
+        "36": {
+          "text": "The foregoing descriptions of the Separation Agreement and the Advisory Agreement are not complete and are qualified in their entirety by reference to the Separation Agreement and the Advisory Agreement, copies of which will be filed as exhibits to the Company\u2019s Annual Report on Form 10-K for the year ending December 31, 2022."
+        }
+      }
+    },
+    "37": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "38": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "39": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Dated: December 2, 2022",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): August 13, 2021",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g180414g0813084036418.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\nincorporation or organization)",
+                      "(Commission\nFile Number)",
+                      "(I.R.S. Employer\nIdentification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d- 2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e- 4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\nSymbol",
+                          "Name of each exchange\non which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company \u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a01.01.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Entry into a Material Definitive Agreement.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "On August\u00a013, 2021, T-Mobile USA, Inc. (\u201cT-Mobile USA\u201d), a direct, wholly-owned subsidiary of T-Mobile US, Inc. (the \u201cCompany\u201d), issued $1.3\u00a0billion in aggregate principal amount of its 3.400% Senior Secured Notes due 2052 (the \u201c2052 Notes\u201d) and $700\u00a0million in aggregate principal amount of its 3.600% Senior Secured Notes due 2060 (the \u201c2060 Notes\u201d and, together with the 2052 Notes, the \u201cNotes\u201d and the offering of the Notes, the \u201cNotes Offering\u201d) pursuant to the Indenture (the \u201cBase Indenture\u201d), dated as of April\u00a09, 2020, among T-Mobile USA, the Company and Deutsche Bank Trust Company Americas, as trustee (the \u201cTrustee\u201d), as amended and supplemented by (i)\u00a0the Nineteenth Supplemental Indenture, dated as of August\u00a013, 2021 (the \u201cNineteenth Supplemental Indenture\u201d), with respect to the 2052 Notes and (ii)\u00a0the Seventeenth Supplemental Indenture, dated as of October\u00a028, 2020 (the \u201cSeventeenth Supplemental Indenture\u201d), and the Twentieth Supplemental Indenture, dated as of August\u00a013, 2021 (the \u201cTwentieth Supplemental Indenture\u201d and collectively with the Seventeenth Supplemental Indenture, the \u201c2060 Notes Supplemental Indenture\u201d), with respect to the 2060 Notes, each among T-Mobile USA, the Company, the other guarantors party thereto and the Trustee (the Base Indenture, as amended and supplemented by each of the Nineteenth Supplemental Indenture and the 2060 Notes Supplemental Indenture, each an \u201cIndenture\u201d and, collectively, the \u201cIndentures\u201d).",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "The 2052 Notes bear interest at a rate of 3.400% per year and mature on October\u00a015, 2052. The 2060 Notes bear interest at a rate of 3.600% per year and mature on November\u00a015, 2060. T-Mobile USA will pay interest on the 2052 Notes semiannually in arrears on each April\u00a015 and October\u00a015, commencing April\u00a015, 2022. T-Mobile USA will pay interest on the 2060 Notes semiannually in arrears on each May\u00a015 and November\u00a015, commencing November\u00a015, 2021. The net proceeds from the sale of the Notes are expected to be used, together with cash on hand, to redeem T-Mobile USA\u2019s 4.500% Senior Notes due 2026 and 4.500% Senior Notes due 2026-1 held by Deutsche Telekom AG. Deutsche Telekom AG is a significant stockholder of the Company and a holder of a portion of the outstanding debt of T-Mobile USA, as further described in the Company\u2019s periodic reports filed with the Securities and Exchange Commission (the \u201cSEC\u201d).",
+              "class": "predicted header"
+            },
+            "33": {
+              "title": "The 2060 Notes are an additional issuance of the 3.600% Senior Secured Notes due 2060 issued by T-Mobile USA in an aggregate principal amount of $1.00\u00a0billion on October\u00a028, 2020 (the \u201cInitial 2060 Notes\u201d), the substantial majority of which were exchanged on May\u00a025, 2021 for notes having substantially identical terms, except that such exchange notes generally are freely transferable and do not contain certain terms with respect to registration rights and additional interest (the \u201cRegistered 2060 Notes\u201d, and together with the remaining outstanding Initial 2060 Notes, the \u201cExisting 2060 Notes\u201d). The 2060 Notes will be consolidated with and form a single series with the Existing 2060 Notes and will have the same respective terms other than the settlement date, offering price, initial interest payment date and registration rights. However, the New 2060 Notes will not be fungible with the Initial 2060 Notes, and unless and until exchanged for registered notes pursuant to the exchange offer described in Item 8.01 of this Current Report on Form 8-K, the 2060 Notes will have separate CUSIP numbers from, and will not be fungible with, the Registered 2060 Notes.",
+              "class": "predicted header"
+            },
+            "34": {
+              "title": "T-Mobile USA\u2019s obligations under the Notes will be guaranteed (such guarantees, the \u201cGuarantees\u201d) by the Company and each wholly-owned subsidiary of T-Mobile USA that is not an Excluded Subsidiary (as defined in the Base Indenture) and is or becomes an obligor of the Credit Agreement, dated as of April\u00a01, 2020 (the \u201cCredit Agreement\u201d), among T-Mobile USA, as borrower, the banks and financial institutions party thereto as lenders and issuing banks, and Deutsche Bank AG New York Branch, as administrative agent, or issues or guarantees certain capital markets debt securities, and any future direct or indirect subsidiary of the Company or any subsidiary thereof that owns capital stock of T-Mobile USA. The Guarantees will be provided on a senior secured basis except for the Guarantees of Sprint Corporation (\u201cSprint\u201d), Sprint Communications, Inc. and Sprint Capital Corporation (collectively, the \u201cUnsecured Guarantors\u201d), which will be provided on a senior unsecured basis (the \u201cUnsecured Guarantees\u201d).",
+              "class": "predicted header"
+            },
+            "35": {
+              "title": "The Notes and the Guarantees will be T-Mobile USA\u2019s and the guarantors\u2019 unsubordinated obligations; will be secured (except for the Unsecured Guarantees) by a first priority security interest, subject to permitted liens, in substantially all of T-Mobile USA\u2019s and such guarantors\u2019 present and future assets other than Excluded Assets (as defined in the Collateral Agreement, dated as of April\u00a01, 2020 (the \u201cCollateral Agreement\u201d), by and among T-Mobile USA, the Company and the other grantors party thereto in favor of Deutsche Bank Trust Company Americas, as collateral trustee) on an equal and ratable basis with the obligations under T-Mobile USA\u2019s existing",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "secured notes and the Credit Agreement and obligations under any other existing and future permitted first priority secured obligations; will be senior in right of payment to any future indebtedness of T-Mobile USA or any guarantor to the extent that such future indebtedness provides by its terms that it is subordinated in right of payment to the Notes and the Guarantees; will be effectively senior to all existing and future unsecured indebtedness of T-Mobile USA or any guarantor (other than the Unsecured Guarantors) and any future indebtedness of T-Mobile USA or any guarantor (other than the Unsecured Guarantors) secured by a junior lien on the collateral, in each case to the extent of the value of the collateral securing the obligations under the Notes; will be equal in right of payment with any of T-Mobile USA\u2019s and the guarantors\u2019 existing and future indebtedness and other liabilities that are not by their terms subordinated in right of payment to the Notes, including, without limitation, obligations under T-Mobile USA\u2019s existing secured notes and the Credit Agreement, T-Mobile USA\u2019s existing unsecured notes and the existing unsecured notes issued by the Unsecured Guarantors; and will be structurally subordinated to all of the liabilities and other obligations of the subsidiaries of the Company that are not obligors with respect to the Notes, including the existing spectrum-backed notes issued under Sprint\u2019s spectrum securitization program, factoring arrangements and tower obligations.",
+              "class": "predicted header"
+            },
+            "37": {
+              "title": "If T-Mobile USA experiences specific kinds of changes of control as set forth in the Indentures and any such change of control is accompanied or followed by ratings downgrades during a specified period of time after the change of control, any holder of Notes may require T-Mobile USA to repurchase all or a portion of the Notes so held at a price equal to 101% of the principal amount of such Notes, plus any accrued and unpaid interest on the Notes repurchased to, but not including, the date of repurchase.",
+              "class": "predicted header"
+            },
+            "38": {
+              "title": "The Indentures contain covenants that, among other things, restrict the ability of T-Mobile USA and certain of its subsidiaries to (i)\u00a0create liens or other encumbrances in respect of borrowed money, (ii)\u00a0merge, consolidate or sell, or otherwise dispose of, substantially all of their assets or (iii)\u00a0grant a subsidiary guarantee of debt incurred under the Credit Agreement or certain capital markets debt without also providing a guarantee of the Notes. These limitations are subject to a number of important qualifications and exceptions.",
+              "class": "predicted header"
+            },
+            "39": {
+              "title": "Each Indenture contains customary Events of Default (as defined in each Indenture), including:",
+              "class": "predicted header"
+            },
+            "40": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "default for 30 days in the payment when due of interest on the Notes of the applicable series;",
+              "class": "predicted header"
+            },
+            "42": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "43": {
+              "title": "default in the payment when due (at maturity, upon redemption or otherwise) of the principal of, or premium, if any, on, the Notes of the applicable series;",
+              "class": "predicted header"
+            },
+            "44": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "45": {
+              "title": "failure by T-Mobile USA or its subsidiaries to comply with their other obligations under the Indenture, subject to notice and grace periods;",
+              "class": "predicted header"
+            },
+            "46": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "47": {
+              "title": "payment defaults and accelerations with respect to other indebtedness of T-Mobile USA and certain of its subsidiaries in the aggregate principal amount of at least the greater of (x) $250.0\u00a0million and (y) 1.0% of Consolidated Cash Flow (as defined in the Base Indenture) on a pro forma basis over a four-quarter test period;",
+              "class": "predicted header"
+            },
+            "48": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "49": {
+              "title": "specified events involving bankruptcy, insolvency or reorganization of T-Mobile USA or certain of its subsidiaries;",
+              "class": "predicted header"
+            },
+            "50": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "51": {
+              "title": "failure by T-Mobile USA or certain of its subsidiaries to pay certain final judgments aggregating in excess of the greater of (x) $250.0\u00a0million and (y) 1.0% of Consolidated Cash Flow on a pro forma basis over a four-quarter test period within 60 consecutive days of such final judgment;",
+              "class": "predicted header"
+            },
+            "52": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "53": {
+              "title": "other than in connection with satisfaction of the obligations under the applicable Indenture or release of collateral in accordance with the terms of the applicable Indenture, (i)\u00a0a security interest with respect to collateral having a fair market value in excess of 5% of Consolidated Total Assets (as defined in the Base Indenture) ceases to be valid and perfected or is declared invalid or unenforceable, subject to notice and a grace period, or (ii)\u00a0T-Mobile USA or a guarantor asserts in a pleading in any court of competent jurisdiction that any security interest securing the Notes is invalid or unenforceable.",
+              "class": "predicted header"
+            },
+            "54": {
+              "title": "Upon an Event of Default, the trustee or the holders of at least 30% in aggregate principal amount of the Notes of the applicable series then outstanding may declare all the Notes of such series to be due and payable immediately. In the case of Events of Default relating to bankruptcy, insolvency or reorganization, all outstanding Notes of the applicable series will become due and payable immediately without further action or notice.",
+              "class": "predicted header"
+            },
+            "55": {
+              "title": "The above description of the Indentures is a summary only and is subject to, and qualified entirely by, the Base Indenture, the Seventeenth Supplemental Indenture, the Nineteenth Supplemental Indenture and the Twentieth Supplemental Indenture, which are filed as Exhibits 4.1, 4.2, 4.3 and 4.4, respectively, to this Current Report on Form 8-K and incorporated herein by reference.",
+              "class": "predicted header"
+            },
+            "56": {
+              "title": "Press releases regarding the Notes Offering were issued in accordance with Rule 135c under the Securities Act. Copies of such press releases are filed as Exhibits 99.1 and 99.2 and incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "57": {
+      "title": "Item\u00a02.03.",
+      "standardized_title": "item2.03",
+      "class": "item",
+      "contents": {
+        "58": {
+          "title": "Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.",
+          "class": "predicted header",
+          "contents": {
+            "59": {
+              "title": "The disclosure set forth in Item 1.01 of this Current Report on Form 8-K is also responsive to Item 2.03 of this Current Report on Form 8-K and is incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "60": {
+      "title": "Item\u00a08.01.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "61": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "62": {
+              "title": "On August\u00a013, 2021, T-Mobile USA, the Company and the other guarantors party thereto entered into a Registration Rights Agreement (the \u201cRegistration Rights Agreement\u201d) with Citigroup Global Markets Inc., Deutsche Bank Securities Inc. and J.P. Morgan Securities LLC, as representatives of the initial purchasers in the Notes Offering.",
+              "class": "predicted header"
+            },
+            "63": {
+              "title": "Under the terms of the Registration Rights Agreement, T-Mobile USA and the guarantors have agreed to use commercially reasonable efforts to file a registration statement covering an offer to exchange the Notes for Exchange Securities (as defined in the Registration Rights Agreement) by August\u00a013, 2022. T-Mobile USA and the guarantors also have agreed to use commercially reasonable efforts to have such registration statement declared effective promptly thereafter and to consummate the Exchange Offer (as defined in the Registration Rights Agreement) not later than 60 days after the date such registration statement becomes effective. Alternatively, if T-Mobile USA is unable to consummate the Exchange Offer under certain conditions, or if holders of the Notes cannot participate in, or cannot obtain freely transferable Exchange Securities in connection with, the Exchange Offer for certain specified reasons, then T-Mobile USA and the guarantors have agreed to use commercially reasonable efforts to file a shelf registration statement within the times specified in the Registration Rights Agreement to facilitate resale of the Notes. All registration expenses (subject to limitations specified in the Registration Rights Agreement) will be paid by T-Mobile USA and the guarantors.",
+              "class": "predicted header"
+            },
+            "64": {
+              "title": "If, following August\u00a013, 2022, (x) the exchange offer registration statement is not on file with the SEC or (y)\u00a0a shelf registration statement (if required) is not on file with the SEC or is declared effective but thereafter ceases to be effective or usable (subject to certain exceptions), T-Mobile USA will be required to pay certain Additional Interest as defined in the Registration Rights Agreement.",
+              "class": "predicted header"
+            },
+            "65": {
+              "title": "Under the terms of the Registration Rights Agreement, T-Mobile USA and the guarantors have agreed to indemnify certain holders of the Notes against certain liabilities.",
+              "class": "predicted header"
+            },
+            "66": {
+              "title": "The above description of the Registration Rights Agreement is a summary only and is subject to, and qualified entirely by, the Registration Rights Agreement, which is filed as Exhibit 4.5 to this Current Report on Form 8-K and incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "67": {
+      "title": "Item\u00a09.01.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "68": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "69": {
+              "title": "The following exhibits are provided as part of this Current Report on Form 8-K:",
+              "class": "predicted header"
+            },
+            "70": {
+              "title": "(d) Exhibits:",
+              "class": "predicted header",
+              "contents": {
+                "71": {
+                  "table": [
+                    [
+                      "Exhibit\u00a0No.",
+                      "Description"
+                    ],
+                    [
+                      "4.1",
+                      "Indenture, dated as of April\u00a09, 2020 by and among T-Mobile USA, Inc., the Company and Deutsche Bank Trust Company Americas, as trustee (incorporated by reference to Exhibit 4.1 to the Company\u2019s Current Report on Form 8-K filed on April\u00a013, 2020)."
+                    ],
+                    [
+                      "4.2",
+                      "Seventeenth Supplemental Indenture, dated as of October\u00a028, 2020, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 3.600% Senior Secured Note due 2060 (incorporated by reference to Exhibit 4.7 to the Company\u2019s Current Report on Form 8-K filed on October\u00a028, 2020)."
+                    ],
+                    [
+                      "4.3",
+                      "Nineteenth Supplemental Indenture, dated as of August\u00a013, 2021, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 3.400% Senior Secured Note due 2052."
+                    ],
+                    [
+                      "4.4",
+                      "Twentieth Supplemental Indenture, dated as of August\u00a013, 2021, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee."
+                    ],
+                    [
+                      "4.5",
+                      "Registration Rights Agreement, dated as of August\u00a013, 2021, by and among T-Mobile USA, Inc., the Initial Guarantors (as defined therein) and Citigroup Global Markets Inc., Deutsche Bank Securities Inc. and J.P. Morgan Securities LLC, as representatives of the Initial Purchasers (as defined therein)."
+                    ],
+                    [
+                      "99.1",
+                      "Press release entitled \u201cT-Mobile Announces Proposed Offering of Senior Secured Notes.\u201d"
+                    ],
+                    [
+                      "99.2",
+                      "Press release entitled \u201cT-Mobile Agrees to Sell $2.0 Billion of Senior Secured Notes.\u201d"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "72": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "73": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "74": {
+              "table": [
+                [
+                  "August\u00a013, 2021",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Name:",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Title:",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

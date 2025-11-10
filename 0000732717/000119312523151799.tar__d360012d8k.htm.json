@@ -1,0 +1,689 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): May 18, 2023",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\n of Incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "11": {
+                  "table": [
+                    [
+                      "208 S. Akard St., Dallas, Texas",
+                      "75202"
+                    ],
+                    [
+                      "(Address of Principal Executive Offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s telephone number, including area code (210) 821-4105",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                },
+                "14": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):",
+                  "class": "predicted header"
+                },
+                "15": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "23": {
+              "title": "Securities Registered Pursuant to Section 12(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "24": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange on\nwhich registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March\u00a015, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May\u00a019, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September\u00a05, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September\u00a05, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September\u00a05, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September\u00a015, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March\u00a015, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due March\u00a06, 2025",
+                      "T 25A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due November 18, 2025",
+                      "T 25B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December\u00a017, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March\u00a04, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a05, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December\u00a04, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May\u00a019, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September\u00a05, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September\u00a014, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December\u00a017, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March\u00a04, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.950% Global Notes due April 30, 2031",
+                      "T 31F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May\u00a019, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December\u00a017, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November\u00a018, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March\u00a015, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.300% Global Notes due November 18, 2034",
+                      "T 34C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March\u00a015, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September\u00a04, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May\u00a019, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a014, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April\u00a030, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June\u00a01, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June\u00a01, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June\u00a01, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March\u00a01, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September\u00a01, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November\u00a01, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August\u00a01, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "25": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "Emerging growth company\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "28": {
+      "title": "ITEM\u00a05.07",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "29": {
+          "title": "Submission of Matters to a Vote of Security Holders",
+          "class": "predicted header",
+          "contents": {
+            "30": {
+              "title": "Annual Meeting of Stockholders",
+              "class": "predicted header"
+            },
+            "31": {
+              "title": "The 2023 Annual Meeting of the stockholders of AT&T Inc. was held virtually on May\u00a018, 2023. Stockholders representing 5,332,285,369 shares, or 74.54% of the 7,153,516,430 common shares outstanding as of the March\u00a020, 2023 record date, attended the meeting or were represented by proxy. Final voting results are shown below.",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "Each matter was determined by a majority of votes cast, except that the advisory approval of executive compensation and the advisory approval of the frequency of the vote on executive compensation were non-binding proposals and for each proposal, the preference of the stockholders was determined by the choice receiving the greatest number of votes.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "33": {
+          "title": "Election of Directors",
+          "class": "predicted header",
+          "contents": {
+            "34": {
+              "title": "The following Directors were elected by the affirmative vote of a majority of the votes cast.",
+              "class": "predicted header",
+              "contents": {
+                "35": {
+                  "table": [
+                    [
+                      "",
+                      "Votes Cast For",
+                      "Votes Cast For",
+                      "Votes Cast Against",
+                      "Votes Cast Against",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Nominee for Director",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Abstain",
+                      "Broker\n Non-Votes"
+                    ],
+                    [
+                      "Scott T. Ford",
+                      "3,712,141,047",
+                      "97.35%",
+                      "101,220,135",
+                      "2.65%",
+                      "17,098,613",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Glenn H. Hutchins",
+                      "3,147,763,730",
+                      "82.55%",
+                      "665,617,726",
+                      "17.45%",
+                      "17,072,344",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "William E. Kennard",
+                      "3,568,049,764",
+                      "93.56%",
+                      "245,552,473",
+                      "6.44%",
+                      "16,856,049",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Stephen J. Luczo",
+                      "3,719,816,990",
+                      "97.55%",
+                      "93,294,274",
+                      "2.45%",
+                      "17,343,908",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Michael B. McCallister",
+                      "3,696,648,490",
+                      "96.95%",
+                      "116,425,167",
+                      "3.05%",
+                      "17,385,255",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Beth E. Mooney",
+                      "3,578,346,320",
+                      "93.81%",
+                      "236,024,728",
+                      "6.19%",
+                      "16,086,755",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Matthew K. Rose",
+                      "3,675,465,917",
+                      "96.39%",
+                      "137,801,468",
+                      "3.61%",
+                      "17,187,492",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "John T. Stankey",
+                      "3,704,690,866",
+                      "97.16%",
+                      "108,150,997",
+                      "2.84%",
+                      "17,618,034",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Cynthia B. Taylor",
+                      "3,687,252,413",
+                      "96.67%",
+                      "127,101,115",
+                      "3.33%",
+                      "16,104,968",
+                      "1,501,822,990"
+                    ],
+                    [
+                      "Luis A. Ubi\u00f1as",
+                      "3,388,296,205",
+                      "88.86%",
+                      "424,700,409",
+                      "11.14%",
+                      "17,465,092",
+                      "1,501,822,990"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "36": {
+          "title": "Proposals Submitted by Board of Directors",
+          "class": "predicted header",
+          "contents": {
+            "37": {
+              "title": "The ratification of the appointment of Independent Auditors received the affirmative vote of a majority of the votes cast and was passed. The advisory approval of executive compensation and a frequency of every one year for the advisory approval of the frequency of the vote on executive compensation also received the affirmative vote of a majority of the votes cast in non-binding votes.",
+              "class": "predicted header",
+              "contents": {
+                "38": {
+                  "table": [
+                    [
+                      "",
+                      "Votes Cast For",
+                      "Votes Cast For",
+                      "Votes Cast Against",
+                      "Votes Cast Against",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Proposal",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Abstain",
+                      "Broker\n Non-Votes"
+                    ],
+                    [
+                      "Ratification of appointment of Independent Auditors",
+                      "5,053,938,773",
+                      "95.19%",
+                      "255,101,432",
+                      "4.81%",
+                      "23,242,146",
+                      "0"
+                    ],
+                    [
+                      "Advisory approval of executive compensation",
+                      "3,501,384,855",
+                      "92.33%",
+                      "290,716,244",
+                      "7.67%",
+                      "38,350,176",
+                      "1,501,829,972"
+                    ]
+                  ]
+                },
+                "39": {
+                  "table": [
+                    [
+                      "",
+                      "Votes Cast For\n 3 Years",
+                      "Votes Cast For\n 3 Years",
+                      "Votes Cast For\n 2 Years",
+                      "Votes Cast For\n 2 Years",
+                      "Votes Cast For\n 1 Year",
+                      "Votes Cast For\n 1 Year",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Proposal",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Abstain",
+                      "Broker\n Non-Votes"
+                    ],
+                    [
+                      "Advisory approval of the frequency of the vote on executive compensation (1)",
+                      "141,436,005",
+                      "3.72%",
+                      "21,810,124",
+                      "0.57%",
+                      "3,642,262,371",
+                      "95.71%",
+                      "24,900,987",
+                      "1,501,823,290"
+                    ]
+                  ]
+                }
+              }
+            },
+            "40": {
+              "title": "(1)",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "The company has determined to submit the advisory stockholder vote on executive compensation to stockholders on an annual basis.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "42": {
+          "title": "Proposals Submitted by Stockholders",
+          "class": "predicted header",
+          "contents": {
+            "43": {
+              "title": "The following proposals failed to receive the affirmative vote of the majority of votes cast and were defeated.",
+              "class": "predicted header",
+              "contents": {
+                "44": {
+                  "table": [
+                    [
+                      "",
+                      "Votes Cast For",
+                      "Votes Cast For",
+                      "Votes Cast Against",
+                      "Votes Cast Against",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Proposals",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Number",
+                      "%\u00a0of\u00a0Votes\nCast",
+                      "Abstain",
+                      "Broker\n Non-Votes"
+                    ],
+                    [
+                      "Independent Board Chairman",
+                      "1,306,037,115",
+                      "34.37%",
+                      "2,494,156,952",
+                      "65.63%",
+                      "30,259,813",
+                      "1,501,831,298"
+                    ],
+                    [
+                      "Racial Equity Audit",
+                      "805,363,113",
+                      "21.54%",
+                      "2,933,739,259",
+                      "78.46%",
+                      "91,357,805",
+                      "1,501,823,634"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "45": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "46": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "47": {
+              "table": [
+                [
+                  "",
+                  "AT&T INC.",
+                  "AT&T INC."
+                ],
+                [
+                  "Date: May\u00a023, 2023",
+                  "By:",
+                  "/s/ Stacey Maris"
+                ],
+                [
+                  "",
+                  "",
+                  "Stacey Maris"
+                ],
+                [
+                  "",
+                  "",
+                  "Senior Vice President \u2013 Deputy General Counsel and Secretary"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

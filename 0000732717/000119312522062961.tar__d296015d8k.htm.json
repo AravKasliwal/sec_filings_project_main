@@ -1,0 +1,576 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported) March 2, 2022",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ]
+                  ]
+                },
+                "11": {
+                  "table": [
+                    [
+                      "208 S. Akard St., Dallas, Texas",
+                      "75202"
+                    ],
+                    [
+                      "(Address of Principal Executive Offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s telephone number, including area code (210) 821-4105",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                },
+                "14": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):",
+                  "class": "predicted header"
+                },
+                "15": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "23": {
+              "title": "Securities Registered Pursuant to Section 12(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "24": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading Symbol(s)",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                      "T 21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "25": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "Emerging growth company \u2610",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "28": {
+      "title": "ITEM\u00a01.01 Entry into a Material Definitive Agreement.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "29": {
+          "title": "On March\u00a02, 2022, AT&T Inc. (the \u201cCompany\u201d) entered into a $7.35\u00a0billion Amended and Restated Term Loan Credit Agreement (the \u201cTerm Loan\u201d), with Bank of America, N.A. (\u201cBank of America\u201d), as agent. The proceeds of the Term Loan will be used by the Company for the refinancing of the Company\u2019s borrowings under that certain Term Loan Credit Agreement dated as of January\u00a029, 2021 among the Company, the lenders party thereto and Bank of America.",
+          "class": "predicted header"
+        },
+        "30": {
+          "title": "Advances will bear interest, at the Company\u2019s option, either:",
+          "class": "predicted header"
+        },
+        "31": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "at a variable annual rate (\u201cBase Rate\u201d) equal to the highest of (but not less than 1.00%) (a)\u00a0the prime rate quoted by The Wall Street Journal, (b)\u00a00.5% per annum above the federal funds rate, and (c)\u00a0Term SOFR plus 1.00%; or",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "at a rate (\u201cTerm SOFR\u201d) equal to: (i)\u00a0the forward-looking SOFR term rate administered by CME Group Benchmark Administration Limited (or the successor thereto satisfactory to Bank of America) for a period of one or three months, as applicable, plus (ii)\u00a0an applicable margin, as set forth in the Term Loan (the \u201cApplicable Margin for Term SOFR Advances\u201d).",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "The Term Loan is not subject to amortization and the entire principal amount of the Term Loan will be due and payable on December\u00a031, 2022.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "The Applicable Margin for Term SOFR Advances under the Term Loan will be equal to 0.625%, 0.750%, 0.875% or 1.00% per annum depending on the Company\u2019s senior unsecured long-term debt ratings.",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "In the event that the Company\u2019s unsecured long-term debt ratings are split by S&P, Moody\u2019s and Fitch, then the Applicable Margin for Term SOFR Advances will be determined by the highest of the three ratings, except that in the event the lowest of such ratings is more than one level below the highest of such ratings, then the Applicable Margin for Term SOFR Advances will be determined based on the level that is one level above the lowest of such ratings.",
+          "class": "predicted header"
+        },
+        "38": {
+          "title": "The Term Loan contains certain representations and warranties and covenants, including a limitation on liens covenant and a net debt-to-EBITDA financial ratio covenant that the Company will maintain, as of the last day of each fiscal quarter, a ratio of not more than 4.0 to 1 of:",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "title": "(A)",
+              "class": "predicted header"
+            }
+          }
+        },
+        "40": {
+          "title": "all items that would be treated under accounting principles generally accepted in the United States (\u201cGAAP\u201d) as specified in the Term Loan as indebtedness on the Company\u2019s consolidated balance sheet minus the amount by which the sum of (i) 100% of unrestricted cash and cash equivalents held by the Company and its subsidiaries in the United States, and funds available on demand by the Company and its subsidiaries in the United States (including but not limited to time deposits), and (ii) 65% of unrestricted cash and cash equivalents held by the Company and its subsidiaries outside of the United States, exceeds $2\u00a0billion in the aggregate (for the avoidance of doubt, any cash and cash equivalents held by the Company and its subsidiaries outside of the United States shall not be considered \u201crestricted\u201d solely as a result of the repatriation of such cash and cash equivalents being subject to any legal limitation or otherwise resulting in adverse tax consequences to the Company, and the indebtedness of DIRECTV Entertainment Holdings LLC and its subsidiaries shall not be included when calculating clause (A)), to",
+          "class": "predicted header",
+          "contents": {
+            "41": {
+              "title": "(B)",
+              "class": "predicted header"
+            }
+          }
+        },
+        "42": {
+          "title": "the net income of the Company and its consolidated subsidiaries, determined on a consolidated basis for the four quarters then ended in accordance with GAAP, adjusted to exclude the effects of (a)\u00a0gains or losses from discontinued operations, (b)\u00a0any extraordinary or other non-recurring non-cash gains or losses (including non-cash restructuring charges), (c) accounting changes including any changes to Accounting Standards Codification 715 (or any subsequently adopted standards relating to pension and postretirement benefits) adopted by the Financial Accounting Standards Board after the date of the Term Loan, (d)\u00a0interest expense, (e)\u00a0income tax expense or benefit, (f)\u00a0depreciation, amortization and other non-cash charges (including actuarial gains or losses from pension and postretirement plans), (g) interest income, (h)\u00a0equity income and losses and (i)\u00a0other non-operating income or expense. In the event the Company makes a Material Acquisition or a Material Disposition (each as defined in the Term Loan) during the relevant four quarter period, pro forma effect will be given to such material acquisition or material disposition, as if such material acquisition or material disposition occurred on the first day of such period.",
+          "class": "predicted header"
+        },
+        "43": {
+          "title": "Events of default under the Term Loan, which, if occurring after the advances are made, would result in the acceleration of or permit the lenders to accelerate, as applicable, required payment and which would increase the Base Rate and the Term SOFR by 2.00% per annum, whether automatically or upon the request of the requisite lenders, as applicable, include the following:",
+          "class": "predicted header"
+        },
+        "44": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "45": {
+          "title": "Failure to pay principal or interest, fees or other amounts under the Term Loan beyond any applicable grace period;",
+          "class": "predicted header"
+        },
+        "46": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "47": {
+          "title": "Material breaches of representations and warranties in the Term Loan;",
+          "class": "predicted header"
+        },
+        "48": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "49": {
+          "title": "Failure to comply with the preservation of corporate existence, visitation rights or reporting requirements specified under the Term Loan;",
+          "class": "predicted header"
+        },
+        "50": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "51": {
+          "title": "Failure to comply with the negative covenants or the net debt-to-EBITDA ratio covenant described above;",
+          "class": "predicted header"
+        },
+        "52": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "53": {
+          "title": "Failure to comply with other covenants under the Term Loan for a specified period after notice;",
+          "class": "predicted header"
+        },
+        "54": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "55": {
+          "title": "Failure by the Company or its material subsidiaries, as applicable, to pay when due other debt of $1\u00a0billion (or higher threshold amount under the Company\u2019s existing $15\u00a0billion revolving credit agreements, but in no event higher than",
+          "class": "predicted header"
+        },
+        "56": {
+          "title": "$2 billion) (the \u201cThreshold Amount\u201d) after any applicable grace period, (2)\u00a0the occurrence of any other event or condition under any agreement or instrument related to such other debt (other than any required prepayment due to illegality or termination of enforceability of any export credit guarantee) if the effect is to accelerate the maturity of such other debt or (3)\u00a0the declaration of any such other debt to be due and payable prior to the stated maturity thereof or required to be prepaid or redeemed, purchased or defeased or an offer to prepay, redeem, purchase or defease is required to be made prior to the stated maturity thereof (clauses (2)\u00a0and (3) are commonly referred to as \u201ccross-acceleration\u201d), except that no debt of a person that is merged into or consolidated with the Company or any material subsidiary of the Company or that becomes a material subsidiary of the Company is covered by this cross-acceleration provision for a period of 90 days after the date that such other debt becomes debt of the Company or any of its material subsidiaries, and cross-acceleration does not apply to any prepayment or similar event resulting from a voluntary notice of prepayment or similar action;",
+          "class": "predicted header"
+        },
+        "57": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "58": {
+          "title": "Commencement by a creditor of enforcement proceedings within a specified period after a money judgment in excess of the Threshold Amount has become final unless such claim is otherwise insured;",
+          "class": "predicted header"
+        },
+        "59": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "60": {
+          "title": "Acquisition by any person or group of beneficial ownership of more than 50% of the Company common shares;",
+          "class": "predicted header"
+        },
+        "61": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "62": {
+          "title": "Failure by the Company or certain affiliates to make certain minimum funding payments under the Employee Retirement Income Security Act of 1974, and such failure could reasonably be expected to subject the Company to liabilities in excess of the Threshold Amount; and",
+          "class": "predicted header"
+        },
+        "63": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "64": {
+          "title": "Specified events of bankruptcy or insolvency.",
+          "class": "predicted header"
+        },
+        "65": {
+          "title": "The description of the Term Loan contained in this Item 1.01 does not purport to be complete and is qualified in its entirety by reference to the Term Loan, which is attached hereto as Exhibit 10.1 and is incorporated herein by reference.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "66": {
+      "title": "ITEM\u00a02.03 Creation of a Direct Financial Obligation or an Obligation Under an Off-Balance Sheet Arrangement of a Registrant",
+      "standardized_title": "item2.03",
+      "class": "item",
+      "contents": {
+        "67": {
+          "title": "To the extent required by Item 2.03 of Form 8-K, the information set forth in Item 1.01 above is incorporated herein by reference.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "68": {
+      "title": "ITEM\u00a09.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "69": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "70": {
+              "table": [
+                [
+                  "10.1",
+                  "U.S. $7,350,000,000 Amended and Restated Term Loan Credit Agreement, dated as of March\u00a02, 2022, among AT&T Inc., the lenders named therein and Bank of America, N.A., as agent."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "71": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "72": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "73": {
+              "table": [
+                [
+                  "",
+                  "AT&T INC.",
+                  "AT&T INC."
+                ],
+                [
+                  "Date: March\u00a02, 2022",
+                  "By:",
+                  "/s/ George B Goeke"
+                ],
+                [
+                  "",
+                  "",
+                  "George B. Goeke"
+                ],
+                [
+                  "",
+                  "",
+                  "Senior Vice President and Treasurer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

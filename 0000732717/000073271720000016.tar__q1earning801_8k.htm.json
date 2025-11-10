@@ -1,0 +1,634 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported) April 22, 2020",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\n\n          of Incorporation)",
+                      "(Commission\n\n          File Number)",
+                      "(IRS Employer\n\n          Identification No.)"
+                    ],
+                    [
+                      "208 S. Akard St.,\n            Dallas, Texas\n\n          (Address of Principal Executive Offices)",
+                      "208 S. Akard St.,\n            Dallas, Texas\n\n          (Address of Principal Executive Offices)",
+                      "75202\n\n          \n\n          (Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "11": {
+              "title": "Registrant\u2019s telephone number, including area code (210) 821-4105",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                },
+                "13": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing\n    obligation of the registrant under any of the following provisions (see General Instruction A.2. below):"
+                },
+                "14": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "15": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "16": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b)\n          under the Exchange Act (17 CFR 240-14d-2(b))"
+                },
+                "17": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c)\n          under the Exchange Act (17 CFR 240.13e-4(c))"
+                }
+              }
+            },
+            "18": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n          Symbol(s)",
+                      "Name of each exchange\n\n          on which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "TPRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "TPRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due August 3, 2020",
+                      "T 20C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.875% Global Notes due December 4, 2020",
+                      "T 20",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                      "T 21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "20": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n          Symbol(s)",
+                      "Name of each exchange\n\n          on which registered"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "21": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this\n    chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "22": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "23": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any\n    new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "title": "Item 8.01\u00a0 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "25": {
+          "title": "Throughout this document, AT&T Inc. is referred to as \u201cwe\u201d or \u201cAT&T.\u201d AT&T is a holding company whose\n      subsidiaries and affiliates operate worldwide in the telecommunications, media and technology industries.",
+          "class": "predicted header"
+        },
+        "26": {
+          "title": "COVID-19 Update",
+          "class": "predicted header"
+        },
+        "27": {
+          "title": "In March 2020, the World Health Organization designated the coronavirus (COVID-19) a pandemic and the\n      President of the United States declared a national emergency. To date, COVID-19 has surfaced in nearly all regions around the world and resulted in travel restrictions and business slowdowns or shutdowns.",
+          "class": "predicted header"
+        },
+        "28": {
+          "title": "Disruptions caused by COVID-19 and measures taken to prevent its spread or mitigate its effects both\n      domestically and internationally have impacted our results of operations. In the first quarter of 2020, we recognized approximately $430 million, or $0.05 per share, of incremental costs associated with bad debt reserves, voluntary corporate actions\n      taken primarily to protect and compensate front-line employees and contractors, and WarnerMedia production shutdown costs. We expect more than half of these incremental charges will be short-term in nature.",
+          "class": "predicted header"
+        },
+        "29": {
+          "title": "In addition to these incremental costs, our operations and comparability were impacted by (1) the\n      cancellation of the NCAA Division I Men\u2019s Basketball Tournament, resulting in lower advertising revenues and associated expenses, (2) closures of retail stores, contributing to a decline in wireless equipment sales, with a corresponding reduction in\n      equipment expense and (3) the imposition of travel restrictions, driving significantly lower wireless roaming services that do not have a directly correlated expense reduction. The net impact of these items on profitability was not significant.",
+          "class": "predicted header"
+        },
+        "30": {
+          "title": "All subscriber counts at and for the period ended March 31, 2020, exclude customers who we have agreed\n      not to terminate service under the FCC\u2019s \u201cKeep Americans Connected Pledge.\u201d For reporting purposes, we count these subscribers as if they had disconnected service.",
+          "class": "predicted header"
+        },
+        "31": {
+          "title": "The economic effects of the\n        pandemic and resulting societal changes are currently not predictable. We expect that COVID-19 could affect additional areas of our business in future quarters and that the financial impacts could vary from those seen in the first quarter. There\n        are a number of uncertainties that could impact our future results of operations, including the effectiveness of COVID-19 mitigation measures; the duration of the pandemic; global economic conditions;\n        changes to our operations; changes in consumer confidence, behaviors and spending; work from home trends; and the sustainability of supply chains.",
+          "class": "predicted header",
+          "contents": {
+            "32": {
+              "title": "Overview",
+              "class": "predicted header"
+            }
+          }
+        },
+        "33": {
+          "title": "We announced on April 22, 2020\n        that first-quarter 2020 net income attributable to common stock totaled $4.6 billion, or $0.63 per diluted share, compared to $4.1 billion, or $0.56 per diluted share, in the first quarter of 2019. First-quarter 2020 revenues were $42.8 billion,\n        down 4.6 percent from the first quarter of 2019, primarily due to declines at WarnerMedia reflecting strong theatrical carryover revenues in the first quarter of 2019, continued declines in video\n        subscriptions and legacy services, lower wireless equipment sales resulting from store closures and declines at Vrio from foreign exchange impacts. Partially offsetting these declines was growth in wireless service revenues and strategic and\n        managed business services. Compared with results for the first quarter of 2019, current quarter operating expenses were $35.3 billion, down 6.1 percent, primarily\n          due to a one-time gain on a spectrum transaction, lower costs of revenues at our Entertainment Group business unit and WarnerMedia segment, lower wireless equipment costs resulting from lower device sales and cost efficiencies. First-quarter\n          operating income was $7.5\u00a0billion compared to $7.2 billion in the comparable 2019 period, and AT&T\u2019s first-quarter operating income margin was 17.5 percent, compared to 16.1\u00a0percent.",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "First-quarter 2020 cash from\n        operating activities was $8.9 billion, down $2.2 billion when compared to 2019, driven by WarnerMedia profits, including increased HBO Max investments and higher Warner Bros. production spend; lower\n        incremental receivable securitization; and working capital pressures, specifically lower business collections late in the quarter as customers extended their payment cycles, presumably in response to the\n        economic challenges of the pandemic. Capital expenditures in the first quarter of 2020 were $5.0 billion, and when including approximately $790 million cash paid\n          for vendor financing, with no significant FirstNet reimbursements, gross capital investment was $5.8 billion.",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "title": "Segment Summary",
+              "class": "predicted header",
+              "contents": {
+                "36": {
+                  "text": "We analyze our segments based on, among other things,\n        segment contribution, which consists of operating income, excluding acquisition-related costs and other significant items, and equity in net income (loss) of affiliates for investments managed within each segment. Our reportable segments\n      are: Communications, WarnerMedia, Latin America and Xandr."
+                }
+              }
+            },
+            "37": {
+              "title": "Communications",
+              "class": "predicted header",
+              "contents": {
+                "38": {
+                  "text": "Our Communications segment consists of our Mobility, Entertainment Group and Business Wireline business units."
+                },
+                "39": {
+                  "text": "First-quarter 2020 operating revenues were $34.2 billion, down 2.6 percent versus first-quarter 2019, with segment operating contribution of\n      $8.2 billion, up 2.4 percent versus the year-ago quarter. The Communications segment operating income margin was 24.0 percent, compared to 22.8 percent in the year-earlier quarter."
+                },
+                "40": {
+                  "title": "Mobility",
+                  "class": "predicted header",
+                  "contents": {
+                    "41": {
+                      "text": "Mobility revenues for the first quarter of 2020 were $17.4 billion, up 0.2 percent versus the first quarter of 2019, driven by higher service\n      revenues resulting from prepaid subscriber gains and postpaid phone average revenue per subscriber (ARPU) growth, partially offset by decreased equipment\n      revenues with lower handset upgrade rates including impacts from store closures related to COVID-19. Mobility operating expenses totaled $11.6 billion, down 3.7 percent versus the first quarter of 2019. The decrease was driven by lower postpaid\n      upgrade rates, less advertising costs and continued cost efficiencies, partially offset by higher bad debt. Mobility\u2019s operating income margin was 33.3\n      percent compared to 30.6 percent in the year-ago quarter."
+                    },
+                    "42": {
+                      "text": "In our Mobility business unit, during the first quarter of 2020, we reported a net gain of 3.3 million wireless subscribers. At March 31, 2020,\n      wireless subscribers totaled 169.2 million (including more than 1.3 million FirstNet connections) compared to 154.7 million at March 31, 2019."
+                    },
+                    "43": {
+                      "text": "During the first quarter, total phone net adds were 120,000, with total net adds by subscriber category as\u00a0follows:"
+                    },
+                    "44": {
+                      "text": "\u2022Postpaid subscriber net adds were 27,000, with phone net adds of 163,000 offsetting losses from tablets."
+                    },
+                    "45": {
+                      "text": "\u2022Prepaid subscriber net adds were a loss of 45,000, with phone net losses of 43,000."
+                    },
+                    "46": {
+                      "text": "\u2022Reseller net losses were 190,000."
+                    },
+                    "47": {
+                      "text": "\u2022Connected device net adds were 3.5 million, 2.5 million of which were primarily attributable to wholesale connected cars."
+                    },
+                    "48": {
+                      "text": "For the quarter ended March 31, 2020, postpaid phone-only ARPU increased 0.7 percent versus the year-earlier quarter."
+                    },
+                    "49": {
+                      "text": "Postpaid phone-only churn was 0.86 percent, compared to 0.92 percent in the first quarter of 2019. Total postpaid churn was 1.08 percent,\n      compared to 1.16 percent in the year-ago quarter."
+                    }
+                  }
+                },
+                "50": {
+                  "title": "Entertainment Group",
+                  "class": "predicted header",
+                  "contents": {
+                    "51": {
+                      "text": "Entertainment Group (Entertainment) revenues for the first quarter of 2020 were $10.5 billion, down 7.2 percent versus the year-ago quarter,\n      reflecting continuing declines in video subscribers and legacy services that were partially offset by higher broadband revenues. Entertainment operating expenses totaled $9.2 billion, down 6.8 percent versus the first quarter of 2019. The decrease\n      was largely driven by lower content costs from fewer subscribers and ongoing cost initiatives, partially offset by higher amortization of fulfillment cost deferrals. Entertainment operating income margin was 12.7 percent compared to 13.0 percent in\n      the year-earlier quarter."
+                    },
+                    "52": {
+                      "text": "At March 31, 2020, Entertainment revenue connections included:"
+                    },
+                    "53": {
+                      "text": "\u2022Approximately 19.4 million video connections (including 788,000 AT&T TV Now subscribers) at March 31, 2020 compared to 23.9 million\n              at March 31, 2019. During the first quarter of 2020, premium TV video subscribers, which includes AT&T TV, had a net loss of 897,000. AT&T TV NOW, our over-the-top video service, subscribers had a net loss of 138,000."
+                    },
+                    "54": {
+                      "text": "\u2022Approximately 14.0 million broadband connections at March 31, 2020 compared to 14.5 million at March 31, 2019. During the first quarter,\n              IP broadband subscribers had a net loss of 44,000 (including fiber broadband net adds of 209,000), with 13.6 million subscribers at March 31, 2020."
+                    }
+                  }
+                },
+                "55": {
+                  "title": "Business Wireline",
+                  "class": "predicted header",
+                  "contents": {
+                    "56": {
+                      "text": "Business Wireline (Business) revenues for the first quarter of 2020 were $6.3 billion, down 2.3 percent versus the year-ago quarter, reflecting\n    continued declines in legacy services, partially offset by growth in strategic and managed services. Business operating expenses totaled $5.3 billion, flat when compared to the first quarter of 2019. Business operating income margin was 17.1 percent\n    compared to 18.9 percent in the year-earlier quarter."
+                    },
+                    "57": {
+                      "text": "At March 31, 2020, our total switched access lines (Entertainment and Business) were 8.2 million compared to 9.6 million at March 31, 2019. The\n    number of U-verse voice connections (which use VoIP technology and therefore are not included in the access line total) decreased by 156,000 in the quarter, totaling 4.2 million at March 31, 2020, compared to 4.9 million at March 31, 2019."
+                    }
+                  }
+                }
+              }
+            },
+            "58": {
+              "title": "WarnerMedia",
+              "class": "predicted header",
+              "contents": {
+                "59": {
+                  "text": "Our WarnerMedia segment consists of our Turner, HBO and Warner Bros. business units. First-quarter 2020 operating revenues were $7.4 billion, down\n    12.2 percent versus first-quarter 2019, with segment operating contribution of $1.7 billion, down 25.8 percent versus the year-ago quarter. The WarnerMedia segment operating income margin was 23.1 percent, compared to 26.8 percent in the year-earlier\n    quarter."
+                },
+                "60": {
+                  "title": "Turner",
+                  "class": "predicted header",
+                  "contents": {
+                    "61": {
+                      "text": "Turner revenues for the first quarter of 2020 were $3.2 billion, down 8.2 percent versus the first quarter of 2019, driven by lower advertising\n    revenues primarily from the cancellation of the NCAA Division I Men\u2019s Basketball Tournament. Partially offsetting the advertising revenue decline was increased subscription revenues, reflecting higher domestic affiliate rates partially offset by\n    unfavorable foreign exchange rates. Turner operating expenses totaled $1.8 billion, down 19.0 percent versus the first quarter of 2019, driven by lower programming and marketing expenses. Turner operating income margin was 43.7 percent compared to 36.2\n    percent in the year-earlier quarter."
+                    },
+                    "62": {
+                      "title": "HBO",
+                      "class": "predicted header",
+                      "contents": {
+                        "63": {
+                          "text": "HBO revenues for the first quarter of 2020 were $1.5 billion, down 0.9 percent versus the first quarter of 2019, driven by a decrease in content\n    and other revenues resulting from lower content licensing. Subscription revenues were essentially flat, reflecting higher digital and international growth, partially offset by lower domestic linear subscribers. HBO operating expenses totaled $1.1\n    billion, up 13.9 percent versus the first quarter of 2019, driven by increased programming expenses related to the upcoming launch of HBO Max, partially offset by lower marketing expenses. HBO operating income margin was 28.3 percent compared to 37.5\n    percent in the year-earlier quarter."
+                        },
+                        "64": {
+                          "title": "Warner Bros.",
+                          "class": "predicted header",
+                          "contents": {
+                            "65": {
+                              "text": "Warner Bros. revenues for the first quarter of 2020 were $3.2 billion, down 7.9 percent versus the first quarter of 2019, driven by unfavorable\n    comparisons to the prior comparable period, which included, in 2019, carryover revenues from the theatrical release of Aquaman, in addition to a more\n    favorable mix of home entertainment releases, and lower initial telecast revenues resulting from COVID-19 related television production delays. Warner Bros. operating expenses totaled $3.0 billion, up 0.7 percent versus the first quarter of 2019, due\n    in part, to higher bad debt reserves. Warner Bros. operating income margin was 7.7 percent compared to 15.5 percent in the year-earlier quarter."
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "66": {
+              "title": "Latin America",
+              "class": "predicted header"
+            }
+          }
+        },
+        "67": {
+          "title": "Our Latin America segment consists of our Mexico and Vrio business units and is subject to foreign currency fluctuations.\n      First-quarter 2020 operating revenues were $1.6 billion, down 7.5 percent versus the prior year. Segment operating contribution was $(184) million, versus $(173) million in the comparable 2019 period. Both operating revenue and segment contribution\n      declines were driven by foreign exchange pressures. The Latin America operating income margin was (11.8) percent, compared to (10.1) percent in the year-earlier quarter.",
+          "class": "predicted header",
+          "contents": {
+            "68": {
+              "title": "Mexico",
+              "class": "predicted header"
+            }
+          }
+        },
+        "69": {
+          "title": "Wireless revenues were $703 million, up 8.0 percent when compared to the first quarter of 2019. Increased revenues were\n      primarily due to increased service revenue from prepaid subscriber growth. Operating expenses were $848 million, down 0.9 percent and Mexico\u2019s operating income margin was (20.6) percent, compared to (31.5) percent in the year-earlier quarter.",
+          "class": "predicted header"
+        },
+        "70": {
+          "title": "We had approximately 19.2 million Mexican wireless subscribers at March 31, 2020 compared to 17.7 million at March 31, 2019.\n      During the first quarter of 2020, we had prepaid net adds of 108,000 and postpaid net losses of 141,000.",
+          "class": "predicted header",
+          "contents": {
+            "71": {
+              "title": "Vrio",
+              "class": "predicted header"
+            }
+          }
+        },
+        "72": {
+          "title": "Video service revenues were $887 million, down 16.9 percent versus the prior year. Operating expenses were $930 million,\n      down 10.1 percent. Both operating revenue and expense declines were driven by foreign exchange pressures. Vrio\u2019s operating income margin was (4.8) percent, compared to 3.0 percent in the year-earlier quarter.",
+          "class": "predicted header"
+        },
+        "73": {
+          "title": "We had approximately 13.2 million Latin America video connections at March 31, 2020 compared to 13.6 million at March 31,\n      2019. During the first quarter of 2020, video net losses were 114,000.",
+          "class": "predicted header",
+          "contents": {
+            "74": {
+              "title": "Xandr",
+              "class": "predicted header"
+            }
+          }
+        },
+        "75": {
+          "title": "Our Xandr segment provides advertising services utilizing data insights to develop higher-value targeted advertising.\n      Certain revenues in this segment are also reported by the Communications segment and are eliminated upon consolidation. First-quarter 2020 operating revenues were $489 million, up 14.8 percent versus the prior year. Operating expenses were $190\n      million, up 9.8 percent due to investment in new technology and the development of our data advertising platform. Xandr segment operating contribution was $299 million, up 18.2 percent versus first-quarter 2019. The Xandr segment operating income\n      margin was 61.1 percent, compared to 59.4 percent in the year-earlier quarter.",
+          "class": "predicted header",
+          "contents": {
+            "76": {
+              "title": "Supplemental Discussions",
+              "class": "predicted header"
+            }
+          }
+        },
+        "77": {
+          "title": "As a supplemental discussion of our operating results, for comparison purposes, we are providing (1) our AT&T Business\n      Solutions results which include both wireless and wireline operations and (2) a combined view of reported advertising revenues across all segments of AT&T. A reconciliation of the non-GAAP numbers in this supplemental discussion is attached as\n      exhibit 99.2 hereto.",
+          "class": "predicted header",
+          "contents": {
+            "78": {
+              "title": "AT&T Business Solutions\n      ",
+              "class": "predicted header"
+            }
+          }
+        },
+        "79": {
+          "title": "Revenues from AT&T Business Solutions for the first quarter of 2020 were $9.0 billion, up 1.7 percent versus the\n        year-ago quarter, driven by growth in wireless revenues and strategic and managed services, partially offset by declines in our legacy voice and data services. Operating expenses totaled $7.3 billion, up 2.7 percent versus the first quarter of\n        2019. AT&T Business Solutions operating income margin was 18.4 percent, compared to 19.3 percent in the year-earlier quarter.",
+          "class": "predicted header",
+          "contents": {
+            "80": {
+              "title": "AT&T Advertising Revenues",
+              "class": "predicted header"
+            }
+          }
+        },
+        "81": {
+          "title": "Total AT&T Advertising revenues for the first quarter of 2020 were $1.5 billion, down 12.9 percent, primarily driven\n        by WarnerMedia.",
+          "class": "predicted header",
+          "contents": {
+            "82": {
+              "title": "Other Matters",
+              "class": "predicted header"
+            }
+          }
+        },
+        "83": {
+          "title": "We maintain a share repurchase program for common stock that is authorized by our Board of Directors. In the first quarter of 2020,\n        repurchases totaled 141.6 million shares, or $5.3 billion. On March 19, 2020, we announced the cancellation of an accelerated share repurchase agreement that was planned for the second quarter and all other repurchases\u00a0to maintain flexibility and focus on continued investment in serving our customers, taking care of our employees and enhancing our network, including 5G.",
+          "class": "predicted header"
+        },
+        "84": {
+          "title": "Due to the uncertainty of the COVID-19 pandemic and recovery, we have withdrawn our prior financial guidance.",
+          "class": "predicted header",
+          "contents": {
+            "85": {
+              "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+              "class": "predicted header"
+            }
+          }
+        },
+        "86": {
+          "title": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and\n        uncertainties. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on\n        new information or otherwise.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "87": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "88": {
+          "text": "The following exhibits are filed as part of this report:"
+        },
+        "89": {
+          "text": "(d)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Exhibits"
+        },
+        "90": {
+          "table": [
+            [
+              "99.1",
+              "AT&T Inc. selected financial statements and operating data."
+            ],
+            [
+              "99.2",
+              "Discussion and reconciliation of non-GAAP measures."
+            ],
+            [
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        }
+      }
+    },
+    "91": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "92": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be\n        signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "93": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: April 22, 2020",
+              "By: /s/ Debra L. Dial\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\n              \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Debra L. Dial\n\n              \u00a0Senior Vice President and Controller"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

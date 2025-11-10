@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): September\u00a04, 2025",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g907284g0904065448081.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former name or former address, if changed since last report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d- 2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e- 4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n Symbol(s)",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.550% Senior Notes due 2029",
+                          "TMUS29",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.700% Senior Notes due 2032",
+                          "TMUS32",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.150% Senior Notes due 2032",
+                          "TMUS32A",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.850% Senior Notes due 2036",
+                          "TMUS36",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.500% Senior Notes due 2037",
+                          "TMUS37",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.800% Senior Notes due 2045",
+                          "TMUS45",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "6.250% Senior Notes due 2069",
+                          "TMUSL",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "5.500% Senior Notes due March 2070\n 5.500% Senior Notes due June 2070",
+                          "TMUSZ\n TMUSI",
+                          "The NASDAQ Stock Market LLC\n The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company\u2002\u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u2002\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u20097.01 \u2014 Regulation FD Disclosure.",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "On September\u00a04, 2025, T-Mobile US, Inc. (the \u201cCompany\u201d) issued a press release providing updated guidance for its recently closed acquisition of United States Cellular Corporation and an update on its business transformation initiatives.",
+          "class": "predicted header"
+        },
+        "31": {
+          "title": "A copy of the press release is attached hereto as Exhibit 99.1.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "The information contained in Item 7.01, including Exhibit 99.1, shall not be deemed \u201cfiled\u201d for purposes of Section\u00a018 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "33": {
+      "title": "Item\u20099.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "34": {
+          "title": "(d)\u00a0Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "table": [
+                [
+                  "Exhibit\nNo.",
+                  "Description"
+                ],
+                [
+                  "99.1",
+                  "Press Release dated September\u00a04, 2025 (furnished under Item 7.01)."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "36": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "37": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "38": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "September\u00a04, 2025",
+                  "/s/ Peter Osvaldik",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Name:\n Title:",
+                  "Peter Osvaldik \nExecutive Vice President and\n Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

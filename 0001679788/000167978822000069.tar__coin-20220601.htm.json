@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): June 1, 2022",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable(1)",
+                          "Address Not Applicable(1)"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "17": {
+              "title": "(1)",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "23": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "28": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "Nasdaq Global Select Market"
+                            ]
+                          ]
+                        },
+                        "29": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "30": {
+                          "text": "(1) We are a remote-first company. Accordingly, we do not maintain a headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and Securities Exchange Act of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email address set forth in our proxy materials and/or identified on our investor relations website."
+                        },
+                        "31": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "32": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 5.07. Submission of Matters to a Vote of Security Holders.",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "On June 1, 2022, Coinbase Global, Inc. (the \u201cCompany\u201d) held its 2022 annual meeting of stockholders (the \u201cAnnual Meeting\u201d). The Company\u2019s stockholders voted on four proposals at the Annual Meeting, each of which is described below as well as more fully in the Company\u2019s definitive proxy statement filed with the Securities and Exchange Commission on April 20, 2022, as supplemented on May 10, 2022 (the \u201cProxy Statement\u201d).  At the start of the Annual Meeting, there were 106,190,923 shares of the Company\u2019s Class A Common Stock, par value $0.00001 (the \u201cClass A Common Stock\u201d) and 48,293,094 shares of the Company\u2019s Class B Common Stock, par value $0.00001  (the \u201cClass B Common Stock\u201d) present in person or by proxy, together representing 94.06% of the combined voting power of all issued and outstanding shares of Class A Common Stock and Class B Common Stock entitled to vote at the Annual Meeting, which constituted a quorum for the transaction of business. In deciding the proposals at the Annual Meeting, the holders of the Company\u2019s Class A common stock were entitled to one vote for each share held as of the close of business on April 8, 2022 (the \u201cRecord Date\u201d) and the holders of the Company\u2019s Class B common stock were entitled to twenty votes for each share held as of the close of business on the Record Date. The Class A Common Stock and Class B Common Stock voted as a single class on all matters."
+        },
+        "35": {
+          "text": "At the Annual Meeting, the Company\u2019s stockholders voted on the following proposals:"
+        },
+        "36": {
+          "text": "1.To elect Frederick Ernest Ehrsam III, Tobias L\u00fctke, and Fred Wilson to serve until the Company\u2019s 2023 annual meeting of stockholders or until such director\u2019s successor is duly elected and qualified."
+        },
+        "37": {
+          "text": "2.To ratify the appointment of Deloitte & Touche LLP as the Company\u2019s independent registered public accounting firm for the year ending December 31, 2022."
+        },
+        "38": {
+          "text": "3.To approve, on a non-binding advisory basis, the compensation paid by the Company to its named executive officers as disclosed in the Proxy Statement."
+        },
+        "39": {
+          "text": "4.To select, on a non-binding advisory basis, whether future advisory votes on the compensation paid by the Company to its named executive officers should be held every one, two or three years."
+        },
+        "40": {
+          "text": "The final voting results for each of these proposals are as follows:"
+        },
+        "41": {
+          "table": [
+            [
+              "Proposal 1: Election of Directors.",
+              "Proposal 1: Election of Directors.",
+              "Proposal 1: Election of Directors.",
+              "Proposal 1: Election of Directors."
+            ],
+            [
+              "Nominee",
+              "Votes For",
+              "Votes Withheld",
+              "Broker Non-Votes"
+            ],
+            [
+              "Frederick Ernest Ehrsam III",
+              "1,009,332,087",
+              "17,380,053",
+              "45,340,663"
+            ],
+            [
+              "Tobias L\u00fctke",
+              "1,026,120,329",
+              "591,811",
+              "45,340,663"
+            ],
+            [
+              "Fred Wilson",
+              "1,010,785,572",
+              "15,926,568",
+              "45,340,663"
+            ]
+          ]
+        },
+        "42": {
+          "text": "Each of the three nominees for director was elected to serve until the Company\u2019s 2023 annual meeting of stockholders and until his successor has been duly elected and qualified."
+        },
+        "43": {
+          "table": [
+            [
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm.",
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm.",
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm.",
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm."
+            ],
+            [
+              "Votes For",
+              "Votes Against",
+              "Abstentions",
+              "Broker Non-Votes"
+            ],
+            [
+              "1,071,266,018",
+              "604,157",
+              "182,628",
+              "\u2014"
+            ]
+          ]
+        },
+        "44": {
+          "text": "The stockholders ratified the appointment of Deloitte & Touche LLP as the Company\u2019s independent registered public accounting firm for the year ending December 31, 2022."
+        },
+        "45": {
+          "table": [
+            [
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers.",
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers.",
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers.",
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers."
+            ],
+            [
+              "Votes For",
+              "Votes Against",
+              "Abstentions",
+              "Broker Non-Votes"
+            ],
+            [
+              "1,023,716,953",
+              "2,774,563",
+              "220,624",
+              "45,340,663"
+            ]
+          ]
+        },
+        "46": {
+          "text": "The stockholders approved, on an advisory basis, the compensation paid by the Company to its named executive officers."
+        },
+        "47": {
+          "table": [
+            [
+              "Proposal 4: Advisory Vote on the Frequency of Future Advisory Votes on the Compensation of the Named Executive Officers.",
+              "Proposal 4: Advisory Vote on the Frequency of Future Advisory Votes on the Compensation of the Named Executive Officers.",
+              "Proposal 4: Advisory Vote on the Frequency of Future Advisory Votes on the Compensation of the Named Executive Officers.",
+              "Proposal 4: Advisory Vote on the Frequency of Future Advisory Votes on the Compensation of the Named Executive Officers.",
+              "Proposal 4: Advisory Vote on the Frequency of Future Advisory Votes on the Compensation of the Named Executive Officers."
+            ],
+            [
+              "1 Year",
+              "2 Years",
+              "3 Years",
+              "Abstentions",
+              "Broker Non-Votes"
+            ],
+            [
+              "40,420,297",
+              "2,803,546",
+              "983,356,865",
+              "131,432",
+              "45,340,663"
+            ]
+          ]
+        },
+        "48": {
+          "text": "The stockholders advised that they were in favor of three years as the frequency of holding future advisory votes on the compensation of the Company\u2019s named executive officers. In accordance with the voting results for this proposal, the Company\u2019s board of directors has determined that the Company will conduct future advisory votes regarding the compensation of its named executive officers every three years. This policy will remain in effect until the next required stockholder vote on the frequency of advisory votes on the compensation of named executive officers."
+        }
+      }
+    },
+    "49": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "50": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "51": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: June 3, 2022",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

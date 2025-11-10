@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C.\u00a0 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): December 13, 2024",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "image00001.jpg",
+                    "alt": "graphic"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "title": "Delaware\n\n            \n\n            (State or other jurisdiction of incorporation)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "12": {
+              "title": "1-33409\n\n            \n\n            (Commission File Number)20-0836269\n\n            \n\n            (IRS Employer Identification No.)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "12920 SE 38th Street\n\n            \n\n            Bellevue, Washington\n\n            (Address of principal executive offices) 98006-1350\n\n            \n\n            (Zip Code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "14": {
+              "title": "Registrant\u2019s telephone number, including area code: (425)\n      378-4000",
+              "class": "predicted header"
+            },
+            "15": {
+              "title": "(Former Name or Former Address, if Changed Since Last Report):",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:"
+                },
+                "17": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "18": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "20": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "21": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "22": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading Symbol",
+                      "Name of each exchange on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ],
+                    [
+                      "3.550% Senior Notes due 2029",
+                      "TMUS29",
+                      "The NASDAQ Stock Market LLC"
+                    ],
+                    [
+                      "3.700% Senior Notes due 2032",
+                      "TMUS32",
+                      "The NASDAQ Stock Market LLC"
+                    ],
+                    [
+                      "3.850% Senior Notes due 2036",
+                      "TMUS36",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "23": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of\n      the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "24": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "25": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised\n      financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "title": "Item 7.01.",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "27": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "28": {
+              "text": "On December 13, 2024, T-Mobile US, Inc., a Delaware corporation (the \u201cCompany\u201d), announced that its Board of Directors (the \u201cBoard\u201d)\n        has authorized a new shareholder return program of up to an initial $14.0 billion that will run through December 31, 2025 (the \u201c2025 Shareholder Return Program\u201d)."
+            },
+            "29": {
+              "text": "The 2025 Shareholder Return Program is expected to consist of additional repurchases of shares of the Company\u2019s common stock, par\n        value $0.00001 per share, and payment of cash dividends.\u00a0 The amount available under the 2025 Shareholder Return Program for share repurchases will be reduced by the amount of any cash dividends declared and paid by the Company.\u00a0 For the avoidance\n        of doubt, the 2025 Shareholder Return Program is in addition to the Company\u2019s shareholder return program announced in September 2023 that runs through December 31, 2024."
+            },
+            "30": {
+              "text": "The 2025 Shareholder Return Program is the next step consistent with the Company\u2019s capital allocation framework outlined at its recent Capital\n          Markets Day. As discussed at Capital Markets Day, the Company expects its business plan to support up to $80.0 billion in investments and capital returns between September 18, 2024 and the end of 2027. The Company currently plans to allocate such\n          funds as follows:"
+            },
+            "31": {
+              "text": "\u2022Up to $50.0 billion for share repurchases and cash dividends, which includes the 2025 Shareholder Return Program;"
+            },
+            "32": {
+              "text": "\u2022Up to $20.0 billion in a discretionary and flexible envelope for potential activities including de-levering, investments in the core business, strategic investments, and/or additional capital\n                  returns to shareholders beyond the $50 billion initial allocation; and"
+            },
+            "33": {
+              "text": "\u2022$10.0 billion to complete pending transactions."
+            },
+            "34": {
+              "text": "The\n            initial amount allocated for the 2025 Shareholder Return Program reflects the Company\u2019s ongoing balanced capital allocation philosophy of maintaining a prudent leverage ratio of approximately 2.5x, while it also anticipates the impacts of the\n            Company\u2019s announced and still pending transactions to acquire assets from UScellular and invest in joint ventures to acquire Metronet, and Lumos, which are all expected to close in 2025.\u00a0 Depending on the actual timing of close for these\n            transactions, along with the Company\u2019s liquidity position and other capital allocation priorities, the Company may consider allocating additional capital to the 2025 Shareholder Return Program."
+            },
+            "35": {
+              "text": "Share repurchases and any dividends declared by the Board and paid from time to time are expected to be made from available cash on\n        hand and proceeds of one or more debt issuances or other borrowings, based on the Company\u2019s evaluation of market conditions and other factors."
+            },
+            "36": {
+              "text": "Under the 2025 Shareholder Return Program, share repurchases can be made from time to time using a variety of methods, which may\n        include open market purchases, 10b5-1 plans, accelerated share repurchases, privately negotiated transactions or otherwise, all in accordance with the rules of the Securities and Exchange Commission and other applicable legal requirements.\u00a0 The\n        specific timing and amount of any share repurchases, and the specific timing and amount of any dividend payments, under the 2025 Shareholder Return Program will depend on prevailing share prices, general economic and market conditions, Company\n        performance, and other considerations.\u00a0 In addition, the specific timing and amount of any dividend payments are subject to being declared on future dates by the Board in its sole discretion.\u00a0 The 2025 Shareholder Return Program does not obligate\n        the Company to acquire any particular amount of common stock or to declare and pay any particular amount of dividends, and the 2025 Shareholder Return Program may be suspended or discontinued at any time at the Company\u2019s discretion."
+            }
+          }
+        }
+      }
+    },
+    "37": {
+      "title": "Item 8.01.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "38": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "text": "The first, second, fifth and sixth paragraphs under Item 7.01 are hereby incorporated into this Item 8.01."
+            }
+          }
+        },
+        "40": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "41": {
+              "text": "This communication contains certain forward-looking statements concerning the Company\u2019s expectations with respect to repurchases of\n        shares of common stock, the declaration and payment of any dividends and the Company\u2019s cumulative cash flexibility through 2027, including the timing and manner of any purchases and the timing of any dividends under the Company\u2019s 2025 Shareholder\n        Return Program, and our potential future capital allocations.\u00a0 All statements other than statements of fact, including information concerning future results, are forward-looking statements.\u00a0 These forward-looking statements are generally identified\n        by the words \u201canticipate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions.\u00a0 Such forward-looking statements include, but are not limited to, statements about T-Mobile\u2019s objectives, expectations and intentions with respect to the 2025\n        Shareholder Return Program.\u00a0 There are several factors which could cause actual plans and results to differ materially from those expressed or implied in forward-looking statements.\u00a0 Such factors include, but are not limited to, changes in the\n        market price of the common stock, general market conditions, access to credit or debt capital markets, applicable securities laws and alternative uses of capital, Company performance, and other risks and uncertainties detailed in T-Mobile\u2019s Annual\n        Report on Form 10-K for the fiscal year ended December 31, 2023, including in the sections thereof captioned \u201cRisk Factors\u201d and \u201cCautionary Statement Regarding Forward-Looking Statements,\u201d as well as in its subsequent reports on Form 8-K and Form\n        10-Q, all of which are filed with the SEC and available at www.sec.gov and www.t-mobile.com.\u00a0 Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results\n        to differ materially from those expressed in or implied by such forward-looking statements.\u00a0 Given these risks and uncertainties, persons reading this communication are cautioned not to place undue reliance on such forward-looking statements.\u00a0\n        T-Mobile assumes no obligation to update or revise the information contained in this communication (whether as a result of new information, future events or otherwise), except as required by applicable law.\u00a0 References to our and the SEC\u2019s website\n        are inactive textual references only.\u00a0 Information contained on our and the SEC\u2019s website is not incorporated by reference in this communication and should not be considered to be a part of this communication."
+            }
+          }
+        }
+      }
+    },
+    "42": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "43": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the\n        undersigned hereunto duly authorized."
+        },
+        "44": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "December 13, 2024",
+              "/s/ Peter Osvaldik"
+            ]
+          ]
+        },
+        "45": {
+          "table": [
+            [
+              "Name:",
+              "Peter Osvaldik"
+            ],
+            [
+              "Title:",
+              "Executive Vice President and\n\n            Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

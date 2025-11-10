@@ -1,0 +1,387 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "title": "______________________________________________________",
+              "class": "predicted header"
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "______________________________________________________",
+              "class": "predicted header"
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of report (Date of earliest event reported) May 6, 2024",
+              "class": "predicted header"
+            },
+            "10": {
+              "title": "______________________________________________________",
+              "class": "predicted header"
+            }
+          }
+        },
+        "11": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "12": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header"
+            },
+            "13": {
+              "title": "______________________________________________________",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "75202\n(Zip Code)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "\u2610",
+                      "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    ],
+                    [
+                      "\u2610",
+                      "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                    ]
+                  ]
+                }
+              }
+            },
+            "16": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due March 6, 2025",
+                      "T 25A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due November 18, 2025",
+                      "T 25B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "18": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.950% Global Notes due April 30, 2031",
+                      "T 31F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.300% Global Notes due November 18, 2034",
+                      "T 34C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "20": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "title": "Item 1.05 Material Cybersecurity Incidents.",
+      "standardized_title": "item1.05",
+      "class": "item",
+      "contents": {
+        "23": {
+          "text": "On April 19, 2024, AT&T Inc. (\u201cAT&T\u201d) learned that a threat actor claimed to have unlawfully accessed and copied AT&T call logs. AT&T immediately activated its incident response process to investigate and retained external cybersecurity experts to assist. Based on its investigation, AT&T believes that threat actors unlawfully accessed an AT&T workspace on a third-party cloud platform and, between April 14 and April 25, 2024, exfiltrated files containing AT&T records of customer call and text interactions that occurred between approximately May 1 and October 31, 2022, as well as on January 2, 2023, as described below."
+        },
+        "24": {
+          "text": "The data does not contain the content of calls or texts, personal information such as Social Security numbers, dates of birth, or other personally identifiable information. Current analysis indicates that the data includes, for these periods of time, records of calls and texts of nearly all of AT&T\u2019s wireless customers and customers of mobile virtual network operators (\u201cMVNO\u201d) using AT&T\u2019s wireless network. These records identify the telephone numbers with which an AT&T or MVNO wireless number interacted during these periods, including telephone numbers of AT&T wireline customers and customers of other carriers, counts of those interactions, and aggregate call duration for a day or month. For a subset of records, one or more cell site identification number(s) are also included. While the data does not include customer names, there are often ways, using publicly available online tools, to find the name associated with a specific telephone number."
+        },
+        "25": {
+          "text": "AT&T has taken additional cybersecurity measures in response to this incident including closing off the point of unlawful access. AT&T will provide notice to its current and former impacted customers."
+        },
+        "26": {
+          "text": "On May 9, 2024, and again on June 5, 2024, the U.S. Department of Justice determined that, under Item 1.05(c) of Form 8-K, a delay in providing public disclosure was warranted. AT&T is now timely filing this report. AT&T is working with law enforcement in its efforts to arrest those involved in the incident. Based on information available to AT&T, it understands that at least one person has been apprehended. As of the date of this filing, AT&T does not believe that the data is publicly available."
+        },
+        "27": {
+          "text": "As of the date of this filing, this incident has not had a material impact on AT&T\u2019s operations, and AT&T does not believe that this incident is reasonably likely to materially impact AT&T\u2019s financial condition or results of operations."
+        },
+        "28": {
+          "title": "Cautionary Language Concerning Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "29": {
+              "text": "Information set forth herein contains financial estimates and other forward-looking statements that are subject to risks and uncertainties, and actual results might differ materially. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update and revise statements contained herein based on new information or otherwise, except as required by law."
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "table": [
+            [
+              "(d)",
+              "Exhibits",
+              "Exhibits"
+            ],
+            [
+              "",
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        }
+      }
+    },
+    "32": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "33": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "34": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: July 12, 2024",
+              "By: /s/ Stacey Maris                          \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Stacey Maris\nSenior Vice President, Secretary and\n\u00a0\u00a0\u00a0\u00a0Chief Privacy Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

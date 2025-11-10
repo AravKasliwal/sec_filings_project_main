@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): August 15, 2025",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "One Madison Avenue",
+                          ""
+                        ],
+                        [
+                          "Suite 2400",
+                          ""
+                        ],
+                        [
+                          "New York, NY",
+                          "10010"
+                        ],
+                        [
+                          "(Address of principal executive offices)1",
+                          "(Zip Code)1"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                },
+                "17": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "1",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "23": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "28": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "The Nasdaq Stock Market LLC"
+                            ]
+                          ]
+                        },
+                        "29": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "30": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "31": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        },
+                        "32": {
+                          "text": "1 We are a remote-first company. Accordingly, we do not maintain a headquarters. We are including this address solely for the purpose of satisfying the Securities and Exchange Commission\u2019s request. Stockholder communications may also be sent to the email address: secretary@coinbase.com."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 8.01  Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "On August 15, 2025, Coinbase Global, Inc. (the \u201cCompany\u201d) filed a prospectus supplement (\u201cProspectus Supplement\u201d) to its effective shelf registration statement on Form S-3 (File No. 333-287084) filed with the Securities and Exchange Commission on May 8, 2025. The Company filed the Prospectus Supplement for the purpose of registering for resale or other disposition up to an aggregate of 10,997,856 shares of Class A Common Stock by the selling stockholders identified in the Prospectus Supplement to satisfy registration rights granted under that certain Share Purchase Agreement, dated as of May 8, 2025, by and among the Company, Sentillia B.V. (\u201cSentillia\u201d), the Sentillia Shareholders listed on Exhibit B thereto and Shareholder Representative Services LLC as the shareholders\u2019 agent."
+        },
+        "35": {
+          "text": "In connection with the filing of the Prospectus Supplement, the Company is filing an opinion of its counsel, Fenwick & West LLP, regarding the legality of the Class A Common Stock being registered, which opinion is attached as Exhibit 5.1 to this Current Report on Form 8-K."
+        }
+      }
+    },
+    "36": {
+      "title": "Item 9.01\u00a0\u00a0\u00a0Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "37": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "38": {
+              "table": [
+                [
+                  "Exhibit\u00a0No.",
+                  "Description"
+                ],
+                [
+                  "5.1",
+                  "Opinion of Fenwick & West LLP."
+                ],
+                [
+                  "23.1",
+                  "Consent of Fenwick & West LLP (contained in Exhibit 5.1)."
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "39": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "40": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "41": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Dated: August 15, 2025",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

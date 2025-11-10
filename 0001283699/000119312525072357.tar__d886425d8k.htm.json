@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): April\u00a01, 2025",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g886425g00a04.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street",
+                      ""
+                    ],
+                    [
+                      "Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former name or former address, if changed since last report.)"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title\u00a0of\u00a0each\u00a0class",
+                          "Trading\nSymbol(s)",
+                          "Name\u00a0of\u00a0each\u00a0exchange\non\u00a0which\u00a0registered"
+                        ],
+                        [
+                          "Common Stock, $0.00001 par value per share",
+                          "TMUS",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.550% Senior Notes due 2029",
+                          "TMUS29",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.700% Senior Notes due 2032",
+                          "TMUS32",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.150% Senior Notes due 2032",
+                          "TMUS32A",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.850% Senior Notes due 2036",
+                          "TMUS36",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.500% Senior Notes due 2036",
+                          "TMUS37",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.800% Senior Notes due 2036",
+                          "TMUS45",
+                          "The Nasdaq Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company\u2002\u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u2002\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u20095.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "On February\u00a011, 2025, the Section\u00a016 Subcommittee (the \u201cSubcommittee\u201d) of the Compensation Committee (the \u201cCompensation Committee\u201d) of the Board of Directors of T-Mobile US, Inc. (the \u201cCompany\u201d) approved the grant, effective as of April\u00a01, 2025, of stock-settled performance-based restricted stock units (the \u201cPRSUs\u201d) under the Company\u2019s 2023 Incentive Award Plan (the \u201cPlan\u201d) to Mark W. Nelson (Executive Vice President and General Counsel), Michael J. Katz (President, Marketing, Strategy and Products), Jonathan A. Freier (President, Consumer Group), Callie R. Field (President, Business Group) and Ulf Ewaldsson (President, Technology) (collectively, the \u201cexecutives\u201d). The following is a description of the material terms and conditions of the PRSUs.",
+              "class": "predicted header",
+              "contents": {
+                "32": {
+                  "title": "General",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "33": {
+              "title": ". Each executive is eligible to vest in a number of PRSUs ranging from 80% to 120% of the target number of PRSUs granted, based on the Company\u2019s core adjusted EBITDA during the one-year performance period commencing on January\u00a01, 2027 and ending on (and including) December\u00a031, 2027 (the \u201cperformance period\u201d), subject to the executive\u2019s continued employment with the Company and its affiliates through April\u00a01, 2028 (the \u201cvesting date\u201d). Each vested PRSU represents the right to receive payment in the form of one share of common stock of the Company. ",
+              "class": "predicted header",
+              "contents": {
+                "34": {
+                  "title": "Vesting",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "35": {
+              "title": ". Up to 120% of the target number of PRSUs subject to each award will be eligible to vest based on the Company\u2019s core adjusted EBITDA during the performance period compared to the Company\u2019s target core adjusted EBITDA for the performance period, as set forth in the applicable PRSU award agreement. ",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "Following the completion of the performance period, the Compensation Committee or the Subcommittee will determine the Company\u2019s core adjusted EBITDA and the number of PRSUs that have become earned with respect to the performance period (such PRSUs, the \u201cperformance-vested PRSUs\u201d). The performance-vested PRSUs will become fully vested on the vesting date, subject to the applicable executive\u2019s continued service through such date. Any PRSUs that do not become earned and vested will be forfeited without consideration therefor.",
+              "class": "predicted header",
+              "contents": {
+                "37": {
+                  "title": "Certain Terminations of Employment.",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "38": {
+              "title": " If an executive\u2019s service terminates prior to the vesting date due to the executive\u2019s death or \u201cdisability\u201d (as defined in the Plan), any then-unvested PRSUs will vest at target performance as of the termination date. ",
+              "class": "predicted header"
+            },
+            "39": {
+              "title": "If an executive incurs a termination of service prior to the vesting date as a result of a \u201cworkforce reduction,\u201d a \u201cdivestiture\u201d or due to a termination by the Company or its affiliates without \u201ccause\u201d (excluding death or disability) or a resignation by the executive for \u201cgood reason\u201d (each such term as defined in the applicable PRSU award agreement), a pro-rated number of PRSUs (based on the number of days that the executive was employed during the period beginning on the grant date and ending on the vesting date) will vest based on actual performance upon completion of the performance period, and any remaining unearned PRSUs will be cancelled and forfeited upon completion of the performance period. Such vesting is subject to the applicable executive\u2019s execution of a release of claims or other documents required by the Company or the terms of any applicable Company severance program.",
+              "class": "predicted header"
+            },
+            "40": {
+              "title": "In addition, if the applicable executive incurs a termination of service prior to the vesting date by the Company or its affiliates without cause (other than due to death or disability) or due to his or her resignation for good reason, in either case, within one year following a \u201cchange in control\u201d of the Company (as defined in the Plan), the PRSUs will become earned and vested as of the date of such termination at (i)\u00a0the target level of performance or (ii)\u00a0solely if such change in control occurs during the performance period, the greater of (x)\u00a0the target level of performance or (y)\u00a0the actual level of performance, determined as if the performance period had ended as of the last trading day immediately preceding such change in control.",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "If an executive\u2019s employment terminates prior to the vesting date for any reason other than those described above, such executive\u2019s PRSUs will be cancelled and forfeited as of the date of such termination.",
+              "class": "predicted header",
+              "contents": {
+                "42": {
+                  "title": "Change of Control",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "43": {
+              "title": ". If a change of control of the Company occurs prior to the vesting date, the PRSUs are assumed, converted or replaced by the surviving entity in the change in control and the applicable executive remains in continued employment or service with the Company through the vesting date, the number of PRSUs that become earned with respect to the performance period will not be less than the number of PRSUs that would be earned based on the target level of performance. ",
+              "class": "predicted header",
+              "contents": {
+                "44": {
+                  "title": "Payment",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "45": {
+              "title": ". Each PRSU that becomes vested will be paid to the executive in shares of common stock within ninety days following the date on which such PRSU vests or, if earlier, by March 15th of the calendar year immediately following the calendar year of vesting. ",
+              "class": "predicted header",
+              "contents": {
+                "46": {
+                  "title": "Awards",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "47": {
+              "title": ". The following amounts represent the minimum number of PRSUs granted to the executives, which is equal to 80% of target: ",
+              "class": "predicted header",
+              "contents": {
+                "48": {
+                  "table": [
+                    [
+                      "Executive",
+                      "Number\u00a0of\u00a0PRSUs"
+                    ],
+                    [
+                      "Mark W. Nelson",
+                      "10,677"
+                    ],
+                    [
+                      "Michael J. Katz",
+                      "22,880"
+                    ],
+                    [
+                      "Jonathan A. Freier",
+                      "22,880"
+                    ],
+                    [
+                      "Callie R. Field",
+                      "22,880"
+                    ],
+                    [
+                      "Ulf Ewaldsson",
+                      "22,880"
+                    ]
+                  ]
+                }
+              }
+            },
+            "49": {
+              "title": "The foregoing summary of the PRSUs is qualified in its entirety by reference to the full text of the PRSU award agreement, a copy of which will subsequently be filed with the Securities and Exchange Commission.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "50": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "51": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "52": {
+              "table": [
+                [
+                  "Date: April\u00a03, 2025",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Name:",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Title:",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

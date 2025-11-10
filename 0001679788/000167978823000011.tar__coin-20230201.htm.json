@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): February 1, 2023",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable(1)",
+                          "Address Not Applicable(1)"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header",
+                      "contents": {
+                        "17": {
+                          "textsmall": "(1)"
+                        }
+                      }
+                    }
+                  }
+                },
+                "18": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "23": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "28": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "The Nasdaq Stock Market LLC"
+                            ]
+                          ]
+                        },
+                        "29": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "30": {
+                          "textsmall": "(1) We are a remote-first company. Accordingly, we do not maintain a headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and Securities Exchange Act of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email address set forth in our proxy materials and/or identified on our investor relations website."
+                        },
+                        "31": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "32": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 5.03. \u00a0\u00a0\u00a0\u00a0Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.",
+      "standardized_title": "item5.03",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "On February 1, 2023, in connection with the effectiveness of new Securities and Exchange Commission rules regarding universal proxy cards, certain recent changes to the Delaware General Corporation Law (the \u201cDGCL\u201d), and a periodic review of the bylaws of Coinbase Global, Inc. (the \u201cCompany\u201d), the Company\u2019s board of directors (the \u201cBoard\u201d) approved and adopted the Company\u2019s amended and restated bylaws (the \u201cAmended and Restated Bylaws\u201d), effective immediately, to among other things:"
+        },
+        "35": {
+          "text": "\u2022revise certain provisions relating to adjournment procedures and lists of stockholders entitled to vote at stockholder meetings, in each case to conform to recent amendments to the DGCL;"
+        },
+        "36": {
+          "text": "\u2022update certain provisions related to the conduct of stockholder meetings, including clarifying that the presiding person of a stockholder meeting may set additional attendance or other procedures for meeting attendees and Rule 14a-8 proponents;"
+        },
+        "37": {
+          "text": "\u2022revise the procedures and disclosure requirements set forth in the advance notice bylaw provisions, including (1) requiring additional information, representations and disclosures from proposing stockholders, proposed nominees and other persons related to a stockholder\u2019s solicitation of proxies, (2) restricting the number of nominees a stockholder may nominate for election at a meeting to the number of directors to be elected at such meeting, and (3) requiring that proposed nominees be available for interviews by the Board or any Board committee thereof;"
+        },
+        "38": {
+          "text": "\u2022address matters relating to Rule 14a-19 under the Securities Exchange Act of 1934, as amended (the \u201cUniversal Proxy Rules\u201d) by clarifying that no person may solicit proxies in support of a director nominee other than the Board\u2019s nominees unless such person has complied with the Universal Proxy Rules, including applicable notice, information and solicitation requirements;"
+        },
+        "39": {
+          "text": "\u2022require that a stockholder intending to authorize a qualified representative to act for such stockholder as a proxy to present a nomination or proposal at such meeting to give notice of such authorization to the Company at least three business days before the applicable meeting; and"
+        },
+        "40": {
+          "text": "\u2022revise the emergency bylaws provision to provide clarity and authority to certain officers during an emergency situation that would otherwise prevent a quorum of the Board or a Board committee from being achieved."
+        },
+        "41": {
+          "text": "The foregoing summary does not purport to be complete and is qualified in its entirety by reference to the full text of the Amended and Restated Bylaws, a copy of which is attached hereto as Exhibit 3.1 and is incorporated herein by reference."
+        }
+      }
+    },
+    "42": {
+      "title": "Item 9.01\u00a0\u00a0\u00a0Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "43": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "44": {
+              "table": [
+                [
+                  "Exhibit\u00a0No.",
+                  "Description"
+                ],
+                [
+                  "3.1",
+                  "Amended and Restated Bylaws."
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "45": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "46": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "47": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Dated: February 1, 2023",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

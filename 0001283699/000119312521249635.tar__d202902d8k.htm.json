@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): August 17, 2021",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g202902g0818113800635.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n symbol",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, $0.00001 par value per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company \u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a07.01",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "On August\u00a017, 2021, T-Mobile US, Inc. (\u201cT-Mobile,\u201d \u201cwe,\u201d \u201cour\u201d or \u201cus\u201d) issued a press release providing an update on our ongoing investigation into the recent cyberattack against T-Mobile. We wanted to share the initial findings set forth in this release with stakeholders, even though our investigation may reveal additional facts that cause the details in the release to change or evolve.",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "33": {
+          "title": "T-Mobile Disclosure Channels",
+          "class": "predicted header",
+          "contents": {
+            "34": {
+              "title": "Investors and others should note that we announce material information to our investors using our investor relations website, press releases, SEC filings and public conference calls and webcasts. We also intend to use certain social media accounts as means of disclosing information about us and our services and for complying with our disclosure obligations under Regulation FD (the @TMobileIR Twitter account (https://twitter.com/TMobileIR) and the @MikeSievert Twitter (https://twitter.com/MikeSievert) account, which Mr.\u00a0Sievert also uses as a means for personal communications and observations). The information we post through these social media channels may be deemed material. Accordingly, investors should monitor these social media channels in addition to following our investor relations website, press releases, SEC filings and public conference calls and webcasts. The social media channels that we intend to use as a means of disclosing the information described above may be updated from time to time as listed on our investor relations website.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "35": {
+          "title": "Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "36": {
+              "title": "This Current Report on Form 8-K includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties and may cause actual results to differ materially from the forward-looking statements. Important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among others, the following: data loss or other security breaches, including risks related to the cybersecurity incident discussed above, our ability to asses and remedy the cybersecurity incident, and legal, reputational and financial risks resulting from this or other cybersecurity incidents; natural disasters, public health crises, including the COVID-19 pandemic (the \u201cPandemic\u201d), terrorist attacks or similar incidents; adverse economic, political or market conditions in the U.S. and international markets, including those caused by the Pandemic; competition, industry consolidation and changes in the market condition for wireless services; the scarcity and cost of additional wireless spectrum, and regulations relating to spectrum use; our inability to retain or motivate key personnel, hire qualified personnel or maintain our corporate culture; our inability to take advantage of technological developments on a timely basis; system failures and business disruptions, allowing for unauthorized use of or interference with our network and other systems; the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory proceedings and approvals of the Transactions (as defined below), including the acquisition by DISH Network Corporation (\u201cDISH\u201d) of the prepaid wireless business operated under the Boost Mobile and Sprint prepaid brands (excluding the Assurance brand Lifeline customers and the prepaid wireless customers of Shenandoah Personal Communications Company LLC (\u201cShentel\u201d) and Swiftel Communications, Inc.), including customer accounts, inventory, contracts, intellectual property and certain other specified assets (the \u201cPrepaid Business\u201d), and the assumption of certain related liabilities (the \u201cPrepaid Transaction\u201d), the complaint and proposed final judgment (the \u201cConsent Decree\u201d) agreed to by us, Deutsche Telekom AG (\u201cDT\u201d), Sprint Corporation (\u201cSprint\u201d), SoftBank Group Corp. (\u201cSoftBank\u201d) and DISH with the U.S. District Court for the District of Columbia, which was approved by the Court on April\u00a01, 2020, the proposed commitments filed with the Secretary of the Federal Communications Commission (\u201cFCC\u201d), which we announced on May\u00a020, 2019, certain national security commitments and undertakings, and any other commitments or undertakings entered into including but not limited to those we have made to certain states and nongovernmental organizations (collectively, the \u201cGovernment Commitments\u201d), and the challenges in satisfying the Government Commitments in the required time frames and the significant cumulative cost incurred in tracking, monitoring and complying with them; our inability to manage the ongoing commercial and transition services arrangements that we entered into with DISH in connection with the Prepaid Transaction, which we completed on July\u00a01, 2020 (collectively, the \u201cDivestiture Transaction\u201d), and known or unknown liabilities arising",
+              "class": "predicted header"
+            },
+            "37": {
+              "title": "in connection therewith; the effects of any future acquisition, investment, or merger involving us; any disruption or failure of our third parties (including key suppliers) to provide products or services for the operation of our business; the occurrence of high fraud rates or volumes related to device financing, customer payment cards, third-party dealers, employees, subscriptions, identities or account takeover fraud; our substantial level of indebtedness and our inability to service our debt obligations in accordance with their terms or to comply with the restrictive covenants contained therein; adverse changes in the ratings of our debt securities or adverse conditions in the credit markets; the risk of future material weaknesses we may identify while we work to integrate and align policies, principles and practices of the two companies following the Merger (as defined below), or any other failure by us to maintain effective internal controls, and the resulting significant costs and reputational damage; any changes in regulations or in the regulatory framework under which we operate; laws and regulations relating to the handling of privacy and data protection; unfavorable outcomes of existing or future legal proceedings; our offering of regulated financial services products and exposure to a wide variety of state and federal regulations; new or amended tax laws or regulations or administrative interpretations and judicial decisions affecting the scope or application of tax laws or regulations; the possibility that we may be unable to renew our spectrum leases on attractive terms or the possible revocation of our existing licenses in the event that we violate applicable laws; interests of our significant stockholders that may differ from the interests of other stockholders; future sales of our common stock by DT and SoftBank and our inability to attract additional equity financing outside the United States due to foreign ownership limitations by the FCC; the volatility of our stock price and our lack of plan to pay cash dividends in the foreseeable future; failure to realize the expected benefits and synergies of the merger (the \u201cMerger\u201d) with Sprint, pursuant to the Business Combination Agreement with Sprint and the other parties named therein (as amended, the \u201cBusiness Combination Agreement\u201d) and the other transactions contemplated by the Business Combination Agreement (collectively, the \u201cTransactions\u201d) in the expected timeframes or in the amounts anticipated; any delay and costs of, or difficulties in, integrating our business and Sprint\u2019s business and operations, and unexpected additional operating costs, customer loss and business disruptions, including challenges in maintaining relationships with employees, customers, suppliers or vendors; unanticipated difficulties, disruption, or significant delays in our long-term strategy to migrate Sprint\u2019s legacy customers onto T-Mobile\u2019s existing billing platforms; and changes to existing or the issuance of new accounting standards by the Financial Accounting Standards Board or other regulatory agencies. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "38": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "39": {
+          "title": "Financial Statements and Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "title": "(d) Exhibits:",
+              "class": "predicted header",
+              "contents": {
+                "41": {
+                  "table": [
+                    [
+                      "Exhibits",
+                      "Description"
+                    ],
+                    [
+                      "99.1",
+                      "Press Release dated August\u00a017, 2021"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "42": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "43": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "44": {
+              "table": [
+                [
+                  "Date: August\u00a017, 2021",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): March 17, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g901993n1.jpg",
+                    "alt": "IMAGE"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "16": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "17": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "20": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "21": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n symbol",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Stock, $0.00001 par value per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "22": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "23": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "24": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "25": {
+      "title": "Item\u00a07.01.",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "26": {
+          "title": "Regulation FD Disclosure",
+          "class": "predicted header",
+          "contents": {
+            "27": {
+              "text": "T-Mobile US, Inc. (\u201cT-Mobile,\u201d \u201cwe\u201d or \u201cour\u201d) has been closely monitoring the latest developments around coronavirus disease 2019 (COVID-19) and its impact globally. Our focus is to ensure the safety and well-being of our employees as well as to support our customers and the communities impacted."
+            },
+            "28": {
+              "text": "Starting March\u00a017, we have temporarily closed about 80% of our company-owned store locations, leaving about 20% of stores open to provide services to customers. The stores that are remaining open will operate on reduced schedules from 10 a.m. to 6 p.m. local time. The closed stores will remain closed until at least March\u00a031, subject to guidance from state, local and federal government agencies."
+            },
+            "29": {
+              "text": "We recognize that T-Mobile customers are relying on our network to ensure they have critical connections with family, loved ones, and emergency service providers. To that end, we announced agreements with multiple spectrum holders for an additional 600 MHz spectrum for the next 60 days, expanding network capacity for customers across the country. We\u2019re also expanding roaming access for Sprint customers to use the T-Mobile network."
+            },
+            "30": {
+              "text": "In addition to our full commitment to the FCC\u2019s Keep America Connected pledge, we are taking additional actions to ensure that all current T-Mobile customers on plans that currently have data are provided the unlimited connectivity they need to learn and work:"
+            },
+            "31": {
+              "text": "\u2022We\u2019re providing all current T-Mobile and Metro by T-Mobile customers unlimited smartphone data for the next 60 days (excluding roaming)."
+            },
+            "32": {
+              "text": "\u2022Coming soon, T-Mobile postpaid and Metro customers on smartphone plans with mobile hotspot data will be able to add 10GB of Smartphone Mobile HotSpot each month for the next two months (20GB total)."
+            },
+            "33": {
+              "text": "\u2022We\u2019re working with our Lifeline partners to provide customers extra free data up to 5GB per month over the next 60 days."
+            },
+            "34": {
+              "text": "\u2022We\u2019re increasing the data allowance, at no extra charge, to schools and students using our EmpowerED digital learning program to ensure each participant has access to at least 20GB of data per month for the next 60 days."
+            },
+            "35": {
+              "text": "As we focus on our community and do our part to stop COVID-19 from spreading, we continue to evaluate the impact of COVID-19  on our business and operations, including the effect of state, local and federal government guidelines to reduce the spread of COVID-19 such as travel restrictions. In addition, COVID-19 has impacted, and will continue to impact, the demand for our products and services, the ways in which our customers use our products and services and our suppliers\u2019 and vendors\u2019 ability to provide products and services to us."
+            },
+            "36": {
+              "text": "Due to the uncertainty surrounding the magnitude and duration of COVID-19, we are unable at this time to predict the impact of COVID-19 on our liquidity, financial condition and results of operations, but the impact could be material. We anticipate giving further updates on the impacts of COVID-19, including to our full-year 2020 guidance, on our first quarter earnings release and earnings call."
+            },
+            "37": {
+              "text": "The information in this Item 7.01 shall neither be deemed \u201cfiled\u201d for the purposes of Section\u00a018 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), nor otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing made by the Company under the Securities Act of 1933, as amended, or the Exchange Act, except to the extent as shall be expressly set forth by specific reference in such filing."
+            },
+            "38": {
+              "text": "The information contained in Item 7.01 and the exhibit includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact, including information concerning the impact of and T-Mobile\u2019s response to COVID-19, are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate\u201d, \u201cbelieve\u201d, \u201cestimate\u201d, \u201cexpect\u201d, \u201cintend\u201d, \u201cmay\u201d, \u201ccould\u201d or similar expressions. Forward-looking statements are based on"
+            },
+            "39": {
+              "text": "current expectations and assumptions, which are subject to risks and uncertainties and may cause actual results to differ materially from the forward-looking statements. Important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among others, the following: adverse economic, political or market conditions in the U.S. and international markets and other factors such as natural disasters, pandemics and outbreaks of contagious diseases and other adverse public health developments, such as COVID-19; the failure to obtain, or delays in obtaining, regulatory approval for the merger (the \u201cMerger\u201d) with Sprint Corporation (\u201cSprint\u201d), pursuant to the Business Combination Agreement with Sprint and other parties therein (as amended, the \u201cBusiness Combination Agreement\u201d) and the other transactions contemplated by the Business Combination Agreement (collectively, the \u201cTransactions\u201d), risks associated with the actions and conditions we have agreed to in connection with regulatory approval for the Transactions, and the risk that such regulatory approval may result in the imposition of additional conditions that, if accepted by the parties, could adversely affect the combined company or the expected benefits of the Transactions, or the failure to satisfy any of the other conditions to the Transactions on a timely basis or at all; the risk of other litigation or regulatory actions related to the Transactions; the exercise by one or both parties of a right to terminate the Business Combination Agreement; adverse effects on the market price of our common stock or on our operating results because of a failure to complete the Merger in the anticipated timeframe, on the anticipated terms or at all; inability to obtain the financing contemplated to be obtained in connection with the Transactions on the expected terms or timing or at all; the ability of us, Sprint and the combined company to make payments on debt or to repay existing or future indebtedness when due or to comply with the covenants contained therein; adverse changes in the ratings of our or Sprint\u2019s debt securities or adverse conditions in the credit markets; negative effects of the announcement, pendency or consummation of the Transactions on the market price of our common stock and on our or Sprint\u2019s operating results, including as a result of changes in key customer, supplier, employee or other business relationships; the assumption of significant liabilities in connection with, and significant costs related to the Transactions, including financing costs and unknown liabilities of Sprint that may become liabilities of the combined company or that may otherwise arise and financing costs; failure to realize the expected benefits and synergies of the Transactions in the expected timeframes, in part or at all; costs or difficulties related to the integration of Sprint\u2019s network and operations into our network and operations, including intellectual property and communications systems, administrative and information technology infrastructure and accounting, financial reporting and internal control systems; differences with Sprint\u2019s control environments, cultures, and auditor expectations may result in future material weaknesses, significant deficiencies, and/or control deficiencies while we work to integrate the companies and align guidelines and practices; costs or difficulties related to the completion of the divestiture of Sprint\u2019s prepaid wireless businesses to DISH Network Corporation and the satisfaction of any related government commitments to such divestiture; the inability of us, Sprint or the combined company to retain and hire key personnel; the risk that certain contractual restrictions contained in the Business Combination Agreement during the pendency of the Transactions could adversely affect our or Sprint\u2019s ability to pursue business opportunities or strategic transactions; competition, industry consolidation, and changes in the market for wireless services, which could negatively affect our ability to attract and retain customers; the effects of any future merger, investment, or acquisition involving us, as well as the effects of mergers, investments, or acquisitions in the technology, media and telecommunications industry; challenges in implementing our business strategies or funding our operations, including payment for additional spectrum or network upgrades; the possibility that we may be unable to renew our spectrum licenses on attractive terms or acquire new spectrum licenses at reasonable costs and terms; difficulties in managing growth in wireless data services, including network quality; material changes in available technology and the effects of such changes, including product substitutions and deployment costs and performance; the timing, scope and financial impact of our deployment of advanced network and business technologies; the impact on our networks and business from major technology equipment failures; inability to implement and maintain effective cyber security measures over critical business systems; breaches of our and/or our third-party vendors\u2019 networks, information technology and data security, resulting in unauthorized access to customer confidential information; natural disasters, terrorist attacks or similar incidents; unfavorable outcomes of existing or future litigation; any changes in the regulatory environments in which we operate, including any increase in restrictions on the ability to operate our networks and changes in data privacy laws; any disruption or failure of our third parties\u2019 or key suppliers\u2019 provisioning of products or services; material adverse changes in labor matters, including labor campaigns, negotiations or additional organizing activity, and any resulting financial, operational and/or reputational impact; changes in accounting assumptions that regulatory agencies, including the Securities and Exchange Commission (\u201cSEC\u201d), may require, which could result in an impact on earnings; changes in tax laws, regulations and existing standards and the resolution of disputes with any taxing jurisdictions; the possibility that the reset process under our trademark license results in changes to the royalty rates for our trademarks; the possibility"
+            },
+            "40": {
+              "text": "that we may be unable to adequately protect our intellectual property rights or be accused of infringing the intellectual property rights of others; our business, investor confidence in our financial results and stock price may be adversely affected if our internal controls are not effective; the occurrence of high fraud rates related to device financing, credit cards, dealers, or subscriptions; and interests of our majority stockholder may differ from the interests of other stockholders. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law."
+            }
+          }
+        }
+      }
+    },
+    "41": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "42": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "43": {
+          "table": [
+            [
+              "Date: March\u00a018, 2020",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

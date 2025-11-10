@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K/A",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "title": "(Amendment No. 1)",
+              "class": "predicted header",
+              "contents": {
+                "7": {
+                  "table": []
+                }
+              }
+            }
+          }
+        },
+        "8": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "10": {
+              "title": "Date of Report (Date of earliest event reported): May 21, 2021",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": []
+                }
+              }
+            },
+            "12": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "table": []
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "table": [
+                        [
+                          "Address Not Applicable",
+                          "Address Not Applicable"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "17": {
+                      "title": "Not Applicable",
+                      "class": "predicted header",
+                      "contents": {
+                        "18": {
+                          "textsmall": "(Registrant\u2019s telephone number, including area code)"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "textsmall": "(Former name or former address, if changed since last report)"
+                },
+                "21": {
+                  "table": []
+                },
+                "22": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "23": {
+                  "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "25": {
+                  "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header",
+                  "contents": {
+                    "27": {
+                      "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                    },
+                    "28": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading Symbol(s)",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Class\u00a0A common stock, $0.00001 par value",
+                          "COIN",
+                          "Nasdaq Global Select Market"
+                        ]
+                      ]
+                    },
+                    "29": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                    },
+                    "30": {
+                      "text": "Emerging growth company\u00a0\u00a0\u2610"
+                    },
+                    "31": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                    },
+                    "32": {
+                      "title": "Explanatory Note",
+                      "class": "predicted header",
+                      "contents": {
+                        "33": {
+                          "text": ": Due to printer error, an interim draft of Coinbase Global, Inc.\u2019s Form 8-K was erroneously filed yesterday May 26, 2021 at approximately 5:30 p.m. Eastern Time (the \u201cPrior Form 8-K\u201d). This Form 8-K/A corrects and supersedes the Prior Form 8-K."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "title": "Item 5.01.\u00a0\u00a0\u00a0\u00a0Change in Control of Registrant",
+      "standardized_title": "item5.01",
+      "class": "item",
+      "contents": {
+        "35": {
+          "text": "On or about May 21, 2021, Brian Armstrong, the Chairman, Chief Executive Officer and Co-Founder of Coinbase Global, Inc. (the \u201cCompany\u201d), became the beneficial owner of approximately 52.2% of the total voting power of the Company\u2019s outstanding capital stock as of May 21, 2021. Mr. Armstrong\u2019s voting power increased to over 50% of the total voting power of the Company as a result of sales and/or transfers by other stockholders of the Company of Class B common stock, which pursuant to the terms of the Company\u2019s Restated Certificate of Incorporation resulted in the conversion of their shares from Class B common stock (which is entitled to twenty votes per share) to Class A common stock (which is entitled to one vote per share), effectively decreasing the voting power percentages of such other stockholders relative to Mr. Armstrong. Such change was not the result of any purchase of the Company\u2019s capital stock by Mr. Armstrong. As a result of future sales or issuances of capital stock by the Company, and/or exercises, settlements or conversions of options, warrants or restricted stock units, and additional conversions of Class B common stock into shares of Class A common stock, Mr. Armstrong\u2019s voting power will fluctuate and may in the future decrease below, and then back above, 50% of the total voting power of the Company."
+        },
+        "36": {
+          "text": "Pursuant to the Company\u2019s Restated Certificate of Incorporation and Restated Bylaws, following the certification of Mr. Armstrong\u2019s voting power by the Company upon the direction of the Company\u2019s Board of Directors (the \u201cBoard\u201d), (i) the Board will no longer be divided into three classes with staggered three-year terms and all directors will be elected for annual terms; (ii) a majority vote of all the directors then in office rather than the affirmative vote of all of the directors then in office will be required for the nomination of directors for election to the Board, or to fill vacancies or newly created directorships resulting from any increase in the authorized number of directors on the Board; (iii) the Company\u2019s stockholders will be able to remove directors with or without cause by the affirmative vote of the holders of a majority of the voting power of all of the then-outstanding shares rather than only for cause and only by the affirmative vote of the holders of at least two-thirds of the voting power of all of the then-outstanding shares; (iv) the Company\u2019s stockholders will be permitted to take action by written consent; (v) a majority vote of the total number of authorized directors rather than the affirmative vote of all of the directors then in office will be required to adopt, amend, or repeal a provision inconsistent with Section 1.12.1(a) or Section 1.12.3 of Article I of the Company\u2019s Restated Bylaws; and (vi) the Company\u2019s stockholders will be permitted to adopt, amend or repeal any provision of the Restated Bylaws by the affirmative vote of the holders of a majority of the voting power of all of the then-outstanding shares rather than either the affirmative vote of at least 66-2/3% of the voting power of all of the then-outstanding shares or, only in the event that such proposed adoption, amendment, or repeal of any provision has been approved by two-thirds of the total number of authorized directors, the affirmative vote of the holders of a majority of the voting power of all of the then-outstanding shares. The Company expects to certify Mr. Armstrong\u2019s voting power upon the direction of the Board in the near term."
+        },
+        "37": {
+          "text": "There are no arrangements known to the Company, the operation of which may, at a subsequent date, result in a change in control of the Company."
+        }
+      }
+    },
+    "38": {
+      "title": "Item 8.01.\u00a0\u00a0\u00a0\u00a0Other Events",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "39": {
+          "text": "On May 24, 2021, pursuant to that certain purchase agreement, dated as of May 18, 2021 (the \u201cPurchase Agreement\u201d), with Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC, as representatives of the several initial purchasers named therein (collectively, the \u201cInitial Purchasers\u201d), pursuant to which the Company previously issued its 0.50% Convertible Senior Notes due 2026 (the \u201cNotes\u201d), the Initial Purchasers notified the Company of their exercise of their 30-day option to purchase an additional $187.5 million principal amount of Notes (the \u201cAdditional Notes\u201d), as set forth in the Purchase Agreement, and on May 26, 2021, the Company issued and sold the Additional Notes to the Initial Purchasers."
+        },
+        "40": {
+          "text": "In connection with the exercise by the Initial Purchasers of their option to purchase the Additional Notes, on May 24, 2021, the Company entered into privately negotiated capped call transactions (the \u201cAdditional Capped Call Transactions\u201d) with each of Bank of America, N.A., Bank of Montreal, Citibank, N.A., JPMorgan Chase Bank, National Association, Goldman Sachs & Co. LLC and Mizuho Markets Americas LLC (the \u201cOption Counterparties\u201d)."
+        },
+        "41": {
+          "text": "The Additional Capped Call Transactions were made on substantially identical terms as the privately negotiated capped call transactions the Company entered into with the Option Counterparties on May 18, 2021, as described in the Company\u2019s Current Report on Form 8-K dated as of May 21, 2021."
+        },
+        "42": {
+          "text": "The Additional Capped Call Transactions are separate transactions entered into by the Company with the Option Counterparties, and are not part of the terms of the Notes and will not affect any holder\u2019s rights under the Notes. Holders of the Notes will not have any rights with respect to the Additional Capped Call Transactions."
+        },
+        "43": {
+          "text": "The foregoing descriptions of the Additional Capped Call Transactions are qualified in their entirety by the copy of the form of call option transaction confirmation relating to the Additional Capped Call Transactions, which is incorporated herein by reference. A copy of the form of call option transaction confirmation was filed as Exhibit 10.1 to the Company\u2019s Current Report on Form 8-K dated as of May 21, 2021."
+        }
+      }
+    },
+    "44": {
+      "title": "Item 9.01.Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "45": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "46": {
+              "table": [
+                [
+                  "Exhibit",
+                  "Description"
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "47": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "48": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "49": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: May 27, 2021",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

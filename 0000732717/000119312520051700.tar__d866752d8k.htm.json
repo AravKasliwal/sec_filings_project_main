@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported) February\u00a027, 2020",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\n of Incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n (Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n (Address of Principal Executive Offices)",
+                      "75202\n (Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "11": {
+              "title": "Registrant\u2019s telephone number, including area code (210)\u00a0821-4105",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                },
+                "13": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):"
+                },
+                "14": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "15": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "16": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                },
+                "17": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                }
+              }
+            },
+            "18": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n Symbol(s)",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due August\u00a03, 2020",
+                      "T 20C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.875% Global Notes due December\u00a04, 2020",
+                      "T 20",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December\u00a017, 2021",
+                      "T 21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June\u00a01, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March\u00a015, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May\u00a019, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September\u00a05, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September\u00a05, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September\u00a05, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September\u00a015, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March\u00a015, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December\u00a017, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March\u00a04, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a05, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December\u00a04, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September\u00a05, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September\u00a014, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December\u00a017, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March\u00a04, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December\u00a017, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November\u00a018, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March\u00a015, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March\u00a015, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September\u00a04, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a014, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April\u00a030, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June\u00a01, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June\u00a01, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March\u00a01, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November\u00a01, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August\u00a01, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "20": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "21": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "22": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "23": {
+      "title": "Item\u00a08.01",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "24": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "25": {
+              "text": "Throughout this document, AT&T Inc. is referred to as \u201cAT&T.\u201d On February\u00a027, 2020, AT&T closed its sale of $2,995,000,000 principal amount of its 4.000% Global Notes due 2049 (the \u201cNotes\u201d) pursuant to the Underwriting Agreement, dated February\u00a013, 2020 (the \u201cUnderwriting Agreement\u201d), between AT&T and BNP Paribas, Taipei Branch, Citibank Taiwan Limited, Deutsche Bank AG, Taipei Branch and Morgan Stanley Taiwan Limited, as the several Underwriters. The Notes were issued pursuant to that certain Indenture, dated as of May\u00a015, 2013, between AT&T and The Bank of New York Mellon Trust Company, N.A., as Trustee. The Notes have been registered under the Securities Act of 1933, as amended (the \u201cAct\u201d) pursuant to a Registration Statement on Form S-3 (No. 333-231404) previously filed with the Securities and Exchange Commission (the \u201cCommission\u201d) under the Act. Copies of the Underwriting Agreement, the form of Notes and the opinion of our Vice President - Associate General Counsel and Assistant Secretary as to the validity of the Notes are filed as exhibits hereto and incorporated herein by reference. AT&T is filing this Current Report on Form 8-K so as to file with the Commission certain items that are to be incorporated by reference into its Registration Statement."
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "27": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "28": {
+              "text": "The following exhibits are filed as part of this report:"
+            },
+            "29": {
+              "text": "(d)\u00a0Exhibits"
+            },
+            "30": {
+              "table": [
+                [
+                  "1.1",
+                  "Underwriting Agreement, dated February\u00a013, 2020"
+                ],
+                [
+                  "4.1",
+                  "Form of 4.000% Global Notes due 2049"
+                ],
+                [
+                  "5.1",
+                  "Opinion of Mr.\u00a0Wayne\u00a0A. Wirtz, Vice President \u2013 Associate General Counsel and Assistant Secretary, AT&T Inc., as to the validity of the Notes"
+                ],
+                [
+                  "23.1",
+                  "Consent of Mr.\u00a0Wayne\u00a0A. Wirtz, Vice President \u2013 Associate General Counsel and Assistant Secretary (included in Exhibit 5.1)"
+                ],
+                [
+                  "104",
+                  "The cover page from AT&T Inc.\u2019s Current Report on Form 8-K, formatted in Inline XBRL"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "32": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "33": {
+          "table": [
+            [
+              "",
+              "AT&T INC.",
+              "AT&T INC."
+            ],
+            [
+              "Date: February\u00a027, 2020",
+              "By:",
+              "/s/ George B. Goeke"
+            ],
+            [
+              "",
+              "",
+              "George B. Goeke"
+            ],
+            [
+              "",
+              "",
+              "Senior Vice President and Treasurer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

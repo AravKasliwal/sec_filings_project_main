@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): May 21, 2021",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable",
+                          "Address Not Applicable"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header",
+                      "contents": {
+                        "17": {
+                          "textsmall": "(Registrant\u2019s telephone number, including area code)"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "18": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "textsmall": "(Former name or former address, if changed since last report)"
+                },
+                "20": {
+                  "table": []
+                },
+                "21": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "22": {
+                  "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "25": {
+                  "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header",
+                  "contents": {
+                    "26": {
+                      "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                    },
+                    "27": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading Symbol(s)",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Class\u00a0A common stock, $0.00001 par value",
+                          "COIN",
+                          "Nasdaq Global Select Market"
+                        ]
+                      ]
+                    },
+                    "28": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                    },
+                    "29": {
+                      "text": "Emerging growth company\u00a0\u00a0\u2610"
+                    },
+                    "30": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Item 1.01.Entry into a Material Definitive Agreement.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "32": {
+          "title": "Convertible Notes and the Indenture",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "text": "On May 21, 2021, Coinbase Global, Inc. (the \u201cCompany\u201d) priced its private offering of $1.25 billion in aggregate principal amount of 0.50% Convertible Senior Notes due 2026 (the \u201cNotes\u201d). The Notes are senior unsecured obligations of the Company. The Notes were issued pursuant to an Indenture, dated May 21, 2021 (the \u201cIndenture\u201d), between the Company and U.S. Bank National Association, as trustee (the \u201cTrustee\u201d). The Indenture include customary covenants and sets forth certain events of default after which the Notes may be declared immediately due and payable and sets forth certain types of bankruptcy or insolvency events of default involving the Company after which the Notes become automatically due and payable. Pursuant to the purchase agreement between the Company and the Initial Purchasers (as defined below), the Company also granted the Initial Purchasers of the Notes a 30-day option to purchase up to an additional $187.5 million principal amount of Notes, solely to cover over-allotments (the \u201cAdditional Notes\u201d)."
+            },
+            "34": {
+              "text": "The Notes will mature on June 1, 2026, unless earlier repurchased, redeemed or converted. The Notes accrue interest of 0.50% per year payable semi-annually in arrears. The Notes will be convertible at the option of the holders at any time prior to the close of business on the business day immediately preceding December 1, 2025, only under the following circumstances: (1)\u00a0during any calendar quarter commencing after the calendar quarter ending on September 30, 2021, if the last reported sale price of the Company\u2019s Class\u00a0A common stock, par value $0.00001 per share (the \u201cClass\u00a0A Common Stock\u201d) exceeds 130% of the conversion price for each of at least 20 trading days during a period of 30 consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter; (2)\u00a0during the five consecutive business day period immediately after any ten consecutive trading day period (the \u201cmeasurement period\u201d) in which the trading price (as defined in the Indenture) per $1,000 principal amount of Notes for each trading day of the measurement period was less than 98% of the product of the last reported sale price per share of the Class\u00a0A Common Stock and the conversion rate on each such trading day; (3)\u00a0if the Company calls such Notes for redemption; and (4)\u00a0upon the occurrence of specified corporate events or distributions on the Class A Common Stock. On or after December 1, 2025, until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their Notes, in multiples of $1,000 principal amount, at the option of the holder regardless of the foregoing circumstances. Upon conversion, the Company may satisfy its conversion obligation by paying and/or delivering, as the case may be, cash, shares of the Class\u00a0A Common Stock or a combination of cash and shares of the Class\u00a0A Common Stock, at the Company\u2019s election, in the manner and subject to the terms and conditions provided in the Indenture. The conversion rate for the Notes will initially be 2.6994 shares of the Class\u00a0A Common Stock per $1,000 principal amount of the Notes, which is equivalent to an initial conversion price of approximately $370.45 per share of the Class\u00a0A Common Stock. The initial conversion price of the Notes represents a premium of approximately 55% to the $239.00 per share last reported sale price of the Class\u00a0A Common Stock on May 18, 2021. The conversion rate is subject to customary adjustments under certain circumstances in accordance with the terms of the Indenture. In addition, if certain corporate events that constitute a \u201cMake-Whole Fundamental Change\u201d (as defined in the Indenture) occur, then the conversion rate will, in certain circumstances, be increased for a specified period of time."
+            },
+            "35": {
+              "text": "The Company may not redeem the Notes prior to June 5, 2024. The Company may redeem all or any portion of the Notes, at its option, on or after June 5, 2024, and on or before the 20th scheduled trading day immediately before the maturity date, if the last reported sale price per share of the Class\u00a0A Common Stock exceeds 130% of the conversion price then in effect on (1) at least 20 trading days (whether or not consecutive) during the 30 consecutive trading days ending on, and including, the trading day immediately before the date the Company sends the related redemption notice and (2) the trading day immediately before the date the Company sends such notice, at a redemption price equal to 100% of the principal amount of the Notes to be redeemed, plus any accrued and unpaid interest, to, but excluding, the redemption date. No sinking fund is provided for the Notes, which means that the Company is not required to redeem or retire the Notes periodically."
+            },
+            "36": {
+              "text": "Upon the occurrence of a fundamental change (as defined in the Indenture), subject to certain conditions, holders may require the Company to repurchase all or a portion of the Notes for cash at a price equal to 100% of the principal amount of the Notes to be repurchased, plus any accrued and unpaid interest, to, but excluding, the fundamental change repurchase date."
+            },
+            "37": {
+              "text": "The notes will be the Company\u2019s senior, unsecured obligations and will be equal in right of payment with the Company\u2019s existing and future senior, unsecured indebtedness, senior in right of payment to our existing and future"
+            },
+            "38": {
+              "text": "indebtedness that is expressly subordinated to the notes and effectively subordinated to our existing and future secured indebtedness, to the extent of the value of the collateral securing that indebtedness. The notes will be structurally subordinated to all existing and future indebtedness and other liabilities, including trade payables, and (to the extent we are not a holder thereof) preferred equity, if any, of the Company\u2019s subsidiaries."
+            },
+            "39": {
+              "text": "The following events are considered \u201cevents of default\u201d with respect to the Notes, which may result in the acceleration of the maturity of the Notes:"
+            },
+            "40": {
+              "text": "(1)a default by the Company in the payment when due (whether at maturity, upon redemption or repurchase upon fundamental change or otherwise) of the principal of, or the redemption price or fundamental change repurchase price for, any Note;"
+            },
+            "41": {
+              "text": "(2)a default by the Company for 30 days in the payment when due of interest on any Note;"
+            },
+            "42": {
+              "text": "(3)failure by the Company to deliver, when required by the Indenture, a fundamental change notice or a notice of specified corporate events with respect to the Notes, and such failure continues for one business day;"
+            },
+            "43": {
+              "text": "(4)a default by the Company in its obligation to convert a Note in accordance with the Indenture upon the exercise of the conversion right with respect thereto, if such default is not cured within three business days after its occurrence;"
+            },
+            "44": {
+              "text": "(5)a default by the Company of any of its obligations with respect to consolidation, merger, sale, lease, and transfer, in one transaction or a series of transactions, of all or substantially all of the assets of the Company and its subsidiaries, taken as a whole;"
+            },
+            "45": {
+              "text": "(6)a default by the Company in any of its obligations or agreements under the Indenture or the Notes (other than a default set forth in paragraphs (1), (2), (3), (4) or (5) above) where such default is not cured or waived within 60 days after notice to the Company by the Trustee, or to the Company and the Trustee by holders of at least 25% of the aggregate principal amount of the Notes then outstanding, which notice must specify such default, demand that it be remedied and state that such notice is a \u201cnotice of default\u201d;"
+            },
+            "46": {
+              "text": "(7)a default by the Company or any of its significant subsidiaries (as defined in the Indenture) with respect to any one or more mortgages, agreements or other instruments under which there is outstanding, or by which there is secured or evidenced, any indebtedness for money borrowed (other than non-recourse indebtedness) of at least $150,000,000 million (or its foreign currency equivalent) in the aggregate of the Company or any of ]subsidiaries, whether such indebtedness exists as of the date the Company first issued the Notes or is thereafter created, where such default  (i) constitutes a failure to pay the principal of, or premium or interest on, any of such indebtedness when due and payable at its stated maturity, upon required repurchase, upon declaration of acceleration or otherwise or (ii) results in such indebtedness becoming or being declared due and payable before its stated maturity; and in each case of either clause (i) or (ii) above, where such default is not cured or waived within 30 days after notice to the Company by the Trustee or to the Company and the Trustee by holders of at least 25% of the aggregate principal amount of the Notes then outstanding; and"
+            },
+            "47": {
+              "text": "(8)certain events of bankruptcy, insolvency and reorganization with respect to the Company or any significant subsidiary."
+            },
+            "48": {
+              "text": "If an event of default (other than an event of default described in paragraph (8) above with respect to the Company and not solely with respect to a significant subsidiary of the Company) occurs and is continuing, then, except with respect to situations involving special interest as the sole remedy for certain reporting defaults, the Trustee, by notice to the Company, or holders of at least 25% of the aggregate principal amount of notes then outstanding, by notice to the Company and the Trustee, may declare the principal amount of, and all accrued and unpaid interest, on, all of the Notes then outstanding to become due and payable immediately. If an event of default described in paragraph (8) above occurs with respect to the Company (and not solely with respect to a significant subsidiary of the Company), then the principal amount of, and all accrued and unpaid interest, on, all of the Notes then outstanding will immediately become due and payable without any further action or notice by any person."
+            },
+            "49": {
+              "text": "A copy of the Indenture and the form of Note are attached as Exhibits 4.1 and 4.2, respectively, to this Current Report on Form\u00a08-K\u00a0and are incorporated herein by reference. The foregoing description of the Indenture and Notes do not purport to be complete and is qualified in its entirety by reference to the full text in such exhibits."
+            },
+            "50": {
+              "text": "The net proceeds from this offering were approximately $1.22 billion, after deducting the Initial Purchasers\u2019 discounts and commissions and the Company\u2019s estimated offering expenses related to the offering. The Company used approximately $78.4\u00a0million of the net proceeds from the offering to pay the cost of the Capped Call Transactions (as defined below). The Company intends to use the remainder of the net proceeds from the offering for general corporate purposes, which may include working capital, capital expenditures, and investments in and acquisitions of other companies, products or technologies that the Company may identify in the future."
+            }
+          }
+        },
+        "51": {
+          "title": "Capped Call Transactions",
+          "class": "predicted header",
+          "contents": {
+            "52": {
+              "text": "On May 18, 2021, in connection with the pricing of the Notes, the Company entered into privately negotiated capped call transactions (the \u201c Base Capped Call Transactions\u201d) with each of Bank of America, N.A., Bank of Montreal, Citibank, N.A., JPMorgan Chase Bank, National Association, Goldman Sachs & Co. LLC and Mizuho Markets Americas LLC (the \u201cOption Counterparties\u201d). The Capped Call Transactions have an initial strike price of approximately $370.45 per share, subject to adjustments, which corresponds to the approximate initial conversion price of the Notes. The Capped Call Transactions will cover, subject to anti-dilution adjustments substantially similar to those applicable to the Notes, the number of shares of Class A Common Stock underlying the Notes sold in the offering. The Capped Call Transactions are expected generally to reduce potential dilution to the Class\u00a0A Common Stock upon any conversion of Notes and/or offset any potential cash payments the Company would be required to make in excess of the principal amount of converted Notes, as the case may be, with such reduction and/or offset subject to a cap based on the cap price. If, however, the market price per share of Class\u00a0A Common Stock, as measured under the terms of the Capped Call Transactions, exceeds the cap price of the Capped Call Transactions, there would be dilution and/or there would not be an offset of such potential cash payments, in each case, to the extent that the then-market price per share of the Class\u00a0A Common Stock exceeds the cap price of the Capped Call Transactions. The cap price of the Capped Call Transactions will initially be approximately $478.00 per share, which represents a premium of approximately 100% over the last reported sale price of the Class\u00a0A Common Stock of $239.00 per share on May 18, 2021, and is subject to certain adjustments under the terms of the Capped Call Transactions. The Capped Call Transactions are subject to either adjustment or termination upon the occurrence of specified extraordinary events affecting the Company, including a merger; a tender offer; and a nationalization, insolvency, or delisting involving the Company. In addition, the Capped Call Transactions are subject to certain specified additional disruption events that may give rise to a termination of the Capped Call Transactions, including changes in law; insolvency filings and hedging disruptions."
+            },
+            "53": {
+              "text": "The Capped Call Transactions are separate transactions entered into by the Company with the Option Counterparties and are not part of the terms of the Notes and will not affect any holder\u2019s rights under the Notes. Holders of the Notes will not have any rights with respect to the Capped Call Transactions."
+            },
+            "54": {
+              "text": "A copy of the form of the Capped Call Transaction confirmation is attached as Exhibit 10.1 to this Current Report on\u00a0Form\u00a08-K and\u00a0is incorporated herein by reference. The foregoing description of the Capped Call Transaction confirmation does not purport to be complete and is qualified in its entirety by reference to the full text in such exhibit."
+            }
+          }
+        }
+      }
+    },
+    "55": {
+      "title": "Item 2.03.Creation of a Direct Financial Obligation or an Obligation under an\u00a0Off-Balance\u00a0Sheet Arrangement of a Registrant.",
+      "standardized_title": "item2.03",
+      "class": "item",
+      "contents": {
+        "56": {
+          "text": "The information set forth under Item\u00a01.01 of this Current Report on\u00a0Form\u00a08-K\u00a0is\u00a0incorporated herein by reference."
+        }
+      }
+    },
+    "57": {
+      "title": "Item 3.02.Unregistered Sales of Equity Securities.",
+      "standardized_title": "item3.02",
+      "class": "item",
+      "contents": {
+        "58": {
+          "text": "The information set forth under Items\u00a01.01 and 8.01 of this Current Report on\u00a0Form\u00a08-K\u00a0is\u00a0incorporated herein by reference."
+        },
+        "59": {
+          "text": "The Company offered and sold the Notes to the Initial Purchasers (as defined below) in reliance on the exemption from the registration requirements provided by Section\u00a04(a)(2) of the Securities Act of 1933, as amended (the \u201cSecurities Act\u201d), and for resale by the Initial Purchasers to persons reasonably believed to be \u201cqualified institutional buyers,\u201d as defined in and pursuant to the exemption from registration requirements provided by Rule 144A under the Securities Act. The Company relied on these exemptions from registration based in part on representations made by the Initial Purchasers in the Purchase Agreement (as defined below) pursuant to which the Company sold the Notes to the Initial Purchasers. The shares of the Class\u00a0A Common Stock issuable upon conversion of the"
+        },
+        "60": {
+          "text": "Notes, if any, have not been registered under the Securities Act and may not be offered or sold in the United States absent registration or an applicable exemption from the registration requirements."
+        },
+        "61": {
+          "text": "Assuming the Initial Purchasers fully exercise their option to purchase additional Notes, initially, a maximum of 6,014,643 shares of the Class A common stock may be issued upon conversion of the Notes, based on the initial maximum conversion rate of 4.1841 shares of Class A common stock per $1,000 principal amount of Notes, which is subject to customary anti-dilution adjustment provisions."
+        },
+        "62": {
+          "text": "To the extent that any shares of\u00a0the Class\u00a0A Common Stock are issued upon conversion of the Notes, they will be issued in transactions anticipated to be exempt from registration under the Securities Act by virtue of Section\u00a03(a)(9) thereof, because no commission or other remuneration is expected to be paid in connection with conversion of the Notes and any resulting issuance of shares of the Class\u00a0A Common Stock."
+        }
+      }
+    },
+    "63": {
+      "title": "Item 8.01.Other Events",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "64": {
+          "title": "Purchase Agreement",
+          "class": "predicted header",
+          "contents": {
+            "65": {
+              "text": "On May 18, 2021, the Company entered into a purchase agreement (the \u201cPurchase Agreement\u201d) with Goldman Sachs & Co. LLC and J.P. Morgan Securities LLC, as representatives of the several initial purchasers named therein (collectively, the \u201cInitial Purchasers\u201d), to issue and sell the Notes. In addition, pursuant to the terms of the Purchase Agreement, the Company granted the Initial Purchasers of the Notes a 30-day option to purchase up to an additional $187.5 million principal amount of Additional Notes on the same terms and conditions. The Purchase Agreement includes customary representations, warranties, and covenants by the Company and customary closing conditions. Under the terms of the Purchase Agreement, the Company has agreed to indemnify the Initial Purchasers against certain liabilities."
+            }
+          }
+        }
+      }
+    },
+    "66": {
+      "title": "Item 9.01.Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "67": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "68": {
+              "table": [
+                [
+                  "Exhibit",
+                  "Description"
+                ],
+                [
+                  "4.1",
+                  "Indenture, dated as of May 21, 2021, between Coinbase Global, Inc. and  U.S. Bank National Association, as trustee."
+                ],
+                [
+                  "4.2",
+                  "Form of 0.50% Convertible Senior Notes due 2026 (included in Exhibit 4.1)."
+                ],
+                [
+                  "10.1",
+                  "Form of Capped Call Transaction Confirmation."
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "69": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "70": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "71": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: May 21, 2021",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

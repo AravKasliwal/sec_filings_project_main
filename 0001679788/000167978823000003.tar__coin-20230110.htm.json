@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): January 10, 2023",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable(1)",
+                          "Address Not Applicable(1)"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header",
+                      "contents": {
+                        "17": {
+                          "textsmall": "(1)"
+                        }
+                      }
+                    }
+                  }
+                },
+                "18": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "23": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "28": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "Nasdaq Global Select Market"
+                            ]
+                          ]
+                        },
+                        "29": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "30": {
+                          "textsmall": "(1) We are a remote-first company. Accordingly, we do not maintain a headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and Securities Exchange Act of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email address set forth in our proxy materials and/or identified on our investor relations website."
+                        },
+                        "31": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "32": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 2.02. Results of Operations and Financial Condition.",
+      "standardized_title": "item2.02",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "On January 10, 2023, Coinbase Global, Inc. (the \u201cCompany\u201d) announced certain preliminary unaudited financial and operating results for its year ended December 31, 2022. The Company expects to report Average Annual MTUs, Average Transaction Revenue Per User, and Subscription and Services Revenue, as well as certain operating expenses - comprising Transaction Expenses, Sales and Marketing Expenses (including stock-based compensation), and Technology and Development + General and Administrative Expenses (including stock-based compensation) - to be consistent with the Full-Year 2022 Outlook provided in its November 3, 2022 letter to shareholders (the \u201cShareholder Letter\u201d). As a result, Adjusted EBITDA for the full year ended December 31, 2022 is expected to be within the negative $500 million loss guardrail that the Company provided in the Shareholder Letter."
+        },
+        "35": {
+          "text": "The Company\u2019s audited financial statements for the year ended December 31, 2022 are not yet available. Accordingly, these preliminary financial and operating results are an estimate and subject to the completion of the Company\u2019s financial closing and other procedures and finalization of the Company\u2019s consolidated financial statements for its year ended December 31, 2022, including the completion of the audit of the Company\u2019s financial statements. Accordingly, actual financial and operating results that will be reflected in the Company\u2019s Annual Report on Form 10-K for the year ended December 31, 2022, including its audited financial statements, when they are completed and publicly disclosed may differ from these preliminary results."
+        },
+        "36": {
+          "text": "The Company further announced that it expects certain of its operating expenses - comprising Sales and Marketing Expenses, Technology and Development + General and Administrative Expenses, including stock-based compensation and excluding restructuring expenses and Other operating expenses, net - for the quarter ending March 31, 2023 to be approximately 25% lower than those operating expenses for the quarter ended December 31, 2022. This is the result of ongoing cost management initiatives, including the Plan (as defined below)."
+        },
+        "37": {
+          "text": "The information furnished with this Item 2.02 shall not be deemed \u201cfiled\u201d for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference into any other filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference in such a filing."
+        }
+      }
+    },
+    "38": {
+      "title": "Item 2.05. Costs Associated with Exit or Disposal Activities.",
+      "standardized_title": "item2.05",
+      "class": "item",
+      "contents": {
+        "39": {
+          "text": "On January 10, 2023, the Company announced a further restructuring plan (the \u201cPlan\u201d) to manage its operating expenses in response to the ongoing market conditions impacting the cryptoeconomy, as well as ongoing business prioritization efforts. The Plan involves a reduction of the Company\u2019s workforce by approximately 950 employees. The Company expects execution of the Plan to be substantially complete by the second quarter of 2023."
+        },
+        "40": {
+          "text": "In connection with these actions, the Company estimates that it will incur approximately $149 million to $163 million in total restructuring expenses, consisting of approximately $58 million to $68 million in cash charges related to employee severance and other termination benefits. Of the aggregate charges that the Company expects to incur in connection with the Plan, the Company expects that approximately $91 million to $95 million will be in stock-based compensation expenditures relating to the acceleration of the vesting of outstanding equity awards in accordance with the terms of such awards. The Company expects to recognize substantially all of these charges in the first quarter of 2023."
+        },
+        "41": {
+          "text": "The estimates of the charges and expenditures that the Company expects to incur in connection with the Plan, and the timing thereof, are subject to a number of assumptions, including local law and consultation requirements in various jurisdictions, and actual amounts may differ materially from estimates. The Company may also incur charges and expenditures not currently contemplated due to unanticipated events that may occur in connection with the Plan."
+        },
+        "42": {
+          "title": "Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "43": {
+              "text": "This Current Report on Form 8-K contains forward-looking statements including, but not limited to, statements related to the Company\u2019s preliminary unaudited financial and operating results for the year ended December 31, 2022, outlook for the quarter ending March 31, 2023, the number of positions affected by the Plan, and the estimated restructuring charges associated with, and the time frame for completion of and recognition of"
+            },
+            "44": {
+              "text": "charges associated with, the Plan. These forward-looking statements are based on management\u2019s beliefs and assumptions and on information available to management as of the date they are made. However, investors should not place undue reliance on any such forward-looking statements because they speak only as of the date they are made. The Company does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. In addition, forward-looking statements are subject to certain risks and uncertainties that could cause actual results, events and developments to differ materially from the Company\u2019s historical experience and its present expectations or projections. These risks and uncertainties include, but are not necessarily limited to, those described in the Company\u2019s filings with the Securities and Exchange Commission."
+            }
+          }
+        }
+      }
+    },
+    "45": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "46": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "47": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: January 10, 2023",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

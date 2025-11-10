@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): April 24, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g912727g0424110316739.jpg",
+                    "alt": "IMAGE"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "16": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "17": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "20": {
+                  "title": "Securities",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "text": "registered pursuant to Section 12(b) of the Act:"
+                    },
+                    "22": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n symbol",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, $0.00001 par value per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    },
+                    "23": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                    },
+                    "24": {
+                      "text": "Emerging growth company\u00a0\u00a0\u2610"
+                    },
+                    "25": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "title": "Item\u00a05.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "27": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "28": {
+              "text": "On April\u00a024, 2020, John Legere notified T-Mobile US, Inc. (the \u201cCompany\u201d) that he was resigning from the Board of Directors (the \u201cBoard\u201d) of the Company, effective immediately, to pursue other options. Mr.\u00a0Legere noted that he was not resigning because of any disagreement with management or the Board on any matter. Previously, on April\u00a01, 2020, upon his departure as CEO of the Company, Mr.\u00a0Legere had stated that intended to continue as a member of the Board for the remainder of his current term, which ends on June\u00a04, 2020."
+            },
+            "29": {
+              "text": "In his notice to the Company, Mr.\u00a0Legere stated \u201cIt has been a privilege and honor to have led T-Mobile as CEO for the past seven and a half years and served on the Board of Directors.\u00a0And although I will be leaving the Board just a few weeks earlier than planned, be assured that I remain T-Mobile\u2019s #1 fan!\u201d"
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "31": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "32": {
+          "table": [
+            [
+              "Date: April\u00a024, 2020",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

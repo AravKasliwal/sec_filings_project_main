@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported) February\u00a014, 2020",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-8610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\n of Incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas",
+                      "208 S. Akard St., Dallas, Texas",
+                      "75202"
+                    ],
+                    [
+                      "(Address of Principal Executive Offices)",
+                      "(Address of Principal Executive Offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "11": {
+              "title": "Registrant\u2019s telephone number, including area code (210)\u00a0821-4105",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                },
+                "13": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):"
+                },
+                "14": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "15": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "16": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                },
+                "17": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                }
+              }
+            },
+            "18": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n Symbol(s)",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "TPRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due August\u00a03, 2020",
+                      "T 20C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.875% Global Notes due December\u00a04, 2020",
+                      "T 20",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December\u00a017, 2021",
+                      "T 21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June\u00a01, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March\u00a015, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May\u00a019, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September\u00a05, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September\u00a05, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September\u00a05, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September\u00a015, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March\u00a015, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December\u00a017, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March\u00a04, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a05, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December\u00a04, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September\u00a05, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September\u00a014, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December\u00a017, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March\u00a04, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December\u00a017, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November\u00a018, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March\u00a015, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March\u00a015, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September\u00a04, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a014, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April\u00a030, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June\u00a01, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June\u00a01, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November\u00a01, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August\u00a01, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "20": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "21": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "22": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "23": {
+      "title": "Item\u00a03.03",
+      "standardized_title": "item3.03",
+      "class": "item",
+      "contents": {
+        "24": {
+          "title": "Material Modification to Rights of Security Holders.",
+          "class": "predicted header",
+          "contents": {
+            "25": {
+              "text": "On February\u00a018, 2020, AT&T Inc. (the \u201cCompany\u201d) closed the public offering of 20,000 shares of its Fixed Rate Reset Perpetual Preferred Securities, Series B (the \u201cSeries B\u201d) representing an aggregate liquidation preference of \u20ac2,000,000,000 and 70,000,000 depositary shares (the \u201cDepositary Shares\u201d), each such Depositary Share representing a 1/1,000th interest in a share of its 4.750% Perpetual Preferred Stock, Series C (the \u201cSeries C\u201d) representing an aggregate liquidation preference of $1,750,000,000. The Series B and the Depositary Shares were offered and sold pursuant to an effective shelf registration statement on Form S-3 (File No.\u00a0333-231404).  If the Company fails to declare and pay (or set aside) the full accrued dividends on all classes of its preferred shares and any equally ranked stock through and including the most recently completed dividend period, the preferred shares restrict the ability of the Company to declare or pay dividends on, or purchase, redeem or otherwise acquire, shares of its common stock or shares of any other junior class or series of stock. In the event of partial payment or non-payment of full accrued dividends, the preferred shares restrict the distribution of assets upon any liquidation, dissolution or winding up of the Company. The terms of the securities are more fully described in, and this description is qualified in its entirety by reference to, the Certificate of Designations with respect to the Series B and the Certificate of Designations with respect to the Series C, copies of which are filed as Exhibit 3.1 and Exhibit 3.2, respectively, to this Current Report on Form 8-K and are incorporated herein by reference."
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "title": "Item\u00a05.03",
+      "standardized_title": "item5.03",
+      "class": "item",
+      "contents": {
+        "27": {
+          "title": "Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.",
+          "class": "predicted header",
+          "contents": {
+            "28": {
+              "text": "On February\u00a014, 2020, the Company filed a Certificate of Designations with the Secretary of State of Delaware to establish the preferences, limitations and relative rights of the Series B. The Certificate of Designations with respect to the Series B became effective upon filing with the Secretary of State, and a copy is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference."
+            },
+            "29": {
+              "text": "On February\u00a014, 2020, the Company filed a Certificate of Designations with the Secretary of State of Delaware to establish the preferences, limitations and relative rights of the Series C. The Certificate of Designations with respect to the Series C became effective upon filing with the Secretary of State, and a copy is filed as Exhibit 3.2 to this Current Report on Form 8-K and is incorporated herein by reference."
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u00a08.01",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "32": {
+              "text": "In connection with the sale of the Series\u00a0B, the Company entered into an Underwriting Agreement with Deutsche Bank AG, London Branch, Banco Santander, S.A., Barclays Bank PLC, Credit Suisse Securities (Europe) Limited, Banco Bilbao Vizcaya Argentaria, S.A., Commerzbank Aktiengesellschaft and Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, as the underwriters named therein, which is filed as Exhibit 1.1 hereto."
+            },
+            "33": {
+              "text": "The opinion of the Company\u2019s Vice President - Associate General Counsel and Assistant Secretary relating to the validity of the Series B is filed as Exhibit 5.1 to this Current Report on Form 8-K."
+            },
+            "34": {
+              "text": "In connection with the sale of the Depositary Shares, the Company entered into an Underwriting Agreement with Morgan Stanley\u00a0& Co. LLC, Wells Fargo Securities, LLC, BofA Securities, Inc., RBC Capital Markets, LLC, J.P. Morgan Securities LLC and UBS Securities LLC, as representatives of the several underwriters named therein, which is filed as Exhibit 1.2 hereto."
+            },
+            "35": {
+              "text": "On February\u00a018, 2020, in connection with the issuance of the Depositary Shares, the Company entered into a Deposit Agreement among the Company, Computershare Inc. and Computershare Trust Company, N.A., collectively as depositary, and the holders from time to time of the depositary receipts described therein. A copy of the Deposit Agreement is filed as Exhibit 4.3 to this Current Report on Form 8-K, and the form of depositary receipt evidencing the Depositary Shares is included as Exhibit A to the Deposit Agreement."
+            },
+            "36": {
+              "text": "The opinion of the Company\u2019s Vice President \u2013 Associate General Counsel and Assistant Secretary relating to the validity of the Depositary Shares and the Series C is filed as Exhibit 5.2 to this Current Report on Form 8-K."
+            }
+          }
+        }
+      }
+    },
+    "37": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "38": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "text": "The following exhibits are filed as part of this report:"
+            },
+            "40": {
+              "title": "(d)\u00a0Exhibits",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "Exhibit \n Number Description",
+              "class": "predicted header",
+              "contents": {
+                "42": {
+                  "table": [
+                    [
+                      "1.1",
+                      "Underwriting Agreement, dated February\u00a012, 2020, between the Company and Deutsche Bank AG, London Branch, Banco Santander, S.A., Barclays Bank PLC, Credit Suisse Securities (Europe) Limited, Banco Bilbao Vizcaya Argentaria, S.A., Commerzbank Aktiengesellschaft and Soci\u00e9t\u00e9 G\u00e9n\u00e9rale, as the several underwriters named therein."
+                    ],
+                    [
+                      "1.2",
+                      "Underwriting Agreement, dated February\u00a012, 2020, between the Company and Morgan Stanley\u00a0& Co. LLC, Wells Fargo Securities, LLC, BofA Securities, Inc., RBC Capital Markets, LLC, J.P. Morgan Securities LLC and UBS Securities LLC, as representatives of the several underwriters named therein."
+                    ],
+                    [
+                      "3.1",
+                      "Certificate of Designations with respect to the Series B."
+                    ],
+                    [
+                      "3.2",
+                      "Certificate of Designations with respect to the Series C."
+                    ],
+                    [
+                      "4.1",
+                      "Certificate of Designations with respect to the Series B, filed as Exhibit 3.1."
+                    ],
+                    [
+                      "4.2",
+                      "Certificate of Designations with respect to the Series C, filed as Exhibit 3.2."
+                    ],
+                    [
+                      "4.3",
+                      "Deposit Agreement, dated February\u00a018, 2020, among the Company, Computershare Inc. and Computershare Trust Company, N.A., collectively, as depositary, and the holders from time to time of the depositary receipts described therein."
+                    ],
+                    [
+                      "4.4",
+                      "Form of Depositary Receipt (included as Exhibit A to Exhibit 4.3)."
+                    ],
+                    [
+                      "5.1",
+                      "Opinion of Mr.\u00a0Wayne\u00a0A. Wirtz, Vice President \u2013 Associate General Counsel and Assistant Secretary, AT&T Inc., as to the validity of the Series B."
+                    ],
+                    [
+                      "5.2",
+                      "Opinion of Mr.\u00a0Wayne\u00a0A. Wirtz, Vice President \u2013 Associate General Counsel and Assistant Secretary, AT&T Inc., as to the validity of the Depositary Shares and Series C."
+                    ],
+                    [
+                      "23.1",
+                      "Consent of Mr.\u00a0Wayne\u00a0A. Wirtz, Vice President \u2013 Associate General Counsel and Assistant Secretary, AT&T Inc. (included in Exhibit 5.1) (with respect to the Series B)."
+                    ],
+                    [
+                      "23.2",
+                      "Consent of Mr.\u00a0Wayne\u00a0A. Wirtz, Vice President \u2013 Associate General Counsel and Assistant Secretary, AT&T Inc. (included in Exhibit 5.2) (with respect to the Depositary Shares and the Series C)."
+                    ],
+                    [
+                      "104",
+                      "The cover page from AT&T Inc.\u2019s Current Report on Form 8-K, formatted in Inline XBRL."
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "43": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "44": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "45": {
+          "table": [
+            [
+              "",
+              "AT&T INC.",
+              "AT&T INC."
+            ],
+            [
+              "Date: February\u00a018, 2020",
+              "By:",
+              "/s/ George\u00a0B.\u00a0Goeke"
+            ],
+            [
+              "",
+              "",
+              "George B. Goeke"
+            ],
+            [
+              "",
+              "",
+              "Senior\u00a0Vice\u00a0President\u00a0and\u00a0Treasurer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

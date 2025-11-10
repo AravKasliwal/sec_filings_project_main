@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): September 29, 2024",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact name of Registrant as Specified in Its Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation )",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ]
+                  ]
+                },
+                "11": {
+                  "table": [
+                    [
+                      "208 S. Akard St., Dallas, Texas",
+                      "75202"
+                    ],
+                    [
+                      "(Address of Principal Executive Offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s Telephone Number, Including Area Code: 210-821-4105",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                    },
+                    "15": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):",
+                      "class": "predicted header"
+                    },
+                    "16": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "25": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\nSymbol(s)",
+                              "Name of each exchange\non which registered"
+                            ],
+                            [
+                              "Common Shares (Par Value $1.00 Per Share)",
+                              "T",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                              "T PRA",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                              "T PRC",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. Floating Rate Global Notes due March\u00a06, 2025",
+                              "T 25A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.550% Global Notes due November\u00a018, 2025",
+                              "T 25B",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.500% Global Notes due December\u00a017, 2025",
+                              "T 25",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 0.250% Global Notes due March\u00a04, 2026",
+                              "T 26E",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 1.800% Global Notes due September\u00a05, 2026",
+                              "T 26D",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 2.900% Global Notes due December\u00a04, 2026",
+                              "T 26A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 1.600% Global Notes due May\u00a019, 2028",
+                              "T 28C",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 2.350% Global Notes due September\u00a05, 2029",
+                              "T 29D",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 4.375% Global Notes due September\u00a014, 2029",
+                              "T 29B",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 2.600% Global Notes due December\u00a017, 2029",
+                              "T 29A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 0.800% Global Notes due March\u00a04, 2030",
+                              "T 30B",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.950% Global Notes due April\u00a030, 2031",
+                              "T 31F",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 2.050% Global Notes due May\u00a019, 2032",
+                              "T 32A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.550% Global Notes due December\u00a017, 2032",
+                              "T 32",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 5.200% Global Notes due November\u00a018, 2033",
+                              "T 33",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.375% Global Notes due March\u00a015, 2034",
+                              "T 34",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 4.300% Global Notes due November\u00a018, 2034",
+                              "T 34C",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 2.450% Global Notes due March\u00a015, 2035",
+                              "T 35",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.150% Global Notes due September\u00a04, 2036",
+                              "T 36A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 2.600% Global Notes due May\u00a019, 2038",
+                              "T 38C",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 1.800% Global Notes due September\u00a014, 2039",
+                              "T 39B",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 7.000% Global Notes due April\u00a030, 2040",
+                              "T 40",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 4.250% Global Notes due June\u00a01, 2043",
+                              "T 43",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 4.875% Global Notes due June\u00a01, 2044",
+                              "T 44",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 4.000% Global Notes due June\u00a01, 2049",
+                              "T 49A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 4.250% Global Notes due March\u00a01, 2050",
+                              "T 50",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 3.750% Global Notes due September\u00a01, 2050",
+                              "T 50A",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 5.350% Global Notes due November\u00a01, 2066",
+                              "TBB",
+                              "New York Stock Exchange"
+                            ],
+                            [
+                              "AT&T Inc. 5.625% Global Notes due August\u00a01, 2067",
+                              "TBC",
+                              "New York Stock Exchange"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "26": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "27": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act \u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u20097.01 Regulation FD Disclosure.",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "On September\u00a029, 2024, AT&T Inc. (the \u201cCompany\u201d) agreed to sell its majority interest in DIRECTV Entertainment Holdings LLC (\u201cDIRECTV\u201d) to TPG, which holds the minority interest, for which the Company expects to receive approximately $7.6\u00a0billion in cash payments from DIRECTV and the Buyer through 2029. This represents:",
+          "class": "predicted header"
+        },
+        "31": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "$1.7\u00a0billion of pre-tax quarterly distributions in the second half of 2024, inclusive of the expected pre-tax quarterly distribution for the third quarter of 2024, which is not part of the agreement;",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "$5.4\u00a0billion of after-tax cash distributions and other payments not subject to tax in 2025; and",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "$0.5\u00a0billion of final payments in 2029 of after-tax proceeds.",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "Subject to the terms of the agreement, AT&T Diversified MVPD Holdings LLC, a wholly owned indirect subsidiary of the Company (\u201cSeller\u201d), will sell all of the equity interests in its wholly-owned subsidiary AT&T MVPG Holdings LLC (\u201cHoldings\u201d), which directly holds the Company\u2019s equity interests in DIRECTV, to a TPG affiliate, Merlin Parent 2024, Inc. (\u201cBuyer\u201d). Under the agreement, Seller will receive from Buyer an initial payment of $2\u00a0billion, subject to certain deductions, during 2025, and additional payments from Buyer totaling $500\u00a0million in 2029. The Company expects to continue to receive distribution payments from DIRECTV in the ordinary course through 2025. For the full year 2024, the Company continues to expect these distribution payments to be approximately $3\u00a0billion in the aggregate. For 2025, the Company expects these distribution payments to be approximately $2.8\u00a0billion in the aggregate on a pre-tax basis. Such distributions for the fourth quarter of 2024 and full year 2025 are inclusive of the Scheduled Payments and Common Catch Up Unreturned Contributions (each as defined in the Seller Note). If the transaction closes prior to the receipt of all of the distribution payments for 2025, Seller will receive comparable quarterly payments from Buyer following the closing on a post-tax basis through the remainder of 2025. The transaction also contemplates that DIRECTV will make a special distribution prior to March\u00a031, 2025, of at least $1.625\u00a0billion that will be paid to the equity holders of DIRECTV, of which the Company would receive approximately 70%.",
+          "class": "predicted header"
+        },
+        "38": {
+          "title": "The Company expects the transaction to close in the second half of 2025.",
+          "class": "predicted header"
+        },
+        "39": {
+          "title": "The information set forth in Item 1.01 below is incorporated by reference into this Item 7.01.",
+          "class": "predicted header"
+        },
+        "40": {
+          "title": "On September\u00a030, 2024, the Company issued a press release announcing the execution of the Purchase Agreement and the transactions contemplated thereby. A copy of such press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "41": {
+      "title": "Item\u20091.01 Entry into a Material Definitive Agreement.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "42": {
+          "title": "AT&T Services, Inc., a wholly owned subsidiary of the Company (\u201cServices\u201d), entered into a Securities Purchase Agreement, dated September\u00a029, 2024 (the \u201cPurchase Agreement\u201d), by and among, (i)\u00a0solely for purposes of Section\u00a010.14 of the Purchase Agreement, Services, (ii)\u00a0Seller, (iii) Holdings, (iv)\u00a0DIRECTV, (v) Buyer and (vii)\u00a0solely for purposes of Section\u00a010.15 of the Purchase Agreement, TPG Partners IX, L.P. As previously disclosed in a Form 8-K filed on August\u00a02, 2021, Services previously contributed the U.S. video business unit of the Company and its subsidiaries to DIRECTV in exchange for interests in DIRECTV. Holdings and TPG VIII Merlin Investment Holdings, L.P. (\u201cInvestor\u201d) are the equity holders of DIRECTV.",
+          "class": "predicted header"
+        },
+        "43": {
+          "title": "The Purchase Agreement provides for the sale of Seller\u2019s equity interests in Holdings to Buyer. Pursuant to, and subject to the terms and conditions set forth in, the Purchase Agreement, Buyer will (i)\u00a0pay to Seller an amount equal to (A) $2\u00a0billion in cash, minus (B)\u00a0certain accrued but unpaid debts and liabilities of Holdings (the \u201cUpfront Consideration\u201d) determined as of the closing of the transactions contemplated by the Purchase Agreement (the \u201cClosing\u201d) and (ii)\u00a0issue a promissory note to Seller at the Closing on the terms specified in the term sheet for the Seller Note, which is included as an exhibit to the Purchase Agreement (the \u201cSeller Note\u201d). If the Closing occurs, the Upfront Consideration is payable on a date selected by Buyer, which payment date will be no later than December\u00a031, 2025.",
+          "class": "predicted header"
+        },
+        "44": {
+          "title": "The term sheet for the Seller Note provides for a $500\u00a0million payment due in equal quarterly installments on March\u00a031, June\u00a030, September\u00a030 and December\u00a031, 2029, subject to adjustment based on the amount of pre-closing distributions made by DIRECTV and the debt financing arrangement described in the following two paragraphs.",
+          "class": "predicted header"
+        },
+        "45": {
+          "title": "DIRECTV is required to pay quarterly distributions to its equity holders in the ordinary course between execution of the Purchase Agreement and the Closing. These pre-tax distributions, a portion of which are received in respect of taxable income allocated to the Company, are anticipated to be, in the aggregate, an amount of approximately $1.1\u00a0billion for the fourth quarter of 2024 and approximately $2.8\u00a0billion for 2025 (\u201cTarget Distributions\u201d). The amount of the Seller Note will be decreased or increased by the amount by which the actual distributions made by DIRECTV in respect of any such quarter exceeds or is less than, respectively, the corresponding Target Distribution, multiplied by a tax adjustment factor specified in the term sheet for the Seller Note. Additionally, if the Closing occurs prior to the payment of any Target Distribution, then the amount of the Target Distribution, multiplied by the tax adjustment factor, will be included in the principal amount of the Seller Note.",
+          "class": "predicted header"
+        },
+        "46": {
+          "title": "The Purchase Agreement requires DIRECTV to use commercially reasonable efforts to obtain debt financing on commercially reasonable terms sufficient to fund a distribution by DIRECTV to its equity holders in an aggregate amount equal to at least $1.625\u00a0billion as promptly as reasonably practicable but in any event on or prior to March 31, 2025,",
+          "class": "predicted header"
+        },
+        "47": {
+          "title": "with Holdings receiving approximately 70\u00a0percent of such distribution. If such financing is obtained prior to the Closing and the Closing occurs on or prior to March\u00a031, 2025, DIRECTV is required to make the distribution to Holdings and Investor upon receipt of DIRECTV\u2019s receipt of such financing. If the debt financing, the distribution and the Closing are not completed prior to March\u00a031, 2025, an aggregate amount equal to Holdings\u2019 share of such distribution, together with accrued interest from April\u00a01, 2025, will be added to the principal balance of the Seller Note and paid as provided in the term sheet for the Seller Note or, if earlier, upon DIRECTV\u2019s receipt of such financing.",
+          "class": "predicted header"
+        },
+        "48": {
+          "title": "As described in the Purchase Agreement, prior to the Closing, Seller and Holdings are required to consummate an internal reorganization whereby certain assets of Holdings would be contributed to DIRECTV and certain assets and liabilities excluded from the scope of the transaction would be distributed or transferred by Holdings to Seller and its affiliates.",
+          "class": "predicted header"
+        },
+        "49": {
+          "title": "The Purchase Agreement contains customary representations of Seller and Buyer. Additionally, the Purchase Agreement provides for customary pre-Closing and post-Closing covenants of Holdings, including covenants relating to the conduct of Holdings\u2019 business in the ordinary course consistent with past practice and to refrain from taking certain actions without Buyer\u2019s consent and cooperation on certain regulatory filings and efforts to consummate the transactions contemplated by the Purchase Agreement. The Purchase Agreement also contains certain post-closing indemnification obligations related to breaches of representations and warranties, breaches of certain covenants, certain assets and liabilities excluded from the transactions, tax matters and fraud.",
+          "class": "predicted header"
+        },
+        "50": {
+          "title": "Consummation of the transaction is subject to various conditions as set forth in the Purchase Agreement, including receipt of specified regulatory clearances without any condition or restriction that would, among other things, result in a Company Substantial Detriment (as defined in the Purchase Agreement). Further, the obligation of each party to consummate the transaction is also conditioned upon (i)\u00a0the other party\u2019s representations and warranties being true and correct (subject to certain materiality exceptions) and the other party having performed in all material respects its obligations under the Purchase Agreement and (ii)\u00a0receipt of certain ancillary documents and certificates. Additionally, unless Buyer consents otherwise, the transaction may not close until specific dates or events occur, but no later than September\u00a01, 2025.",
+          "class": "predicted header"
+        },
+        "51": {
+          "title": "The Purchase Agreement also provides for certain termination rights of Seller and Buyer, including the right of either party to terminate the Purchase Agreement if the transaction is not consummated by October\u00a031, 2025 (the \u201cOutside Date\u201d), with Seller having the right to extend the Outside Date in certain circumstances. The aggregate amount of damages arising from a termination of the Purchase Agreement for which a party can be liable is capped at $2.0\u00a0billion.",
+          "class": "predicted header"
+        },
+        "52": {
+          "title": "The foregoing summary of the Purchase Agreement does not purport to be complete and is qualified in its entirety by the full text of the Purchase Agreement, which is attached hereto as Exhibit 10.1, and is incorporated herein by reference.",
+          "class": "predicted header"
+        },
+        "53": {
+          "title": "The Purchase Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about the Company, Services, Seller, Holdings or their respective subsidiaries or affiliates. The representations, warranties and covenants contained in the Purchase Agreement are made only for purposes of the Purchase Agreement and as of specific dates, are solely for the benefit of the parties to the Purchase Agreement, may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures made for the purposes of allocating contractual risk between the parties to the Purchase Agreement instead of establishing these matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors are not third-party beneficiaries under the Purchase Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the parties thereto or any of their respective subsidiaries or affiliates. Moreover, information concerning the subject matter of representations and warranties may change after the date of the Purchase Agreement, which subsequent information may or may not be fully reflected in the Company\u2019s public disclosures.",
+          "class": "predicted header",
+          "contents": {
+            "54": {
+              "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+              "class": "predicted header"
+            }
+          }
+        },
+        "55": {
+          "title": "Information set forth in this filing contains forward-looking statements that are subject to risks and uncertainties, including statements relating to the transaction. A discussion of factors that may affect future results is contained in the Company\u2019s filings with the Securities and Exchange Commission.",
+          "class": "predicted header"
+        },
+        "56": {
+          "title": "The Company disclaims any obligation to update or revise statements contained in this filing based on new information or otherwise.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "57": {
+      "title": "Item\u20099.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "58": {
+          "title": "The following exhibits are furnished as part of this report:",
+          "class": "predicted header"
+        },
+        "59": {
+          "title": "(d) Exhibits:",
+          "class": "predicted header",
+          "contents": {
+            "60": {
+              "table": [
+                [
+                  "2.1\u2020",
+                  "Securities Purchase Agreement, dated September\u00a029, 2024, by and among Services, Seller, Holdings, Buyer and DIRECTV.**"
+                ],
+                [
+                  "99.1",
+                  "Press Release, dated September\u00a030, 2024, issued by the Company."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                ]
+              ]
+            }
+          }
+        },
+        "61": {
+          "title": "\u2020",
+          "class": "predicted header",
+          "contents": {
+            "62": {
+              "title": "Certain schedules, annexes or exhibits have been omitted pursuant to Item 601(a)(5) of Regulation S-K, but will be furnished supplementally to the SEC upon request.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "63": {
+          "title": "**",
+          "class": "predicted header",
+          "contents": {
+            "64": {
+              "title": "Portions of Exhibit\u00a02.1 have been redacted in accordance with Item 601(b)(2)(ii) of Regulation S-K.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "65": {
+      "title": "SIGNATURE",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "66": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header"
+        },
+        "67": {
+          "title": "Date: September\u00a030, 2024",
+          "class": "predicted header",
+          "contents": {
+            "68": {
+              "table": [
+                [
+                  "AT&T INC.",
+                  "AT&T INC."
+                ],
+                [
+                  "By:",
+                  "/s/ Pascal Desroches"
+                ],
+                [
+                  "",
+                  "Pascal Desroches"
+                ],
+                [
+                  "",
+                  "Senior Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C.\u00a0 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): March 17, 2023",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "image01.jpg",
+                    "alt": "graphic"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of incorporation)",
+                      "(Commission File Number)",
+                      "(IRS Employer Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "title": "12920 SE 38th Street\n\n            \n\n            Bellevue, Washington\n\n            (Address of principal executive offices)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "13": {
+              "title": "98006-1350\n\n            \n\n            (Zip Code)",
+              "class": "predicted header"
+            },
+            "14": {
+              "title": "Registrant\u2019s telephone number, including area code: (425)\n      378-4000",
+              "class": "predicted header"
+            },
+            "15": {
+              "title": "(Former name or former address, if changed since last report.)",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see\n      General Instruction A.2. below):"
+                },
+                "17": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "18": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "20": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "21": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "22": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading Symbol(s)",
+                      "Name of each exchange on which registered"
+                    ],
+                    [
+                      "Common Stock, $0.00001 par value per share",
+                      "TMUS",
+                      "The Nasdaq Stock Market LLC"
+                    ]
+                  ]
+                },
+                "23": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of\n      the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "24": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "25": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised\n      financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "title": "Item 1.01.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "27": {
+          "title": "Entry into a Material Definitive Agreement.",
+          "class": "predicted header",
+          "contents": {
+            "28": {
+              "text": "On March 17, 2023, T-Mobile US, Inc. (the \u201cCompany\u201d) announced the completion of the previously announced consent solicitations by its wholly-owned subsidiaries\n      Sprint LLC (\u201cSprint\u201d) and Sprint Capital Corporation (\u201cSCC\u201d) (the \u201cConsent Solicitations\u201d) and the receipt, as of March 17, 2023, of the requisite consents to approve the Sprint Indenture Amendments and the SCC Indenture\n      Amendments (each as defined below), respectively."
+            },
+            "29": {
+              "text": "On March 17, 2023, Sprint entered into the Ninth Supplemental Indenture (the \u201cSprint Supplemental Indenture\u201d) by and between Sprint and The Bank of New York Mellon\n      Trust Company, N.A. (the \u201cSprint Trustee\u201d), which amends and supplements the Senior Notes Indenture, dated as of September 11, 2013, by and between Sprint and the Sprint Trustee (as amended and supplemented, the \u201cSprint Indenture\u201d).\u00a0\n      The Sprint Supplemental Indenture effects certain amendments (the \u201cSprint Indenture Amendments\u201d) to the Sprint Indenture pertaining to Sprint\u2019s 7.875% Notes due 2023, 7.125% Notes due 2024, 7.625% Notes due 2025 and 7.625% Notes due 2026\n      (collectively, the \u201cSprint Notes\u201d).\u00a0 Holders representing 91.30%, 93.32%, 95.92% and 93.96% in aggregate principal amount of Sprint\u2019s 7.875% Notes due 2023, 7.125% Notes due 2024, 7.625% Notes due 2025 and 7.625% Notes due 2026, respectively,\n      consented to the Sprint Indenture Amendments."
+            },
+            "30": {
+              "text": "Also on March 17, 2023, SCC entered into the Sixth Supplemental Indenture (the \u201cSCC Supplemental Indenture\u201d) by and among SCC, Sprint Communications LLC (\u201cSprint\n        Communications\u201d) and The Bank of New York Mellon Trust Company, N.A. (the \u201cSCC Trustee\u201d), which amends and supplements the Indenture, dated as of October 1, 1998, by and among SCC, Sprint Communications and the SCC Trustee (as amended\n      and supplemented, the \u201cSCC Indenture\u201d).\u00a0 The SCC Supplemental Indenture effects certain amendments (the \u201cSCC Indenture Amendments\u201d and together with the Sprint Indenture Amendments, the \u201cIndenture Amendments\u201d) to the SCC\n      Indenture pertaining to SCC\u2019s 6.875% Notes due 2028 and 8.750% Notes due 2032 (collectively, the \u201cSCC Notes\u201d and together with the Sprint Notes, the \u201cNotes\u201d).\u00a0 Holders representing 88.83% and 94.03% in aggregate principal amount of\n      SCC\u2019s 6.875% Notes due 2028 and 8.750% Notes due 2032, respectively, consented to the SCC Indenture Amendments."
+            },
+            "31": {
+              "text": "The Indenture Amendments are being effected in connection with the Membership Interest Purchase Agreement, dated as of September 6, 2022 (as it may be amended, supplemented\n      or modified from time to time, the \u201cPurchase Agreement\u201d), made by and among Sprint, Sprint Communications and Cogent Infrastructure, Inc. (\u201cCogent\u201d), pursuant to which Cogent agreed to acquire certain assets and liabilities primarily\n      relating to the U.S. long-haul fiber network (including the non-U.S. extensions thereof) of Sprint Communications and its subsidiaries (such assets and liabilities collectively, the \u201cWireline Business\u201d) on the terms and subject to the\n      conditions set forth in the Purchase Agreement.\u00a0 The Purchase Agreement provides that, upon the terms and conditions set forth therein, Sprint Communications will undertake a divisive merger and Cogent will purchase from Sprint all of the issued and\n      outstanding membership interests of a newly formed Delaware limited liability company resulting from such divisive merger that holds the Wireline Business (such transactions contemplated by the Purchase Agreement, the \u201cWireline Transaction\u201d)."
+            },
+            "32": {
+              "text": "The Sprint Indenture Amendments amend the Sprint Indenture to expressly provide that the restriction on mergers, consolidations and transfers of all or substantially all\n      property and assets of Sprint Communications shall not apply to the Wireline Transaction or certain divisive mergers in connection with or in contemplation of a disposition or other separation of the Wireline Business.\u00a0 The SCC Indenture Amendments\n      amend the SCC Indenture to expressly provide that the restriction on mergers and consolidations of Sprint Communications shall not apply to the Wireline Transaction or certain divisive mergers in connection with or in contemplation of a disposition\n      or other separation of the Wireline Business."
+            },
+            "33": {
+              "text": "The Sprint Supplemental Indenture and the SCC Supplemental Indenture each became effective on March 17, 2023 and the Indenture Amendments will become operative upon the\n      payment of the applicable consent payments to the paying agent for the benefit of the holders of each series of Sprint Notes and SCC Notes whose consents were validly delivered (and not revoked) at or prior to the expiration of the applicable Consent\n      Solicitation in accordance with the terms and conditions applicable to the relevant Consent Solicitation."
+            },
+            "34": {
+              "text": "The Sprint Supplemental Indenture and the SCC Supplemental Indenture are attached hereto as Exhibits 4.1 and 4.2, respectively.\u00a0 The foregoing descriptions of the Sprint\n      Supplemental Indenture and the SCC Supplemental Indenture are qualified in their entirety by reference to the full text of the Sprint Supplemental Indenture and SCC Supplemental Indenture, respectively, which are incorporated herein by reference."
+            }
+          }
+        }
+      }
+    },
+    "35": {
+      "title": "Item 3.03.",
+      "standardized_title": "item3.03",
+      "class": "item",
+      "contents": {
+        "36": {
+          "title": "Material Modification to Rights of Security Holders.",
+          "class": "predicted header",
+          "contents": {
+            "37": {
+              "text": "The disclosure set forth in Item 1.01 of this Current Report on Form 8-K is incorporated herein by reference."
+            }
+          }
+        }
+      }
+    },
+    "38": {
+      "title": "Item 5.07.",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "39": {
+          "title": "Submission of Matters to a Vote of Security Holders.",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "text": "The disclosure set forth in Item 1.01 of, and Exhibit 99.1 to, this Current Report on Form 8-K is incorporated herein by reference."
+            }
+          }
+        }
+      }
+    },
+    "41": {
+      "title": "Item 8.01.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "42": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "43": {
+              "text": "On March 17, 2023, the Company issued a press release announcing completion of the Consent Solicitations on such date and the receipt, as of March 17, 2023, of the\n      requisite consents to approve the Sprint Indenture Amendments and the SCC Indenture Amendments, respectively.\u00a0 A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference."
+            },
+            "44": {
+              "title": "No Offer or Solicitation",
+              "class": "predicted header",
+              "contents": {
+                "45": {
+                  "text": "This communication is for information purposes only and is neither an offer to sell nor a solicitation of an offer to buy any series of Notes or any other securities.\u00a0 This\n      communication is also not a solicitation of consents with respect to the Indenture Amendments or any securities.\u00a0 The solicitation of consents by Sprint was made only pursuant to the Sprint consent solicitation statement, and the solicitation of\n      consents by SCC was made only pursuant to the SCC consent solicitation statement."
+                },
+                "46": {
+                  "text": "This communication shall not constitute an offer to sell or the solicitation of an offer to buy any securities, nor shall there be any offer, solicitation or sale of\n      securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction.\u00a0 No offering of securities shall be made except by means of a\n      prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "47": {
+      "title": "Item 9.01.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "48": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "49": {
+              "text": "(d) Exhibits."
+            },
+            "50": {
+              "table": [
+                [
+                  "Exhibit\n\n            Number",
+                  "Description"
+                ],
+                [
+                  "4.1",
+                  "Sixth Supplemental Indenture, dated as of March 17, 2023, by and among Sprint Capital Corporation, Sprint Communications LLC and The Bank of New York Mellon Trust Company, N.A."
+                ],
+                [
+                  "4.2",
+                  "Ninth Supplemental Indenture, dated as of March 17, 2023, by and between Sprint LLC and The Bank of New York Mellon Trust Company, N.A."
+                ],
+                [
+                  "99.1",
+                  "Press Release announcing completion of Sprint and SCC consent solicitations, dated March 17, 2023."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "51": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "52": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the\n      undersigned hereunto duly authorized."
+        },
+        "53": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "March 20, 2023",
+              "/s/ Peter Osvaldik",
+              "/s/ Peter Osvaldik"
+            ],
+            [
+              "",
+              "Name:",
+              "Peter Osvaldik"
+            ],
+            [
+              "",
+              "Title:",
+              "Executive Vice President and"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

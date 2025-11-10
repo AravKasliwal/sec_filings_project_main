@@ -1,0 +1,685 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K/A",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported) ",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "title": "July 23, 2020",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction of Incorporation)",
+                      "(Commission File Number)",
+                      "(IRS Employer Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "208 S. Akard St., Dallas, Texas",
+                      "75202"
+                    ],
+                    [
+                      "(Address of Principal Executive Offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code ",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "(210) 821-4105 ",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                    },
+                    "16": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing\n    obligation of the registrant under any of the following provisions (see General Instruction A.2. below):"
+                    },
+                    "17": {
+                      "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    },
+                    "18": {
+                      "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    },
+                    "19": {
+                      "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b)\n          under the Exchange Act (17 CFR 240-14d-2(b))"
+                    },
+                    "20": {
+                      "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c)\n          under the Exchange Act (17 CFR 240.13e-4(c))"
+                    },
+                    "21": {
+                      "text": "Securities Registered Pursuant to Section\u00a012(b) of the Act"
+                    },
+                    "22": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n\n          Symbol(s)",
+                          "Name of each exchange\n\n          on which registered"
+                        ],
+                        [
+                          "Common Shares (Par Value $1.00 Per Share)",
+                          "T",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                          "TPRA",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                          "TPRC",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. Floating Rate Global Notes due August 3, 2020",
+                          "T 20C",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.875% Global Notes due December 4, 2020",
+                          "T 20",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                          "T 21B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                          "T 22B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                          "T 23",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                          "T 23C",
+                          "New York Stock Exchange"
+                        ]
+                      ]
+                    },
+                    "23": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n\n          Symbol(s)",
+                          "Name of each exchange\n\n          on which registered"
+                        ],
+                        [
+                          "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                          "T 23D",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                          "T 23E",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                          "T 23A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                          "T 23F",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                          "T 24A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                          "T 25",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                          "T 26E",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                          "T 26D",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                          "T 26A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                          "T 28C",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                          "T 29D",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                          "T 29B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                          "T 29A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                          "T 30B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                          "T 32A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                          "T 32",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                          "T 33",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                          "T 34",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                          "T 35",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                          "T 36A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                          "T 38C",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                          "T 39B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                          "T 40",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                          "T 43",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                          "T 44",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                          "T 49A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                          "T 50",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                          "T 50A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                          "TBB",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                          "TBC",
+                          "New York Stock Exchange"
+                        ]
+                      ]
+                    },
+                    "24": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this\n    chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                    },
+                    "25": {
+                      "text": "Emerging growth company\u00a0 \u2610"
+                    },
+                    "26": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any\n    new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                    },
+                    "27": {
+                      "title": "EXPLANATORY NOTE",
+                      "class": "predicted header",
+                      "contents": {
+                        "28": {
+                          "text": "AT&T Inc. is filing this Amendment No. 1 to its Current Report on Form 8-K,\n        which was filed with the Securities and Exchange Commission on July 23, 2020, for the sole purpose of furnishing XBRL Interactive Data Files. No other changes have\n        been made."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item 8.01\u00a0 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "text": "Throughout this document, AT&T Inc. is referred to as \u201cwe\u201d or \u201cAT&T.\u201d AT&T is a holding company whose subsidiaries and affiliates operate\n        worldwide in the telecommunications, media and technology industries."
+        },
+        "31": {
+          "title": "COVID-19 Update",
+          "class": "predicted header",
+          "contents": {
+            "32": {
+              "text": "In March 2020, the World Health Organization designated the coronavirus (COVID-19) a pandemic and the President of the United States declared a national\n        emergency. To date, COVID-19 has surfaced in nearly all regions around the world and resulted in travel restrictions and business slowdowns or shutdowns."
+            },
+            "33": {
+              "text": "Disruptions caused by COVID-19 and measures taken to prevent its spread or mitigate its effects both domestically and internationally have impacted our\n        results of operations. In the second quarter of 2020, we recognized approximately $320 million, or $0.03 per diluted share, of incremental costs associated with voluntary corporate actions taken primarily to protect and compensate front-line\n        employees and contractors, and WarnerMedia production disruption costs."
+            },
+            "34": {
+              "text": "In addition to these incremental costs, we estimate that our operations and comparability were impacted by an estimated $510 million, or $0.06 per diluted\n        share, for the following COVID-19 related pressures: (1) the cancellation and postponement of televised sporting events, resulting in lower advertising revenues and associated expenses, (2) the closure of movie theaters and postponement of\n        theatrical releases, leading to lower content revenues and associated expenses (3) the imposition of travel restrictions, driving significantly lower international wireless roaming services that do not have a directly correlated expense reduction\n        and most significantly impact profitability (4) closures of retail stores, contributing to lower wireless equipment sales, with a corresponding reduction in equipment expense and (5) unfavorable foreign exchange pressure in Latin America."
+            },
+            "35": {
+              "text": "All subscriber counts at and for the period ended June 30, 2020, exclude customers who we have agreed not to terminate service under the FCC\u2019s \u201cKeep\n        Americans Connected Pledge.\u201d For reporting purposes, we count these 471,000 nonpaying postpaid (including 338,000 postpaid phone), 159,000 broadband and 91,000 premium TV subscribers as if they had disconnected, even though they are still receiving\n        service."
+            },
+            "36": {
+              "text": "The economic effects of the pandemic and resulting societal changes are\n          currently not predictable. There are a number of uncertainties that could impact our future results of operations, including the effectiveness of COVID-19 mitigation measures; the duration of the pandemic; global economic conditions;\n        changes to our operations; changes in consumer confidence, behaviors and spending; work from home trends; and the sustainability of supply chains. We expect operating\n          results and cash flows to continue to be adversely impacted by COVID-19 for at least the duration of the pandemic. We expect our third-quarter results to be\n          impacted by the following:"
+            },
+            "37": {
+              "text": "\u2022The shift in timing of advertising revenues from the postponement, restarting or cancellation of sporting events and the related timing of the\n                  sports costs;"
+            },
+            "38": {
+              "text": "\u2022Lower revenues from the closure of movie theaters and postponement of theatrical releases, partially offset by lower production and other\n                  programming expenses;"
+            },
+            "39": {
+              "text": "\u2022The decline in revenues from international roaming wireless services due to reduced travel and travel-related restrictions;"
+            },
+            "40": {
+              "text": "\u2022Higher expenses to protect front-line employees, contractors and customers; and"
+            },
+            "41": {
+              "text": "\u2022The continued transition of customers to our fiber broadband services and the acceleration of the disconnection of linear TV services due to the\n                  pandemic."
+            },
+            "42": {
+              "textsmall": "3"
+            }
+          }
+        },
+        "43": {
+          "title": "Overview",
+          "class": "predicted header",
+          "contents": {
+            "44": {
+              "text": "We announced on July 23, 2020 that second-quarter 2020 net income attributable to common stock totaled $1.2 billion, or $0.17 per diluted share. Second-quarter 2020 income per diluted share included amounts totaling to $(4.7) billion, or $(0.66) per share, resulting from the following\n          significant items that are reported in Corporate and Other and not in our segment results: $(0.32) per share for impairments, primarily goodwill from our Latin America business, Vrio, $(0.24) per share for the amortization of merger-related\n          intangible assets, and a combined net $(0.10) per share for employee separation, merger and integration costs and other items. The results compare with a reported net income attributable to common stock of $3.7 billion, or $0.51 per\n        diluted share, in the second quarter of 2019."
+            },
+            "45": {
+              "text": "Second-quarter 2020 revenues were $41.0 billion, down 8.9 percent from the\n          second quarter of 2019. Revenues were impacted by the COVID-19 pandemic across all segments, most significantly contributing to lower content and advertising revenues at WarnerMedia and wireless service and equipment revenues in the\n        Communications segment. Revenues were also lower due to continued declines in domestic video and legacy wireline services and were impacted by Latin America foreign exchange pressure. Compared with results for the second quarter of 2019, current quarter operating expenses were $37.4 billion, down 0.1 percent, primarily due to lower WarnerMedia segment expenses associated with lower revenues, lower content\n          costs associated with subscriber declines in the Entertainment Group and lower costs at Latin America. These expense decreases were partially offset by a goodwill impairment at Vrio, employee separation charges and incremental COVID-19 costs\n          associated with the voluntary corporate actions taken primarily to protect and compensate front-line employees and contractors. Second-quarter operating income was $3.5 billion compared to $7.5 billion in the comparable 2019 period, and\n          AT&T\u2019s second-quarter operating income margin was 8.6 percent, compared to 16.7\u00a0percent in the comparable 2019 period."
+            },
+            "46": {
+              "text": "Second-quarter 2020 cash from operating activities was $12.1 billion, down $2.2 billion when compared to 2019, resulting from a one-time cash flow increase\n        of $2.6 billion from sales of WarnerMedia receivables in the year-ago quarter. Capital expenditures in the second quarter of 2020 were $4.5 billion, and when including approximately $560 million cash paid for vendor financing, gross capital\n        investment was $5.1 billion (with $72 million FirstNet reimbursements)."
+            },
+            "47": {
+              "title": "Segment Summary",
+              "class": "predicted header",
+              "contents": {
+                "48": {
+                  "text": "We analyze our segments based on, among other things, segment contribution,\n          which consists of operating income, excluding acquisition-related costs and other significant items, and equity in net income (loss) of affiliates for investments managed within each segment. Our reportable segments are: Communications,\n        WarnerMedia and Latin America. We have recast our segment results for all prior periods to include our prior Xandr segment within our WarnerMedia segment."
+                }
+              }
+            },
+            "49": {
+              "title": "Communications",
+              "class": "predicted header",
+              "contents": {
+                "50": {
+                  "text": "Our Communications segment consists of our Mobility, Entertainment Group and Business Wireline business units."
+                },
+                "51": {
+                  "text": "Second-quarter 2020 operating revenues were $33.6 billion, down 4.7 percent versus second-quarter 2019, with segment operating contribution of $8.1 billion,\n        down 6.4 percent versus the year-ago quarter. The Communications segment operating income margin was 24.1 percent, compared to 24.6 percent in the year-earlier quarter."
+                },
+                "52": {
+                  "title": "Mobility",
+                  "class": "predicted header",
+                  "contents": {
+                    "53": {
+                      "text": "Mobility revenues for the second quarter of 2020 were $17.1 billion, down 0.8 percent versus the second quarter of 2019, driven by lower service revenues\n        resulting from international roaming services driven by a decline in global travel and waived fees. Mobility operating expenses totaled $11.3 billion, down 1.6 percent versus the second quarter of 2019. The decrease was due to higher bad debt\n        expense in 2019 resulting from prior-year charges in response to credit easing policies, and cost initiatives, asset optimization, and lower marketing and sales costs in second quarter 2020. Partially offsetting the decreases were higher commission\n        deferral amortization, including the impacts of second-quarter 2020 updates to extend the expected subscriber lives, and pandemic-related bonus payments to\n        front-line employees and contractors.\u00a0Mobility\u2019s operating income margin was 33.9 percent compared to 33.4 percent in the year-ago quarter."
+                    },
+                    "54": {
+                      "textsmall": "4"
+                    },
+                    "55": {
+                      "text": "In our Mobility business unit, during the second quarter of 2020, we reported a net gain of 2.2 million wireless subscribers. At June 30, 2020, wireless\n        subscribers totaled 171.4 million (including more than 1.5 million FirstNet connections) compared to 158.6 million at June 30, 2019."
+                    },
+                    "56": {
+                      "text": "During the second quarter, total phone net adds were a loss of 16,000, (including 338,000 disconnections where nonpaying subscribers are receiving service under the Keep Americans Connected Pledge) with total net adds by subscriber category as\u00a0follows:"
+                    },
+                    "57": {
+                      "text": "\u2022Postpaid subscriber net adds were a loss of 154,000, with phone net losses of 151,000 and losses from tablets. Postpaid net losses included\n                  466,000 disconnections (338,000 phone) where subscribers are receiving service under the Keep Americans Connected Pledge."
+                    },
+                    "58": {
+                      "text": "\u2022Prepaid subscriber net adds were 165,000, with phone net adds of 135,000."
+                    },
+                    "59": {
+                      "text": "\u2022Reseller net losses were 58,000."
+                    },
+                    "60": {
+                      "text": "\u2022Connected device net adds were 2.3 million, 1.3 million of which were primarily attributable to wholesale connected cars."
+                    },
+                    "61": {
+                      "text": "For the quarter ended June 30, 2020, postpaid phone-only ARPU decreased 1.9 percent versus the year-earlier quarter."
+                    },
+                    "62": {
+                      "text": "Postpaid phone-only churn was 0.84 percent, compared to 0.86 percent in the second quarter of 2019. Total postpaid churn was 1.05 percent, compared to 1.07\n        percent in the year-ago quarter. Churn was negatively impacted by higher accrual for subscriber disconnections under the Keep Americans Connected Pledge."
+                    }
+                  }
+                },
+                "63": {
+                  "title": "Entertainment Group",
+                  "class": "predicted header",
+                  "contents": {
+                    "64": {
+                      "text": "Entertainment Group (Entertainment) revenues for the second quarter of 2020 were $10.1 billion, down 11.4 percent versus the year-ago quarter, reflecting\n        continuing declines in video subscribers and legacy services and lower advertising revenues, which were impacted by lower spend attributable to COVID-19. Revenue declines were partially offset by higher premium TV and over-the-top (OTT) video\n        ARPUs. Entertainment operating expenses totaled $9.0 billion, down 8.3 percent versus the second quarter of 2019, largely driven by lower content costs resulting from fewer subscribers, lower marketing costs and ongoing cost initiatives, partially\n        offset by annual content rate increases, higher amortization of fulfillment cost deferrals, including the impacts of second-quarter 2020 updates to decrease the expected subscriber lives and pandemic-related bonus payments to front-line employees\n        and contractors. Entertainment operating income margin was 10.2 percent compared to 13.3 percent in the year-earlier quarter."
+                    },
+                    "65": {
+                      "text": "At June 30, 2020, Entertainment revenue connections included:"
+                    },
+                    "66": {
+                      "text": "\u2022Approximately 18.4 million video connections (including 720,000 AT&T TV Now subscribers) at June 30, 2020 compared to 22.9 million at June 30,\n                  2019 (including 1.3 million AT&T TV Now subscribers). During the second quarter of 2020, premium TV video subscribers, which includes AT&T TV, had a net loss of 886,000. AT&T TV NOW, our OTT video service, subscribers had a\n                  net loss of 68,000. Premium TV net losses included 91,000 disconnections where nonpaying subscribers are receiving service under the Keep Americans Connected\n                    Pledge."
+                    },
+                    "67": {
+                      "text": "\u2022Approximately 13.9 million broadband connections at June 30, 2020 compared to 14.4 million at June 30, 2019. During the second quarter, IP\n                  broadband subscribers had a net loss of 79,000 (including fiber broadband net adds of 225,000), with 13.5 million subscribers at June 30, 2020. Broadband net losses included 159,000 disconnections where nonpaying subscribers are receiving service under the Keep Americans Connected Pledge."
+                    }
+                  }
+                },
+                "68": {
+                  "title": "Business Wireline",
+                  "class": "predicted header",
+                  "contents": {
+                    "69": {
+                      "text": "Business Wireline (Business) revenues for the second quarter of 2020 were $6.4 billion, down 3.5 percent versus the year-ago quarter, reflecting continued\n        declines in legacy services and prior-year licensing of intellectual property assets, partially offset by growth in strategic and managed services. Business operating expenses totaled $5.1 billion, down 2.3 percent when compared to the second\n        quarter of 2019, reflecting ongoing focus on cost initiatives, partially offset by increased depreciation expense. Business operating income margin was 20.0 percent compared to 21.0 percent in the year-earlier quarter."
+                    },
+                    "70": {
+                      "textsmall": "5"
+                    },
+                    "71": {
+                      "text": "At June 30, 2020, our total switched access lines (Entertainment and Business) were 7.9 million compared to 9.2 million at June 30, 2019. The number of\n        U-verse voice connections (which use VoIP technology and therefore are not included in the access line total) decreased by 156,000 in the quarter, totaling 4.1 million at June 30, 2020, compared to 4.8 million at June 30, 2019."
+                    }
+                  }
+                }
+              }
+            },
+            "72": {
+              "title": "WarnerMedia",
+              "class": "predicted header",
+              "contents": {
+                "73": {
+                  "text": "Our WarnerMedia segment consists of our Turner, HBO and Warner Bros. business units. In the second quarter of 2020, the former Xandr segment combined with\n        the Other operations of the WarnerMedia segment; certain advertising revenues are also reported by the Communications segment and are eliminated upon consolidation."
+                },
+                "74": {
+                  "text": "Second-quarter 2020 operating revenues were $6.8 billion, down 22.9 percent versus second-quarter 2019, with segment operating contribution of $1.9 billion,\n        down 18.4 percent versus the year-ago quarter. The WarnerMedia segment operating income margin was 28.1 percent, compared to 26.0 percent in the year-earlier quarter."
+                },
+                "75": {
+                  "title": "Turner",
+                  "class": "predicted header",
+                  "contents": {
+                    "76": {
+                      "text": "Turner revenues for the second quarter of 2020 were $3.0 billion, down 12.4 percent versus the year-ago quarter, driven by lower advertising revenues\n        primarily from the postponement of the NBA season. Subscription revenue declines were also down due to lower regional sports network revenues and unfavorable foreign exchange rates. Turner operating expenses totaled $1.4 billion, down 37.2 percent\n        versus the second quarter of 2019, driven by the timing of sports costs associated primarily with the delayed NBA season. Turner operating income margin was 52.6 percent compared to 33.8 percent in the year-earlier quarter."
+                    },
+                    "77": {
+                      "title": "HBO",
+                      "class": "predicted header",
+                      "contents": {
+                        "78": {
+                          "text": "HBO revenues for the second quarter of 2020 were $1.6 billion, down 5.2 percent versus the year-ago quarter, driven by lower subscription revenues due to\n        domestic linear subscriber declines, partially offset by growth in digital and international, including HBO Latin America Group following our May 2020 acquisition of the remaining interest in this entity. Content and other revenues also decreased\n        as a result of lower content licensing. HBO operating expenses totaled $1.5 billion, up 32.5 percent versus the second quarter of 2019, driven by increased programming expenses related HBO Max. HBO operating income margin was 6.9 percent compared\n        to 33.4 percent in the year-earlier quarter."
+                        },
+                        "79": {
+                          "text": "At June 30, 2020, we had 36.3 million U.S. subscribers to HBO Max and HBO, up from 34.6 million at December 31, 2019."
+                        },
+                        "80": {
+                          "title": "Warner Bros.",
+                          "class": "predicted header",
+                          "contents": {
+                            "81": {
+                              "text": "Warner Bros. revenues for the second quarter of 2020 were $3.3 billion, down 3.9 percent versus the year-ago quarter, driven by the absence of theatrical\n        releases and lower games and other revenues, partially offset by higher television revenues, including internal sales to HBO Max that are eliminated upon consolidation. Warner Bros. operating expenses totaled $2.6 billion, down 11.1 percent versus\n        the second quarter of 2019, primarily due to the production hiatus and lower marketing expenses partially offset by higher film and production costs primarily associated with HBO Max sales. Warner Bros. operating income margin was 19.4 percent\n        compared to 13.0 percent in the year-earlier quarter."
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "82": {
+              "title": "Latin\n        America",
+              "class": "predicted header",
+              "contents": {
+                "83": {
+                  "text": "Our Latin America segment consists of our Vrio and Mexico business units and is subject to foreign currency fluctuations. In May 2020, we found it necessary\n        to close our DIRECTV operations in Venezuela due to political instability in the country and to comply with sanctions from the U.S. government."
+                },
+                "84": {
+                  "text": "Second-quarter 2020 operating revenues were $1.2 billion, down 29.9 percent versus the prior year. Segment operating contribution was $(201) million, versus\n        $(209) million in the comparable 2019 period. Both operating revenue and segment contribution declines were driven by foreign exchange pressures and the impact of COVID-19. The Latin America operating income margin was (17.0) percent, compared to\n        (12.6) percent in the year-earlier quarter."
+                },
+                "85": {
+                  "textsmall": "6"
+                },
+                "86": {
+                  "title": "Vrio",
+                  "class": "predicted header",
+                  "contents": {
+                    "87": {
+                      "text": "Video service revenues were $752 million, down 27.1 percent versus the prior year. Operating expenses were $788 million, down 24.7 percent. Both operating\n        revenue and expense declines were driven by foreign exchange and COVID-19 pressures in most of the region. Vrio\u2019s operating income margin was (4.8) percent, compared to (1.4) percent in the year-earlier quarter."
+                    },
+                    "88": {
+                      "text": "During the second quarter of 2020, we removed 2.2 million subscriber connections as a result of our closure of DIRECTV operations in Venezuela. We had\n        approximately 10.7 million Latin America video connections at June 30, 2020 compared to 13.5 million at June 30, 2019. During the second quarter of 2020, video net losses were 312,000."
+                    }
+                  }
+                },
+                "89": {
+                  "title": "Mexico",
+                  "class": "predicted header",
+                  "contents": {
+                    "90": {
+                      "text": "Wireless revenues were $480 million, down 33.8 percent when compared to the second quarter of 2019, primarily due to foreign exchange pressure and store\n        closures related to COVID-19. Operating expenses were $653 million, down 29.9 percent, driven lower equipment sales volumes and foreign exchange rates. Mexico\u2019s operating income margin was (36.0) percent, compared to (28.6) percent in the\n        year-earlier quarter."
+                    },
+                    "91": {
+                      "text": "We had approximately 18.0 million Mexican wireless subscribers at June 30, 2020 compared to 18.0 million at June 30, 2019. During the second quarter of\n        2020, we had prepaid net losses of 915,000 and postpaid net losses of 191,000, reflecting pandemic-related store closures."
+                    }
+                  }
+                }
+              }
+            },
+            "92": {
+              "title": "Supplemental\n        Discussions",
+              "class": "predicted header",
+              "contents": {
+                "93": {
+                  "text": "As a supplemental discussion of our operating results, for comparison purposes, we are providing (1) our AT&T Business Solutions results which include\n        both wireless and wireline operations and (2) a combined view of reported advertising revenues across all segments of AT&T. A reconciliation of the non-GAAP numbers in this supplemental discussion is attached as exhibit 99.2 hereto."
+                },
+                "94": {
+                  "title": "AT&T Business Solutions",
+                  "class": "predicted header",
+                  "contents": {
+                    "95": {
+                      "text": "Revenues from AT&T Business Solutions for the second quarter of 2020 were $8.8 billion, down 2.9 percent versus the year-ago quarter, driven by declines\n        in our legacy voice and data services, and prior-year licensing of intellectual property assets, partially offset by growth in wireless service revenues and strategic and managed services. Operating expenses totaled $7.1 billion, up 0.1 percent\n        versus the second quarter of 2019. AT&T Business Solutions operating income margin was 20.2 percent, compared to 22.5 percent in the year-earlier quarter."
+                    }
+                  }
+                },
+                "96": {
+                  "title": "AT&T Advertising Revenues",
+                  "class": "predicted header",
+                  "contents": {
+                    "97": {
+                      "text": "Total AT&T advertising revenues for the second quarter of 2020 were $1.2 billion, down 33.0 percent, primarily driven by the cancelation or suspension\n        of televised sports."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "98": {
+          "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+          "class": "predicted header",
+          "contents": {
+            "99": {
+              "text": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and uncertainties. A\n        discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on new information\n        or otherwise."
+            }
+          }
+        }
+      }
+    },
+    "100": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "101": {
+          "text": "The following exhibits are filed as part of this report:"
+        },
+        "102": {
+          "text": "(d)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Exhibits"
+        },
+        "103": {
+          "table": [
+            [
+              "99.1",
+              "AT&T Inc. selected\n                    financial statements and operating data."
+            ],
+            [
+              "99.2",
+              "Discussion and reconciliation\n                    of non-GAAP measures."
+            ],
+            [
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        },
+        "104": {
+          "textsmall": "7"
+        }
+      }
+    },
+    "105": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "106": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its\n        behalf by the undersigned hereunto duly authorized."
+        },
+        "107": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: July 23, 2020",
+              "By:/s/ Debra L. Dial\u00a0 \u00a0 \u00a0\n                    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 .\n\n              \u00a0\u00a0Debra L. Dial\n\n              Senior Vice President and Controller"
+            ]
+          ]
+        },
+        "108": {
+          "textsmall": "8"
+        }
+      }
+    }
+  }
+}

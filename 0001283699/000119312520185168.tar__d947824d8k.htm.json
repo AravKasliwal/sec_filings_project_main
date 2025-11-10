@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): July 1, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g947824g0701124301822.jpg",
+                    "alt": "IMAGE"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\n incorporation or organization)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "textsmall": "(Address of principal executive offices)"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "textsmall": "(Zip Code)"
+                }
+              }
+            },
+            "17": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "19": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:"
+                },
+                "20": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "21": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "22": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "23": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "24": {
+                  "text": "Securities registered pursuant to Section\u00a012(b) of the Act:"
+                },
+                "25": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n symbol",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Stock, $0.00001 par value per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "26": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "27": {
+                  "text": "Emerging growth company\u00a0\u00a0 \u2610"
+                },
+                "28": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        },
+        "29": {
+          "title": "INTRODUCTORY NOTE",
+          "class": "predicted header",
+          "contents": {
+            "30": {
+              "text": "On April\u00a01, 2020, T-Mobile US, Inc., a Delaware corporation (\u201cT-Mobile\u201d), and Sprint Corporation, a Delaware corporation (\u201cSprint,\u201d collectively with T-Mobile, the \u201cSellers\u201d), completed the previously announced business combination (the \u201cMerger\u201d) between T-Mobile and Sprint pursuant to the Business Combination Agreement, dated as of April\u00a029, 2018, as amended, by and among T-Mobile, Sprint and the other parties thereto. As a result of the Merger, Sprint became an indirect wholly-owned subsidiary of T-Mobile."
+            },
+            "31": {
+              "text": "On July\u00a01, 2020, T-Mobile and Sprint completed the previously announced divestiture of Sprint\u2019s prepaid wireless business to DISH Network Corporation, a Nevada corporation (\u201cDISH\u201d), pursuant to the terms and conditions of the Asset Purchase Agreement dated as of July\u00a026, 2019 (as amended, the \u201cAsset Purchase Agreement\u201d). Pursuant to the terms of the Asset Purchase Agreement, DISH acquired Sprint\u2019s prepaid wireless business, which was historically operated by Sprint under the Boost Mobile, Virgin Mobile and Sprint prepaid brands, including customer accounts, inventory, contracts, intellectual property and certain other specified assets (but excluding the Assurance brand Lifeline customers and the prepaid wireless customers of Shenandoah Telecommunications Company and Swiftel Communications, Inc.) (the \u201cPrepaid Business\u201d), and assumed certain related liabilities (collectively, the \u201cPrepaid Business Sale\u201d). DISH paid the Sellers $1.4\u00a0billion for the Prepaid Business, subject to a customary post-closing working capital adjustment. On July\u00a01, 2020, T-Mobile, Sprint and DISH entered into the Second Amendment to the Asset Purchase Agreement to exclude certain prepaid wireless customers of Sprint under the Boost Mobile brand (approximately 13,000 customers in total) from the Prepaid Business Sale in compliance with the Proposed Decision Granting Application and Approving Wireless Transfer Subject to Conditions issued by the Public Utilities Commission of the State of California on April\u00a016, 2020."
+            },
+            "32": {
+              "text": "The consummation of the Prepaid Business Sale satisfies one of the requirements of the final judgment entered by a federal district court in Washington, D.C. on April\u00a01, 2020 in connection with the U.S. Department of Justice\u2019s conditional approval of the Merger."
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item\u00a01.01",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "34": {
+          "title": "Entry into a Material Definitive Agreement.",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "title": "Entry into Ancillary Agreements",
+              "class": "predicted header",
+              "contents": {
+                "36": {
+                  "text": "In connection with the closing of the Prepaid Business Sale, the Sellers and DISH entered into certain ancillary agreements, including a Master Network Services Agreement (the \u201cMNSA\u201d) and a Spectrum Purchase Agreement (the \u201cSpectrum Purchase Agreement\u201d)."
+                },
+                "37": {
+                  "title": "Master Network Services Agreement",
+                  "class": "predicted header",
+                  "contents": {
+                    "38": {
+                      "text": "T-Mobile and DISH entered into the MNSA upon the closing of the Prepaid Business Sale, pursuant to which DISH will receive network services from T-Mobile for a period of seven years. As set forth in the MNSA, T-Mobile will provide to DISH, among other things, (i)\u00a0legacy network services for certain Boost Mobile prepaid end users on the Sprint network, (ii)\u00a0T-Mobile network services for certain end users that have been migrated to the T-Mobile network or provisioned on the T-Mobile network by or on behalf of DISH and (iii)\u00a0infrastructure mobile network operator services to assist in the access and integration of the DISH network."
+                    },
+                    "39": {
+                      "text": "In the event of a \u201cchange of control\u201d of DISH, the MNSA will terminate upon the earlier of two years following the consummation of the change of control or the date on which the MNSA would have otherwise terminated or expired in accordance with its terms. However, DISH would remain able to provision new users for"
+                    },
+                    "40": {
+                      "text": "six months after the change of control and also retain access to roaming services on the T-Mobile network for both new and existing users for the remainder of the original term of the MNSA. Generally, a change of control would occur in the first 36 months of the term of the MNSA if (A)\u00a0certain \u201cpermitted owners\u201d no longer own 50% or more of DISH\u2019s voting power or a person or group of persons who are not permitted owners beneficially owns more than 50% of DISH\u2019s aggregate economic value or (B)\u00a0DISH sells more than 50% of its wireless communications business assets (excluding DISH\u2019s wireless terrestrial spectrum licenses and entities that own its wireless terrestrial spectrum licenses). A permitted owner generally includes Charles W. Ergen (including his family and certain related trusts and entities) and certain financial investors. Following the first 36 months of the term of the MNSA (or earlier in certain circumstances), a change of control would generally occur if any restricted persons own (1)\u00a0more than 50% of the voting power or economic value of DISH or (2)\u00a0a majority of DISH\u2019s wireless communications business assets (excluding DISH\u2019s wireless terrestrial spectrum licenses and entities that own its wireless terrestrial spectrum licenses). A \u201crestricted person\u201d generally includes certain U.S. wireless providers and U.S. cable companies (with certain exceptions), as well as any other entities that do not enter into a network usage agreement with T-Mobile restricting such person from generally engaging in certain activities that are detrimental to the T-Mobile network."
+                    }
+                  }
+                },
+                "41": {
+                  "title": "Spectrum Purchase Agreement",
+                  "class": "predicted header",
+                  "contents": {
+                    "42": {
+                      "text": "T-Mobile USA, Inc. and DISH entered into the Spectrum Purchase Agreement upon the closing of the Prepaid Business Sale, pursuant to which DISH is expected to purchase all of Sprint\u2019s 800 MHz spectrum (approximately 13.5 MHz of nationwide spectrum) for a total of approximately $3.6\u00a0billion. The covered spectrum sale will not occur before the third anniversary of the Merger (i.e., not before April 1, 2023) but must be divested within the later of three years after the closing of the Prepaid Business Sale and five days after receipt of the approval from the Federal Communications Commission (\u201cFCC\u201d) for the transfer, following an application for FCC approval to be filed by the third anniversary of the closing of the Merger. T-Mobile may exercise an option to lease back 4 MHz (2 MHz downlink + 2 MHz uplink) of the spectrum for two years following the closing of the 800 MHz spectrum sale at the same per-Pop rate used to calculate the purchase price paid by DISH to T-Mobile \u2013 a rate of approximately $68\u00a0million per year."
+                    },
+                    "43": {
+                      "text": "If DISH breaches the Spectrum Purchase Agreement prior to the closing or fails to deliver the purchase price following the satisfaction or waiver of all closing conditions, DISH\u2019s sole liability to T-Mobile will be to pay T-Mobile a fee of approximately $72\u00a0million. If T-Mobile fails to sell the spectrum to DISH following the satisfaction or waiver of all closing conditions, DISH\u2019s sole recourse will be to seek specific performance, and if (and only if) specific performance is unavailable, to seek damages of up to approximately $72\u00a0million."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "44": {
+      "title": "Item\u00a08.01",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "45": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "46": {
+              "title": "Prepaid Business Sale",
+              "class": "predicted header",
+              "contents": {
+                "47": {
+                  "text": "The information contained in the Introductory Note is incorporated herein by reference."
+                },
+                "48": {
+                  "title": "Press Release",
+                  "class": "predicted header",
+                  "contents": {
+                    "49": {
+                      "text": "On July\u00a01, 2020, T-Mobile issued a press release in connection with the announcement of the consummation of the Prepaid Business Sale. A copy of the press release is filed as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "50": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "51": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header"
+        },
+        "52": {
+          "title": "(d) Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "53": {
+              "table": [
+                [
+                  "Exhibit \nNo.",
+                  "Description"
+                ],
+                [
+                  "99.1",
+                  "Press Release dated July\u00a01, 2020."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document.)"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "54": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "55": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "56": {
+          "table": [
+            [
+              "Date: July\u00a01, 2020",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "",
+              "By:",
+              "/s/ Peter Osvaldik"
+            ],
+            [
+              "",
+              "",
+              "Peter Osvaldik"
+            ],
+            [
+              "",
+              "",
+              "EVP & Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

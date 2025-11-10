@@ -1,0 +1,4045 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "Table of Contents",
+          "class": "predicted header",
+          "contents": {
+            "1": {
+              "title": "UNITED STATES",
+              "class": "predicted header"
+            },
+            "2": {
+              "title": "SECURITIES AND EXCHANGE COMMISSION",
+              "class": "predicted header",
+              "contents": {
+                "3": {
+                  "title": "Washington, D.C. 20549",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "4": {
+              "title": "FORM 10-Q",
+              "class": "predicted header",
+              "contents": {
+                "5": {
+                  "textsmall": "\u2612 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 "
+                },
+                "6": {
+                  "textsmall": "For the quarterly period ended March 31, 2024"
+                },
+                "7": {
+                  "textsmall": "or"
+                },
+                "8": {
+                  "text": "\u2610 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 "
+                },
+                "9": {
+                  "textsmall": "For the transition period from\u00a0\u00a0\u00a0\u00a0to"
+                },
+                "10": {
+                  "textsmall": "Commission File Number: 1-33409"
+                },
+                "11": {
+                  "image": {
+                    "src": "tmus-20240331_g1.jpg",
+                    "alt": "T-Mobile Logo_03_2023.jpg"
+                  }
+                }
+              }
+            },
+            "12": {
+              "title": "T-MOBILE US, INC.",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "(Exact name of registrant as specified in its charter)"
+                },
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of incorporation or organization)",
+                      "(I.R.S. Employer Identification No.)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "(425)",
+                      "378-4000"
+                    ],
+                    [
+                      "(Registrant\u2019s telephone number, including area code)",
+                      "(Registrant\u2019s telephone number, including area code)"
+                    ],
+                    [
+                      "Securities registered pursuant to Section 12(b) of the Act:",
+                      "Securities registered pursuant to Section 12(b) of the Act:"
+                    ]
+                  ]
+                },
+                "16": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading Symbol",
+                      "Name of each exchange on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "17": {
+                  "text": "Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes\u00a0\u2612\u00a0No\u00a0\u2610"
+                },
+                "18": {
+                  "text": "Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (\u00a7232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes\u00a0\u2612\u00a0No\u00a0\u2610"
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of \u201clarge accelerated filer,\u201d \u201caccelerated filer,\u201d \u201csmaller reporting company,\u201d and \u201cemerging growth company\u201d in Rule 12b-2 of the Exchange Act."
+                },
+                "20": {
+                  "table": [
+                    [
+                      "Large accelerated filer",
+                      "\u2612",
+                      "Accelerated filer",
+                      "\u2610"
+                    ],
+                    [
+                      "Non-accelerated filer",
+                      "\u2610",
+                      "Smaller reporting company",
+                      "\u2610"
+                    ],
+                    [
+                      "",
+                      "",
+                      "Emerging growth company",
+                      "\u2610"
+                    ]
+                  ]
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610"
+                },
+                "22": {
+                  "text": "Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u2610\u00a0No\u00a0\u2612"
+                },
+                "23": {
+                  "text": "Indicate the number of shares outstanding of each of the issuer\u2019s classes of common stock, as of the latest practicable date."
+                },
+                "24": {
+                  "table": [
+                    [
+                      "Class",
+                      "Shares Outstanding as of April 19, 2024"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "1,171,854,259"
+                    ]
+                  ]
+                },
+                "25": {
+                  "title": "1",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "T-Mobile US, Inc.",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Form 10-Q",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "For the Quarter Ended March\u00a031, 2024",
+                  "class": "predicted header",
+                  "contents": {
+                    "29": {
+                      "title": "Table of Contents",
+                      "class": "predicted header",
+                      "contents": {
+                        "30": {
+                          "table": [
+                            [
+                              "PART I. FINANCIAL INFORMATION",
+                              "PART I. FINANCIAL INFORMATION",
+                              ""
+                            ],
+                            [
+                              "Item 1.",
+                              "Financial Statements",
+                              "3"
+                            ],
+                            [
+                              "",
+                              "Condensed Consolidated Balance Sheets",
+                              "3"
+                            ],
+                            [
+                              "",
+                              "Condensed Consolidated Statements of Comprehensive Income",
+                              "4"
+                            ],
+                            [
+                              "",
+                              "Condensed Consolidated Statements of Cash Flows",
+                              "5"
+                            ],
+                            [
+                              "",
+                              "Condensed Consolidated Statement of Stockholders\u2019 Equity",
+                              "6"
+                            ],
+                            [
+                              "",
+                              "Notes to the Condensed Consolidated Financial Statements",
+                              "8"
+                            ],
+                            [
+                              "Item 2.",
+                              "Management's Discussion and Analysis of Financial Condition and Results of Operations",
+                              "25"
+                            ],
+                            [
+                              "Item 3.",
+                              "Quantitative and Qualitative Disclosures About Market Risk",
+                              "42"
+                            ],
+                            [
+                              "Item 4.",
+                              "Controls and Procedures",
+                              "42"
+                            ],
+                            [
+                              "PART II. OTHER INFORMATION",
+                              "PART II. OTHER INFORMATION",
+                              ""
+                            ],
+                            [
+                              "Item 1.",
+                              "Legal Proceedings",
+                              "43"
+                            ],
+                            [
+                              "Item 1A.",
+                              "Risk Factors",
+                              "43"
+                            ],
+                            [
+                              "Item 2.",
+                              "Unregistered Sales of Equity Securities and Use of Proceeds",
+                              "43"
+                            ],
+                            [
+                              "Item 3.",
+                              "Defaults Upon Senior Securities",
+                              "44"
+                            ],
+                            [
+                              "Item 4.",
+                              "Mine Safety Disclosures",
+                              "44"
+                            ],
+                            [
+                              "Item 5.",
+                              "Other Information",
+                              "44"
+                            ],
+                            [
+                              "Item 6.",
+                              "Exhibits",
+                              "45"
+                            ],
+                            [
+                              "",
+                              "Signatures",
+                              "46"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "31": {
+                      "title": "2",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "32": {
+          "title": "Index for Notes to the Condensed Consolidated Financial Statements",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "title": "PART I. FINANCIAL INFORMATION",
+              "class": "predicted header"
+            }
+          }
+        },
+        "34": {
+          "title": "Item 1. Financial Statements",
+          "standardized_title": "item1",
+          "class": "item",
+          "contents": {
+            "35": {
+              "title": "T-Mobile US, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "36": {
+                  "title": "Condensed Consolidated Balance Sheets",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "37": {
+              "title": "(Unaudited)",
+              "class": "predicted header",
+              "contents": {
+                "38": {
+                  "table": [
+                    [
+                      "(in millions, except share and per share amounts)",
+                      "March 31,\n2024",
+                      "December 31,\n2023"
+                    ],
+                    [
+                      "Assets",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Current assets",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Cash and cash equivalents",
+                      "$6,708",
+                      "$5,135"
+                    ],
+                    [
+                      "Accounts receivable, net of allowance for credit losses of $161 and $161",
+                      "4,253",
+                      "4,692"
+                    ],
+                    [
+                      "Equipment installment plan receivables, net of allowance for credit losses and imputed discount of $614 and $623",
+                      "4,059",
+                      "4,456"
+                    ],
+                    [
+                      "Inventory",
+                      "1,521",
+                      "1,678"
+                    ],
+                    [
+                      "Prepaid expenses",
+                      "715",
+                      "702"
+                    ],
+                    [
+                      "Other current assets",
+                      "2,039",
+                      "2,352"
+                    ],
+                    [
+                      "Total current assets",
+                      "19,295",
+                      "19,015"
+                    ],
+                    [
+                      "Property and equipment, net",
+                      "39,286",
+                      "40,432"
+                    ],
+                    [
+                      "Operating lease right-of-use assets",
+                      "26,766",
+                      "27,135"
+                    ],
+                    [
+                      "Financing lease right-of-use assets",
+                      "3,180",
+                      "3,270"
+                    ],
+                    [
+                      "Goodwill",
+                      "12,234",
+                      "12,234"
+                    ],
+                    [
+                      "Spectrum licenses",
+                      "97,154",
+                      "96,707"
+                    ],
+                    [
+                      "Other intangible assets, net",
+                      "2,445",
+                      "2,618"
+                    ],
+                    [
+                      "Equipment installment plan receivables due after one year, net of allowance for credit losses and imputed discount of $143 and $150",
+                      "1,908",
+                      "2,042"
+                    ],
+                    [
+                      "Other assets",
+                      "4,000",
+                      "4,229"
+                    ],
+                    [
+                      "Total assets",
+                      "$206,268",
+                      "$207,682"
+                    ],
+                    [
+                      "Liabilities and Stockholders' Equity",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Current liabilities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Accounts payable and accrued liabilities",
+                      "$7,720",
+                      "$10,373"
+                    ],
+                    [
+                      "Short-term debt",
+                      "5,356",
+                      "3,619"
+                    ],
+                    [
+                      "Deferred revenue",
+                      "846",
+                      "825"
+                    ],
+                    [
+                      "Short-term operating lease liabilities",
+                      "3,443",
+                      "3,555"
+                    ],
+                    [
+                      "Short-term financing lease liabilities",
+                      "1,265",
+                      "1,260"
+                    ],
+                    [
+                      "Other current liabilities",
+                      "1,933",
+                      "1,296"
+                    ],
+                    [
+                      "Total current liabilities",
+                      "20,563",
+                      "20,928"
+                    ],
+                    [
+                      "Long-term debt",
+                      "71,361",
+                      "69,903"
+                    ],
+                    [
+                      "Long-term debt to affiliates",
+                      "1,496",
+                      "1,496"
+                    ],
+                    [
+                      "Tower obligations",
+                      "3,751",
+                      "3,777"
+                    ],
+                    [
+                      "Deferred tax liabilities",
+                      "14,187",
+                      "13,458"
+                    ],
+                    [
+                      "Operating lease liabilities",
+                      "27,827",
+                      "28,240"
+                    ],
+                    [
+                      "Financing lease liabilities",
+                      "1,163",
+                      "1,236"
+                    ],
+                    [
+                      "Other long-term liabilities",
+                      "3,846",
+                      "3,929"
+                    ],
+                    [
+                      "Total long-term liabilities",
+                      "123,631",
+                      "122,039"
+                    ],
+                    [
+                      "Commitments and contingencies (Note 12)",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Stockholders' equity",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Common stock, par value $0.00001 per share, 2,000,000,000 shares authorized; 1,266,294,032 and 1,262,904,154 shares issued, 1,177,240,110 and 1,195,807,331 shares outstanding",
+                      "\u2014",
+                      "\u2014"
+                    ],
+                    [
+                      "Additional paid-in capital",
+                      "67,786",
+                      "67,705"
+                    ],
+                    [
+                      "Treasury stock, at cost, 89,053,922 and 67,096,823 shares",
+                      "(12,982)",
+                      "(9,373)"
+                    ],
+                    [
+                      "Accumulated other comprehensive loss",
+                      "(926)",
+                      "(964)"
+                    ],
+                    [
+                      "Retained earnings",
+                      "8,196",
+                      "7,347"
+                    ],
+                    [
+                      "Total stockholders' equity",
+                      "62,074",
+                      "64,715"
+                    ],
+                    [
+                      "Total liabilities and stockholders' equity",
+                      "$206,268",
+                      "$207,682"
+                    ]
+                  ]
+                },
+                "39": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,"
+                    ],
+                    [
+                      "(in millions, except share and per share amounts)",
+                      "2024",
+                      "2023"
+                    ],
+                    [
+                      "Revenues",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid revenues",
+                      "$12,631",
+                      "$11,862"
+                    ],
+                    [
+                      "Prepaid revenues",
+                      "2,403",
+                      "2,417"
+                    ],
+                    [
+                      "Wholesale and other service revenues",
+                      "1,062",
+                      "1,267"
+                    ],
+                    [
+                      "Total service revenues",
+                      "16,096",
+                      "15,546"
+                    ],
+                    [
+                      "Equipment revenues",
+                      "3,251",
+                      "3,719"
+                    ],
+                    [
+                      "Other revenues",
+                      "247",
+                      "367"
+                    ],
+                    [
+                      "Total revenues",
+                      "19,594",
+                      "19,632"
+                    ],
+                    [
+                      "Operating expenses",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Cost of services, exclusive of depreciation and amortization shown separately below",
+                      "2,688",
+                      "3,061"
+                    ],
+                    [
+                      "Cost of equipment sales, exclusive of depreciation and amortization shown separately below",
+                      "4,399",
+                      "4,588"
+                    ],
+                    [
+                      "Selling, general and administrative",
+                      "5,138",
+                      "5,425"
+                    ],
+                    [
+                      "Gain on disposal group held for sale",
+                      "\u2014",
+                      "(42)"
+                    ],
+                    [
+                      "Depreciation and amortization",
+                      "3,371",
+                      "3,203"
+                    ],
+                    [
+                      "Total operating expenses",
+                      "15,596",
+                      "16,235"
+                    ],
+                    [
+                      "Operating income",
+                      "3,998",
+                      "3,397"
+                    ],
+                    [
+                      "Other expense, net",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Interest expense, net",
+                      "(880)",
+                      "(835)"
+                    ],
+                    [
+                      "Other income, net",
+                      "20",
+                      "9"
+                    ],
+                    [
+                      "Total other expense, net",
+                      "(860)",
+                      "(826)"
+                    ],
+                    [
+                      "Income before income taxes",
+                      "3,138",
+                      "2,571"
+                    ],
+                    [
+                      "Income tax expense",
+                      "(764)",
+                      "(631)"
+                    ],
+                    [
+                      "Net income",
+                      "$2,374",
+                      "$1,940"
+                    ],
+                    [
+                      "Other comprehensive income, net of tax",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Reclassification of loss from cash flow hedges, net of tax effect of $15 and $14",
+                      "43",
+                      "40"
+                    ],
+                    [
+                      "Unrealized gain on foreign currency translation adjustment, net of tax effect of $0, and $0",
+                      "\u2014",
+                      "2"
+                    ],
+                    [
+                      "Amortization of actuarial gain, net of tax effect of $(2) and $0",
+                      "(5)",
+                      "\u2014"
+                    ],
+                    [
+                      "Other comprehensive income",
+                      "38",
+                      "42"
+                    ],
+                    [
+                      "Total comprehensive income",
+                      "$2,412",
+                      "$1,982"
+                    ],
+                    [
+                      "Earnings per share",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Basic",
+                      "$2.00",
+                      "$1.59"
+                    ],
+                    [
+                      "Diluted",
+                      "$2.00",
+                      "$1.58"
+                    ],
+                    [
+                      "Weighted-average shares outstanding",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Basic",
+                      "1,185,298,497",
+                      "1,219,608,362"
+                    ],
+                    [
+                      "Diluted",
+                      "1,189,092,019",
+                      "1,224,604,698"
+                    ]
+                  ]
+                },
+                "40": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023"
+                    ],
+                    [
+                      "Operating activities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Net income",
+                      "$2,374",
+                      "$1,940"
+                    ],
+                    [
+                      "Adjustments to reconcile net income to net cash provided by operating activities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Depreciation and amortization",
+                      "3,371",
+                      "3,203"
+                    ],
+                    [
+                      "Stock-based compensation expense",
+                      "140",
+                      "177"
+                    ],
+                    [
+                      "Deferred income tax expense",
+                      "715",
+                      "611"
+                    ],
+                    [
+                      "Bad debt expense",
+                      "282",
+                      "222"
+                    ],
+                    [
+                      "Losses from sales of receivables",
+                      "21",
+                      "38"
+                    ],
+                    [
+                      "Gain on remeasurement of disposal group held for sale",
+                      "\u2014",
+                      "(13)"
+                    ],
+                    [
+                      "Changes in operating assets and liabilities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Accounts receivable",
+                      "(416)",
+                      "(1,268)"
+                    ],
+                    [
+                      "Equipment installment plan receivables",
+                      "277",
+                      "152"
+                    ],
+                    [
+                      "Inventory",
+                      "170",
+                      "129"
+                    ],
+                    [
+                      "Operating lease right-of-use assets",
+                      "856",
+                      "1,008"
+                    ],
+                    [
+                      "Other current and long-term assets",
+                      "160",
+                      "(142)"
+                    ],
+                    [
+                      "Accounts payable and accrued liabilities",
+                      "(1,734)",
+                      "(882)"
+                    ],
+                    [
+                      "Short- and long-term operating lease liabilities",
+                      "(1,017)",
+                      "(1,009)"
+                    ],
+                    [
+                      "Other current and long-term liabilities",
+                      "(172)",
+                      "(183)"
+                    ],
+                    [
+                      "Other, net",
+                      "57",
+                      "68"
+                    ],
+                    [
+                      "Net cash provided by operating activities",
+                      "5,084",
+                      "4,051"
+                    ],
+                    [
+                      "Investing activities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Purchases of property and equipment, including capitalized interest of $(9) and $(14)",
+                      "(2,627)",
+                      "(3,001)"
+                    ],
+                    [
+                      "Purchases of spectrum licenses and other intangible assets, including deposits",
+                      "(61)",
+                      "(73)"
+                    ],
+                    [
+                      "Proceeds from sales of tower sites",
+                      "\u2014",
+                      "6"
+                    ],
+                    [
+                      "Proceeds related to beneficial interests in securitization transactions",
+                      "890",
+                      "1,345"
+                    ],
+                    [
+                      "Other, net",
+                      "11",
+                      "(5)"
+                    ],
+                    [
+                      "Net cash used in investing activities",
+                      "(1,787)",
+                      "(1,728)"
+                    ],
+                    [
+                      "Financing activities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Proceeds from issuance of long-term debt",
+                      "3,473",
+                      "3,013"
+                    ],
+                    [
+                      "Repayments of financing lease obligations",
+                      "(327)",
+                      "(306)"
+                    ],
+                    [
+                      "Repayments of long-term debt",
+                      "(223)",
+                      "(131)"
+                    ],
+                    [
+                      "Repurchases of common stock",
+                      "(3,594)",
+                      "(4,619)"
+                    ],
+                    [
+                      "Dividends on common stock",
+                      "(769)",
+                      "\u2014"
+                    ],
+                    [
+                      "Tax withholdings on share-based awards",
+                      "(192)",
+                      "(187)"
+                    ],
+                    [
+                      "Other, net",
+                      "(34)",
+                      "(43)"
+                    ],
+                    [
+                      "Net cash used in financing activities",
+                      "(1,666)",
+                      "(2,273)"
+                    ],
+                    [
+                      "Change in cash and cash equivalents, including restricted cash and cash held for sale",
+                      "1,631",
+                      "50"
+                    ],
+                    [
+                      "Cash and cash equivalents, including restricted cash and cash held for sale",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Beginning of period",
+                      "5,307",
+                      "4,674"
+                    ],
+                    [
+                      "End of period",
+                      "$6,938",
+                      "$4,724"
+                    ]
+                  ]
+                },
+                "41": {
+                  "table": [
+                    [
+                      "(in millions, except share and per share amounts)",
+                      "Common Stock Outstanding",
+                      "Treasury Stock Outstanding",
+                      "Treasury Shares at Cost",
+                      "Par Value and Additional Paid-in Capital",
+                      "Accumulated Other Comprehensive Loss",
+                      "Retained Earnings (Accumulated Deficit)",
+                      "Total Stockholders' Equity"
+                    ],
+                    [
+                      "Balance as of December 31, 2023",
+                      "1,195,807,331",
+                      "67,096,823",
+                      "$(9,373)",
+                      "$67,705",
+                      "$(964)",
+                      "$7,347",
+                      "$64,715"
+                    ],
+                    [
+                      "Net income",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "2,374",
+                      "2,374"
+                    ],
+                    [
+                      "Dividends declared ($1.30 per share)",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "(1,525)",
+                      "(1,525)"
+                    ],
+                    [
+                      "Other comprehensive income",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "38",
+                      "\u2014",
+                      "38"
+                    ],
+                    [
+                      "Stock-based compensation",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "152",
+                      "\u2014",
+                      "\u2014",
+                      "152"
+                    ],
+                    [
+                      "Stock issued for employee stock purchase plan",
+                      "950,082",
+                      "\u2014",
+                      "\u2014",
+                      "112",
+                      "\u2014",
+                      "\u2014",
+                      "112"
+                    ],
+                    [
+                      "Issuance of vested restricted stock units",
+                      "3,525,790",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014"
+                    ],
+                    [
+                      "Shares withheld related to net share settlement of stock awards and stock options",
+                      "(1,171,055)",
+                      "\u2014",
+                      "\u2014",
+                      "(192)",
+                      "\u2014",
+                      "\u2014",
+                      "(192)"
+                    ],
+                    [
+                      "Repurchases of common stock",
+                      "(21,933,790)",
+                      "21,933,790",
+                      "(3,604)",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "(3,604)"
+                    ],
+                    [
+                      "Other, net",
+                      "61,752",
+                      "23,309",
+                      "(5)",
+                      "9",
+                      "\u2014",
+                      "\u2014",
+                      "4"
+                    ],
+                    [
+                      "Balance as of March 31, 2024",
+                      "1,177,240,110",
+                      "89,053,922",
+                      "$(12,982)",
+                      "$67,786",
+                      "$(926)",
+                      "$8,196",
+                      "$62,074"
+                    ],
+                    [
+                      "Balance as of December 31, 2022",
+                      "1,233,960,078",
+                      "22,916,449",
+                      "$(3,016)",
+                      "$73,941",
+                      "$(1,046)",
+                      "$(223)",
+                      "$69,656"
+                    ],
+                    [
+                      "Net income",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "1,940",
+                      "1,940"
+                    ],
+                    [
+                      "Other comprehensive income",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "42",
+                      "\u2014",
+                      "42"
+                    ],
+                    [
+                      "Stock-based compensation",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "155",
+                      "\u2014",
+                      "\u2014",
+                      "155"
+                    ],
+                    [
+                      "Stock issued for employee stock purchase plan",
+                      "1,063,426",
+                      "\u2014",
+                      "\u2014",
+                      "126",
+                      "\u2014",
+                      "\u2014",
+                      "126"
+                    ],
+                    [
+                      "Issuance of vested restricted stock units",
+                      "3,844,801",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014"
+                    ],
+                    [
+                      "Shares withheld related to net share settlement of stock awards and stock options",
+                      "(1,263,356)",
+                      "\u2014",
+                      "\u2014",
+                      "(187)",
+                      "\u2014",
+                      "\u2014",
+                      "(187)"
+                    ],
+                    [
+                      "Repurchases of common stock",
+                      "(32,963,940)",
+                      "32,963,940",
+                      "(4,810)",
+                      "\u2014",
+                      "\u2014",
+                      "\u2014",
+                      "(4,810)"
+                    ],
+                    [
+                      "Other, net",
+                      "55,316",
+                      "30,275",
+                      "(5)",
+                      "8",
+                      "\u2014",
+                      "\u2014",
+                      "3"
+                    ],
+                    [
+                      "Balance as of March 31, 2023",
+                      "1,204,696,325",
+                      "55,910,664",
+                      "$(7,831)",
+                      "$74,043",
+                      "$(1,004)",
+                      "$1,717",
+                      "$66,925"
+                    ]
+                  ]
+                },
+                "42": {
+                  "table": [
+                    [
+                      "Note 1",
+                      "Summary of Significant Accounting Policies",
+                      "8"
+                    ],
+                    [
+                      "Note 2",
+                      "Business Combination",
+                      "8"
+                    ],
+                    [
+                      "Note 3",
+                      "Receivables and Related Allowance for Credit Losses",
+                      "9"
+                    ],
+                    [
+                      "Note 4",
+                      "Sales of Certain Receivables",
+                      "11"
+                    ],
+                    [
+                      "Note 5",
+                      "Spectrum License Transactions",
+                      "13"
+                    ],
+                    [
+                      "Note 6",
+                      "Fair Value Measurements",
+                      "14"
+                    ],
+                    [
+                      "Note 7",
+                      "Debt",
+                      "15"
+                    ],
+                    [
+                      "Note 8",
+                      "Tower Obligations",
+                      "17"
+                    ],
+                    [
+                      "Note 9",
+                      "Revenue from Contracts with Customers",
+                      "18"
+                    ],
+                    [
+                      "Note 10",
+                      "Stockholder Return Program",
+                      "20"
+                    ],
+                    [
+                      "Note 11",
+                      "Earnings Per Share",
+                      "21"
+                    ],
+                    [
+                      "Note 12",
+                      "Commitments and Contingencies",
+                      "21"
+                    ],
+                    [
+                      "Note 13",
+                      "Additional Financial Information",
+                      "24"
+                    ],
+                    [
+                      "Note 14",
+                      "Subsequent Events",
+                      "24"
+                    ]
+                  ]
+                },
+                "43": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31,\n2024",
+                      "December 31,\n2023"
+                    ],
+                    [
+                      "EIP receivables, gross",
+                      "$6,724",
+                      "$7,271"
+                    ],
+                    [
+                      "Unamortized imputed discount",
+                      "(489)",
+                      "(505)"
+                    ],
+                    [
+                      "EIP receivables, net of unamortized imputed discount",
+                      "6,235",
+                      "6,766"
+                    ],
+                    [
+                      "Allowance for credit losses",
+                      "(268)",
+                      "(268)"
+                    ],
+                    [
+                      "EIP receivables, net of allowance for credit losses and imputed discount",
+                      "$5,967",
+                      "$6,498"
+                    ],
+                    [
+                      "Classified on our condensed consolidated balance sheets as:",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Equipment installment plan receivables, net of allowance for credit losses and imputed discount",
+                      "$4,059",
+                      "$4,456"
+                    ],
+                    [
+                      "Equipment installment plan receivables due after one year, net of allowance for credit losses and imputed discount",
+                      "1,908",
+                      "2,042"
+                    ],
+                    [
+                      "EIP receivables, net of allowance for credit losses and imputed discount",
+                      "$5,967",
+                      "$6,498"
+                    ]
+                  ]
+                },
+                "44": {
+                  "table": [
+                    [
+                      "",
+                      "Originated in 2024",
+                      "Originated in 2024",
+                      "Originated in 2023",
+                      "Originated in 2023",
+                      "Originated prior to 2023",
+                      "Originated prior to 2023",
+                      "Total EIP Receivables, Net of \nUnamortized Imputed Discount",
+                      "Total EIP Receivables, Net of \nUnamortized Imputed Discount",
+                      "Total EIP Receivables, Net of \nUnamortized Imputed Discount"
+                    ],
+                    [
+                      "(in millions)",
+                      "Prime",
+                      "Subprime",
+                      "Prime",
+                      "Subprime",
+                      "Prime",
+                      "Subprime",
+                      "Prime",
+                      "Subprime",
+                      "Total"
+                    ],
+                    [
+                      "Current - 30 days past due",
+                      "$1,188",
+                      "$360",
+                      "$2,923",
+                      "$730",
+                      "$721",
+                      "$203",
+                      "$4,832",
+                      "$1,293",
+                      "$6,125"
+                    ],
+                    [
+                      "31 - 60 days past due",
+                      "3",
+                      "4",
+                      "12",
+                      "16",
+                      "4",
+                      "4",
+                      "19",
+                      "24",
+                      "43"
+                    ],
+                    [
+                      "61 - 90 days past due",
+                      "\u2014",
+                      "1",
+                      "10",
+                      "15",
+                      "4",
+                      "3",
+                      "14",
+                      "19",
+                      "33"
+                    ],
+                    [
+                      "More than 90 days past due",
+                      "\u2014",
+                      "\u2014",
+                      "9",
+                      "15",
+                      "6",
+                      "4",
+                      "15",
+                      "19",
+                      "34"
+                    ],
+                    [
+                      "EIP receivables, net of unamortized imputed discount",
+                      "$1,191",
+                      "$365",
+                      "$2,954",
+                      "$776",
+                      "$735",
+                      "$214",
+                      "$4,880",
+                      "$1,355",
+                      "$6,235"
+                    ]
+                  ]
+                },
+                "45": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "Originated in 2024",
+                      "Originated in 2023",
+                      "Originated prior to 2023",
+                      "Total Write-offs"
+                    ],
+                    [
+                      "Write-offs",
+                      "$2",
+                      "$114",
+                      "$34",
+                      "$150"
+                    ]
+                  ]
+                },
+                "46": {
+                  "title": "10",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "47": {
+              "title": "Index for Notes to the Condensed Consolidated Financial Statements",
+              "class": "predicted header",
+              "contents": {
+                "48": {
+                  "text": "Activity for the three months ended March\u00a031, 2024 and 2023, in the allowance for credit losses and unamortized imputed discount balances for the accounts receivable and EIP receivables segments were as follows: "
+                },
+                "49": {
+                  "table": [
+                    [
+                      "",
+                      "March 31, 2024",
+                      "March 31, 2024",
+                      "March 31, 2024",
+                      "March 31, 2023",
+                      "March 31, 2023",
+                      "March 31, 2023"
+                    ],
+                    [
+                      "(in millions)",
+                      "Accounts Receivable Allowance",
+                      "EIP Receivables Allowance",
+                      "Total",
+                      "Accounts Receivable Allowance",
+                      "EIP Receivables Allowance",
+                      "Total"
+                    ],
+                    [
+                      "Allowance for credit losses and imputed discount, beginning of period",
+                      "$161",
+                      "$773",
+                      "$934",
+                      "$167",
+                      "$811",
+                      "$978"
+                    ],
+                    [
+                      "Bad debt expense",
+                      "132",
+                      "150",
+                      "282",
+                      "107",
+                      "115",
+                      "222"
+                    ],
+                    [
+                      "Write-offs",
+                      "(132)",
+                      "(150)",
+                      "(282)",
+                      "(122)",
+                      "(140)",
+                      "(262)"
+                    ],
+                    [
+                      "Change in imputed discount on short-term and long-term EIP receivables",
+                      "N/A",
+                      "31",
+                      "31",
+                      "N/A",
+                      "54",
+                      "54"
+                    ],
+                    [
+                      "Impact on the imputed discount from sales of EIP receivables",
+                      "N/A",
+                      "(47)",
+                      "(47)",
+                      "N/A",
+                      "(54)",
+                      "(54)"
+                    ],
+                    [
+                      "Allowance for credit losses and imputed discount, end of period",
+                      "$161",
+                      "$757",
+                      "$918",
+                      "$152",
+                      "$786",
+                      "$938"
+                    ]
+                  ]
+                },
+                "50": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31,\n2024",
+                      "December 31,\n2023"
+                    ],
+                    [
+                      "Other current assets",
+                      "$330",
+                      "$348"
+                    ],
+                    [
+                      "Other assets",
+                      "95",
+                      "103"
+                    ]
+                  ]
+                },
+                "51": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31,\n2024",
+                      "December 31,\n2023"
+                    ],
+                    [
+                      "Other current assets",
+                      "$164",
+                      "$209"
+                    ],
+                    [
+                      "Other current liabilities",
+                      "423",
+                      "373"
+                    ]
+                  ]
+                },
+                "52": {
+                  "title": "Sales of Receivables",
+                  "class": "predicted header",
+                  "contents": {
+                    "53": {
+                      "text": "The following table summarizes the impact of the sale of certain service accounts receivable and EIP receivables on our Condensed Consolidated Balance Sheets:"
+                    },
+                    "54": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "March 31,\n2024",
+                          "December 31,\n2023"
+                        ],
+                        [
+                          "Derecognized net service accounts receivable and EIP receivables",
+                          "$2,249",
+                          "$2,388"
+                        ],
+                        [
+                          "Other current assets",
+                          "494",
+                          "557"
+                        ],
+                        [
+                          "of which, deferred purchase price",
+                          "491",
+                          "555"
+                        ],
+                        [
+                          "Other long-term assets",
+                          "95",
+                          "103"
+                        ],
+                        [
+                          "of which, deferred purchase price",
+                          "95",
+                          "103"
+                        ],
+                        [
+                          "Other current liabilities",
+                          "423",
+                          "373"
+                        ],
+                        [
+                          "Net cash proceeds since inception",
+                          "1,554",
+                          "1,583"
+                        ],
+                        [
+                          "Of which:",
+                          "",
+                          ""
+                        ],
+                        [
+                          "Change in net cash proceeds during the year-to-date period",
+                          "(29)",
+                          "(114)"
+                        ],
+                        [
+                          "Net cash proceeds funded by reinvested collections",
+                          "1,583",
+                          "1,697"
+                        ]
+                      ]
+                    },
+                    "55": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "2024"
+                        ],
+                        [
+                          "Spectrum licenses, beginning of year",
+                          "$96,707"
+                        ],
+                        [
+                          "Spectrum license acquisitions",
+                          "411"
+                        ],
+                        [
+                          "Spectrum licenses transferred to held for sale",
+                          "(17)"
+                        ],
+                        [
+                          "Costs to clear spectrum",
+                          "53"
+                        ],
+                        [
+                          "Spectrum licenses, end of period",
+                          "$97,154"
+                        ]
+                      ]
+                    },
+                    "56": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "Level within the Fair Value Hierarchy",
+                          "March 31, 2024",
+                          "March 31, 2024",
+                          "December 31, 2023",
+                          "December 31, 2023"
+                        ],
+                        [
+                          "(in millions)",
+                          "Level within the Fair Value Hierarchy",
+                          "Carrying Amount",
+                          "Fair Value",
+                          "Carrying Amount",
+                          "Fair Value"
+                        ],
+                        [
+                          "Liabilities:",
+                          "",
+                          "",
+                          "",
+                          "",
+                          ""
+                        ],
+                        [
+                          "Senior Notes to third parties",
+                          "1",
+                          "$73,421",
+                          "$67,914",
+                          "$70,493",
+                          "$65,962"
+                        ],
+                        [
+                          "Senior Notes to affiliates",
+                          "2",
+                          "1,496",
+                          "1,464",
+                          "1,496",
+                          "1,499"
+                        ],
+                        [
+                          "Senior Secured Notes to third parties",
+                          "1",
+                          "2,050",
+                          "1,994",
+                          "2,281",
+                          "2,207"
+                        ],
+                        [
+                          "ABS Notes to third parties",
+                          "2",
+                          "1,246",
+                          "1,244",
+                          "748",
+                          "748"
+                        ]
+                      ]
+                    },
+                    "57": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "December 31,\n2023",
+                          "Proceeds from Issuances and Borrowings (1)",
+                          "Repayments",
+                          "Reclassifications (1)",
+                          "Other (2)",
+                          "March 31,\n2024"
+                        ],
+                        [
+                          "Short-term debt",
+                          "$3,619",
+                          "$\u2014",
+                          "$(223)",
+                          "$1,983",
+                          "$(23)",
+                          "$5,356"
+                        ],
+                        [
+                          "Long-term debt",
+                          "69,903",
+                          "3,473",
+                          "\u2014",
+                          "(1,983)",
+                          "(32)",
+                          "71,361"
+                        ],
+                        [
+                          "Total debt to third parties",
+                          "73,522",
+                          "3,473",
+                          "(223)",
+                          "\u2014",
+                          "(55)",
+                          "76,717"
+                        ],
+                        [
+                          "Long-term debt to affiliates",
+                          "1,496",
+                          "\u2014",
+                          "\u2014",
+                          "\u2014",
+                          "\u2014",
+                          "1,496"
+                        ],
+                        [
+                          "Total debt",
+                          "$75,018",
+                          "$3,473",
+                          "$(223)",
+                          "$\u2014",
+                          "$(55)",
+                          "$78,213"
+                        ]
+                      ]
+                    },
+                    "58": {
+                      "textsmall": "(1)Issuances and borrowings and reclassifications are recorded net of accrued or paid issuance costs and discounts."
+                    },
+                    "59": {
+                      "textsmall": "(2)Other includes the amortization of premiums, discounts, debt issuance costs and consent fees."
+                    },
+                    "60": {
+                      "text": "Our effective interest rate, excluding the impact of derivatives and capitalized interest, was approximately 4.1% and 4.0% on weighted-average debt outstanding of $77.4\u00a0billion and $73.4\u00a0billion for the three months ended March\u00a031, 2024 and 2023, respectively. The weighted-average debt outstanding was calculated by applying an average of the monthly ending balances of total short-term and long-term debt to third parties and short-term and long-term debt to affiliates, net of unamortized premiums, discounts, debt issuance costs and consent fees."
+                    }
+                  }
+                },
+                "61": {
+                  "title": "15",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "62": {
+              "title": "Index for Notes to the Condensed Consolidated Financial Statements",
+              "class": "predicted header",
+              "contents": {
+                "63": {
+                  "title": "Issuances and Borrowings",
+                  "class": "predicted header",
+                  "contents": {
+                    "64": {
+                      "text": "During the three months ended March\u00a031, 2024, we issued the following Senior Notes:"
+                    },
+                    "65": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "Principal Issuances",
+                          "Discounts and Issuance Costs, Net",
+                          "Net Proceeds from Issuance of Long-Term Debt",
+                          "Issue Date"
+                        ],
+                        [
+                          "4.850% Senior Notes due 2029",
+                          "$1,000",
+                          "$(6)",
+                          "$994",
+                          "January 12, 2024"
+                        ],
+                        [
+                          "5.150% Senior Notes due 2034",
+                          "1,250",
+                          "(11)",
+                          "1,239",
+                          "January 12, 2024"
+                        ],
+                        [
+                          "5.500% Senior Notes due 2055",
+                          "750",
+                          "(7)",
+                          "743",
+                          "January 12, 2024"
+                        ],
+                        [
+                          "Total of Senior Notes issued",
+                          "$3,000",
+                          "$(24)",
+                          "$2,976",
+                          ""
+                        ],
+                        [
+                          "5.050% Class A Senior ABS Notes due 2029",
+                          "$500",
+                          "$(3)",
+                          "$497",
+                          "February 14, 2024"
+                        ],
+                        [
+                          "Total of ABS Notes issued",
+                          "$500",
+                          "$(3)",
+                          "$497",
+                          ""
+                        ]
+                      ]
+                    },
+                    "66": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "Principal Amount",
+                          "Repayment Date"
+                        ],
+                        [
+                          "4.738% Secured Series 2018-1 A-1 Notes due 2025",
+                          "$131",
+                          "Various"
+                        ],
+                        [
+                          "5.152% Series 2018-1 A-2 Notes due 2028",
+                          "92",
+                          "Various"
+                        ],
+                        [
+                          "Total Repayments",
+                          "$223",
+                          ""
+                        ]
+                      ]
+                    },
+                    "67": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "Expected Maturities"
+                        ],
+                        [
+                          "2024",
+                          "$198"
+                        ],
+                        [
+                          "2025",
+                          "552"
+                        ],
+                        [
+                          "2026",
+                          "459"
+                        ],
+                        [
+                          "2027",
+                          "41"
+                        ],
+                        [
+                          "Total",
+                          "$1,250"
+                        ]
+                      ]
+                    },
+                    "68": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "March 31,\n2024",
+                          "December 31,\n2023"
+                        ],
+                        [
+                          "Assets",
+                          "",
+                          ""
+                        ],
+                        [
+                          "Equipment installment plan receivables, net",
+                          "$1,123",
+                          "$739"
+                        ],
+                        [
+                          "Equipment installment plan receivables due after one year, net",
+                          "376",
+                          "168"
+                        ],
+                        [
+                          "Other current assets",
+                          "154",
+                          "101"
+                        ],
+                        [
+                          "Liabilities",
+                          "",
+                          ""
+                        ],
+                        [
+                          "Accounts payable and accrued liabilities",
+                          "$2",
+                          "$1"
+                        ],
+                        [
+                          "Short-term debt",
+                          "413",
+                          "198"
+                        ],
+                        [
+                          "Long-term debt",
+                          "833",
+                          "550"
+                        ]
+                      ]
+                    },
+                    "69": {
+                      "text": "See Note 3 \u2013 Receivables and Related Allowance for Credit Losses for additional information on the EIP receivables used to secure the ABS Notes."
+                    }
+                  }
+                },
+                "70": {
+                  "title": "Restricted Cash",
+                  "class": "predicted header",
+                  "contents": {
+                    "71": {
+                      "text": "Certain provisions of our debt agreements require us to maintain specified cash collateral balances. Amounts associated with these balances are considered to be restricted cash. See Note 13 - Additional Financial Information for our reconciliation of Cash and cash equivalents, including restricted cash."
+                    },
+                    "72": {
+                      "title": "Note 8 \u2013 Tower Obligations",
+                      "class": "predicted header"
+                    }
+                  }
+                },
+                "73": {
+                  "title": "Existing CCI Tower Lease Arrangements",
+                  "class": "predicted header",
+                  "contents": {
+                    "74": {
+                      "text": "In 2012, we conveyed to Crown Castle International Corp. (\u201cCCI\u201d) the exclusive right to manage and operate approximately 6,200 tower sites (\u201cCCI Lease Sites\u201d) via a master prepaid lease with site lease terms ranging from 23 to 37 years. CCI has fixed-price purchase options for the CCI Lease Sites totaling approximately $2.0 billion, exercisable annually on a per-tranche basis at the end of the lease term during the period from December 31, 2035, through December 31, 2049. If CCI exercises its purchase option for any tranche, it must purchase all the towers in the tranche. We lease back a portion of the space at certain tower sites."
+                    },
+                    "75": {
+                      "text": "Assets and liabilities associated with the operation of the tower sites were transferred to special purpose entities (\u201cSPEs\u201d). Assets included ground lease agreements or deeds for the land on which the towers are situated, the towers themselves and existing subleasing agreements with other mobile network operator tenants that lease space at the tower sites. Liabilities included the obligation to pay ground lease rentals, property taxes and other executory costs."
+                    },
+                    "76": {
+                      "text": "We determined the SPEs containing the CCI Lease Sites (\u201cLease Site SPEs\u201d) are VIEs as they lack sufficient equity to finance their activities. We have a variable interest in the Lease Site SPEs but are not the primary beneficiary as we lack the power to direct the activities that most significantly impact the Lease Site SPEs\u2019 economic performance. These activities include managing tenants and underlying ground leases, performing repair and maintenance on the towers, the obligation to absorb expected losses and the right to receive the expected future residual returns from the purchase option to acquire the CCI Lease Sites. As we determined that we are not the primary beneficiary and do not have a controlling financial interest in the Lease Site SPEs, the Lease Site SPEs are not included on our condensed consolidated financial statements."
+                    },
+                    "77": {
+                      "text": "However, we also considered if this arrangement resulted in the sale of the CCI Lease Sites for which we would derecognize the tower assets. By assessing whether control had transferred, we concluded that transfer of control criteria, as discussed in the revenue standard, were not met. Accordingly, we recorded this arrangement as a financing whereby we recorded debt, a financial obligation, and the CCI Lease Sites tower assets remained on our Condensed Consolidated Balance Sheets. We recorded long-term financial obligations in the amount of the net proceeds received and recognize interest on the tower obligations. The tower obligations are increased by interest expense and amortized through contractual leaseback payments made by us to CCI and through net cash flows generated and retained by CCI from the operation of the tower sites."
+                    }
+                  }
+                },
+                "78": {
+                  "title": "Acquired CCI Tower Lease Arrangements",
+                  "class": "predicted header",
+                  "contents": {
+                    "79": {
+                      "text": "Prior to our merger with Sprint (the \u201cMerger\u201d), Sprint entered into a lease-out and leaseback arrangement with Global Signal Inc., a third party that was subsequently acquired by CCI, that conveyed to CCI the exclusive right to manage and operate approximately 6,400 tower sites (\u201cMaster Lease Sites\u201d) via a master prepaid lease. These agreements were assumed upon the"
+                    }
+                  }
+                },
+                "80": {
+                  "title": "17",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "81": {
+              "title": "Index for Notes to the Condensed Consolidated Financial Statements",
+              "class": "predicted header",
+              "contents": {
+                "82": {
+                  "text": "close of the Merger, at which point the remaining term of the lease-out was approximately 17 years with no renewal options. CCI has a fixed price purchase option for all (but not less than all) of the leased or subleased sites for approximately $2.3 billion, exercisable one year prior to the expiration of the agreement and ending 120 days prior to the expiration of the agreement. We lease back a portion of the space at certain tower sites."
+                },
+                "83": {
+                  "text": "We considered if this arrangement resulted in the sale of the Master Lease Sites for which we would derecognize the tower assets. By assessing whether control had transferred, we concluded that transfer of control criteria, as discussed in the revenue standard, were not met. Accordingly, we recorded this arrangement as a financing whereby we recorded debt, a financial obligation, and the Master Lease Sites tower assets remained on our Condensed Consolidated Balance Sheets."
+                },
+                "84": {
+                  "text": "We recognize interest expense on the tower obligations. The tower obligations are increased by the interest expense and amortized through contractual leaseback payments made by us to CCI. The tower assets are reported in Property and equipment, net on our Condensed Consolidated Balance Sheets and are depreciated to their estimated residual values over the expected useful life of the towers, which is 20 years."
+                },
+                "85": {
+                  "title": "Leaseback Arrangement",
+                  "class": "predicted header",
+                  "contents": {
+                    "86": {
+                      "text": "On January 3, 2022, we entered into an agreement (the \u201cCrown Agreement\u201d) with CCI. The Crown Agreement extends the current term of the leasebacks by up to 12 years and modifies the leaseback payments for both the Existing CCI Tower Lease Arrangements and the Acquired CCI Tower Lease Arrangements. As a result of the Crown Agreement, there was an increase in our financing obligation as of the effective date of the Crown Agreement of approximately $1.2 billion, with a corresponding decrease to Other long-term liabilities associated with unfavorable contract terms. The modification resulted in a revised interest rate under the effective interest method for the tower obligations: 11.6% for the Existing CCI Tower Lease Arrangements and 5.3% for the Acquired CCI Tower Lease Arrangements. There were no changes made to either of our master prepaid leases with CCI."
+                    },
+                    "87": {
+                      "text": "The following table summarizes the balances associated with both of the tower arrangements on our Condensed Consolidated Balance Sheets:"
+                    },
+                    "88": {
+                      "table": [
+                        [
+                          "(in millions)",
+                          "March 31,\n2024",
+                          "December 31,\n2023"
+                        ],
+                        [
+                          "Property and equipment, net",
+                          "$2,182",
+                          "$2,220"
+                        ],
+                        [
+                          "Tower obligations",
+                          "3,751",
+                          "3,777"
+                        ],
+                        [
+                          "Other long-term liabilities",
+                          "554",
+                          "554"
+                        ]
+                      ]
+                    },
+                    "89": {
+                      "text": "Future minimum payments related to the tower obligations are approximately $421 million for the 12-month period ending March 31, 2025, $774 million in total for both of the 12-month periods ending March 31, 2026 and 2027, $816 million in total for both of the 12-month periods ending March 31, 2028 and 2029, and $4.0 billion in total thereafter."
+                    },
+                    "90": {
+                      "text": "We are contingently liable for future ground lease payments through the remaining term of the CCI Lease Sites and the Master Lease Sites. These contingent obligations are not included in Operating lease liabilities, as any amount due is contractually owed by CCI based on the subleasing arrangement. Under the arrangement, we remain primarily liable for ground lease payments on approximately 900 sites and have included lease liabilities of $241 million in our Operating lease liabilities as of March\u00a031, 2024."
+                    },
+                    "91": {
+                      "title": "Note 9 \u2013 Revenue from Contracts with Customers",
+                      "class": "predicted header"
+                    }
+                  }
+                },
+                "92": {
+                  "title": "Disaggregation of Revenue",
+                  "class": "predicted header",
+                  "contents": {
+                    "93": {
+                      "text": "We provide wireless communications services to three primary categories of customers:"
+                    },
+                    "94": {
+                      "text": "\u2022Postpaid customers generally include customers who are qualified to pay after receiving wireless communications services utilizing phones, High Speed Internet, mobile internet devices (including tablets and hotspots), wearables, DIGITS and other connected devices (including SyncUP and IoT);"
+                    },
+                    "95": {
+                      "text": "\u2022Prepaid customers generally include customers who pay for wireless communications services in advance; and"
+                    },
+                    "96": {
+                      "text": "\u2022Wholesale customers include Machine-to-Machine and Mobile Virtual Network Operator customers that operate on our network but are managed by wholesale partners."
+                    }
+                  }
+                },
+                "97": {
+                  "title": "18",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "98": {
+              "title": "Index for Notes to the Condensed Consolidated Financial Statements",
+              "class": "predicted header",
+              "contents": {
+                "99": {
+                  "text": "Postpaid service revenues, including postpaid phone revenues and postpaid other revenues, were as follows: "
+                },
+                "100": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023"
+                    ],
+                    [
+                      "Postpaid service revenues",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid phone revenues",
+                      "$11,145",
+                      "$10,652"
+                    ],
+                    [
+                      "Postpaid other revenues",
+                      "1,486",
+                      "1,210"
+                    ],
+                    [
+                      "Total postpaid service revenues",
+                      "$12,631",
+                      "$11,862"
+                    ]
+                  ]
+                },
+                "101": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "Contract \nAssets",
+                      "Contract \nLiabilities"
+                    ],
+                    [
+                      "Balance as of December 31, 2023",
+                      "$607",
+                      "$812"
+                    ],
+                    [
+                      "Balance as of March 31, 2024",
+                      "548",
+                      "836"
+                    ],
+                    [
+                      "Change",
+                      "$(59)",
+                      "$24"
+                    ]
+                  ]
+                },
+                "102": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023"
+                    ],
+                    [
+                      "Amounts included in the beginning of year contract liability balance",
+                      "$698",
+                      "$667"
+                    ]
+                  ]
+                },
+                "103": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,"
+                    ],
+                    [
+                      "(in millions, except shares and per share amounts)",
+                      "2024",
+                      "2023"
+                    ],
+                    [
+                      "Net income",
+                      "$2,374",
+                      "$1,940"
+                    ],
+                    [
+                      "Weighted-average shares outstanding \u2013 basic",
+                      "1,185,298,497",
+                      "1,219,608,362"
+                    ],
+                    [
+                      "Effect of dilutive securities:",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Outstanding stock options, unvested stock awards",
+                      "3,793,522",
+                      "4,996,336"
+                    ],
+                    [
+                      "Weighted-average shares outstanding \u2013 diluted",
+                      "1,189,092,019",
+                      "1,224,604,698"
+                    ],
+                    [
+                      "Earnings per share \u2013 basic",
+                      "$2.00",
+                      "$1.59"
+                    ],
+                    [
+                      "Earnings per share \u2013 diluted",
+                      "$2.00",
+                      "$1.58"
+                    ],
+                    [
+                      "Potentially dilutive securities:",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Outstanding stock options and unvested stock awards",
+                      "6",
+                      "98,175"
+                    ],
+                    [
+                      "SoftBank contingent consideration (1)",
+                      "\u2014",
+                      "48,751,557"
+                    ]
+                  ]
+                },
+                "104": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31,\n2024",
+                      "December 31,\n2023"
+                    ],
+                    [
+                      "Accounts payable",
+                      "$3,345",
+                      "$5,573"
+                    ],
+                    [
+                      "Payroll and related benefits",
+                      "682",
+                      "1,142"
+                    ],
+                    [
+                      "Property and other taxes, including payroll",
+                      "1,694",
+                      "1,704"
+                    ],
+                    [
+                      "Accrued interest",
+                      "887",
+                      "818"
+                    ],
+                    [
+                      "Other accrued liabilities",
+                      "1,112",
+                      "1,136"
+                    ],
+                    [
+                      "Accounts payable and accrued liabilities",
+                      "$7,720",
+                      "$10,373"
+                    ]
+                  ]
+                },
+                "105": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023"
+                    ],
+                    [
+                      "Interest payments, net of amounts capitalized",
+                      "$896",
+                      "$840"
+                    ],
+                    [
+                      "Operating lease payments",
+                      "1,344",
+                      "1,314"
+                    ],
+                    [
+                      "Income tax payments",
+                      "7",
+                      "27"
+                    ],
+                    [
+                      "Non-cash investing and financing activities",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Non-cash beneficial interest obtained in exchange for securitized receivables",
+                      "$661",
+                      "$1,119"
+                    ],
+                    [
+                      "Change in accounts payable and accrued liabilities for purchases of property and equipment",
+                      "(894)",
+                      "(329)"
+                    ],
+                    [
+                      "Operating lease right-of-use assets obtained in exchange for lease obligations",
+                      "487",
+                      "439"
+                    ],
+                    [
+                      "Financing lease right-of-use assets obtained in exchange for lease obligations",
+                      "263",
+                      "239"
+                    ]
+                  ]
+                },
+                "106": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31,\n2024",
+                      "December 31,\n2023"
+                    ],
+                    [
+                      "Cash and cash equivalents",
+                      "$6,708",
+                      "$5,135"
+                    ],
+                    [
+                      "Restricted cash (included in Other current assets)",
+                      "154",
+                      "101"
+                    ],
+                    [
+                      "Restricted cash (included in Other assets)",
+                      "76",
+                      "71"
+                    ],
+                    [
+                      "Cash and cash equivalents, including restricted cash",
+                      "$6,938",
+                      "$5,307"
+                    ]
+                  ]
+                },
+                "107": {
+                  "title": "Note 14 \u2013 Subsequent Events",
+                  "class": "predicted header",
+                  "contents": {
+                    "108": {
+                      "text": "Subsequent to March\u00a031, 2024, from April 1, 2024, through April 19, 2024, we repurchased 5,427,946 shares of our common stock at an average price per share of $160.97 for a total purchase price of $874\u00a0million. See Note 10 - Stockholder Return Program for additional information regarding the 2023-2024 Stockholder Return Program."
+                    },
+                    "109": {
+                      "text": "Subsequent to March\u00a031, 2024, on April 24, 2024, we entered into a Merger Agreement with a fund operated by EQT Infrastructure VI fund (\u201cFund VI\u201d) for the joint acquisition by us and Fund VI of Lumos, a fiber-to-the-home platform (\u201cLumos\u201d), from EQT\u2019s predecessor fund EQT Infrastructure III. The Lumos acquisition is expected to close in late 2024 or early 2025, subject to customary closing conditions and regulatory approvals. At closing, we expect to invest approximately $950\u00a0million in the joint venture to acquire a 50% equity interest and all existing fiber customers. The funds invested by us will be used to fund future fiber builds. In addition, we are expected to contribute an additional commitment of approximately $500\u00a0million between 2027 and 2028."
+                    },
+                    "110": {
+                      "text": "Subsequent to March\u00a031, 2024, on April 25, 2024, we received all necessary regulatory approvals for the Ka\u2019ena Acquisition, which is expected to close on May 1, 2024. See Note 2 - Business Combination for more information."
+                    }
+                  }
+                },
+                "111": {
+                  "title": "24",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "112": {
+              "title": "Table of Contents",
+              "class": "predicted header"
+            }
+          }
+        },
+        "113": {
+          "title": "Item 2. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations",
+          "standardized_title": "item2",
+          "class": "item",
+          "contents": {
+            "114": {
+              "title": "Cautionary Statement Regarding Forward-Looking Statements",
+              "class": "predicted header",
+              "contents": {
+                "115": {
+                  "text": "This Quarterly Report on Form 10-Q (\u201cForm 10-Q\u201d) of T-Mobile US, Inc. (\u201cT-Mobile,\u201d \u201cwe,\u201d \u201cour,\u201d \u201cus\u201d or the \u201cCompany\u201d) includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, including information concerning our future results of operations, are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to differ materially from the forward-looking statements. The following important factors, along with the Risk Factors included in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023, and Part II, Item 1A of this Form 10-Q, could affect future results and cause those results to differ materially from those expressed in the forward-looking statements:"
+                },
+                "116": {
+                  "text": "\u2022competition, industry consolidation and changes in the market for wireless communications services and other forms of connectivity;"
+                },
+                "117": {
+                  "text": "\u2022criminal cyberattacks, disruption, data loss or other security breaches;"
+                },
+                "118": {
+                  "text": "\u2022our inability to take advantage of technological developments on a timely basis;"
+                },
+                "119": {
+                  "text": "\u2022our inability to retain or motivate key personnel, hire qualified personnel or maintain our corporate culture;"
+                },
+                "120": {
+                  "text": "\u2022system failures and business disruptions, allowing for unauthorized use of or interference with our network and other systems;"
+                },
+                "121": {
+                  "text": "\u2022the scarcity and cost of additional wireless spectrum, and regulations relating to spectrum use;"
+                },
+                "122": {
+                  "text": "\u2022challenges in modernizing our existing applications and systems;"
+                },
+                "123": {
+                  "text": "\u2022the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory proceedings and approvals of our merger (the \u201cMerger\u201d) with Sprint Corporation (\u201cSprint\u201d) pursuant to a Business Combination Agreement with Sprint and the other parties named therein (as amended, the \u201cBusiness Combination Agreement\u201d) and the other transactions contemplated by the Business Combination Agreement (collectively, the \u201cTransactions\u201d), including the acquisition by DISH Network Corporation (\u201cDISH\u201d) of the prepaid wireless business operated under the Boost Mobile and Sprint prepaid brands (excluding the Assurance brand Lifeline customers and the prepaid wireless customers of Shenandoah Personal Communications Company LLC (\u201cShentel\u201d) and Swiftel Communications, Inc.), including customer accounts, inventory, contracts, intellectual property and certain other specified assets, and the assumption of certain related liabilities (collectively, the \u201cPrepaid Transaction\u201d), the complaint and proposed final judgment (the \u201cFinal Judgment\u201d) agreed to by us, Deutsche Telekom AG (\u201cDT\u201d), Sprint, SoftBank Group Corp. (\u201cSoftBank\u201d) and DISH with the U.S. District Court for the District of Columbia, which was approved by the Court on April 1, 2020, as amended on October 23, 2023, the proposed commitments filed with the Secretary of the Federal Communications Commission (\u201cFCC\u201d), which we announced on May 20, 2019, certain national security commitments and undertakings, and any other commitments or undertakings entered into, including, but not limited to, those we have made to certain states and nongovernmental organizations (collectively, the \u201cGovernment Commitments\u201d), and the challenges in satisfying the Government Commitments in the required time frames and the significant cumulative costs incurred in tracking and monitoring compliance over multiple years;"
+                },
+                "124": {
+                  "text": "\u2022adverse economic, political or market conditions in the U.S. and international markets, including changes resulting from increases in inflation or interest rates, supply chain disruptions and impacts of geopolitical instability, such as the Ukraine-Russia and Israel-Hamas wars and further escalations thereof;"
+                },
+                "125": {
+                  "text": "\u2022sociopolitical volatility and polarization;"
+                },
+                "126": {
+                  "text": "\u2022our inability to manage the ongoing arrangements entered into in connection with the Prepaid Transaction, and known or unknown liabilities arising in connection therewith;"
+                },
+                "127": {
+                  "text": "\u2022the timing and effects of any future acquisition, divestiture, investment, or merger involving us;"
+                },
+                "128": {
+                  "text": "\u2022any disruption or failure of our third parties (including key suppliers) to provide products or services for the operation of our business;"
+                },
+                "129": {
+                  "text": "\u2022our substantial level of indebtedness and our inability to service our debt obligations in accordance with their terms;"
+                },
+                "130": {
+                  "text": "\u2022changes in the credit market conditions, credit rating downgrades or an inability to access debt markets;"
+                },
+                "131": {
+                  "text": "\u2022the risk of future material weaknesses we may identify or any other failure by us to maintain effective internal controls, and the resulting significant costs and reputational damage;"
+                },
+                "132": {
+                  "text": "\u2022any changes in regulations or in the regulatory framework under which we operate;"
+                },
+                "133": {
+                  "title": "25",
+                  "class": "predicted header",
+                  "contents": {
+                    "134": {
+                      "title": "Table of Contents",
+                      "class": "predicted header",
+                      "contents": {
+                        "135": {
+                          "text": "\u2022laws and regulations relating to the handling of privacy and data protection;"
+                        },
+                        "136": {
+                          "text": "\u2022unfavorable outcomes of and increased costs from existing or future regulatory or legal proceedings;"
+                        },
+                        "137": {
+                          "text": "\u2022difficulties in protecting our intellectual property rights or if we infringe on the intellectual property rights of others;"
+                        },
+                        "138": {
+                          "text": "\u2022our offering of regulated financial services products and exposure to a wide variety of state and federal regulations;"
+                        },
+                        "139": {
+                          "text": "\u2022new or amended tax laws or regulations or administrative interpretations and judicial decisions affecting the scope or application of tax laws or regulations;"
+                        },
+                        "140": {
+                          "text": "\u2022our wireless licenses, including those controlled through leasing agreements, are subject to renewal and may be revoked;"
+                        },
+                        "141": {
+                          "text": "\u2022our exclusive forum provision as provided in our Fifth Amended and Restated Certificate of Incorporation (the \u201cCertificate of Incorporation\u201d);"
+                        },
+                        "142": {
+                          "text": "\u2022interests of DT, our controlling stockholder, which may differ from the interests of other stockholders;"
+                        },
+                        "143": {
+                          "text": "\u2022the dollar amount authorized for our 2023-2024 Stockholder Return Program (as defined in Note 10 - Stockholder Return Program of the Notes to the Condensed Consolidated Financial Statements) may not be fully utilized, and our share repurchases and dividend payments pursuant thereto may fail to have the desired impact on stockholder value; and"
+                        },
+                        "144": {
+                          "text": "\u2022future sales of our common stock by DT and SoftBank and our inability to attract additional equity financing outside the United States due to foreign ownership limitations by the FCC."
+                        },
+                        "145": {
+                          "text": "Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law."
+                        },
+                        "146": {
+                          "text": "Investors and others should note that we announce material information to our investors using our investor relations website (https://investor.t-mobile.com), newsroom website (https://t-mobile.com/news), press releases, SEC filings and public conference calls and webcasts. We intend to also use certain social media accounts as means of disclosing information about us and our services and for complying with our disclosure obligations under Regulation FD (the @TMobileIR X account (https://twitter.com/TMobileIR), the @MikeSievert X account (https://twitter.com/MikeSievert), which Mr. Sievert also uses as a means for personal communications and observations, and the @TMobileCFO X account (https://twitter.com/tmobilecfo) and our Chief Financial Officer\u2019s LinkedIn account (https://www.linkedin.com/in/peter-osvaldik-3887394), both of which Mr. Osvaldik also uses as a means for personal communication and observations). The information we post through these social media channels may be deemed material. Accordingly, investors should monitor these social media channels in addition to following our press releases, SEC filings and public conference calls and webcasts. The social media channels that we intend to use as a means of disclosing the information described above may be updated from time to time as listed on our investor relations website."
+                        },
+                        "147": {
+                          "title": "Overview",
+                          "class": "predicted header",
+                          "contents": {
+                            "148": {
+                              "text": "The objectives of our Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations (\u201cMD&A\u201d) are to provide users of our condensed consolidated financial statements with the following:"
+                            },
+                            "149": {
+                              "text": "\u2022A narrative explanation from the perspective of management of our financial condition, results of operations, cash flows, liquidity and certain other factors that may affect future results;"
+                            },
+                            "150": {
+                              "text": "\u2022Context to the condensed consolidated financial statements; and"
+                            },
+                            "151": {
+                              "text": "\u2022Information that allows assessment of the likelihood that past performance is indicative of future performance."
+                            },
+                            "152": {
+                              "text": "Our MD&A is provided as a supplement to, and should be read together with, our unaudited condensed consolidated financial statements as of and for the three months ended March\u00a031, 2024, included in Part I, Item 1 of this Form 10-Q, and audited consolidated financial statements, included in Part II, Item 8 of our Annual Report on Form 10-K for the year ended December 31, 2023. Except as expressly stated, the financial condition and results of operations discussed throughout our MD&A are those of T-Mobile US, Inc. and its consolidated subsidiaries."
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "153": {
+                  "title": "26",
+                  "class": "predicted header",
+                  "contents": {
+                    "154": {
+                      "title": "Table of Contents",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "155": {
+              "title": "Merger-Related Costs",
+              "class": "predicted header",
+              "contents": {
+                "156": {
+                  "text": "Merger-related costs associated with the Merger and acquisitions of affiliates generally include:"
+                },
+                "157": {
+                  "text": "\u2022Integration costs to achieve efficiencies in network, retail, information technology and back office operations, migrate customers to the T-Mobile network and billing systems and the impact of legal matters assumed as part of the Merger;"
+                },
+                "158": {
+                  "text": "\u2022Restructuring costs, including severance, store rationalization and network decommissioning; and"
+                },
+                "159": {
+                  "text": "\u2022Transaction costs, including legal and professional services related to the completion of the transactions."
+                },
+                "160": {
+                  "text": "Merger-related costs have been excluded from our calculations of Adjusted EBITDA and Core Adjusted EBITDA, which are non-GAAP financial measures, as we do not consider these costs to be reflective of our ongoing operating performance. See \u201cAdjusted EBITDA and Core Adjusted EBITDA\u201d in the \u201cPerformance Measures\u201d section of this MD&A. Net cash payments for Merger-related costs, including payments related to our restructuring plan, are included in Net cash provided by operating activities on our Condensed Consolidated Statements of Cash Flows."
+                },
+                "161": {
+                  "text": "Merger-related costs are presented below:"
+                },
+                "162": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Merger-related costs",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Cost of services, exclusive of depreciation and amortization",
+                      "$107",
+                      "$208",
+                      "",
+                      "$(101)",
+                      "(49)",
+                      "(49)%"
+                    ],
+                    [
+                      "Cost of equipment sales, exclusive of depreciation and amortization",
+                      "\u2014",
+                      "(9)",
+                      "",
+                      "9",
+                      "(100)",
+                      "(100)%"
+                    ],
+                    [
+                      "Selling, general and administrative",
+                      "23",
+                      "159",
+                      "",
+                      "(136)",
+                      "(86)",
+                      "(86)%"
+                    ],
+                    [
+                      "Total Merger-related costs",
+                      "$130",
+                      "$358",
+                      "",
+                      "$(228)",
+                      "(64)",
+                      "(64)%"
+                    ],
+                    [
+                      "Net cash payments for Merger-related costs",
+                      "$293",
+                      "$484",
+                      "",
+                      "$(191)",
+                      "(39)",
+                      "(39)%"
+                    ]
+                  ]
+                },
+                "163": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Revenues",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid revenues",
+                      "$12,631",
+                      "$11,862",
+                      "",
+                      "$769",
+                      "6",
+                      "6%"
+                    ],
+                    [
+                      "Prepaid revenues",
+                      "2,403",
+                      "2,417",
+                      "",
+                      "(14)",
+                      "(1)",
+                      "(1)%"
+                    ],
+                    [
+                      "Wholesale and other service revenues",
+                      "1,062",
+                      "1,267",
+                      "",
+                      "(205)",
+                      "(16)",
+                      "(16)%"
+                    ],
+                    [
+                      "Total service revenues",
+                      "16,096",
+                      "15,546",
+                      "",
+                      "550",
+                      "4",
+                      "4%"
+                    ],
+                    [
+                      "Equipment revenues",
+                      "3,251",
+                      "3,719",
+                      "",
+                      "(468)",
+                      "(13)",
+                      "(13)%"
+                    ],
+                    [
+                      "Other revenues",
+                      "247",
+                      "367",
+                      "",
+                      "(120)",
+                      "(33)",
+                      "(33)%"
+                    ],
+                    [
+                      "Total revenues",
+                      "19,594",
+                      "19,632",
+                      "",
+                      "(38)",
+                      "\u2014",
+                      "\u2014%"
+                    ],
+                    [
+                      "Operating expenses",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Cost of services, exclusive of depreciation and amortization shown separately below",
+                      "2,688",
+                      "3,061",
+                      "",
+                      "(373)",
+                      "(12)",
+                      "(12)%"
+                    ],
+                    [
+                      "Cost of equipment sales, exclusive of depreciation and amortization shown separately below",
+                      "4,399",
+                      "4,588",
+                      "",
+                      "(189)",
+                      "(4)",
+                      "(4)%"
+                    ],
+                    [
+                      "Selling, general and administrative",
+                      "5,138",
+                      "5,425",
+                      "",
+                      "(287)",
+                      "(5)",
+                      "(5)%"
+                    ],
+                    [
+                      "Gain on disposal group held for sale",
+                      "\u2014",
+                      "(42)",
+                      "",
+                      "42",
+                      "(100)",
+                      "(100)%"
+                    ],
+                    [
+                      "Depreciation and amortization",
+                      "3,371",
+                      "3,203",
+                      "",
+                      "168",
+                      "5",
+                      "5%"
+                    ],
+                    [
+                      "Total operating expenses",
+                      "15,596",
+                      "16,235",
+                      "",
+                      "(639)",
+                      "(4)",
+                      "(4)%"
+                    ],
+                    [
+                      "Operating income",
+                      "3,998",
+                      "3,397",
+                      "",
+                      "601",
+                      "18",
+                      "18%"
+                    ],
+                    [
+                      "Other expense, net",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Interest expense, net",
+                      "(880)",
+                      "(835)",
+                      "",
+                      "(45)",
+                      "5",
+                      "5%"
+                    ],
+                    [
+                      "Other income, net",
+                      "20",
+                      "9",
+                      "",
+                      "11",
+                      "122",
+                      "122%"
+                    ],
+                    [
+                      "Total other expense, net",
+                      "(860)",
+                      "(826)",
+                      "",
+                      "(34)",
+                      "4",
+                      "4%"
+                    ],
+                    [
+                      "Income before income taxes",
+                      "3,138",
+                      "2,571",
+                      "",
+                      "567",
+                      "22",
+                      "22%"
+                    ],
+                    [
+                      "Income tax expense",
+                      "(764)",
+                      "(631)",
+                      "",
+                      "(133)",
+                      "21",
+                      "21%"
+                    ],
+                    [
+                      "Net income",
+                      "$2,374",
+                      "$1,940",
+                      "",
+                      "$434",
+                      "22",
+                      "22%"
+                    ],
+                    [
+                      "Statement of Cash Flows Data",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Net cash provided by operating activities",
+                      "$5,084",
+                      "$4,051",
+                      "",
+                      "$1,033",
+                      "25",
+                      "25%"
+                    ],
+                    [
+                      "Net cash used in investing activities",
+                      "(1,787)",
+                      "(1,728)",
+                      "",
+                      "(59)",
+                      "3",
+                      "3%"
+                    ],
+                    [
+                      "Net cash used in financing activities",
+                      "(1,666)",
+                      "(2,273)",
+                      "",
+                      "607",
+                      "(27)",
+                      "(27)%"
+                    ],
+                    [
+                      "Non-GAAP Financial Measures",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Adjusted EBITDA",
+                      "$7,652",
+                      "$7,199",
+                      "",
+                      "$453",
+                      "6",
+                      "6%"
+                    ],
+                    [
+                      "Core Adjusted EBITDA",
+                      "7,617",
+                      "7,052",
+                      "",
+                      "565",
+                      "8",
+                      "8%"
+                    ],
+                    [
+                      "Adjusted Free Cash Flow",
+                      "3,347",
+                      "2,401",
+                      "2,401",
+                      "946",
+                      "39",
+                      "39%"
+                    ]
+                  ]
+                },
+                "164": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31, 2024",
+                      "December 31, 2023"
+                    ],
+                    [
+                      "Current assets",
+                      "$17,865",
+                      "$17,601"
+                    ],
+                    [
+                      "Noncurrent assets",
+                      "176,591",
+                      "178,252"
+                    ],
+                    [
+                      "Current liabilities",
+                      "18,414",
+                      "19,040"
+                    ],
+                    [
+                      "Noncurrent liabilities",
+                      "130,471",
+                      "128,197"
+                    ],
+                    [
+                      "Due to non-guarantors",
+                      "11,647",
+                      "10,916"
+                    ],
+                    [
+                      "Due to related parties",
+                      "1,563",
+                      "1,576"
+                    ]
+                  ]
+                },
+                "165": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "Three Months Ended\nMarch 31, 2024",
+                      "Year Ended\nDecember 31, 2023"
+                    ],
+                    [
+                      "Total revenues",
+                      "$18,988",
+                      "$75,934"
+                    ],
+                    [
+                      "Operating income",
+                      "3,107",
+                      "10,707"
+                    ],
+                    [
+                      "Net income",
+                      "1,531",
+                      "4,766"
+                    ],
+                    [
+                      "Revenue from non-guarantors",
+                      "645",
+                      "2,393"
+                    ],
+                    [
+                      "Operating expenses to non-guarantors",
+                      "615",
+                      "2,569"
+                    ],
+                    [
+                      "Other expense to non-guarantors",
+                      "(122)",
+                      "(699)"
+                    ]
+                  ]
+                },
+                "166": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31, 2024",
+                      "December 31, 2023"
+                    ],
+                    [
+                      "Current assets",
+                      "$12,020",
+                      "$11,193"
+                    ],
+                    [
+                      "Noncurrent assets",
+                      "11,183",
+                      "11,324"
+                    ],
+                    [
+                      "Current liabilities",
+                      "12,391",
+                      "12,751"
+                    ],
+                    [
+                      "Noncurrent liabilities",
+                      "117,826",
+                      "110,688"
+                    ],
+                    [
+                      "Due to non-guarantors",
+                      "46,885",
+                      "41,805"
+                    ],
+                    [
+                      "Due to related parties",
+                      "1,563",
+                      "1,576"
+                    ]
+                  ]
+                },
+                "167": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "Three Months Ended\nMarch 31, 2024",
+                      "Year Ended\nDecember 31, 2023"
+                    ],
+                    [
+                      "Total revenues",
+                      "$4",
+                      "$19"
+                    ],
+                    [
+                      "Operating loss",
+                      "(980)",
+                      "(3,197)"
+                    ],
+                    [
+                      "Net loss",
+                      "(2,259)",
+                      "(7,629)"
+                    ],
+                    [
+                      "Other expense, net, to non-guarantors",
+                      "(353)",
+                      "(2,005)"
+                    ]
+                  ]
+                },
+                "168": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "March 31, 2024",
+                      "December 31, 2023"
+                    ],
+                    [
+                      "Current assets",
+                      "$12,021",
+                      "$11,193"
+                    ],
+                    [
+                      "Noncurrent assets",
+                      "11,182",
+                      "11,324"
+                    ],
+                    [
+                      "Current liabilities",
+                      "12,462",
+                      "12,823"
+                    ],
+                    [
+                      "Noncurrent liabilities",
+                      "113,984",
+                      "106,881"
+                    ],
+                    [
+                      "Due to non-guarantors",
+                      "37,775",
+                      "32,706"
+                    ],
+                    [
+                      "Due to related parties",
+                      "1,563",
+                      "1,576"
+                    ]
+                  ]
+                },
+                "169": {
+                  "table": [
+                    [
+                      "(in millions)",
+                      "Three Months Ended\nMarch 31, 2024",
+                      "Year Ended\nDecember 31, 2023"
+                    ],
+                    [
+                      "Total revenues",
+                      "$4",
+                      "$19"
+                    ],
+                    [
+                      "Operating loss",
+                      "(980)",
+                      "(3,197)"
+                    ],
+                    [
+                      "Net loss",
+                      "(2,221)",
+                      "(7,491)"
+                    ],
+                    [
+                      "Other expense, net, to non-guarantors",
+                      "(242)",
+                      "(1,489)"
+                    ]
+                  ]
+                },
+                "170": {
+                  "table": [
+                    [
+                      "",
+                      "As of March 31,",
+                      "As of March 31,",
+                      "Change",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in thousands)",
+                      "2024",
+                      "2023",
+                      "#",
+                      "#%%%",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid accounts",
+                      "30,015",
+                      "28,813",
+                      "1,202",
+                      "",
+                      "4",
+                      "4%"
+                    ]
+                  ]
+                },
+                "171": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in thousands)",
+                      "2024",
+                      "2023",
+                      "#",
+                      "#%%%",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid net account additions",
+                      "218",
+                      "287",
+                      "(69)",
+                      "",
+                      "(24)",
+                      "(24)%"
+                    ]
+                  ]
+                },
+                "172": {
+                  "table": [
+                    [
+                      "",
+                      "As of March 31,",
+                      "As of March 31,",
+                      "Change",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in thousands)",
+                      "2024",
+                      "2023",
+                      "#",
+                      "#%%%",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Customers, end of period",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid phone customers",
+                      "76,468",
+                      "73,372",
+                      "3,096",
+                      "",
+                      "4",
+                      "4%"
+                    ],
+                    [
+                      "Postpaid other customers",
+                      "22,804",
+                      "20,153",
+                      "2,651",
+                      "",
+                      "13",
+                      "13%"
+                    ],
+                    [
+                      "Total postpaid customers",
+                      "99,272",
+                      "93,525",
+                      "5,747",
+                      "",
+                      "6",
+                      "6%"
+                    ],
+                    [
+                      "Prepaid customers",
+                      "21,600",
+                      "21,392",
+                      "208",
+                      "",
+                      "1",
+                      "1%"
+                    ],
+                    [
+                      "Total customers",
+                      "120,872",
+                      "114,917",
+                      "5,955",
+                      "",
+                      "5",
+                      "5%"
+                    ]
+                  ]
+                },
+                "173": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in thousands)",
+                      "2024",
+                      "2023",
+                      "#",
+                      "#%%%",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Net customer additions (losses)",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid phone customers",
+                      "532",
+                      "538",
+                      "(6)",
+                      "",
+                      "(1)",
+                      "(1)%"
+                    ],
+                    [
+                      "Postpaid other customers",
+                      "688",
+                      "755",
+                      "(67)",
+                      "",
+                      "(9)",
+                      "(9)%"
+                    ],
+                    [
+                      "Total postpaid customers",
+                      "1,220",
+                      "1,293",
+                      "(73)",
+                      "",
+                      "(6)",
+                      "(6)%"
+                    ],
+                    [
+                      "Prepaid customers",
+                      "(48)",
+                      "26",
+                      "(74)",
+                      "",
+                      "(285)",
+                      "(285)%"
+                    ],
+                    [
+                      "Total net customer additions",
+                      "1,172",
+                      "1,319",
+                      "(147)",
+                      "",
+                      "(11)",
+                      "(11)%"
+                    ]
+                  ]
+                },
+                "174": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change"
+                    ],
+                    [
+                      "",
+                      "2024",
+                      "2024",
+                      "2023",
+                      "2023",
+                      "Change"
+                    ],
+                    [
+                      "Postpaid phone churn",
+                      "0.86",
+                      "0.86%",
+                      "0.89",
+                      "0.89%",
+                      "-3 bps"
+                    ],
+                    [
+                      "Prepaid churn",
+                      "2.75",
+                      "2.75%",
+                      "2.76",
+                      "2.76%",
+                      "-1 bps"
+                    ]
+                  ]
+                },
+                "175": {
+                  "table": [
+                    [
+                      "(in dollars)",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in dollars)",
+                      "2024",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid ARPA",
+                      "$140.88",
+                      "$138.04",
+                      "",
+                      "$2.84",
+                      "2",
+                      "2%"
+                    ]
+                  ]
+                },
+                "176": {
+                  "table": [
+                    [
+                      "(in dollars)",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in dollars)",
+                      "2024",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Postpaid phone ARPU",
+                      "$48.79",
+                      "$48.63",
+                      "",
+                      "$0.16",
+                      "\u2014",
+                      "\u2014%"
+                    ],
+                    [
+                      "Prepaid ARPU",
+                      "37.18",
+                      "37.98",
+                      "",
+                      "(0.80)",
+                      "(2)",
+                      "(2)%"
+                    ]
+                  ]
+                },
+                "177": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in millions, except percentages)",
+                      "2024",
+                      "2024",
+                      "2023",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Net income",
+                      "",
+                      "$2,374",
+                      "",
+                      "$1,940",
+                      "",
+                      "$434",
+                      "22",
+                      "22%"
+                    ],
+                    [
+                      "Adjustments:",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Interest expense, net",
+                      "880",
+                      "880",
+                      "835",
+                      "835",
+                      "",
+                      "45",
+                      "5",
+                      "5%"
+                    ],
+                    [
+                      "Other income, net",
+                      "(20)",
+                      "(20)",
+                      "(9)",
+                      "(9)",
+                      "",
+                      "(11)",
+                      "122",
+                      "122%"
+                    ],
+                    [
+                      "Income tax expense",
+                      "764",
+                      "764",
+                      "631",
+                      "631",
+                      "",
+                      "133",
+                      "21",
+                      "21%"
+                    ],
+                    [
+                      "Operating income",
+                      "3,998",
+                      "3,998",
+                      "3,397",
+                      "3,397",
+                      "",
+                      "601",
+                      "18",
+                      "18%"
+                    ],
+                    [
+                      "Depreciation and amortization",
+                      "3,371",
+                      "3,371",
+                      "3,203",
+                      "3,203",
+                      "",
+                      "168",
+                      "5",
+                      "5%"
+                    ],
+                    [
+                      "Stock-based compensation (1)",
+                      "140",
+                      "140",
+                      "173",
+                      "173",
+                      "",
+                      "(33)",
+                      "(19)",
+                      "(19)%"
+                    ],
+                    [
+                      "Merger-related costs",
+                      "130",
+                      "130",
+                      "358",
+                      "358",
+                      "",
+                      "(228)",
+                      "(64)",
+                      "(64)%"
+                    ],
+                    [
+                      "Legal-related recoveries, net (2)",
+                      "\u2014",
+                      "\u2014",
+                      "(43)",
+                      "(43)",
+                      "",
+                      "43",
+                      "(100)",
+                      "(100)%"
+                    ],
+                    [
+                      "Gain on disposal group held for sale",
+                      "\u2014",
+                      "\u2014",
+                      "(42)",
+                      "(42)",
+                      "",
+                      "42",
+                      "(100)",
+                      "(100)%"
+                    ],
+                    [
+                      "Other, net (3)",
+                      "13",
+                      "13",
+                      "153",
+                      "153",
+                      "",
+                      "(140)",
+                      "(92)",
+                      "(92)%"
+                    ],
+                    [
+                      "Adjusted EBITDA",
+                      "7,652",
+                      "7,652",
+                      "7,199",
+                      "7,199",
+                      "",
+                      "453",
+                      "6",
+                      "6%"
+                    ],
+                    [
+                      "Lease revenues",
+                      "(35)",
+                      "(35)",
+                      "(147)",
+                      "(147)",
+                      "",
+                      "112",
+                      "(76)",
+                      "(76)%"
+                    ],
+                    [
+                      "Core Adjusted EBITDA",
+                      "",
+                      "$7,617",
+                      "",
+                      "$7,052",
+                      "",
+                      "$565",
+                      "8",
+                      "8%"
+                    ],
+                    [
+                      "Net income margin (Net income divided by Service revenues)",
+                      "15",
+                      "15%",
+                      "12",
+                      "12%",
+                      "",
+                      "",
+                      "300 bps",
+                      "300 bps"
+                    ],
+                    [
+                      "Adjusted EBITDA margin (Adjusted EBITDA divided by Service revenues)",
+                      "48",
+                      "48%",
+                      "46",
+                      "46%",
+                      "",
+                      "",
+                      "200 bps",
+                      "200 bps"
+                    ],
+                    [
+                      "Core Adjusted EBITDA margin (Core Adjusted EBITDA divided by Service revenues)",
+                      "47",
+                      "47%",
+                      "45",
+                      "45%",
+                      "",
+                      "",
+                      "200 bps",
+                      "200 bps"
+                    ]
+                  ]
+                },
+                "178": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in millions)",
+                      "2024",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Net cash provided by operating activities",
+                      "$5,084",
+                      "$4,051",
+                      "",
+                      "$1,033",
+                      "25",
+                      "25%"
+                    ],
+                    [
+                      "Net cash used in investing activities",
+                      "(1,787)",
+                      "(1,728)",
+                      "",
+                      "(59)",
+                      "3",
+                      "3%"
+                    ],
+                    [
+                      "Net cash used in financing activities",
+                      "(1,666)",
+                      "(2,273)",
+                      "",
+                      "607",
+                      "(27)",
+                      "(27)%"
+                    ]
+                  ]
+                },
+                "179": {
+                  "table": [
+                    [
+                      "",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Three Months Ended March 31,",
+                      "Change",
+                      "Change",
+                      "Change"
+                    ],
+                    [
+                      "(in millions, except percentages)",
+                      "2024",
+                      "2024",
+                      "2023",
+                      "2023",
+                      "2023%%%",
+                      "$",
+                      "",
+                      ""
+                    ],
+                    [
+                      "Net cash provided by operating activities",
+                      "",
+                      "$5,084",
+                      "",
+                      "$4,051",
+                      "",
+                      "$1,033",
+                      "25",
+                      "25%"
+                    ],
+                    [
+                      "Cash purchases of property and equipment, including capitalized interest",
+                      "(2,627)",
+                      "(2,627)",
+                      "(3,001)",
+                      "(3,001)",
+                      "",
+                      "374",
+                      "(12)",
+                      "(12)%"
+                    ],
+                    [
+                      "Proceeds from sales of tower sites",
+                      "\u2014",
+                      "\u2014",
+                      "6",
+                      "6",
+                      "",
+                      "(6)",
+                      "(100)",
+                      "(100)%"
+                    ],
+                    [
+                      "Proceeds related to beneficial interests in securitization transactions",
+                      "890",
+                      "890",
+                      "1,345",
+                      "1,345",
+                      "",
+                      "(455)",
+                      "(34)",
+                      "(34)%"
+                    ],
+                    [
+                      "Adjusted Free Cash Flow",
+                      "",
+                      "$3,347",
+                      "",
+                      "$2,401",
+                      "",
+                      "$946",
+                      "39",
+                      "39%"
+                    ],
+                    [
+                      "Net cash provided by operating activities margin (Net cash provided by operating activities divided by Service revenues)",
+                      "32",
+                      "32%",
+                      "26",
+                      "26%",
+                      "",
+                      "",
+                      "600 bps",
+                      "600 bps"
+                    ],
+                    [
+                      "Adjusted Free Cash Flow margin (Adjusted Free Cash Flow divided by Service revenues)",
+                      "21",
+                      "21%",
+                      "15",
+                      "15%",
+                      "",
+                      "",
+                      "600 bps",
+                      "600 bps"
+                    ]
+                  ]
+                },
+                "180": {
+                  "table": [
+                    [
+                      "(in millions, except share and per share amounts)",
+                      "Total Number of Shares Purchased",
+                      "Average Price Paid per Share",
+                      "Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs",
+                      "Approximate Dollar Value of Shares that may yet be Purchased Under the Plans or Programs (1)"
+                    ],
+                    [
+                      "January 1, 2024 - January 31, 2024",
+                      "9,024,140",
+                      "$162.98",
+                      "9,024,140",
+                      "$14,541"
+                    ],
+                    [
+                      "February 1, 2024 - February 29, 2024",
+                      "6,306,134",
+                      "162.13",
+                      "6,306,134",
+                      "13,518"
+                    ],
+                    [
+                      "March 1, 2024 - March 31, 2024",
+                      "6,603,516",
+                      "162.82",
+                      "6,603,516",
+                      "11,675"
+                    ],
+                    [
+                      "Total",
+                      "21,933,790",
+                      "",
+                      "21,933,790",
+                      ""
+                    ]
+                  ]
+                },
+                "181": {
+                  "table": [
+                    [
+                      "",
+                      "",
+                      "Incorporated by Reference",
+                      "Incorporated by Reference",
+                      "Incorporated by Reference",
+                      ""
+                    ],
+                    [
+                      "Exhibit No.",
+                      "Exhibit Description",
+                      "Form",
+                      "Date of First Filing",
+                      "Exhibit Number",
+                      "Filed Herein"
+                    ],
+                    [
+                      "4.1",
+                      "Twelfth Supplemental Indenture, dated as of January 12, 2024, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 4.850% Senior Note due 2029.",
+                      "8-K",
+                      "1/12/2024",
+                      "4.2",
+                      ""
+                    ],
+                    [
+                      "4.2",
+                      "Thirteenth Supplemental Indenture, dated as of January 12, 2024, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 5.150% Senior Note due 2034.",
+                      "8-K",
+                      "1/12/2024",
+                      "4.3",
+                      ""
+                    ],
+                    [
+                      "4.3",
+                      "Fourteenth Supplemental Indenture, dated as of January 12, 2024, by and among T-Mobile USA, Inc., the Guarantors (as defined therein) and Deutsche Bank Trust Company Americas, as trustee, including the Form of 5.500% Senior Note due 2055.",
+                      "8-K",
+                      "1/12/2024",
+                      "4.4",
+                      ""
+                    ],
+                    [
+                      "22.1",
+                      "Subsidiary Guarantors and Issuers of Guaranteed Securities.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "31.1",
+                      "Certifications of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "31.2",
+                      "Certifications of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "32.1**",
+                      "Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "32.2**",
+                      "Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "101.INS",
+                      "XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    [
+                      "101.SCH",
+                      "XBRL Taxonomy Extension Schema Document.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "101.CAL",
+                      "XBRL Taxonomy Extension Calculation Linkbase Document.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "101.DEF",
+                      "XBRL Taxonomy Extension Definition Linkbase Document.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "101.LAB",
+                      "XBRL Taxonomy Extension Label Linkbase Document.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "101.PRE",
+                      "XBRL Taxonomy Extension Presentation Linkbase.",
+                      "",
+                      "",
+                      "",
+                      "X"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (the cover page XBRL tags)",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                "182": {
+                  "title": "** Furnished herein.",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "183": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "184": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "185": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "April 26, 2024",
+              "/s/ Peter Osvaldik"
+            ],
+            [
+              "",
+              "Peter Osvaldik"
+            ],
+            [
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ],
+            [
+              "",
+              "(Principal Financial Officer and Authorized Signatory)"
+            ]
+          ]
+        },
+        "186": {
+          "title": "46",
+          "class": "predicted header"
+        }
+      }
+    }
+  }
+}

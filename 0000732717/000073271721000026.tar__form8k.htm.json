@@ -1,0 +1,624 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header",
+          "contents": {
+            "2": {
+              "title": "Washington, D.C. 20549",
+              "class": "predicted header"
+            }
+          }
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "title": "Current Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "5": {
+              "title": "Date of Report (Date of Earliest Event Reported): April 30, 2021",
+              "class": "predicted header"
+            }
+          }
+        },
+        "6": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "(Exact Name of Registrant as Specified in Its Charter)",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "title": "001-08610",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "9": {
+              "title": "(Commission File Number)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction of Incorporation)",
+                      "(I.R.S. Employer Identification No.)"
+                    ]
+                  ]
+                },
+                "11": {
+                  "title": "208 S. Akard St.",
+                  "class": "predicted header",
+                  "contents": {
+                    "12": {
+                      "title": "Dallas, Texas 75202",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "13": {
+              "title": "(Address of principal executive offices, including zip code)",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "(210) 821-4105",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "15": {
+              "title": "(Registrant\u2019s telephone number, including area code)",
+              "class": "predicted header"
+            }
+          }
+        },
+        "16": {
+          "title": "NOT APPLICABLE",
+          "class": "predicted header",
+          "contents": {
+            "17": {
+              "title": "(Former name or former address, if changed since last report)",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following\n          provisions:"
+                },
+                "19": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "20": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "21": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "22": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "23": {
+                  "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "24": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n\n              Symbol(s)",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Common Shares (Par Value $1.00 Per Share)",
+                          "T",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                          "T PRA",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                          "T PRC",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                          "T 21B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                          "T 22B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                          "T 23",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                          "T 23C",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                          "T 23D",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                          "T 23E",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                          "T 23A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                          "T 23F",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                          "T 24A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                          "T 25",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                          "T 26E",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                          "T 26D",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                          "T 26A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                          "T 28C",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                          "T 29D",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                          "T 29B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                          "T 29A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                          "T 30B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                          "T 32A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                          "T 32",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                          "T 33",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                          "T 34",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                          "T 35",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                          "T 36A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                          "T 38C",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                          "T 39B",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                          "T 40",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                          "T 43",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                          "T 44",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                          "T 49A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                          "T 50",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                          "T 50A",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                          "TBB",
+                          "New York Stock Exchange"
+                        ],
+                        [
+                          "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                          "TBC",
+                          "New York Stock Exchange"
+                        ]
+                      ]
+                    },
+                    "25": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act\n        of 1934 (\u00a7240.12b-2 of this chapter):"
+                    },
+                    "26": {
+                      "text": "Emerging growth company \u2610"
+                    },
+                    "27": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards\n        provided pursuant to Section 13(a) of the Exchange Act. \u2610"
+                    }
+                  }
+                }
+              }
+            },
+            "28": {
+              "title": "1",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "ITEM 5.07\u00a0Submission of Matters to a Vote of Security Holders",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "30": {
+          "text": "Annual Meeting of Stockholders \n        The 2021 Annual Meeting of the stockholders of the Company was held on April 30, 2021, in Dallas Texas. Stockholders representing\n          5,428,863,056 shares, or 76.05% of the 7,138,458,166 common shares outstanding as of the March\u00a02, 2021, record date were present in person or were represented at the meeting by proxy. Final voting results are shown below."
+        },
+        "31": {
+          "text": "Each matter was determined by a majority of votes cast, except that the advisory approval of executive compensation was a non-binding\n          proposal."
+        },
+        "32": {
+          "title": "Election of Directors",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "text": "The following Directors were elected by the affirmative vote of a majority of the votes cast."
+            },
+            "34": {
+              "table": [
+                [
+                  "",
+                  "Votes Cast For",
+                  "Votes Cast For",
+                  "Votes Cast Against",
+                  "Votes Cast Against",
+                  "",
+                  ""
+                ],
+                [
+                  "Nominee for Director",
+                  "Number",
+                  "% of Votes Cast",
+                  "Number",
+                  "% of Votes Cast",
+                  "Abstain",
+                  "Broker\n\n                Non-Votes"
+                ],
+                [
+                  "Samuel A. DiPiazza, Jr.",
+                  "3,614,193,896",
+                  "96.40%",
+                  "134,904,124",
+                  "3.59%",
+                  "25,703,950",
+                  "1,654,061,086"
+                ],
+                [
+                  "Scott T. Ford",
+                  "3,145,022,540",
+                  "83.88%",
+                  "604,058,067",
+                  "16.11%",
+                  "25,721,363",
+                  "1,654,061,086"
+                ],
+                [
+                  "Glenn H. Hutchins",
+                  "3,685,271,205",
+                  "98.31%",
+                  "63,163,408",
+                  "1.68%",
+                  "26,367,357",
+                  "1,654,061,086"
+                ],
+                [
+                  "William E. Kennard",
+                  "3,548,607,891",
+                  "94.63%",
+                  "201,252,048",
+                  "5.36%",
+                  "24,942,031",
+                  "1,654,061,086"
+                ],
+                [
+                  "Debra L. Lee",
+                  "3,607,584,388",
+                  "96.16%",
+                  "143,823,634",
+                  "3.83%",
+                  "23,393,948",
+                  "1,654,061,086"
+                ],
+                [
+                  "Stephen J. Luczo",
+                  "3,688,013,984",
+                  "98.38%",
+                  "60,692,391",
+                  "1.61%",
+                  "26,095,595",
+                  "1,654,061,086"
+                ],
+                [
+                  "Michael B. McCallister",
+                  "3,140,827,187",
+                  "83.78%",
+                  "608,003,424",
+                  "16.21%",
+                  "25,971,359",
+                  "1,654,061,086"
+                ],
+                [
+                  "Beth E. Mooney",
+                  "3,127,906,147",
+                  "83.38%",
+                  "623,425,928",
+                  "16.61%",
+                  "23,469,895",
+                  "1,654,061,086"
+                ],
+                [
+                  "Matthew K. Rose",
+                  "2,805,383,490",
+                  "74.82%",
+                  "943,650,013",
+                  "25.17%",
+                  "25,768,467",
+                  "1,654,061,086"
+                ],
+                [
+                  "John T. Stankey",
+                  "3,686,249,940",
+                  "98.30%",
+                  "63,379,783",
+                  "1.69%",
+                  "25,172,247",
+                  "1,654,061,086"
+                ],
+                [
+                  "Cynthia B. Taylor",
+                  "3,629,117,880",
+                  "96.75%",
+                  "121,883,315",
+                  "3.24%",
+                  "23,800,775",
+                  "1,654,061,086"
+                ],
+                [
+                  "Geoffrey Y. Yang",
+                  "3,136,043,034",
+                  "83.63%",
+                  "613,575,919",
+                  "16.36%",
+                  "25,183,017",
+                  "1,654,061,086"
+                ]
+              ]
+            }
+          }
+        },
+        "35": {
+          "title": "Proposals Submitted by Board of Directors",
+          "class": "predicted header",
+          "contents": {
+            "36": {
+              "text": "The ratification of the appointment of Independent Auditors received the affirmative vote of a majority of the votes cast and was\n          passed. The advisory approval of executive compensation did not receive the affirmative vote of a majority of the votes cast in a non-binding vote."
+            },
+            "37": {
+              "table": [
+                [
+                  "",
+                  "Votes Cast For",
+                  "Votes Cast For",
+                  "Votes Cast Against",
+                  "Votes Cast Against",
+                  "",
+                  ""
+                ],
+                [
+                  "Proposal",
+                  "Number",
+                  "% of Votes Cast",
+                  "Number",
+                  "% of Votes Cast",
+                  "Abstain",
+                  "Broker\n\n                Non-Votes"
+                ],
+                [
+                  "Ratification of appointment of Independent Auditors",
+                  "5,173,942,928",
+                  "95.81%",
+                  "225,983,423",
+                  "4.18%",
+                  "28,936,705",
+                  "0"
+                ],
+                [
+                  "Advisory approval of executive compensation",
+                  "1,806,049,904",
+                  "48.92%",
+                  "1,885,149,564",
+                  "51.07%",
+                  "83,602,502",
+                  "1,654,061,086"
+                ]
+              ]
+            }
+          }
+        },
+        "38": {
+          "title": "Proposal Submitted by Stockholders",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "text": "The following proposal failed to receive the affirmative vote of the majority of votes cast and was defeated."
+            },
+            "40": {
+              "table": [
+                [
+                  "",
+                  "Votes Cast For",
+                  "Votes Cast For",
+                  "Votes Cast Against",
+                  "Votes Cast Against",
+                  "",
+                  ""
+                ],
+                [
+                  "Proposal",
+                  "Number",
+                  "% of Votes Cast",
+                  "Number",
+                  "% of Votes Cast",
+                  "Abstain",
+                  "Broker\n\n                Non-Votes"
+                ],
+                [
+                  "Shareholder Right to Act by Written Consent",
+                  "1,050,459,691",
+                  "28.31%",
+                  "2,658,989,014",
+                  "71.68%",
+                  "65,353,265",
+                  "1,654,061,086"
+                ]
+              ]
+            }
+          }
+        },
+        "41": {
+          "title": "2",
+          "class": "predicted header"
+        }
+      }
+    },
+    "42": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "43": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf\n          by the undersigned hereunto duly authorized."
+        },
+        "44": {
+          "table": [
+            [
+              "",
+              "AT&T INC.",
+              "AT&T INC."
+            ],
+            [
+              "Date:\u00a0 May 5, 2021",
+              "By:",
+              "/s/ George B. Goeke"
+            ],
+            [
+              "",
+              "",
+              "George B. Goeke"
+            ],
+            [
+              "",
+              "",
+              "Senior Vice President and Treasurer"
+            ]
+          ]
+        },
+        "45": {
+          "title": "3",
+          "class": "predicted header"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): February 12, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g888203g0219090032663.jpg",
+                    "alt": "IMAGE"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "16": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "17": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "20": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Exchange Act:"
+                },
+                "21": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n symbol",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Stock, $0.00001 par value per share",
+                      "TMUS",
+                      "The Nasdaq Stock Market LLC"
+                    ]
+                  ]
+                },
+                "22": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "23": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "24": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "25": {
+      "title": "Item\u00a05.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "26": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "27": {
+              "text": "On February\u00a012, 2020, T-Mobile US, Inc. (\u201cT-Mobile\u201d) adopted the first amendment to the compensation term sheet, dated as of April\u00a028, 2018 (the \u201cCompensation Term Sheet\u201d), with David Carey, T-Mobile\u2019s Executive Vice President, Corporate Services (the \u201cAmendment\u201d). The Amendment amends the Compensation Term Sheet to extend the term of Mr.\u00a0Carey\u2019s employment thereunder through, and to clarify that Mr.\u00a0Carey\u2019s employment with T-Mobile will automatically terminate on, the first to occur of July\u00a01, 2020 and the date on which T-Mobile eliminates Mr.\u00a0Carey\u2019s position with T-Mobile (the \u201cPosition Elimination Date\u201d). The Amendment notes that the Position Elimination Date is expected to occur between April\u00a030, 2020 and July\u00a01, 2020, and that T-Mobile  will provide Mr.\u00a0Carey of at least two weeks\u2019 notice prior to the Position Elimination Date."
+            },
+            "28": {
+              "text": "The Amendment provides that, during the remainder of Mr.\u00a0Carey\u2019s employment with T-Mobile, Mr.\u00a0Carey shall continue to (i)\u00a0receive the same base salary as currently in effect (i.e., $775,000 per year), (ii) be eligible to earn the same target short-term incentive as currently in effect (i.e., 150% of Mr.\u00a0Carey\u2019s eligible base earnings, or $1,162,500) and (iii)\u00a0be eligible to participate in employee benefit plans maintained by T-Mobile, in each case, in accordance with the terms and conditions of the Compensation Term Sheet. Except as otherwise determined by T-Mobile, Mr.\u00a0Carey will not be eligible to receive grants of long-term incentive (\u201cLTI\u201d) awards after the effective date of the Amendment (including any annual LTI awards for calendar year 2020)."
+            },
+            "29": {
+              "text": "Pursuant to the Amendment, upon (i)\u00a0an automatic termination of Mr.\u00a0Carey\u2019s employment on July\u00a01, 2020 or the Position Elimination Date or (ii)\u00a0an earlier termination of Mr.\u00a0Carey\u2019s employment by T-Mobile other than for \u201ccause\u201d or by Mr.\u00a0Carey for \u201cgood reason\u201d (each such term as defined in the Letter Regarding Severance Benefits between Mr.\u00a0Carey and T-Mobile, dated April\u00a028, 2018 (the \u201cSeverance Letter\u201d)) (each, a \u201cQualifying Termination\u201d), subject to his timely execution and non-revocation of a release and continued compliance with certain non-competition and non-solicitation restrictions following such termination, he will be entitled to receive the severance benefits set forth in the Severance Letter, and he will continue to remain eligible for T-Mobile\u2019s  mobile service discount program as in effect from time to time. The material terms of the Severance Letter (including the severance benefits payable thereunder) are consistent with those set forth in the severance letters for certain other executives of T-Mobile, as described in T-Mobile\u2019s Current Report on Form 8-K filed with the Securities and Exchange Commission (the \u201cSEC\u201d) on April\u00a030, 2018, and the Severance Letter is included as Exhibit 10.3 to T-Mobile\u2019s Quarterly Report on Form 10-Q for the quarterly period ended June\u00a030, 2019, filed with the SEC on July\u00a026, 2019."
+            },
+            "30": {
+              "text": "The Amendment further provides that, upon a Qualifying Termination (subject to his timely execution and non-revocation  of a release and continued compliance with certain non-competition and non-solicitation restrictions following such termination), T-Mobile and Mr.\u00a0Carey will enter into a consulting agreement (the \u201cConsulting Agreement\u201d), pursuant to which, during the period commencing on the day immediately following the date of the Qualifying Termination and ending on the 12-month anniversary thereof (or, if earlier, the date on which either party terminates the Consulting Agreement), he will provide consulting services as required by T-Mobile (capped at five days per month) in exchange for a consulting fee equal to $41,677 per month. The Consulting Agreement will also contain other terms and conditions as may be mutually agreed upon by the parties."
+            },
+            "31": {
+              "text": "Pursuant to the Amendment, Mr.\u00a0Carey is also waiving any rights he may have to resign for \u201cgood reason\u201d (as defined in the Severance Letter or any other plan or agreement applicable to him) as a result of, or in connection with, any diminution of his duties and responsibilities occurring on or after the effective date of the Amendment so long as he continues to directly report to the current Chief Executive Officer of T-Mobile, John Legere, through the date on which Mr.\u00a0Legere\u2019s employment with T-Mobile terminates."
+            },
+            "32": {
+              "text": "The foregoing description of the Amendment is qualified in its entirety by the full text of the Amendment, a copy of which will subsequently be filed with the SEC."
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "34": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "35": {
+          "table": [
+            [
+              "Date: February\u00a019, 2020",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

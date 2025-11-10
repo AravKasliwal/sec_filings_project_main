@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): April\u00a08, 2025",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g910059g0411073246853.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425)\u00a0378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d- 2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e- 4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n Symbol",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.550% Senior Notes due 2029",
+                          "TMUS29",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.700% Senior Notes due 2032",
+                          "TMUS32",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.150% Senior Notes due 2032",
+                          "TMUS32A",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.850% Senior Notes due 2036",
+                          "TMUS36",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.500% Senior Notes due 2037",
+                          "TMUS37",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.800% Senior Notes due 2045",
+                          "TMUS45",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company\u2002\u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u2002\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u20095.02.",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "On April\u00a08, 2025, T-Mobile US, Inc. (the \u201cCompany\u201d) appointed Daniel J. Drobac as Vice President and Chief Accounting Officer (\u201cCAO\u201d) of the Company, effective as of May\u00a01, 2025. The Company\u2019s current CAO, Dara Bazzano, has decided to retire from the Company, but will continue to serve as the principal accounting officer of the Company through April\u00a030, 2025.",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "Mr.\u00a0Drobac, age 49, has served as Vice President, Accounting and Controller at the Company since August 2017.\u00a0Prior to that he served as a Practice Fellow at the Financial Accounting Standards Board from 2015 to 2017 and served in various leadership roles at PricewaterhouseCoopers LLP from 2000 to 2015. Mr.\u00a0Drobac received Bachelor\u2019s and Master\u2019s degrees in Accounting from the University of Wisconsin-Madison.",
+              "class": "predicted header"
+            },
+            "33": {
+              "title": "On April\u00a08, 2025, the Compensation Committee (the \u201cCommittee\u201d) of the Board of Directors of the Company approved new compensation terms for Mr.\u00a0Drobac (the \u201cDrobac Compensation Terms\u201d) effective May\u00a01, 2025. Pursuant to the Drobac Compensation Terms, Mr.\u00a0Drobac will receive an annual base salary of $400,000 and an annual short-term incentive (\u201cSTI\u201d) award targeted at 75% of his base salary, payable based on the attainment of pre-established performance goals. Commencing with calendar year 2026, Mr.\u00a0Drobac will also be eligible for annual long-term incentive awards with an annual aggregate grant-date target value (as determined by the Committee) equal to 100% of his target cash compensation (his then-current base salary plus target STI). In addition, in connection with Mr.\u00a0Drobac\u2019s commencement as Vice President and CAO of the Company, he will be granted a one-time award of time-based restricted stock units (the \u201cRSUs\u201d) on May\u00a01, 2025 with an aggregate grant-date target value of $233,606.\u00a0The RSUs will vest evenly every six months over three years, starting from the grant date, subject to Mr.\u00a0Drobac\u2019s continued employment through the applicable vesting date (subject to accelerated vesting in accordance with the applicable award agreement).",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "35": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "36": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "Date: April\u00a011, 2025",
+                  "/s/ Peter Osvaldik",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Name:",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Title:",
+                  "Executive Vice President and\n Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

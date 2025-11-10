@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): March\u00a012, 2024",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-40289",
+                      "46-4707224"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "11": {
+                  "table": [
+                    [
+                      "Address Not Applicable(1)",
+                      "Address Not Applicable(1)"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "textsmall": "(1)"
+                    },
+                    "14": {
+                      "textsmall": "(Registrant\u2019s telephone number, including area code)"
+                    }
+                  }
+                },
+                "15": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "16": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "17": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\nSymbol(s)",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "The Nasdaq Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "28": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "30": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act. \u2610",
+                      "class": "predicted header"
+                    },
+                    "31": {
+                      "title": "(1)",
+                      "class": "predicted header"
+                    },
+                    "32": {
+                      "title": "We are a remote-first company. Accordingly, we do not maintain a headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email address: secretary@coinbase.com, or to our agent for service of process at Corporation Service Company, 251 Little Falls Drive, Wilmington, Delaware 19808.",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item\u20098.01 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "34": {
+          "title": "On March 12, 2024, Coinbase Global, Inc., a Delaware corporation (the \u201cCompany\u201d) issued a press release announcing that it proposes to offer, subject to market conditions and other factors, $1.0\u00a0billion aggregate principal amount of convertible senior notes due 2030 (the \u201cNotes\u201d). The Company also intends to grant the initial purchasers of the Notes a 30-day option to purchase up to an additional $150.0\u00a0million principal amount of Notes, solely to cover over-allotments. In connection with the pricing of the Notes, the Company expects to enter into privately negotiated capped call transactions with one or more of the initial purchasers of the Notes or their respective affiliates and/or other financial institutions.",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "The Notes will be sold to persons reasonably believed to be qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "A copy of the press release announcing the proposed offering of the Notes is attached hereto as Exhibit 99.1 and is incorporated herein by reference.",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "Neither this Current Report on Form\u00a08-K nor the press release constitutes an offer to sell, or the solicitation of an offer to buy, the Notes or the shares of the Company\u2019s Class A common stock, if any, issuable upon conversion of the Notes.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "38": {
+      "title": "Item\u20099.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "39": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "table": [
+                [
+                  "Exhibit\u00a0No.",
+                  "Description"
+                ],
+                [
+                  "99.1",
+                  "Press Release dated March\u00a012, 2024 announcing the proposed offering of the Notes."
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "41": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "42": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "43": {
+              "table": [
+                [
+                  "",
+                  "COINBASE GLOBAL, INC.",
+                  "COINBASE GLOBAL, INC."
+                ],
+                [
+                  "Dated: March 12, 2024",
+                  "By:",
+                  "/s/ Alesia J. Haas"
+                ],
+                [
+                  "",
+                  "",
+                  "Alesia J. Haas"
+                ],
+                [
+                  "",
+                  "",
+                  "Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

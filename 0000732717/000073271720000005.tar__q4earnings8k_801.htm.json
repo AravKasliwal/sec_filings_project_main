@@ -1,0 +1,639 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d) of",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "the Securities Exchange Act of 1934",
+              "class": "predicted header",
+              "contents": {
+                "7": {
+                  "title": "Date of report (Date of earliest event reported) ",
+                  "class": "predicted header",
+                  "contents": {
+                    "8": {
+                      "title": "January 29, 2020",
+                      "class": "predicted header",
+                      "contents": {
+                        "9": {
+                          "title": "AT&T INC.",
+                          "class": "predicted header",
+                          "contents": {
+                            "10": {
+                              "textsmall": "(Exact Name of Registrant as Specified in Charter)"
+                            },
+                            "11": {
+                              "table": [
+                                [
+                                  "Delaware",
+                                  "001-08610",
+                                  "43-1301883"
+                                ],
+                                [
+                                  "(State or Other Jurisdiction of Incorporation)",
+                                  "(Commission File Number)",
+                                  "(IRS Employer Identification No.)"
+                                ]
+                              ]
+                            },
+                            "12": {
+                              "table": [
+                                [
+                                  "208 S. Akard St., Dallas, Texas",
+                                  "75202"
+                                ],
+                                [
+                                  "(Address of Principal Executive Offices)",
+                                  "(Zip Code)"
+                                ]
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "13": {
+                  "title": "Registrant\u2019s telephone number, including area code ",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "title": "(210) 821-4105",
+                      "class": "predicted header",
+                      "contents": {
+                        "15": {
+                          "title": "__________________________________",
+                          "class": "predicted header",
+                          "contents": {
+                            "16": {
+                              "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                            },
+                            "17": {
+                              "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the\n      registrant under any of the following provisions (see General Instruction A.2. below):"
+                            },
+                            "18": {
+                              "text": "\u2610\u00a0\n      Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                            },
+                            "19": {
+                              "text": "\u2610\u00a0\n      Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                            },
+                            "20": {
+                              "text": "\u2610\u00a0\n      Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                            },
+                            "21": {
+                              "textsmall": "\u2610\u00a0 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                            },
+                            "22": {
+                              "text": "Securities registered pursuant to Section 12(b) of the Act"
+                            },
+                            "23": {
+                              "table": [
+                                [
+                                  "",
+                                  "",
+                                  "Name of each exchange"
+                                ],
+                                [
+                                  "Title of each class",
+                                  "Trading Symbol(s)",
+                                  "on which registered"
+                                ],
+                                [
+                                  "Common Shares (Par Value $1.00 Per Share)",
+                                  "T",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                                  "TPRA",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. Floating Rate Global Notes due August 3, 2020",
+                                  "T 20C",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 1.875% Global Notes due December 4, 2020",
+                                  "T 20",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                                  "T 21B",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                                  "T 22B",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                                  "T 23",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                                  "T 23C",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                                  "T 23D",
+                                  "New York Stock Exchange"
+                                ]
+                              ]
+                            },
+                            "24": {
+                              "table": [
+                                [
+                                  "",
+                                  "",
+                                  "Name of each exchange"
+                                ],
+                                [
+                                  "Title of each class",
+                                  "Trading Symbol(s)",
+                                  "on which registered"
+                                ],
+                                [
+                                  "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                                  "T 23E",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                                  "T 23A",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                                  "T 23F",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                                  "T 24A",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                                  "T 25",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                                  "T 26E",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                                  "T 26D",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                                  "T 26A",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                                  "T 29D",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                                  "T 29B",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                                  "T 29A",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                                  "T 30B",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                                  "T 32",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                                  "T 33",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                                  "T 34",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                                  "T 35",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                                  "T 36A",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                                  "T 39B",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                                  "T 40",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                                  "T 43",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                                  "T 44",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                                  "T 50",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                                  "TBB",
+                                  "New York Stock Exchange"
+                                ],
+                                [
+                                  "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                                  "TBC",
+                                  "New York Stock Exchange"
+                                ]
+                              ]
+                            },
+                            "25": {
+                              "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                            },
+                            "26": {
+                              "text": "Emerging growth company\u00a0 \u2610"
+                            },
+                            "27": {
+                              "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with\n      any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "28": {
+      "title": "Item 8.01\u00a0 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "29": {
+          "text": "Throughout this document, AT&T Inc. is referred to as \u201cwe\u201d or \u201cAT&T.\u201d AT&T is a holding company whose subsidiaries and affiliates\n        operate worldwide in the telecommunications, media and technology industries."
+        },
+        "30": {
+          "title": "Overview",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "text": "We announced on January 29, 2020 that fourth-quarter 2019 net income attributable to common stock totaled $2.4 billion, or $0.33 per diluted\n        share attributable to common stock (referred to as \u201cdiluted shares\u201d). Fourth-quarter 2019 income per diluted share included amounts totaling to $(4.1) billion, or $(0.56) per share, resulting from the following significant items: $(0.19) per share\n        for the amortization of merger-related intangible assets, $(0.13) per share for the abandonment of certain copper assets, $(0.12) per share for noncash losses for the annual adjustment related to pension and postemployment benefit accounting, and a\n        combined $(0.12) per share for tax-related items, merger and integration costs and other items. The results compare with a reported net income attributable to common stock of $4.9 billion, or $0.66 per diluted share, in the fourth quarter of 2018.\n        For the full year 2019, net income attributable to common stock was $13.9 billion versus $19.4 billion in 2018; earnings per diluted share were $1.89 compared with $2.85 for 2018. Results for full-year 2019 also reflect a full year\u2019s worth of Time\n        Warner Inc. (Time Warner), which was acquired in June 2018."
+            },
+            "32": {
+              "text": "Fourth-quarter 2019 revenues were $46.8 billion, down 2.4 percent from the fourth quarter of 2018, and full-year 2019 revenues were $181.2\n        billion, up 6.1 percent from the previous full year. Fourth-quarter revenues declined primarily due to pressure in video subscriptions, continued decreases in legacy voice and data services, foregone television licensing revenues as we prepare for\n        our launch of HBO Max in 2020, lower theatrical product resulting from a more favorable mix of box office releases in the prior year and lower wireless equipment sales. Partially offsetting these declines were growth in wireless service revenues\n        and strategic and managed business services. Full-year revenue increases resulted primarily from the mid-2018 acquisition of Time Warner."
+            },
+            "33": {
+              "text": "Compared with results for the fourth quarter of 2018, current quarter operating expenses were $41.5 billion, down 0.8 percent, and full-year\n        2019 operating expenses were $153.2 billion, up 5.9 percent from the previous full year; fourth-quarter operating income was $5.3\u00a0billion compared to $6.2 billion in the comparable 2018 period, and full-year 2019 operating income was $28.0 billion,\n        up 7.1 percent from the full-year 2018; and AT&T\u2019s fourth-quarter operating income margin was 11.4\u00a0percent, compared to 12.8\u00a0percent, and full-year 2019 operating income margin was 15.4 percent compared to 15.3 percent."
+            },
+            "34": {
+              "text": "For the full year, cash from operating activities was $48.7 billion, up $5.1 billion when compared to 2018, driven by contributions from WarnerMedia and higher cash flows from working capital initiatives,\n          including sales of receivables, partly offset by higher spend on film and television production and net tax payments in 2019 compared to net tax refunds in 2018. Capital expenditures in 2019 were $19.6 billion, and when including $3.1 billion\n          cash paid for vendor financing and excluding $1.0 billion of FirstNet reimbursements, gross capital investment was $23.7 billion."
+            }
+          }
+        },
+        "35": {
+          "title": "Segment Summary",
+          "class": "predicted header",
+          "contents": {
+            "36": {
+              "text": "We analyze our segments based on, among other things,\n          segment contribution, which consists of operating income, excluding acquisition-related costs and other significant items, and equity in net income (loss) of affiliates for investments managed within each segment. Our reportable segments\n        are: Communications, WarnerMedia, Latin America and Xandr."
+            }
+          }
+        },
+        "37": {
+          "title": "Communications",
+          "class": "predicted header",
+          "contents": {
+            "38": {
+              "text": "Our Communications segment consists of our Mobility, Entertainment Group and Business Wireline business units. Historical results in the\n        Mobility and Business Wireline business units of the Communications segment have been recast to remove operations in Puerto Rico and the U.S. Virgin Islands, for which we began held-for-sale accounting in the third quarter of 2019."
+            },
+            "39": {
+              "textsmall": "1"
+            },
+            "40": {
+              "text": "Fourth-quarter 2019 operating revenues were $36.5 billion, down 1.9 percent versus fourth-quarter 2018, with segment operating contribution of\n        $7.5 billion, down 1.3 percent versus the year-ago quarter. The Communications segment operating income margin was 20.6 percent, compared to 20.4 percent in the year-earlier quarter."
+            },
+            "41": {
+              "title": "Mobility",
+              "class": "predicted header",
+              "contents": {
+                "42": {
+                  "text": "Mobility revenues for the fourth quarter of 2019 were $18.7 billion, up 0.8 percent versus the fourth quarter of 2018, driven by higher\n        service revenues resulting from prepaid subscriber gains and postpaid phone average revenue per subscriber (ARPU) growth and partially offset by decreased\n        equipment revenues as lower handset upgrade rates continue. Mobility operating expenses totaled $13.2 billion, up 0.5 percent versus the fourth quarter of 2018. The increase was driven by higher bad debt expense, promotional costs and handset insurance expenses, partially offset by slower postpaid upgrade rates and cost efficiencies. Mobility\u2019s operating income margin was 29.4 percent compared to 29.2 percent in the year-ago quarter."
+                },
+                "43": {
+                  "text": "In our Mobility business unit, during the fourth quarter of 2019, we reported a net gain of 3.6 million wireless subscribers. At December 31,\n        2019, wireless subscribers totaled 165.9 million (including more than 1.0 million FirstNet connections) compared to 151.9 million at December 31, 2018."
+                },
+                "44": {
+                  "text": "During the fourth quarter, total phone net adds were 209,000, with total net adds by subscriber category as\u00a0follows:"
+                },
+                "45": {
+                  "text": "\u2022Prepaid subscriber net adds were 8,000, with phone net adds a loss of 20,000."
+                },
+                "46": {
+                  "text": "\u2022Postpaid subscriber net adds were 135,000, with phone net adds of 229,000 offsetting losses from tablets."
+                },
+                "47": {
+                  "text": "\u2022Reseller net losses were 251,000."
+                },
+                "48": {
+                  "text": "\u2022Connected device net adds were 3.7 million, 2.3 million of which were primarily attributable to wholesale connected cars."
+                },
+                "49": {
+                  "text": "For the quarter ended December 31, 2019, postpaid phone-only ARPU increased 0.4 percent versus the year-earlier quarter."
+                },
+                "50": {
+                  "text": "Postpaid phone-only churn was 1.07 percent, compared to 1.00 percent in the fourth quarter of 2018. Total postpaid churn was 1.29 percent,\n        compared to 1.23 percent in the year-ago quarter."
+                }
+              }
+            },
+            "51": {
+              "title": "Entertainment Group",
+              "class": "predicted header",
+              "contents": {
+                "52": {
+                  "text": "Entertainment Group (Entertainment) revenues for the fourth quarter of 2019 were $11.2 billion, down 6.1 percent versus the year-ago quarter,\n        reflecting continuing declines in video subscribers and legacy services that were partially offset by higher broadband revenues. Entertainment operating expenses totaled $10.5 billion, down 5.8 percent versus the fourth quarter of 2018. The\n        decrease was largely driven by lower content costs from fewer subscribers and ongoing cost initiatives, partially offset by higher amortization of fulfillment cost deferrals and higher costs associated with NFL SUNDAY TICKET. The Entertainment\n        operating income margin was 6.6 percent compared to 6.9 percent in the year-earlier quarter."
+                },
+                "53": {
+                  "text": "At December 31, 2019, Entertainment revenue connections included:"
+                },
+                "54": {
+                  "text": "\u2022Approximately 20.4 million video connections (including 926,000 AT&T TV Now subscribers) at December 31, 2019 compared to 24.5\n                  million at December 31, 2018. During the fourth quarter of 2019, premium TV video subscribers had a net loss of 945,000 and AT&T TV Now subscribers had a net loss of 219,000."
+                },
+                "55": {
+                  "text": "\u2022Approximately 14.1 million broadband connections at December 31, 2019 compared to 14.4 million at December 31, 2018. During the\n                  fourth quarter, IP broadband subscribers had a net loss of 141,000 (including fiber broadband net adds of 191,000), with 13.6 million subscribers at December 31, 2019."
+                },
+                "56": {
+                  "textsmall": "2"
+                }
+              }
+            },
+            "57": {
+              "title": "Business Wireline",
+              "class": "predicted header",
+              "contents": {
+                "58": {
+                  "text": "Business Wireline (Business) revenues for the fourth quarter of 2019 were $6.6 billion, down 1.7 percent versus the year-ago quarter,\n        reflecting continued declines in legacy revenues, partially offset by growth in strategic and managed services. Business operating expenses totaled $5.3 billion, down 0.4 percent versus the fourth quarter of 2018, driven by lower technology\n        expenses and cost initiatives. Business operating income margin was 19.2 percent compared to 20.2 percent in the year-earlier quarter."
+                },
+                "59": {
+                  "text": "At December 31, 2019, our total switched access lines (Entertainment and Business) were 8.5 million compared to 10.0 million at December 31,\n        2018. The number of U-verse voice connections (which use VoIP technology and therefore are not included in the access line total) decreased by 170,000 in the quarter, totaling 4.4 million at December 31, 2019, compared to 5.1 million at December\n        31, 2018."
+                }
+              }
+            }
+          }
+        },
+        "60": {
+          "title": "WarnerMedia",
+          "class": "predicted header",
+          "contents": {
+            "61": {
+              "text": "Our WarnerMedia segment consists of our Turner, HBO and Warner Bros. business units. Fourth-quarter 2019 operating revenues were $8.9 billion,\n        down 3.3 percent versus fourth-quarter 2018, with segment operating contribution of $2.4 billion, down 9.5 percent versus the year-ago quarter. Both operating revenue and segment contribution declines were driven by foregone television licensing\n        revenues as we prepare for our launch of HBO Max in 2020. The WarnerMedia segment operating income margin was 27.1 percent, compared to 28.4 percent in the year-earlier quarter."
+            },
+            "62": {
+              "title": "Turner",
+              "class": "predicted header",
+              "contents": {
+                "63": {
+                  "text": "Turner revenues for the fourth quarter of 2019 were $3.3 billion, up 1.6 percent versus the fourth quarter of 2018, driven by higher\n        subscription revenues due to higher domestic affiliate rates and growth at Turner\u2019s international networks, partially offset by lower advertising revenues resulting from lower audience delivery in the domestic entertainment networks. Turner\n        operating expenses totaled $2.0 billion, up 3.9 percent versus the fourth quarter of 2018, driven by higher programming expenses that were partially offset by lower operating costs. Turner operating income margin was 38.8 percent compared to 40.2\n        percent in the year-earlier quarter."
+                },
+                "64": {
+                  "title": "HBO",
+                  "class": "predicted header",
+                  "contents": {
+                    "65": {
+                      "text": "HBO revenues for the fourth quarter of 2019 were $1.7 billion, up 1.9 percent versus the fourth quarter of 2018, driven by higher content and\n        other revenues resulting from higher digital programming. HBO operating expenses totaled $1.2 billion, up 16.4 percent versus the fourth quarter of 2018, driven by increased programming, distribution and marketing expenses. HBO operating income\n        margin was 28.2 percent compared to 37.2 percent in the year-earlier quarter."
+                    },
+                    "66": {
+                      "title": "Warner Bros.",
+                      "class": "predicted header",
+                      "contents": {
+                        "67": {
+                          "text": "Warner Bros. revenues for the fourth quarter of 2019 were $4.1 billion, down 8.0 percent versus the fourth quarter of 2018, driven by foregone\n        television licensing revenues as we prepare for our launch of HBO Max and lower theatrical product resulting from a more favorable mix of box office releases in the prior comparable period and, partly offset by increased initial telecast revenues.\n        Warner Bros. operating expenses totaled $3.3 billion, down 9.6 percent versus the fourth quarter of 2018, driven by lower film and television production costs. Warner Bros. operating income margin was 19.5 percent compared to 18.1 percent in the\n        year-earlier quarter."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "68": {
+          "title": "Latin America",
+          "class": "predicted header",
+          "contents": {
+            "69": {
+              "text": "Our Latin America segment consists of our Mexico and Vrio business units and is subject to foreign currency fluctuations. Fourth-quarter 2019\n        operating revenues were $1.8 billion, down 4.6 percent versus the prior year. Segment operating contribution was $(87) million, versus $(248) million in the comparable 2018 period. Both operating revenue and segment contribution declines were\n        driven by foreign exchange pressures. The Latin America operating income margin was (5.1) percent, compared to (14.0) percent in the year-earlier quarter."
+            },
+            "70": {
+              "title": "Mexico",
+              "class": "predicted header",
+              "contents": {
+                "71": {
+                  "text": "Wireless revenues were $776 million, up 0.9 percent when compared to the fourth quarter of 2018. Increased revenues were primarily due to\n        increased service revenue from prepaid subscriber growth, partially offset by lower equipment sales. Operating expenses were $903 million, down 16.6 percent and Mexico\u2019s operating income margin was (16.4) percent, compared to (40.8) percent in the\n        year-earlier quarter."
+                },
+                "72": {
+                  "text": "We had approximately 19.2 million Mexican wireless subscribers at December 31, 2019 compared to 18.3 million at December 31, 2018. During the\n        fourth quarter of 2019, we had prepaid net adds of 736,000 and postpaid net losses of 249,000."
+                },
+                "73": {
+                  "textsmall": "3"
+                }
+              }
+            },
+            "74": {
+              "title": "Vrio",
+              "class": "predicted header",
+              "contents": {
+                "75": {
+                  "text": "Video service revenues were $982 million, down 8.6 percent versus the prior year. Operating expenses were $944 million, down 7.3 percent. Both\n        operating revenue and expense declines were driven by foreign exchange pressures. Vrio\u2019s operating income margin was 3.9 percent, compared to 5.2 percent in the year-earlier quarter."
+                },
+                "76": {
+                  "text": "We had approximately 13.3 million Latin America video connections at December 31, 2019 compared to 13.8 million at December 31, 2018. During\n        the fourth quarter of 2019, video net adds were 25,000."
+                }
+              }
+            }
+          }
+        },
+        "77": {
+          "title": "Xandr",
+          "class": "predicted header",
+          "contents": {
+            "78": {
+              "text": "Our Xandr segment provides advertising services utilizing data insights to develop higher-value targeted advertising. Certain revenues in this\n        segment are also reported by the Communications segment and are eliminated upon consolidation. Fourth-quarter 2019 operating revenues were $607 million, up 7.2 percent versus the prior year. Operating expenses were $194 million, up 4.9 percent due\n        to investment in new technology and the development of our data advertising platform. Xandr segment operating contribution was $413 million, up 8.4 percent versus fourth-quarter 2018. The Xandr segment operating income margin was 68.0 percent,\n        compared to 67.3 percent in the year-earlier quarter."
+            }
+          }
+        },
+        "79": {
+          "title": "Supplemental Discussions",
+          "class": "predicted header",
+          "contents": {
+            "80": {
+              "text": "As a supplemental discussion of our operating results, for comparison purposes, we are providing (1) our AT&T Business Solutions results\n        which include both wireless and wireline operations and (2) a combined view of reported advertising revenues across all segments of AT&T. A reconciliation of the non-GAAP numbers in this supplemental discussion is attached as exhibit 99.2\n        hereto."
+            },
+            "81": {
+              "title": "AT&T Business Solutions",
+              "class": "predicted header",
+              "contents": {
+                "82": {
+                  "text": "Revenues from AT&T Business Solutions for the fourth quarter of 2019 were $9.5 billion, up 1.1 percent versus the year-ago quarter, driven\n        by growth in wireless service revenues and strategic and managed services, partially offset by declines in our legacy voice and data services. Operating expenses totaled $7.5 billion, up 2.2 percent versus the fourth quarter of 2018. AT&T\n        Business Solutions operating income margin was 20.4 percent, compared to 21.2 percent in the year-earlier quarter."
+                }
+              }
+            },
+            "83": {
+              "title": "AT&T Advertising Revenues",
+              "class": "predicted header",
+              "contents": {
+                "84": {
+                  "text": "Total AT&T Advertising revenues for the fourth quarter of 2019 were $1.9 billion, down 1.2 percent, primarily driven by WarnerMedia."
+                }
+              }
+            }
+          }
+        },
+        "85": {
+          "title": "Other Matters",
+          "class": "predicted header",
+          "contents": {
+            "86": {
+              "text": "As previously disclosed, we maintain a share repurchase program for common stock that is authorized by our Board of Directors. In the fourth\n        quarter 2019, repurchases totaled 51.4 million shares, or $2.0 billion, and year-to-date 2019 totaled 56.2 million shares, or $2.4 billion."
+            },
+            "87": {
+              "text": "On January 3, 2020, we executed an accelerated share repurchase (ASR) agreement with a third-party, financial institution to repurchase\n        AT&T common stock. Under the terms of the agreement, we paid the financial institution $4.0 billion and received 80% of the stock. In January 2020, we have repurchased approximately 85 million shares, under repurchase authorizations."
+            },
+            "88": {
+              "text": "The ASR is expected to conclude late in the first quarter of 2020. Upon final settlement of the agreement, we may be entitled to receive\n        additional shares of AT&T common stock, or, under certain circumstances, we may be required to deliver shares of AT&T common stock or make a cash payment, at our election."
+            },
+            "89": {
+              "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+              "class": "predicted header",
+              "contents": {
+                "90": {
+                  "text": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and\n        uncertainties. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on\n        new information or otherwise."
+                },
+                "91": {
+                  "textsmall": "4"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "92": {
+      "title": "Item 9.01 Financial Statements and Exhibits. \n    ",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "93": {
+          "text": "The following exhibits are furnished as part of this report:"
+        },
+        "94": {
+          "text": "(d)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Exhibits"
+        },
+        "95": {
+          "table": [
+            [
+              "99.1",
+              "AT&T Inc. selected financial statements and operating data."
+            ],
+            [
+              "99.2",
+              "Discussion and reconciliation of non-GAAP measures."
+            ],
+            [
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        }
+      }
+    },
+    "96": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "97": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be\n      signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "98": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: January 29, 2020",
+              "By: /s/ Debra L. Dial\u00a0 \u00a0\n                  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\n            \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Debra L. Dial\n\n            Senior Vice President and Controller"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

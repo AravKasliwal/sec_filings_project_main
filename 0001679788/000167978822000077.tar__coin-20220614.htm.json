@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): June 14, 2022",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "Address Not Applicable(1)",
+                          "Address Not Applicable(1)"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "17": {
+              "title": "(1)",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "23": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "28": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "Nasdaq Global Select Market"
+                            ]
+                          ]
+                        },
+                        "29": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "30": {
+                          "text": "(1) We are a remote-first company. Accordingly, we do not maintain a headquarters. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and Securities Exchange Act of 1934, as amended, stockholder communications required to be sent to our principal executive offices may be directed to the email address set forth in our proxy materials and/or identified on our investor relations website."
+                        },
+                        "31": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "32": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 2.05. Costs Associated with Exit or Disposal Activities.",
+      "standardized_title": "item2.05",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "On June 14, 2022, Coinbase Global, Inc. (the \u201cCompany\u201d) announced a restructuring plan (the \u201cPlan\u201d) to manage its operating expenses in response to current market conditions and ongoing business prioritization efforts. The Plan involves a reduction of the Company\u2019s workforce by approximately 1,100 employees, representing approximately 18% of the Company\u2019s global workforce as of June 10, 2022, following which the Company expects to have approximately 5,000 total employees as of the end of its current fiscal quarter on June 30, 2022. The Company expects execution of the Plan to be substantially complete in the second quarter of 2022."
+        },
+        "35": {
+          "text": "In connection with these actions, the Company estimates that it will incur approximately $40 million to $45 million in total restructuring expenses, all of which are future cash-based expenditures and substantially all of which are related to employee severance and other termination benefits. The Company expects to recognize substantially all of these charges in the second quarter of 2022. The foregoing estimated amounts do not include any non-cash charges associated with stock-based compensation. The Company expects to recognize an immaterial reduction of stock-based compensation as it does not anticipate materially modifying the affected employees\u2019 stock awards to accelerate the vesting of such awards or to otherwise modify such awards in a manner that would result in such charges."
+        }
+      }
+    },
+    "36": {
+      "title": "Item 7.01. Regulation FD Disclosure.",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "37": {
+          "text": "The Company is not updating the outlook that it provided on May 10, 2022 in a letter to its shareholders announcing its financial results for the quarter ended March 31, 2022 (the \u201cShareholder Letter\u201d). However, as a result of the Plan, the Company expects that the previously provided outlook for the Company\u2019s technology and development and general and administrative expenses for full year 2022 to be closer to the lower end of the range included in the Shareholder Letter."
+        },
+        "38": {
+          "text": "This Current Report on Form 8-K contains forward-looking statements including, but not limited to, statements related to the Company\u2019s outlook for the full year 2022, the number of positions affected by the Plan, and the estimated restructuring charges associated with, and the time frame for completion of and recognition of charges associated with, the Plan. These forward-looking statements are based on management\u2019s beliefs and assumptions and on information available to management as of the date they are made. However, investors should not place undue reliance on any such forward-looking statements because they speak only as of the date they are made. The Company does not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. In addition, forward-looking statements are subject to certain risks and uncertainties that could cause actual results, events and developments to differ materially from the Company\u2019s historical experience and its present expectations or projections. These risks and uncertainties include, but are not necessarily limited to, those described in the Company\u2019s filings with the Securities and Exchange Commission."
+        }
+      }
+    },
+    "39": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "40": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "41": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: June 14, 2022",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

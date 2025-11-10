@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): February 18, 2025",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g910063g0221100514582.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street",
+                      ""
+                    ],
+                    [
+                      "Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former name or former address, if changed since last report.)"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n Symbol(s)",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, $0.00001 par value per share",
+                          "TMUS",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.550% Senior Notes due 2029",
+                          "TMUS29",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.700% Senior Notes due 2032",
+                          "TMUS32",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.150% Senior Notes due 2032\n 3.850% Senior Notes due 2036",
+                          "TMUS32A\n TMUS36",
+                          "The Nasdaq Stock Market LLC\n The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.500% Senior Notes due 2037",
+                          "TMUS37",
+                          "The Nasdaq Stock Market LLC"
+                        ],
+                        [
+                          "3.800% Senior Notes due 2045",
+                          "TMUS45",
+                          "The Nasdaq Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company \u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act. \u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u20095.02 Departure of Directors or Principal Officers; Election of Directors; Appointment of Principal Officers.",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "On February\u00a018, 2025, Kelvin Westbrook notified T-Mobile US, Inc. (the \u201cCompany\u201d) of his decision to not to stand for re-election to the Board of Directors (the \u201cBoard\u201d) of the Company at the 2025 Annual Meeting of Stockholders (the \u201cAnnual Meeting\u201d). Mr.\u00a0Westbrook\u2019s departure from the Board and its Compensation Committee will be effective immediately after the conclusion of the Annual Meeting. Additionally, on February\u00a018, 2025, Srini Gopalan notified the Board of his decision to resign from the Board and its Compensation Committee, effective as of February\u00a028, 2025, due to his acceptance of a new role at the Company as the Company\u2019s Chief Operating Officer.",
+          "class": "predicted header"
+        },
+        "31": {
+          "title": "Mr.\u00a0Westbrook\u2019s decision not to stand for re-election and Mr.\u00a0Gopalan\u2019s resignation from the board are not the result of any disagreement between Messrs. Westbrook and Gopalan and the Company on any matters relating to the operations, policies or practices of the Company.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "The Company also announced that the Board intends to nominate Thomas Dannenfeldt to serve as a director to the Board at the 2025 Annual Meeting. Mr.\u00a0Dannenfeldt previously served on the Company\u2019s Board from 2013 to 2018, and was the Chief Financial Officer of Deutsche Telekom AG from 2014 through 2018. Mr.\u00a0Dannenfeldt currently serves as Chairman of the board of directors of Ceconomy AG and on the board of directors of Nokia Oyi.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "33": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "34": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "table": [
+                [
+                  "Date: February\u00a021, 2025",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Name: Peter Osvaldik\n Title: Executive Vice President and Chief\n Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

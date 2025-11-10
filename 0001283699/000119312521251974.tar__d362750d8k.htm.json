@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): August 20, 2021",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g362750g0819121256037.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n symbol",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, $0.00001 par value per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company \u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a07.01",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "On August 20, 2021, T-Mobile US, Inc. (\u201cT-Mobile,\u201d \u201cwe,\u201d \u201cour\u201d or \u201cus\u201d) posted the following statement to its website:",
+              "class": "predicted header"
+            }
+          }
+        },
+        "32": {
+          "title": "T-Mobile Shares Updated Information Regarding Ongoing Investigation into Cyberattack (8/20/21)",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "title": "We have continued to work around the clock on the forensic analysis and investigation into the cyberattack against T-Mobile systems while also taking a number of proactive steps to protect customers and others whose information may have been exposed.",
+              "class": "predicted header"
+            },
+            "34": {
+              "title": "Our investigation is ongoing and will continue for some time, but at this point, we are confident that we have closed off the access and egress points the bad actor used in the attack. Below is what we know to date.",
+              "class": "predicted header"
+            },
+            "35": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "We previously reported information from approximately 7.8 million current T-Mobile postpaid customer accounts that included first and last names, date of birth, SSN, and driver\u2019s license/ID information was compromised. We have now also determined that phone numbers, as well as IMEI and IMSI information, the typical identifier numbers associated with a mobile phone, were also compromised. Additionally, we have since identified another 5.3 million current postpaid customer accounts that had one or more associated customer names, addresses, date of births, phone numbers, IMEIs and IMSIs illegally accessed. These additional accounts did not have any SSNs or driver\u2019s license/ID information compromised.",
+              "class": "predicted header"
+            },
+            "37": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "38": {
+              "title": "We also previously reported that data files with information from about 40 million former or prospective T-Mobile customers, including first and last names, date of birth, SSN, and driver\u2019s license/ID information, were compromised. We have since identified an additional 667,000 accounts of former T- Mobile customers that were accessed with customer names, phone numbers, addresses and dates of birth compromised. These additional accounts did not have any SSNs or driver\u2019s license/ID information compromised.",
+              "class": "predicted header"
+            },
+            "39": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "40": {
+              "title": "Separately, we have also identified further stolen data files including phone numbers, IMEI, and IMSI numbers. That data included no personally identifiable information.",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "42": {
+              "title": "We continue to have no indication that the data contained in any of the stolen files included any customer financial information, credit card information, debit or other payment information.",
+              "class": "predicted header"
+            },
+            "43": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "44": {
+              "title": "As we previously reported, approximately 850,000 active T-Mobile prepaid customer names, phone numbers and account PINs were exposed. We have proactively reset ALL of the PINs on these accounts. Similar information from additional inactive prepaid accounts was also accessed. In addition, up to 52,000 names related to current Metro by T-Mobile accounts may have been included. None of these data sets included any personally identifiable information. Further, none of the T-Mobile files stolen related to former Sprint prepaid or Boost customers.",
+              "class": "predicted header"
+            },
+            "45": {
+              "title": "We are continuing to take action to protect everyone at risk from this cyberattack, including those additional persons we recently identified. We have sent communications to millions of customers and other affected individuals and are providing support in various ways. This includes:",
+              "class": "predicted header"
+            },
+            "46": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "47": {
+              "title": "Offering two years of free identity protection services with McAfee\u2019s ID Theft Protection Service to any person who believes they may be affected",
+              "class": "predicted header"
+            },
+            "48": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "49": {
+              "title": "Recommending that all eligible T-Mobile customers sign up for free scam-blocking protection through Scam Shield",
+              "class": "predicted header"
+            },
+            "50": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "51": {
+              "title": "Supporting customers with additional best practices and practical security steps like resetting PINs and passwords",
+              "class": "predicted header"
+            },
+            "52": {
+              "title": "\u2022",
+              "class": "predicted header",
+              "contents": {
+                "53": {
+                  "title": "Publishing a customer support webpage that includes information and access to these tools at https://www.t-mobile.com/brand/data-breach-2021",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "54": {
+              "title": "As we support our customers, we have worked diligently to enhance security across our platforms and are collaborating with industry-leading experts to understand additional immediate and longer-term next steps. We also remain committed to transparency as this investigation continues and will continue to provide updates if new information becomes available that impacts those affected or causes the details above to change or evolve.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "55": {
+          "title": "FORWARD-LOOKING STATEMENTS",
+          "class": "predicted header",
+          "contents": {
+            "56": {
+              "title": "This communication includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to differ materially from the forward-looking statements. These risks and uncertainties include those related to the cybersecurity incident discussed above, such as our ability to assess and remedy the cybersecurity incident, and legal, reputational and financial risks resulting from this or other cybersecurity incidents and other risks and uncertainties associated with our business as described in our filings with the Securities and Exchange Commission. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law.",
+              "class": "predicted header"
+            },
+            "57": {
+              "title": "T-Mobile Disclosure Channels",
+              "class": "predicted header",
+              "contents": {
+                "58": {
+                  "title": "Investors and others should note that we announce material information to our investors using our investor relations website, press releases, SEC filings and public conference calls and webcasts. We also intend to use certain social media accounts as means of disclosing information about us and our services and for complying with our disclosure obligations under Regulation FD (the @TMobileIR Twitter account (https://twitter.com/TMobileIR) and the @MikeSievert Twitter (https://twitter.com/MikeSievert) account, which Mr.\u00a0Sievert also uses as a means for personal communications and observations). The information we post through these social media channels may be deemed material. Accordingly, investors should monitor these social media channels in addition to following our investor relations website, press releases, SEC filings and public conference calls and webcasts. The social media channels that we intend to use as a means of disclosing the information described above may be updated from time to time as listed on our investor relations website.",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "59": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "60": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "61": {
+              "table": [
+                [
+                  "Date: August 20, 2021",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

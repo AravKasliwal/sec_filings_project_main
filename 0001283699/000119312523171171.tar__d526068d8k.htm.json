@@ -1,0 +1,548 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): June 16, 2023",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g526068g0621093820822.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "16": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\nSymbol",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Common Stock, $0.00001 par value per share",
+                              "TMUS",
+                              "The NASDAQ Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "27": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u00a05.02 \u2014 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "As noted below under Item 5.07, at the Annual Meeting of Stockholders (the \u201cAnnual Meeting\u201d) of T-Mobile US, Inc. (the \u201cCompany\u201d) held on June\u00a016, 2023, the Company\u2019s stockholders approved the T-Mobile US, Inc. 2023 Incentive Award Plan (the \u201cIncentive Plan\u201d) and the T-Mobile US, Inc. Amended and Restated 2014 Employee Stock Purchase Plan (the \u201cESPP\u201d and, together with the Incentive Plan, the \u201cPlans\u201d) and the Plans became effective. The Incentive Plan and the ESPP were adopted by the Board of Directors of the Company (the \u201cBoard\u201d) on March\u00a024, 2023, subject to stockholder approval.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "A description of the material terms of the Plans was included in the Company\u2019s Definitive Proxy Statement (\u201cProxy Statement\u201d) on Schedule 14A filed with the Securities and Exchange Commission (\u201cSEC\u201d) on April\u00a028, 2023. The foregoing and the descriptions in the Proxy Statement are not complete summaries of the terms of each Plan and are qualified by reference to the full text of the Plans, copies of which are filed as Exhibits 10.1 and 10.2 hereto and incorporated by reference herein.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "33": {
+      "title": "Item\u00a05.07 \u2014 Submission of Matters to a Vote of Security Holders.",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "34": {
+          "title": "On June\u00a016, 2023, the Company held its Annual Meeting. At the Annual Meeting, the following six proposals were presented, as described in the Proxy Statement:",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "(1)",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "Elect 13 director nominees named in the Proxy Statement to the Board;",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "(2)",
+          "class": "predicted header"
+        },
+        "38": {
+          "title": "Ratify the appointment of Deloitte\u00a0& Touche LLP as the Company\u2019s independent registered public accounting firm for the fiscal year ending December\u00a031, 2023;",
+          "class": "predicted header"
+        },
+        "39": {
+          "title": "(3)",
+          "class": "predicted header"
+        },
+        "40": {
+          "title": "Conduct an advisory vote to approve the compensation provided to the Company\u2019s named executive officers for 2022;",
+          "class": "predicted header"
+        },
+        "41": {
+          "title": "(4)",
+          "class": "predicted header"
+        },
+        "42": {
+          "title": "Conduct an advisory vote on the frequency of future advisory votes to approve the compensation provided to the Company\u2019s named executive officers;",
+          "class": "predicted header"
+        },
+        "43": {
+          "title": "(5)",
+          "class": "predicted header"
+        },
+        "44": {
+          "title": "Approve the Incentive Plan; and",
+          "class": "predicted header"
+        },
+        "45": {
+          "title": "(6)",
+          "class": "predicted header"
+        },
+        "46": {
+          "title": "Approve the ESPP.",
+          "class": "predicted header"
+        },
+        "47": {
+          "title": "Proposal 1 \u2013 Election of Directors.",
+          "class": "predicted header"
+        },
+        "48": {
+          "title": "The following 13 director nominees were elected as directors, each to hold office until the Company\u2019s 2024 Annual Meeting of Stockholders, or until his/her successor is elected and qualified, by the votes set forth below:",
+          "class": "predicted header",
+          "contents": {
+            "49": {
+              "table": [
+                [
+                  "Director Nominee",
+                  "For",
+                  "Withhold",
+                  "Broker\u00a0Non-Votes"
+                ],
+                [
+                  "Andr\u00e9 Almeida",
+                  "951,819,124",
+                  "147,069,532",
+                  "31,465,166"
+                ],
+                [
+                  "Marcelo Claure",
+                  "944,361,965",
+                  "154,526,691",
+                  "31,465,166"
+                ],
+                [
+                  "Srikant M. Datar",
+                  "1,070,523,539",
+                  "28,365,117",
+                  "31,465,166"
+                ],
+                [
+                  "Srinivasan Gopalan",
+                  "932,092,760",
+                  "166,795,896",
+                  "31,465,166"
+                ],
+                [
+                  "Timotheus H\u00f6ttges",
+                  "944,581,043",
+                  "154,307,613",
+                  "31,465,166"
+                ],
+                [
+                  "Christian P. Illek",
+                  "881,658,854",
+                  "217,229,802",
+                  "31,465,166"
+                ],
+                [
+                  "Raphael K\u00fcbler",
+                  "880,626,429",
+                  "218,262,227",
+                  "31,465,166"
+                ],
+                [
+                  "Thorsten Langheim",
+                  "952,100,760",
+                  "146,787,896",
+                  "31,465,166"
+                ],
+                [
+                  "Dominique Leroy",
+                  "883,218,921",
+                  "215,669,735",
+                  "31,465,166"
+                ],
+                [
+                  "Letitia A. Long",
+                  "1,017,469,978",
+                  "81,418,678",
+                  "31,465,166"
+                ],
+                [
+                  "G. Michael Sievert",
+                  "989,403,292",
+                  "109,485,364",
+                  "31,465,166"
+                ],
+                [
+                  "Teresa A. Taylor",
+                  "970,288,528",
+                  "128,600,128",
+                  "31,465,166"
+                ],
+                [
+                  "Kelvin R. Westbrook",
+                  "1,049,325,503",
+                  "49,563,153",
+                  "31,465,166"
+                ]
+              ]
+            }
+          }
+        },
+        "50": {
+          "title": "Proposal 2 \u2013 Ratification of the Appointment of Deloitte\u00a0& Touche LLP.",
+          "class": "predicted header"
+        },
+        "51": {
+          "title": "The appointment of Deloitte\u00a0& Touche LLP as the Company\u2019s independent registered public accounting firm for the Company\u2019s fiscal year ending December\u00a031, 2023 was ratified by the votes set forth below:",
+          "class": "predicted header",
+          "contents": {
+            "52": {
+              "table": [
+                [
+                  "For",
+                  "Against",
+                  "Abstain",
+                  "Broker\u00a0Non-Votes"
+                ],
+                [
+                  "1,129,066,920",
+                  "611,595",
+                  "675,307",
+                  "\u2014"
+                ]
+              ]
+            }
+          }
+        },
+        "53": {
+          "title": "Proposal 3 \u2013 Advisory Vote to Approve the Compensation Provided to the Company\u2019s Named Executive Officers for 2022.",
+          "class": "predicted header"
+        },
+        "54": {
+          "title": "The compensation provided to the Company\u2019s named executive officers for 2022 was approved by an advisory vote, as set forth below:",
+          "class": "predicted header",
+          "contents": {
+            "55": {
+              "table": [
+                [
+                  "For",
+                  "Against",
+                  "Abstain",
+                  "Broker\u00a0Non-Votes"
+                ],
+                [
+                  "1,062,485,902",
+                  "36,129,647",
+                  "273,107",
+                  "31,465,166"
+                ]
+              ]
+            }
+          }
+        },
+        "56": {
+          "title": "Proposal 4 \u2013 Advisory Vote on the Frequency of Future Advisory Votes to Approve the Compensation Provided to the Company\u2019s Named Executive Officers.",
+          "class": "predicted header"
+        },
+        "57": {
+          "title": "The advisory vote on the frequency of future advisory votes to approve the compensation provided to the Company\u2019s named executive officers received the following votes:",
+          "class": "predicted header",
+          "contents": {
+            "58": {
+              "table": [
+                [
+                  "1 Year",
+                  "2 Years",
+                  "3 Years",
+                  "Abstain",
+                  "Broker\u00a0Non-Votes"
+                ],
+                [
+                  "399,323,703",
+                  "216,074",
+                  "699,146,155",
+                  "202,724",
+                  "31,465,166"
+                ]
+              ]
+            }
+          }
+        },
+        "59": {
+          "title": "As disclosed in the Proxy Statement, the Board believes that holding an advisory say-on-pay vote every three years offers the closest alignment with the Company\u2019s approach to executive compensation and its underlying philosophy that seeks to enhance the long-term growth of the Company and to attract, retain and motivate our executive officers over the long term. A three-year cycle for the advisory say-on-pay vote will provide investors the most meaningful timing alternative by which to evaluate the effectiveness of the Company\u2019s executive compensation strategies and their alignment with the Company\u2019s business and results of operations. The Board also believes that a three-year vote cycle for the advisory say-on-pay vote will give the Board sufficient time to thoughtfully consider the results of the advisory vote and to implement any desired changes to the Company\u2019s executive compensation policies and procedures. Based on the Board of Directors\u2019 recommendation in the Proxy Statement and the voting results with respect to the advisory vote on the frequency of future advisory votes on executive compensation, the Company has adopted a policy to hold an advisory vote to approve executive compensation every three years.",
+          "class": "predicted header"
+        },
+        "60": {
+          "title": "Proposal 5 \u2013 Approval of the T-Mobile US, Inc. 2023 Incentive Award Plan.",
+          "class": "predicted header"
+        },
+        "61": {
+          "title": "The Incentive Plan was approved by the votes set forth below:",
+          "class": "predicted header",
+          "contents": {
+            "62": {
+              "table": [
+                [
+                  "For",
+                  "Against",
+                  "Abstain",
+                  "Broker\u00a0Non-Votes"
+                ],
+                [
+                  "1,061,029,851",
+                  "37,663,647",
+                  "195,158",
+                  "31,465,166"
+                ]
+              ]
+            }
+          }
+        },
+        "63": {
+          "title": "Proposal 6 \u2013 Approval of the T-Mobile US, Inc. Amended and Restated 2014 Employee Stock Purchase Plan.",
+          "class": "predicted header"
+        },
+        "64": {
+          "title": "The ESPP was approved by the votes set forth below:",
+          "class": "predicted header",
+          "contents": {
+            "65": {
+              "table": [
+                [
+                  "For",
+                  "Against",
+                  "Abstain",
+                  "Broker\u00a0Non-Votes"
+                ],
+                [
+                  "1,098,229,482",
+                  "507,678",
+                  "151,496",
+                  "31,465,166"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "66": {
+      "title": "Item\u00a09.01 \u2014 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "67": {
+          "title": "(d) Exhibits:",
+          "class": "predicted header",
+          "contents": {
+            "68": {
+              "table": [
+                [
+                  "Exhibit",
+                  "Description"
+                ],
+                [
+                  "10.1",
+                  "T-Mobile US, Inc. 2023 Incentive Award Plan (filed as Annex A to the Company\u2019s Definitive Proxy Statement on Schedule 14A filed April\u00a028, 2023, File No.\u00a0001-33409, and incorporated herein by reference)"
+                ],
+                [
+                  "10.2",
+                  "T-Mobile US, Inc. Amended and Restated 2014 Employee Stock Purchase Plan (filed as Annex B to the Company\u2019s Definitive Proxy Statement on Schedule 14A filed April\u00a028, 2023, File No.\u00a0001-33409, and incorporated herein by reference)"
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit\u00a0101)"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "69": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "70": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "71": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "June\u00a021, 2023",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik\n Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

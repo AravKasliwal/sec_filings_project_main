@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): May 1, 2023",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g491886ga01.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "16": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\n Symbol",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Common Stock, $0.00001 par value per share",
+                              "TMUS",
+                              "The NASDAQ Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "27": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u00a08.01",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "Other Events.",
+          "class": "predicted header",
+          "contents": {
+            "32": {
+              "title": "As previously reported, on September\u00a06, 2022, Sprint Communications LLC, a Kansas limited liability company and a wholly owned subsidiary of T-Mobile US, Inc., a Delaware corporation (\u201cT-Mobile\u201d) and Sprint LLC, a Delaware limited liability company and a wholly owned subsidiary of T-Mobile (\u201cSeller\u201d), entered into a Membership Interest Purchase Agreement (the \u201cPurchase Agreement\u201d) to sell the U.S. long haul fiber network, including the non-U.S. extensions thereof (the \u201cWireline Business\u201d) to Cogent Infrastructure, Inc., a Delaware corporation (\u201cBuyer\u201d) and a wholly owned subsidiary of Cogent Communications Holdings, Inc., a Delaware corporation.",
+              "class": "predicted header"
+            },
+            "33": {
+              "title": "On May\u00a01, 2023, Buyer and Seller consummated the Transaction (as defined below) contemplated by the Purchase Agreement (the \u201cClosing\u201d). Pursuant to the terms and subject to the conditions set forth in the Purchase Agreement, Buyer purchased and received from Seller all of the issued and outstanding membership interests (the \u201cPurchased Interests\u201d) of a newly formed Delaware limited liability company that holds assets and liabilities relating to the Wireline Business (such transactions as contemplated by the Purchase Agreement, collectively, the \u201cTransaction\u201d).",
+              "class": "predicted header"
+            },
+            "34": {
+              "title": "Under the terms of the Purchase Agreement, the parties agreed to a $1 purchase price in consideration for the Purchased Interests, subject to adjustments for cash, working capital and other customary items, which resulted in Buyer paying to Seller approximately $61.1\u00a0million. In addition, at the Closing, T-Mobile USA, Inc., a Delaware corporation and direct subsidiary of T-Mobile (\u201cTMUSA\u201d), and an affiliate of Buyer entered into an agreement for IP transit services (the \u201cIP Transit Agreement\u201d), pursuant to which TMUSA will pay Buyer an aggregate of $700\u00a0million, consisting of (i)\u00a0$350\u00a0million in equal monthly installments during the first year after the Closing and (ii) $350\u00a0million in equal monthly installments over the subsequent forty-two months.",
+              "class": "predicted header"
+            },
+            "35": {
+              "title": "As previously disclosed in the Current Report on Form 8-K filed with the Securities and Exchange Commission (the \u201cSEC\u201d) on September\u00a07, 2022 (the \u201cSigning 8-K\u201d), T-Mobile expected to recognize a total pre-tax charge of approximately $1\u00a0billion in the third quarter of 2022, due to T-Mobile\u2019s adjustment of the carrying value of the Wireline Business and establishment of the liability for the contractual payments of the Transaction, including the $700\u00a0million of fees payable pursuant to the IP Transit Agreement. As of March\u00a031, 2023, T-Mobile has recognized net losses on disposal of the Wireline Business of approximately $1\u00a0billion and does not expect a material change to the loss on disposal in the second quarter ending June\u00a030, 2023.",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "The foregoing description of the Transaction does not purport to be complete and is qualified in its entirety by reference to the terms and conditions of the Purchase Agreement, a copy of which was filed as Exhibit 2.1 to the Signing 8-K and are incorporated herein by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "37": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "38": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "title": "(d) Exhibits.",
+              "class": "predicted header",
+              "contents": {
+                "40": {
+                  "table": [
+                    [
+                      "Exhibit\nNo.",
+                      "Description"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "41": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "42": {
+              "title": "This communication contains certain forward-looking statements concerning T-Mobile and the proposed Transaction. All statements other than statements of fact, including information concerning future results, are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions. Such forward-looking statements include, but are not limited to, statements about the benefits of the proposed transactions, including anticipated future financial and operating results, T-Mobile\u2019s objectives, expectations and intentions, the accounting treatment of the proposed transaction, and the expected timing of completion of the proposed transaction. There are several factors which could cause actual plans and results to differ materially from those expressed or implied in forward-looking statements. Such factors include, but are not limited to, the failure to satisfy any of the conditions to the proposed transaction on a timely basis or at all; the occurrence of events that may give rise to a right of one or both of the parties to terminate the definitive agreement; adverse effects on the market price of T-Mobile\u2019s common stock and on T-Mobile\u2019s operating results because of a failure to complete the proposed transaction in the anticipated timeframe or at all; negative effects of the announcement, pendency or consummation of the proposed transaction on the market price of T-Mobile\u2019s common stock and on T-Mobile\u2019s operating results, including as a result of changes in key customer, supplier, employee or other business relationships; the risk of litigation or regulatory actions; and other risks and uncertainties detailed in T-Mobile\u2019s Annual Report on Form 10-K for the fiscal year ended December 31, 2022, including in the sections thereof captioned \u201cRisk Factors\u201d and \u201cCautionary Statement Regarding Forward-Looking Statements,\u201d as well as in its subsequent reports on Form 8-K and Form 10-Q, all of which are filed with the SEC and available at www.sec.gov and www.t-mobile.com. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to differ materially from those expressed in or implied by such forward-looking statements. Given these risks and uncertainties, persons reading this communication are cautioned not to place undue reliance on such forward-looking statements. T-Mobile assumes no obligation to update or revise the information contained in this communication (whether as a result of new information, future events or otherwise), except as required by applicable law. References to our and the SEC\u2019s website are inactive textual references only. Information contained on our and the SEC\u2019s website is not incorporated by reference in this Report and should not be considered to be a part of this Report.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "43": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "44": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "45": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "May\u00a01, 2023",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik\n Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

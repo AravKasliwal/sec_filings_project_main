@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): November 10, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g94439g1112083526374.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n symbol",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, $0.00001 par value per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a05.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "Resignation of Director",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "On November\u00a010, 2020, Srini Gopalan notified the Board of Directors (the \u201cBoard\u201d) of T-Mobile US, Inc. (the \u201cCompany\u201d) of his decision to resign from the Board and the Nominating and Corporate Governance Committee (the \u201cCommittee\u201d) of the Board, effective November\u00a013, 2020. Mr.\u00a0Gopalan\u2019s resignation is not the result of any disagreement between Mr.\u00a0Gopalan and the Company or any of its affiliates on any matter relating to the operations, policies or practices of the Company.",
+              "class": "predicted header",
+              "contents": {
+                "33": {
+                  "title": "Appointment of New Directors",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "34": {
+              "title": "On November\u00a012, 2020, pursuant to that certain Second Amended and Restated Stockholders\u2019 Agreement (the \u201cStockholders\u2019 Agreement\u201d), dated as of June\u00a022, 2020, by and among the Company, Deutsche Telekom AG (\u201cDT\u201d) and SoftBank Group Corp., the Board increased the size of the Board to 14 directors and appointed each of Dominique Leroy, Omar Tazi and Michael Wilkens (collectively, the \u201cNew Directors\u201d) to the Board, effective November\u00a013, 2020. Each of the New Directors was designated by DT pursuant to the Stockholders\u2019 Agreement.",
+              "class": "predicted header"
+            },
+            "35": {
+              "title": "Ms.\u00a0Leroy currently serves as a member of the Board of Management of DT, responsible for the Board Area Europe. Mr.\u00a0Tazi currently serves as Senior Vice President at DT in charge of Group Innovation, Products, Design\u00a0& Customer Experience, as well as Global Partnerships and Devices. Mr.\u00a0Wilkens currently serves as Senior Vice President Group Controlling (FP&A) of DT.",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "For purposes of the Stockholders\u2019 Agreement, current Board members Teresa A. Taylor and Stephen Kappes have each been designated by the Committee with the Committee retaining the ability to designate one additional director (which could be a current director of the Board) in its discretion.",
+              "class": "predicted header"
+            },
+            "37": {
+              "title": "The Board also appointed Ms.\u00a0Leroy as a member of the Committee, effective November\u00a013, 2020. Messrs. Tazi and Wilkens have not been appointed to serve on any Board committees at this time.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "38": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "39": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "table": [
+                [
+                  "Date: November 12, 2020",
+                  "T-MOBILE US, INC.",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "",
+                  "By:",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

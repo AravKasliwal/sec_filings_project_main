@@ -1,0 +1,439 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C.\u00a0 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d) of the",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): June 22, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "image0.jpg",
+                    "alt": "graphic"
+                  },
+                  "text": "\n      "
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "title": "Delaware\n\n              (State or other jurisdiction of incorporation or organization)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "12": {
+              "title": "1-33409\n\n              (Commission\n\n              File Number)20-0836269\n\n              (I.R.S. Employer\n\n              Identification No.)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "12920 SE 38th Street\n\n              Bellevue, Washington\n\n              (Address of principal executive offices)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "14": {
+              "title": "98006-1350\n\n              (Zip Code)",
+              "class": "predicted header"
+            },
+            "15": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "17": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is\n      intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:"
+                },
+                "18": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Written\n        communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "19": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Soliciting material\n        pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "20": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pre-commencement\n        communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02(b))"
+                },
+                "21": {
+                  "text": "\u2610\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Pre-commencement\n        communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a04(c))"
+                },
+                "22": {
+                  "text": "Securities registered pursuant to Section\u00a012(b) of the Act:"
+                },
+                "23": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n            Symbol",
+                      "Name of each exchange\n\n            on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "24": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter)\n      or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter)."
+                },
+                "25": {
+                  "text": "Emerging growth company \u2610"
+                },
+                "26": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or\n      revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "27": {
+      "title": "Item 1.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Entry\n\n\n\n\n\n\n\n        into a Material Definitive Agreement.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "28": {
+          "title": "Master Framework Agreement",
+          "class": "predicted header",
+          "contents": {
+            "29": {
+              "text": "As previously described in the Current Report on Form 8-K filed on June 22, 2020 (the \u201cJune 22 8-K\u201d) by T-Mobile US, Inc., a Delaware corporation (the \u201cCompany\u201d or \u201cT-Mobile\u201d), the Company entered into a Master Framework Agreement (the \u201cMaster Framework Agreement\u201d)\n      dated as of June 22, 2020, by and among the Company, SoftBank Group Corp., a Japanese kabushiki kaisha (\u201cSoftBank\u201d), SoftBank Group Capital Ltd, a private limited company incorporated in England and Wales and a wholly owned subsidiary of SoftBank (\u201cSBGC\u201d), Delaware Project 4 L.L.C., a Delaware limited liability company and a wholly owned subsidiary of SoftBank, Delaware Project 6 L.L.C., a Delaware limited liability company and a wholly owned\n      subsidiary of SoftBank, Claure Mobile LLC, a Delaware limited liability company (\u201cCM LLC\u201d), Deutsche Telekom AG, an Aktiengesellschaft organized and existing under the Laws of the Federal Republic of Germany (\u201cDeutsche\n          Telekom\u201d), and T-Mobile Agent LLC, a Delaware limited liability company and a wholly owned subsidiary of the Company.\u00a0 As further described in the June 22 8-K, the Master Framework Agreement and related transactions were entered into\n      to facilitate SoftBank\u2019s previously announced decision to monetize a portion of its stockholding in the Company (the \u201cSoftBank Monetization\u201d)."
+            },
+            "30": {
+              "text": "Pursuant to the Master Framework Agreement and as described further below, SBGC has sold or proposes to sell shares of the Company\u2019s common\n      stock, par value $0.00001 per share (the \u201cCommon Stock\u201d) through indirect transactions including (i) a registered public offering of the Common Stock (the \u201cCommon Stock Offering\u201d), (ii) a private offering of cash mandatory exchangeable trust securities by a trust, to which the Company resold shares (the \u201cTrust Securities Offering\u201d), (iii) an issuance to Company stockholders of registered, transferable subscription rights to purchase Common Stock (the \u201cRights Offering\u201d) and (iv) following the receipt of necessary regulatory approvals, a sale to an entity controlled by Marcelo Claure, one of the Company\u2019s      directors (the \u201cDirector Purchase\u201d).\u00a0 As consideration for the Company\u2019s facilitation of the SoftBank Monetization, the Independent Committee of the board of\n      directors of the Company negotiated for benefits to T-Mobile and its stockholders, including (i) the payment of a $300 million fee to the Company, (ii) the opportunity for stockholders not affiliated with the Company\u2019s major stockholders to subscribe\n      for shares of Common Stock at the same price paid by purchasers in the Common Stock Offering through the Rights Offering and (iii) the immediate forfeiture of certain governance rights (including consent rights and information rights) previously\n      granted to SoftBank.\u00a0 Pursuant to a Share Repurchase Agreement, dated as of June 22, 2020 (the \u201cShare Repurchase Agreement\u201d), between the Company and SBGC, for\n      every share of Common Stock sold by the Company in the Common Stock Offering, the Trust Securities Offering, the Rights Offering and the Director Purchase, the Company has agreed to repurchase one share of Common Stock from SBGC for consideration\n      equivalent to that received by the Company in such sales.\u00a0 Consequently, the Common Stock Offering, the Trust Securities Offering, the Rights Offering and the Director Purchase will not involve gain or loss to the Company and will not affect the\n      number of outstanding shares of Common Stock or the Company\u2019s capitalization."
+            },
+            "31": {
+              "text": "The above descriptions of the Master Framework Agreement and the Share Repurchase Agreement are summaries only and are subject to, and\n      qualified entirely by, the Master Framework Agreement and the Share Repurchase Agreement, which are filed as Exhibits 10.1 and 10.2, respectively, to this Current Report on Form 8-K and incorporated herein by reference."
+            },
+            "32": {
+              "title": "Second Amended and Restated Stockholders\u2019 Agreement",
+              "class": "predicted header",
+              "contents": {
+                "33": {
+                  "text": "As previously described in the June 22 8-K, the Company, SoftBank and Deutsche Telekom entered into an amendment and restatement (the \u201cSecond Amended and Restated Stockholders\u2019 Agreement\u201d), dated as of June 22, 2020, of the Amended and Restated Stockholders\u2019 Agreement dated as of April 1, 2020."
+                },
+                "34": {
+                  "text": "The Second Amended and Restated Stockholders\u2019 Agreement includes provisions setting forth the rights of Deutsche Telekom and SoftBank to\n      designate individuals to be nominees for election to the Company\u2019s board of directors and any committees thereof.\u00a0 Pursuant to the Second Amended and Restated Stockholders\u2019 Agreement, at all times when Deutsche Telekom, SoftBank and Marcelo Claure\n      beneficially own at least 50% of the outstanding Common Stock and any other securities of the Company that are entitled to vote in the election of directors (collectively, \u201cT-Mobile\n\n\n\n\n\n\n\n          Voting Securities\u201d) in the aggregate and any such T-Mobile Voting Security continues to be subject to the voting proxy (the \u201cSoftBank Proxy\u201d)\n      pursuant to the Proxy, Lock-Up and ROFR Agreement, dated as of April 1, 2020 (the \u201cSoftBank Proxy Agreement\u201d), by and between Deutsche Telekom and SoftBank or\n      the Claure Proxy (as defined below under the caption \u201cClaure Proxy Agreement\u201d in Item 8.01of this Current Report on Form 8-K), as applicable, (i) the Company\u2019s board of directors will consist of a total of 14 directors (except in cases of\n      resignations, retirements, deaths or removals, pending any new appointments), (ii) each of Deutsche Telekom and SoftBank (except, in the case of SoftBank, if it beneficially owns less than a certain minimum percentage of the outstanding T-Mobile\n      Voting Securities (10% if the Additional Shares Issuance Condition has been met under the Letter Agreement, dated as of February 20, 2020, by and among T-Mobile, Deutsche Telekom and SoftBank, or 9% if it has not)) has the right to designate a\n      specified number of nominees for election to the Company\u2019s board of directors in accordance with the terms of the Second Amended and Restated Stockholders\u2019 Agreement, subject to certain requirements, including requirements with respect to the\n      \u201cindependence\u201d of certain nominees under applicable stock exchange listing standards and rules of the Securities and Exchange Commission (the \u201cSEC\u201d), (iii) the\n      chairperson of the Company\u2019s board of directors will be a Deutsche Telekom designee and (iv) the Company\u2019s board of directors will have certain committees, which committees will be comprised in the manner specified in the Second Amended and Restated\n      Stockholders\u2019 Agreement.\u00a0 The Second Amended and Restated Stockholders\u2019 Agreement further provides that at all times when Deutsche Telekom, SoftBank and Marcelo Claure beneficially own less than 50% of the outstanding T-Mobile Voting Securities in\n      the aggregate or no T-Mobile Voting Security continues to be subject to the SoftBank Proxy or the Claure Proxy, then, in each case, each of Deutsche Telekom and SoftBank has the right to designate a number of nominees for election to the Company\u2019s\n      board of directors equal to the percentage of T-Mobile Voting Securities that each beneficially owns (provided that such percentage is 10% or more) multiplied by the number of directors on the Company\u2019s board of directors, rounded to the nearest\n      whole number greater than zero."
+                },
+                "35": {
+                  "text": "As of the date of this Current Report on Form 8-K, Deutsche Telekom has the right to designate ten individuals to be nominees for election\n      to the Company\u2019s board of directors and SoftBank has the right to designate one individual to be a nominee for election to the Company\u2019s board of directors.\u00a0 As of the date of this Current Report on Form 8-K, the Company\u2019s board of directors consists\n      of a total of 12 directors, including nine directors designated by Deutsche Telekom, two directors designated by SoftBank and G. Michael Sievert, the Company\u2019s President and Chief Executive Officer."
+                },
+                "36": {
+                  "text": "In addition, pursuant to the Second Amended and Restated Stockholders\u2019 Agreement and the Company\u2019s certificate of incorporation, as long as\n      Deutsche Telekom beneficially owns 30% or more of the outstanding T-Mobile Voting Securities, the Company is restricted from taking certain actions without Deutsche Telekom\u2019s prior written consent, including (a) incurring indebtedness above certain\n      levels based on a specified debt to cash flow ratio, (b) taking any action that would cause a default under any instrument evidencing indebtedness to which Deutsche Telekom or any of its affiliates is a party, (c) acquiring or disposing of assets or\n      entering into mergers or similar acquisitions in excess of $1.0 billion, (d) changing the size of the Company\u2019s board of directors, (e) subject to certain exceptions, issuing equity of 10% or more of the then-outstanding shares of Common Stock, or\n      issuing equity to redeem debt held by Deutsche Telekom, (f) repurchasing or redeeming equity securities or making any extraordinary or in-kind dividend other than on a pro rata basis, or (g) making certain changes involving the Chief Executive\n      Officer of the Company.\u00a0 The Company has also agreed not to amend its certificate of incorporation and bylaws in any manner that could adversely affect Deutsche Telekom\u2019s rights under the Second Amended and Restated Stockholders\u2019 Agreement for as\n      long as Deutsche Telekom beneficially owns 5% or more of the outstanding T-Mobile Voting Securities.\u00a0 Under the Second Amended and Restated Stockholders\u2019 Agreement, such consent rights, including under Section (C) of Article VIII of the Fifth Amended\n      and Restated Certificate of Incorporation of the Company, will not apply to SoftBank."
+                },
+                "37": {
+                  "text": "Pursuant to the Second Amended and Restated Stockholders\u2019 Agreement, Deutsche Telekom, SoftBank and their respective affiliates are\n      generally prohibited from acquiring T-Mobile Voting Securities that would cause their collective beneficial ownership to exceed 80.1% of the outstanding T-Mobile Voting Securities unless such acquiring stockholder makes an offer to acquire all of the\n      then-remaining outstanding shares of Common Stock at the same price and on the same terms and conditions as the proposed acquisition from all other stockholders of the Company, which is either (i) accepted or approved by a majority of the directors\n      on the Company\u2019s board of directors, which majority includes a majority of the directors who are not affiliated with Deutsche Telekom or SoftBank under the terms of the Second Amended and Restated Stockholders\u2019 Agreement (the \u201cRequired Approval\u201d),\n      or (ii) accepted or approved by holders (other than Deutsche Telekom, SoftBank and their respective affiliates) of a majority of the shares of Common Stock (other than shares held by Deutsche Telekom, SoftBank and their respective affiliates).\u00a0 Each\n      of Deutsche Telekom and SoftBank is also prohibited from transferring any shares of Common Stock in any transaction that would result in the transferee owning more than 30% of the outstanding shares of Common Stock, subject to certain exceptions,\n      unless the transfer is approved by the Company\u2019s board of directors (including the Required Approval) or the transferee offers to acquire all of the then outstanding shares of Common Stock at the same price and on the same terms and conditions as the\n      proposed transfer."
+                },
+                "38": {
+                  "text": "The Second Amended and Restated Stockholders\u2019 Agreement sets forth certain additional rights and obligations of each of Deutsche Telekom\n      and SoftBank, including information rights, registration rights and non-competition restrictions."
+                },
+                "39": {
+                  "text": "The above description of the Second Amended and Restated Stockholders\u2019 Agreement is a summary only and is subject to, and qualified\n      entirely by, the Second Amended and Restated Stockholders\u2019 Agreement, which is incorporated by reference as Exhibit 4.1 to this Current Report on Form 8-K and incorporated herein by reference."
+                },
+                "40": {
+                  "text": "The disclosure set forth under the caption \u201cDirector Purchase\u201d in Item 8.01 of this Current Report on Form 8-K is also responsive to Item\n      1.01 of this Current Report on Form 8-K and is incorporated herein by reference."
+                },
+                "41": {
+                  "text": "Deutsche Telekom is a significant stockholder of the Company and a holder of a portion of the outstanding debt of the Company\u2019s subsidiary\n      T-Mobile USA, Inc., as further described in the Company\u2019s periodic reports filed with the SEC.\u00a0 Immediately prior to the transactions described in this Current Report on Form 8-K, Deutsche Telekom held approximately 43.5% of the Common Stock and\n      SoftBank held approximately 24.6% of the Common Stock."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "42": {
+      "title": "Item 3.02\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Unregistered\n\n\n\n\n\n\n\n        Sales of Equity Securities.",
+      "standardized_title": "item3.02",
+      "class": "item",
+      "contents": {
+        "43": {
+          "text": "The disclosure set forth under the captions \u201cTrust Securities Offering\u201d and\u00a0 \u201cDirector Purchase\u201d in Item 8.01 of this Current Report on\n      Form 8-K is also responsive to Item 3.02 of this Current Report on Form 8-K and is incorporated herein by reference."
+        }
+      }
+    },
+    "44": {
+      "title": "Item 3.03\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Material\n\n\n\n\n\n\n\n        Modification of the Rights of Security Holders.",
+      "standardized_title": "item3.03",
+      "class": "item",
+      "contents": {
+        "45": {
+          "text": "The disclosure set forth under the caption \u201cSecond Amended and Restated Stockholders\u2019 Agreement\u201d in Item 1.01 of this Current Report on\n      Form 8-K is also responsive to Item 3.03 of this Current Report on Form 8-K and is incorporated herein by reference."
+        }
+      }
+    },
+    "46": {
+      "title": "Item 8.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Other\n\n\n\n\n\n\n\n        Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "47": {
+          "title": "Common Stock Offering",
+          "class": "predicted header",
+          "contents": {
+            "48": {
+              "text": "On June 23, 2020, T-Mobile US, Inc. entered into an underwriting agreement (the \u201cUnderwriting Agreement\u201d) with the several underwriters named in the Underwriting Agreement (the \u201cUnderwriters\u201d), for\n      which Goldman Sachs & Co. LLC and Morgan Stanley & Co. LLC acted as representatives, relating to an underwritten public offering of 143,392,582 shares (the \u201cShares\u201d)\n\n\n\n\n\n\n\n      of Common Stock.\u00a0 The Shares were offered to the public at a price equal to $103.00 per share, and the Underwriters agreed to purchase the Shares from T-Mobile US, Inc. pursuant to the Underwriting Agreement at a price of $101.455 per share.  Under the terms of the Underwriting Agreement, the Company granted the Underwriters an option, exercisable for 30 days after the date of the Underwriting Agreement, to purchase\n        up to an additional 10,754,444 shares of Common Stock at the same public offering price, less underwriting discounts and commissions (the \u201cAdditional Shares\u201d), which was exercised in full by the Underwriters on June 24, 2020."
+            },
+            "49": {
+              "text": "The closing of the offering and delivery of the Shares and the Additional Shares took place on June 26, 2020.\u00a0 The Shares and the\n      Additional Shares were sold pursuant to an automatically effective registration statement on Form S-3 that the Company filed with the SEC on June 22, 2020 (File No. 333-239352) (the \u201cRegistration Statement\u201d).\u00a0 A prospectus supplement relating to the offering has been filed with the SEC.\u00a0 The Company transferred to SBGC the cash proceeds received from such sale of the Shares and the Additional Shares\n      and the Company did not retain any proceeds."
+            },
+            "50": {
+              "text": "The above description of the Underwriting Agreement is a summary only and is subject to, and qualified entirely by, the Underwriting\n      Agreement, which is filed as Exhibit 1.1 to this Current Report on Form 8-K and incorporated herein by reference.\u00a0 The opinion of Fried, Frank, Harris, Shriver & Jacobson LLP with respect to the Shares and the Additional Shares is filed as\n      Exhibit 5.1 to this Current Report on Form 8-K.\u00a0 A press release announcing the pricing of the Common Stock Offering was issued in accordance with Rule 134 under the Securities Act of 1933, as amended (the \u201cSecurities Act\u201d).\u00a0 A copy of such press release is filed as Exhibit 99.8 and incorporated by reference into this Item 8.01."
+            }
+          }
+        },
+        "51": {
+          "title": "Trust Securities Offering",
+          "class": "predicted header",
+          "contents": {
+            "52": {
+              "text": "On June 26, 2020, the 2020 Cash Mandatory Exchangeable Trust, a Delaware statutory trust (the \u201cTrust\u201d) unaffiliated with the Company, closed a private offering of its 2020 Cash Mandatory Exchangeable Trust Securities (the \u201cTrust Securities\u201d) for an aggregate offering price of $2,000,000,000, including the full exercise by the initial purchasers of their option to purchase an\u00a0 additional $139,535,000 aggregate offering price of the Trust\n      Securities.\u00a0 At the closing of the Trust Securities Offering, the Company sold 19,417,400 shares of Common Stock to the Trust in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act.\u00a0 The Company transferred\n      to SBGC the cash proceeds received from such sale of Common Stock to the Trust and the Company did not retain any proceeds.\u00a0 In addition, in connection with the sale of the shares of Common Stock to the Trust, the Company received a contingent value\n      right note representing the right to receive on June 1, 2023 a number of shares of Common Stock based on the daily volume-weighted average price of shares of Common Stock during an observation period and the Company sold, assigned and transferred\n      such note to SBGC.\u00a0 The Trust is required to use a portion of the net proceeds from the Trust Securities Offering to purchase U.S.\u00a0 Treasury securities to fund quarterly distributions on the Trust Securities, and the holders of the Trust Securities\n      will be entitled to a final mandatory exchange cash amount on June 1, 2023 that will depend on the daily volume-weighted average price of shares of Common Stock during an observation period before the final exchange date.\u00a0 The Company is not\n      affiliated with the Trust, will not retain any proceeds from the offering of the Trust Securities, and will have no ongoing interest, economic or otherwise, in the Trust Securities."
+            },
+            "53": {
+              "text": "A press release announcing the pricing of the Trust Securities Offering was issued in accordance with Rule 135c under the Securities Act.\u00a0\n      A copy of such press release is filed as Exhibit 99.9 and incorporated by reference into this Item 8.01."
+            }
+          }
+        },
+        "54": {
+          "title": "Rights Offering",
+          "class": "predicted header",
+          "contents": {
+            "55": {
+              "text": "On June 26, 2020, the Company distributed rights to purchase up to 19,750,000 shares of Common Stock pursuant to its previously announced\n      Rights Offering.\u00a0 The Rights Offering is being made pursuant to the Registration Statement and the prospectus supplement relating to the Rights Offering filed with the SEC on June 24, 2020 (together with the accompanying prospectus, the \u201cRights Offering Prospectus\u201d)."
+            },
+            "56": {
+              "text": "Pursuant to the Rights Offering, each stockholder of the Company received one transferable subscription right (\u201cright\u201d) for each share of Common Stock held as of 5:00 p.m., Eastern Time, on June 25, 2020 (the \u201crecord\n\n\n\n\n\n\n\n          date\u201d).\u00a0 Each right entitles the holder to purchase 0.05 shares of Common Stock (the \u201cbasic subscription right\u201d), at the subscription price of\n      $103.00 per whole share of Common Stock (the \u201csubscription price\u201d), rounded down to the nearest whole share.\u00a0 Rights holders who fully exercise their basic\n      subscription rights will be entitled to subscribe for additional shares of Common Stock that remain unsubscribed as a result of any unexercised basic subscription rights (the \u201cover-subscription right\u201d).\u00a0 Each of Deutsche Telekom, SoftBank, Marcelo Claure and their respective affiliates have agreed to waive their ability to exercise or transfer subscription rights, and the over-subscription rights do\n      not apply to the subscription rights that are being waived by these stockholders.\u00a0 The Rights Offering expires at 5:00 p.m., Eastern Time, on July 27, 2020, unless extended by the Company.\u00a0 Any shares of Common Stock sold by the Company in the Rights\n      Offering will be purchased from SBGC pursuant to the Share Repurchase Agreement.\u00a0 The Company will transfer to SBGC the cash proceeds received from the exercise of Rights and the Company will not retain any proceeds."
+            },
+            "57": {
+              "text": "In connection with this Rights Offering, the Company is filing certain ancillary documents as Exhibits 4.2, 99.1, 99.2, 99.3, 99.4, 99.5,\n      99.6 and 99.7 to this Current Report on Form 8-K for the purpose of incorporating such items by reference as exhibits to the Registration Statement, of which the Rights Offering Prospectus is a part.\u00a0 The opinion of Fried, Frank, Harris, Shriver\n      & Jacobson LLP, in connection with the issuance of the rights and the underlying Common Stock issuable upon exercise of the rights is filed as Exhibit 5.1 to this Current Report on Form 8-K."
+            },
+            "58": {
+              "text": "This Current Report on Form 8-K shall not constitute an offer to sell or a solicitation of an offer to buy the securities, nor shall it\n      constitute an offer, solicitation or sale of the securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful under the securities laws of such state or jurisdiction.\u00a0 The Rights Offering will be made only by\n      means of the Rights Offering Prospectus, copies of which will be mailed to all eligible record date stockholders and can be accessed through the SEC\u2019s website at www.sec.gov.\u00a0 A copy of the Rights Offering Prospectus may also be obtained from the\n      information agent, D.F. King & Co., Inc. toll free at (800) 829-6551.\u00a0 Additional information regarding the Rights Offering is set forth in the Rights Offering Prospectus filed with the SEC."
+            }
+          }
+        },
+        "59": {
+          "title": "Director Purchase",
+          "class": "predicted header",
+          "contents": {
+            "60": {
+              "text": "Pursuant to the Master Framework Agreement, Marcelo Claure, CM LLC and the Company entered into a Share Purchase Agreement, dated as of\n      June 22, 2020 (the \u201cDirector Purchase Agreement\u201d), pursuant to which, following the receipt of necessary regulatory approvals, 5,000,000 shares of Common Stock\n      will be sold by the Company to CM LLC, an entity controlled by Mr. Claure (in reliance on the exemption from registration provided by Section 4(a)(2) of the Securities Act) at the same price per share as the Common Stock sold in the Common Stock\n      Offering.\u00a0 The Company has been advised that Mr. Claure\u2019s purchase will be funded with the proceeds of a loan from SoftBank.\u00a0 Pursuant to the Company\u2019s policy on securities trading, such shares may not be pledged, directly or indirectly, as\n      collateral for a loan.\u00a0 The shares of Common Stock to be sold by the Company to CM LLC will be purchased from SBGC pursuant to the Share Repurchase Agreement.\u00a0 The Company will transfer to SBGC the cash proceeds received from CM LLC and the Company\n      will not retain any proceeds."
+            },
+            "61": {
+              "text": "The above description of the Director Purchase Agreement is a summary only and is subject to, and qualified entirely by, the Director\n      Purchase Agreement, which is incorporated by reference as Exhibit 10.3 to this Current Report on Form 8-K and incorporated herein by reference."
+            }
+          }
+        },
+        "62": {
+          "title": "Claure Proxy Agreement",
+          "class": "predicted header",
+          "contents": {
+            "63": {
+              "text": "Pursuant to the Master Framework Agreement, Deutsche Telekom, CM LLC and Marcelo Claure entered into a Proxy, Lock-Up and ROFR Agreement,\n      dated as of June 22, 2020 (the \u201cClaure Proxy Agreement\u201d)."
+            },
+            "64": {
+              "text": "The Claure Proxy Agreement establishes among Deutsche Telekom, CM LLC and Marcelo Claure certain rights and obligations in respect of the\n      shares of Common Stock to be acquired by CM LLC and certain of its affiliates, including Mr. Claure, on or after the date thereof (the \u201cSubject Shares\u201d), to\n      enable Deutsche Telekom to consolidate the Company into Deutsche Telekom\u2019s financial statements.\u00a0 Pursuant to the Claure Proxy Agreement, at any meeting of the stockholders of the Company, the Subject Shares beneficially owned by CM LLC will be voted\n      in the manner directed by Deutsche Telekom (the \u201cClaure Proxy\u201d), which obligation will terminate upon the earliest of: (i) with respect to each such share of\n      Common Stock, the date on which such share is transferred to a third party in accordance with the terms of the Claure Proxy Agreement, subject to certain exceptions, (ii) the date on which Deutsche Telekom owns 55% or more of the outstanding T-Mobile\n      Voting Securities and (iii) the date on which Deutsche Telekom has transferred an aggregate number of shares representing 5% or more of the outstanding Common Stock as of June 22, 2020.\u00a0 The Claure Proxy Agreement also contains certain restrictions\n      on the ability of CM LLC and other entities related to Mr. Claure to transfer or acquire shares of Common Stock, including a prohibition on transfer of shares without the prior written consent of Deutsche Telekom until April 1, 2024, subject to\n      certain exceptions.\u00a0 As a result of the Claure Proxy Agreement and the preexisting SoftBank Proxy Agreement, the Company is a \u201ccontrolled company\u201d for purposes of the rules of The NASDAQ Stock Market LLC (\u201cNASDAQ\u201d), which provides the Company with exemptions from certain corporate governance requirements under NASDAQ rules."
+            },
+            "65": {
+              "text": "The above description of the Claure Proxy Agreement is a summary only and is subject to, and qualified entirely by, the Claure Proxy\n      Agreement, which is incorporated by reference as Exhibit 4.3 to this Current Report on Form 8-K and incorporated herein by reference."
+            },
+            "66": {
+              "text": "This Current Report on Form 8-K does not constitute an offer to sell or the solicitation of an offer to buy shares of Common Stock, rights\n      to purchase Common Stock, cash mandatory exchangeable trust securities or any other securities, nor shall it constitute an offer to sell, solicitation or sale in any jurisdiction in which such offer, solicitation or sale would be unlawful.\u00a0 Any\n      offers of the shares of Common Stock or rights to purchase Common Stock would be made only by means of a prospectus supplement and the accompanying prospectus, forming a part of an effective registration statement.\u00a0 Any offers of cash mandatory\n      exchangeable trust securities would be made only by means of a confidential offering memorandum."
+            }
+          }
+        }
+      }
+    },
+    "67": {
+      "title": "Item 9.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Financial\n\n\n\n\n\n\n\n        Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "68": {
+          "text": "The following exhibits are provided as part of this Current Report on Form 8-K:"
+        },
+        "69": {
+          "text": "(d) Exhibits:"
+        },
+        "70": {
+          "table": [
+            [
+              "Exhibit No.",
+              "Description"
+            ],
+            [
+              "1.1",
+              "Underwriting Agreement, dated June 23, 2020, among T-Mobile US, Inc. and the several Underwriters named in Schedule 1 thereto for which Goldman Sachs\n              & Co. LLC and Morgan Stanley & Co. LLC acted as representatives."
+            ],
+            [
+              "4.1",
+              "Second Amended and Restated Stockholders\u2019 Agreement, dated as of June 22, 2020, by and among Deutsche Telekom AG, SoftBank Group Corp. and T-Mobile\n              US, Inc. (incorporated by reference to Exhibit 4.2 to T-Mobile US, Inc.\u2019s Registration Statement on Form S-3 filed with the SEC on June 22, 2020)."
+            ],
+            [
+              "4.2",
+              "Form of Transferable Subscription Rights Certificate."
+            ],
+            [
+              "4.3",
+              "Proxy, Lock-Up and ROFR Agreement, dated as of June 22, 2020, among Deutsche Telekom, Claure Mobile LLC and Raul Marcelo Claure (incorporated by\n              reference to Exhibit 49 to Deutsche Telekom AG\u2019s Schedule 13D/A filed with the SEC on June 24, 2020)."
+            ],
+            [
+              "5.1",
+              "Opinion of Fried, Frank, Harris, Shriver & Jacobson LLP regarding Common Stock and Rights."
+            ],
+            [
+              "10.1",
+              "Master Framework Agreement, dated as of June 22, 2020, by and among SoftBank Group Corp., SoftBank Group Capital Ltd, Delaware Project 4 L.L.C.,\n              Delaware Project 6 L.L.C., Claure Mobile LLC, Deutsche Telekom AG, T-Mobile US, Inc. and T-Mobile Agent LLC."
+            ],
+            [
+              "10.2",
+              "Share Repurchase Agreement, dated as of June 22, 2020, between SoftBank Group Capital Ltd and T-Mobile US, Inc."
+            ],
+            [
+              "10.3",
+              "Share Purchase Agreement, dated as of June 22, 2020, among Raul Marcelo Claure, Claure Mobile LLC and T-Mobile US, Inc. (incorporated by reference to\n              Exhibit 15 to SoftBank Group Capital Ltd\u2019s Schedule 13D/A filed with the SEC on June 24, 2020)."
+            ],
+            [
+              "23.1",
+              "Consent of Fried, Frank, Harris, Shriver & Jacobson LLP (included in Exhibit 5.1)."
+            ],
+            [
+              "99.1",
+              "Form of Letter to Brokers, Dealers, Banks and Other Nominee Holders."
+            ],
+            [
+              "99.2",
+              "Form of Letter to Clients of Nominee Holders."
+            ]
+          ]
+        },
+        "71": {
+          "table": [
+            [
+              "99.3",
+              "Form of Letter to Stockholders who are Record Holders."
+            ],
+            [
+              "99.4",
+              "Form of Instructions for Use of Subscription Rights Certificates."
+            ],
+            [
+              "99.5",
+              "Form of Beneficial Holder Election Form."
+            ],
+            [
+              "99.6",
+              "Form of Nominee Holder Certification."
+            ],
+            [
+              "99.7",
+              "Form of Notice of Guaranteed Delivery."
+            ],
+            [
+              "99.8",
+              "Press Release entitled \u201cT-Mobile Prices Public Offering of 143,392,582 Shares of Common Stock in connection with SoftBank\u2019s Monetization of A Portion\n              of Its Shareholding in T-Mobile.\u201d"
+            ],
+            [
+              "99.9",
+              "Press Release entitled \u201cT-Mobile Announces Pricing of Mandatory Exchangeable Trust Securities Offering in connection with SoftBank\u2019s Monetization of A\n              Portion of Its Shareholding in T-Mobile.\u201d"
+            ],
+            [
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+            ]
+          ]
+        },
+        "72": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "73": {
+              "text": "The information contained in this Current Report on Form 8-K includes forward-looking statements within the meaning of the Private\n      Securities Litigation Reform Act of 1995.\u00a0 All statements other than statements of historical fact, including statements regarding future performance by third parties, are forward-looking statements.\u00a0 These forward-looking statements are generally\n      identified by the words \u201canticipate\u201d, \u201cbelieve\u201d, \u201cestimate\u201d, \u201cexpect\u201d, \u201cintend\u201d, \u201cmay\u201d, \u201ccould\u201d or similar expressions.\u00a0 Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties and\n      may cause actual results to differ materially from the forward-looking statements.\u00a0 Important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among\n      others, the following: the failure to realize the expected benefits and synergies of the merger with Sprint, pursuant to the Business Combination Agreement with Sprint and the other parties named therein (as amended, the \u201cBusiness Combination\n      Agreement\u201d) and the other transactions contemplated by the Business Combination Agreement (collectively, the \u201cTransactions\u201d) in the expected timeframes, in part or at all; adverse economic, political or market conditions in the U.S. and international\n      markets, including those caused by the COVID-19 pandemic; costs of or difficulties in integrating Sprint\u2019s network and operations into our network and operations, including intellectual property and communications systems, administrative and\n      information technology infrastructure and accounting, financial reporting and internal control systems; changes in key customers, suppliers, employees or other business relationships as a result of the consummation of the Transactions; our ability to\n      make payments on debt or to repay existing or future indebtedness when due or to comply with the covenants contained therein; adverse changes in the ratings of our debt securities or adverse conditions in the credit markets; the assumption of\n      significant liabilities, including the liabilities of Sprint, in connection with, and significant costs, including financing costs, related to, the Transactions; the risk of future material weaknesses resulting from the differences between T-Mobile\u2019s\n      and Sprint\u2019s internal controls environments as we work to integrate and align guidelines and practices; the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory approvals of the Transactions\n      including costs or difficulties related to the completion of the divestiture of Sprint\u2019s prepaid wireless businesses to DISH Network Corporation and the satisfaction of any related government commitments to such divestiture and any other commitments\n      or undertakings that we have entered into; natural disasters, public health crises, including the COVID-19 pandemic, terrorist attacks or similar incidents, and the impact that any of the foregoing may have on us and our customers and other\n      stakeholders; competition, industry consolidation and changes in the market for wireless services, which could negatively affect our ability to attract and retain customers; the effects of any future merger, investment, or acquisition involving us,\n      as well as the effects of mergers, investments or acquisitions in the technology, media and telecommunications industry; our business, investor confidence in our financial results and stock price may be adversely affected if our internal controls are\n      not effective; the effects of the material weakness in Sprint\u2019s internal controls over financial reporting or the identification of any additional material weaknesses as we complete our assessment of the Sprint control environment; breaches of our\n      and/or our third-party vendors\u2019 networks, information technology and data security, resulting in unauthorized access to customer confidential information; the inability to implement and maintain effective cyber-security measures over critical\n      business systems; challenges in implementing our business strategies or funding our operations, including payment for additional spectrum or network upgrades; the impact on our networks and business from major system and network failures;\n      difficulties in managing growth in wireless data services, including network quality; material changes in available technology and the effects of such changes, including product substitutions and deployment costs and performance; the timing, scope\n      and financial impact of our deployment of advanced network and business technologies; the occurrence of high fraud rates related to device financing, credit cards, dealers or subscriptions; our inability to retain and hire key personnel; any changes\n      in the regulatory environments in which we operate, including any increase in restrictions on the ability to operate our networks and changes in data privacy laws; unfavorable outcomes of existing or future litigation or regulatory actions, including\n      litigation or regulatory actions related to the Transactions; the possibility that we may be unable to adequately protect our intellectual property rights or be accused of infringing the intellectual property rights of others; changes in tax laws,\n      regulations and existing standards and the resolution of disputes with any taxing jurisdictions; the possibility that we may be unable to renew our spectrum licenses on attractive terms or acquire new spectrum licenses at reasonable costs and terms;\n      any disruption or failure of our third parties\u2019 (including key suppliers\u2019) provisioning of products or services; material adverse changes in labor matters, including labor campaigns, negotiations or additional organizing activity, and any resulting\n      financial, operational and/or reputational impact; changes in accounting assumptions that regulatory agencies, including the Securities and Exchange Commission, may require, which could result in an impact on earnings; ongoing purchase price\n      accounting allocations, accounting policy alignments and other adjustments and assumptions; and interests of our significant stockholders that may differ from the interests of other stockholders.\u00a0 Given these risks and uncertainties, readers are\n      cautioned not to place undue reliance on such forward-looking statements.\u00a0 We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law."
+            }
+          }
+        }
+      }
+    },
+    "74": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "75": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be\n      signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "76": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "June 26, 2020",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "Name:",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "Title:",
+              "Executive Vice President and Chief\n              Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

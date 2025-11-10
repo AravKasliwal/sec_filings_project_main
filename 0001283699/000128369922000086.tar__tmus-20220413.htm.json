@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K/A",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "title": "(Amendment No. 1)",
+              "class": "predicted header"
+            }
+          }
+        },
+        "5": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "title": "Pursuant to Section 13 or 15(d) of the",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "Date of report (Date of earliest event reported): April 13, 2022",
+              "class": "predicted header",
+              "contents": {
+                "9": {
+                  "image": {
+                    "src": "tmus-20220413_g1.jpg",
+                    "alt": "tmus-20220413_g1.jpg"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "10": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "11": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction",
+                      "(Commission File Number)",
+                      "(IRS Employer"
+                    ],
+                    [
+                      "of incorporation)",
+                      "",
+                      "Identification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "title": "(Address of principal executive offices)",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "16": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "title": "(Zip Code)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "(Former Name or Former Address, if Changed Since Last Report):",
+                  "class": "predicted header",
+                  "contents": {
+                    "20": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:"
+                    },
+                    "21": {
+                      "table": [
+                        [
+                          "\u2610",
+                          "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                        ],
+                        [
+                          "\u2610",
+                          "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                        ],
+                        [
+                          "\u2610",
+                          "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                        ],
+                        [
+                          "\u2610",
+                          "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                        ]
+                      ]
+                    },
+                    "22": {
+                      "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                    },
+                    "23": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading Symbol",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    },
+                    "24": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter)."
+                    },
+                    "25": {
+                      "text": "Emerging growth company \u2610"
+                    },
+                    "26": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "27": {
+          "title": "EXPLANATORY NOTE",
+          "class": "predicted header",
+          "contents": {
+            "28": {
+              "text": "On April 15, 2022, T-Mobile US, Inc. (the \u201cCompany\u201d) filed a Current Report on Form 8-K (the \u201cOriginal 8-K\u201d) with the U.S."
+            },
+            "29": {
+              "text": "Securities and Exchange Commission (\u201cSEC\u201d) to report that, on April 13, 2022, the Audit Committee (the \u201cAudit Committee\u201d) of the Board of Directors of the Company had dismissed PricewaterhouseCoopers LLP (\u201cPwC\u201d) and engaged Deloitte & Touche LLP (\u201cDeloitte\u201d) as the Company\u2019s independent registered public accounting firm for the fiscal year ending December 31, 2022, each effective immediately after the Company files its Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2022 with the SEC."
+            },
+            "30": {
+              "text": "This Amendment No. 1 to the Current Report on Form 8-K/A amends the Original 8-K to update the disclosures contained in the Original 8-K, and to confirm, as noted in Item 4.01 below, that PwC\u2019s dismissal as the Company\u2019s independent registered public accounting firm and the appointment of Deloitte as the Company\u2019s independent registered public accounting firm for the fiscal year ending December 31, 2022, each became effective on May 6, 2022."
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Item 4.01 \u2014 Changes in Registrant\u2019s Certifying Accountant.",
+      "standardized_title": "item4.01",
+      "class": "item",
+      "contents": {
+        "32": {
+          "text": "On May 6, 2022, PwC\u2019s dismissal as the Company\u2019s independent registered public accounting firm and the engagement of Deloitte as the Company\u2019s independent registered public accounting firm for the fiscal year ending December 31, 2022, each became effective, immediately after the Company filed its Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2022 with the SEC."
+        },
+        "33": {
+          "text": "PwC\u2019s reports on the Company\u2019s consolidated financial statements and the effectiveness of internal control over financial reporting, which were included in the Company\u2019s Annual Reports on Form 10-K for the fiscal years ended December 31, 2021 and 2020, did not contain an adverse opinion or disclaimer of opinion and were not qualified or modified as to uncertainty, audit scope or accounting principles."
+        },
+        "34": {
+          "text": "During the fiscal years ended December 31, 2021 and 2020, and the subsequent interim period through May 6, 2022, there were: (i) no disagreements within the meaning of Item 304(a)(1)(iv) of Regulation S-K between the Company and PwC on any matter of accounting principles or practices, financial statement disclosure, or auditing scope or procedure, which, if not resolved to PwC\u2019s satisfaction, would have caused PwC to make reference thereto in PwC\u2019s reports; and (ii) no \u201creportable events\u201d within the meaning of Item 304(a)(1)(v) of Regulation S-K."
+        },
+        "35": {
+          "text": "The Company provided PwC with a copy of the foregoing disclosures and requested that PwC furnish a letter addressed to the SEC stating whether or not it agrees with the foregoing disclosures. A copy of PwC\u2019s letter, dated May 6, 2022, is filed as Exhibit 16.1 hereto."
+        },
+        "36": {
+          "text": "During the fiscal years ended December 31, 2021 and 2020, and the subsequent interim period through May 6, 2022, neither the Company nor anyone on its behalf has consulted with Deloitte regarding: (i) the application of accounting principles to a specific transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company's financial statements, and neither a written report nor oral advice was provided to the Company that Deloitte concluded was an important factor considered by the Company in reaching a decision as to any accounting, auditing, or financial reporting issue\u037e (ii) any matter that was the subject of a disagreement within the meaning of Item 304(a)(1)(iv) of Regulation S-K\u037e or (iii) any \u201creportable event\u201d within the meaning of Item 304(a)(1)(v) of Regulation S-K."
+        }
+      }
+    },
+    "37": {
+      "title": "Item 9.01 \u2014 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "38": {
+          "text": "(d) Exhibits:"
+        },
+        "39": {
+          "table": [
+            [
+              "Exhibit",
+              "Description"
+            ],
+            [
+              "16.1",
+              "Letter of PricewaterhouseCoopers LLP, dated May 6, 2022"
+            ],
+            [
+              "104",
+              "Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)"
+            ]
+          ]
+        }
+      }
+    },
+    "40": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "41": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "42": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "May 6, 2022",
+              "/s/ Peter Osvaldik"
+            ],
+            [
+              "",
+              "Peter Osvaldik\nExecutive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

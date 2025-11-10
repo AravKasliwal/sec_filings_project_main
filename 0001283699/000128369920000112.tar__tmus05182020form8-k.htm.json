@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d) of the",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): May 18, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "tmuslogoa31.jpg",
+                    "alt": "tmuslogoa31.jpg"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction",
+                      "(Commission File Number)",
+                      "(I.R.S. Employer"
+                    ],
+                    [
+                      "of incorporation or organization)",
+                      "",
+                      "Identification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "title": "(Address of principal executive offices)",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "title": "(Zip Code)",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "(Former Name or Former Address, if Changed Since Last Report):",
+                  "class": "predicted header",
+                  "contents": {
+                    "19": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: "
+                    },
+                    "20": {
+                      "table": [
+                        [
+                          "\u2610",
+                          "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                        ],
+                        [
+                          "\u2610",
+                          "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                        ],
+                        [
+                          "\u2610",
+                          "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                        ],
+                        [
+                          "\u2610",
+                          "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                        ]
+                      ]
+                    },
+                    "21": {
+                      "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                    },
+                    "22": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading symbol",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    },
+                    "23": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter)."
+                    },
+                    "24": {
+                      "text": "Emerging growth company \u2610"
+                    },
+                    "25": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "title": "Item 8.01 \u2014 Other Events",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "27": {
+          "text": "As previously reported, on April 1, 2020, T-Mobile US, Inc. (\u201cT-Mobile\u201d) completed its business combination with Sprint Corporation (\u201cSprint\u201d). This Current Report on Form 8-K provides the historical financial statements of Sprint as described below."
+        },
+        "28": {
+          "title": "Sprint Audited Consolidated Financial Statements",
+          "class": "predicted header",
+          "contents": {
+            "29": {
+              "text": "Included in this Current Report on Form 8-K as Exhibit 99.1 are the historical audited consolidated balance sheets of Sprint and subsidiaries as of March 31, 2020 and 2019 and the related consolidated statements of operations, comprehensive (loss) income, cash flows, and changes in equity for each of the years in the three-year period ended March 31, 2020, together with the report of the independent auditors thereon and the notes thereto."
+            },
+            "30": {
+              "text": "Also attached hereto as Exhibit 23.1, is the consent of Deloitte & Touche LLP, the independent auditors of Sprint, related to the above referenced audited consolidated financial statements of Sprint."
+            },
+            "31": {
+              "text": "Readers are cautioned not to place undue reliance on the historical financial statements of Sprint included herewith in connection with any investments in T-Mobile.\u00a0The financial statements do not purport to represent the consolidated results of operations or consolidated financial condition of the combined company, nor do they purport to project the future consolidated results of operations or consolidated financial condition for any future period or as of any future date.\u00a0The historical financial information included herewith has not been adjusted to give effect to matters that are directly attributable to the merger of Sprint and T-Mobile which occurred subsequent to the end of the reported accounting period and the financial statements of the combined company will reflect significant differences due to purchase price accounting, accounting policy alignment and other adjustments and assumptions."
+            }
+          }
+        }
+      }
+    },
+    "32": {
+      "title": "Item 9.01 \u2014 Financial Statements and Exhibits",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "33": {
+          "text": "(d) Exhibits:"
+        },
+        "34": {
+          "table": [
+            [
+              "Exhibit",
+              "Description"
+            ],
+            [
+              "23.1",
+              "Consent of Deloitte & Touche LLP"
+            ],
+            [
+              "99.1",
+              "Historical audited consolidated balance sheets of Sprint and subsidiaries as of March 31, 2020 and 2019 and the related consolidated statements of operations, comprehensive (loss) income, cash flows, and changes in equity for each of the years in the three-year period ended March 31, 2020, together with the report of the independent auditors thereon and the notes thereto"
+            ],
+            [
+              "104",
+              "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document.)"
+            ]
+          ]
+        }
+      }
+    },
+    "35": {
+      "title": "SIGNATURE",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "36": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "37": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "May 18, 2020",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "J. Braxton Carter\nExecutive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

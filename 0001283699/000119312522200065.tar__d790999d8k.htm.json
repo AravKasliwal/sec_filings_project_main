@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): July 22, 2022",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g790999gra_sy001.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "16": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Securities registered pursuant to Section 12(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\n Symbol",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Common Stock, $0.00001 par value per share",
+                              "TMUS",
+                              "The NASDAQ Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "27": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. \u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u00a08.01 \u2013 Other Events",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "On July\u00a022, 2022, T-Mobile US, Inc. (the \u201cCompany\u201d or \u201cT-Mobile\u201d) entered into an agreement to settle a consolidated class action lawsuit asserting claims related to a 2021 criminal cyberattack involving unauthorized access to the Company\u2019s systems in which certain information about a number of the Company\u2019s current, former, and prospective customers was compromised. The lawsuit is currently pending in the U.S. District Court for the Western District of Missouri under the caption In re: T-Mobile Customer Data Security Breach Litigation, Case No. 21-md-3019-BCW.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "The proposed settlement remains subject to preliminary and final court approval. If approved by the court, under the terms of the proposed settlement, the Company would pay an aggregate of $350.0\u00a0million to fund claims submitted by class members, the legal fees of plaintiffs\u2019 counsel and the costs of administering the settlement. The Company would also commit to an aggregate incremental spend of $150.0\u00a0million for data security and related technology in 2022 and 2023.",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "The Company anticipates that, upon court approval, the settlement will provide a full release of all claims arising out of the cyberattack by class members, who do not opt out, against all defendants, including the Company, its subsidiaries and affiliates, and its directors and officers. The settlement contains no admission of liability, wrongdoing or responsibility by any of the defendants. Class\u00a0members consist of all individuals whose personal information was compromised in the breach, subject to certain exceptions set forth in the agreement. The Company believes that terms of the proposed settlement are in line with other settlements of similar types of claims.",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "Final court approval of the terms of the settlement is expected as early as December 2022 but could be delayed by appeals or other proceedings. The Company has the right to terminate the agreement under certain conditions.",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "If approved by the court, the Company anticipates this settlement of the class action, along with other settlements of separate consumer claims that have been previously completed or are currently pending, will resolve substantially all of the claims brought by the Company\u2019s current, former and prospective customers who were impacted by the 2021 cyberattack. In connection with the proposed class action settlement and the separate settlements, the Company expects to record a total pre-tax charge of approximately $400\u00a0million in the second quarter of 2022.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "This charge and the $150\u00a0million incremental spend were contemplated in the Company\u2019s previously announced financial guidance.",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "38": {
+              "title": "This communication contains certain forward-looking statements, including our projections as to the timing of final court approval of the settlement, the amount and timing of the charge relating to the proposed settlement and the timing of payments under the proposed settlement. Forward-looking information is based on management\u2019s estimates, assumptions and projections, and is subject to significant uncertainties and other factors, many of which are beyond the Company\u2019s control. Important risk factors could cause actual future results and other future events to differ materially from those currently estimated by management, including, but not limited to: obtaining court approval of the proposed settlement, the number of plaintiffs who opt-out of the proposed settlement and whether the proposed settlement is appealed.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "39": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "40": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "41": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "July\u00a022, 2022",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik\n Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

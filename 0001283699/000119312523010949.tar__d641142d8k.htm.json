@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): January\u00a019, 2023",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g641142g0120000409029.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE\u00a0US,\u00a0INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\n incorporation or organization)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "textsmall": "(Address of principal executive offices)"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "textsmall": "(Zip Code)"
+                }
+              }
+            },
+            "17": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "19": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "25": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "29": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\nSymbol",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "30": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "31": {
+                  "title": "Emerging growth company\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "32": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item\u00a08.01 \u2014 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "34": {
+          "title": "On January\u00a05, 2023, T-Mobile US, Inc. (the \u201cCompany,\u201d \u201cwe,\u201d or \u201cour\u201d) identified that a bad actor was obtaining data through a single Application Programming Interface (\u201cAPI\u201d) without authorization. We promptly commenced an investigation with external cybersecurity experts and within a day of learning of the malicious activity, we were able to trace the source of the malicious activity and stop it. Our investigation is still ongoing, but the malicious activity appears to be fully contained at this time, and there is currently no evidence that the bad actor was able to breach or compromise our systems or our network.",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "Our systems and policies prevented the most sensitive types of customer information from being accessed, and as a result, based on our investigation to date, customer accounts and finances were not put at risk directly by this event. The API abused by the bad actor does not provide access to any customer payment card information (PCI), social security numbers/tax IDs, driver\u2019s license or other government ID numbers, passwords/PINs or other financial account information, so none of this information was exposed. Rather, the impacted API is only able to provide a limited set of customer account data, including name, billing address, email, phone number, date of birth, T-Mobile account number and information such as the number of lines on the account and plan features. The preliminary result from our investigation indicates that the bad actor(s) obtained data from this API for approximately 37\u00a0million current postpaid and prepaid customer accounts, though many of these accounts did not include the full data set.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "We currently believe that the bad actor first retrieved data through the impacted API starting on or around November\u00a025, 2022. We are continuing to diligently investigate the unauthorized activity. In addition, we have notified certain federal agencies about the incident, and we are concurrently working with law enforcement. Additionally, we have begun notifying customers whose information may have been obtained by the bad actor in accordance with applicable state and federal requirements.",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "As we have previously disclosed, in 2021, we commenced a substantial multi-year investment working with leading external cybersecurity experts to enhance our cybersecurity capabilities and transform our approach to cybersecurity. We have made substantial progress to date, and protecting our customers\u2019 data remains a top priority. We will continue to make substantial investments to strengthen our cybersecurity program.",
+          "class": "predicted header"
+        },
+        "38": {
+          "title": "We may incur significant expenses in connection with this incident.",
+          "class": "predicted header"
+        },
+        "39": {
+          "title": "Although we are unable to predict the full impact of this incident on customer behavior in the future, including whether a change in our customers\u2019 behavior could negatively impact our results of operations on an ongoing basis, we presently do not expect that it will have a material effect on the Company\u2019s operations.",
+          "class": "predicted header"
+        },
+        "40": {
+          "title": "Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "41": {
+              "title": "This Current Report on Form\u00a08-K\u00a0includes forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements. These forward-looking statements are generally identified by the words \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties and may cause actual results to differ materially from the forward-looking statements. In particular, the preliminary nature of our investigation into this cyber incident, which is still ongoing, may uncover additional facts presently not known to us, which may cause us to reassess the impacts and scope of the cyber incident on our customers and on the Company\u2019s business and operations. Further, our ability to fully assess and remedy the cybersecurity incident, and the legal, reputational and financial risks resulting from this or other cyber incidents, could also cause our results to differ materially from the forward-looking statements made above. Other important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking statements include, among others, the following: natural disasters, public health crises, including adverse impact caused by the COVID-19 pandemic; competition, industry consolidation and changes in the market for wireless services; disruption, data loss or other security breaches, such as the criminal cyberattack we became aware of in August 2021 and including risks related to the cybersecurity incident discussed above; our inability to take advantage of technological developments on a timely basis; our inability to retain or motivate key personnel, hire qualified personnel or maintain our corporate culture; system failures and business disruptions, allowing for unauthorized use of or interference with our network",
+              "class": "predicted header"
+            },
+            "42": {
+              "title": "and other systems; the scarcity and cost of additional wireless spectrum, and regulations relating to spectrum use; the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory proceedings and approvals of the Transactions (as defined below), including the acquisition by DISH Network Corporation (\u201cDISH\u201d) of the prepaid wireless business operated under the Boost Mobile and Sprint prepaid brands (excluding the Assurance brand Lifeline customers and the prepaid wireless customers of Shentel and Swiftel Communications, Inc.), including customer accounts, inventory, contracts, intellectual property and certain other specified assets (the \u201cPrepaid Business\u201d), and the assumption of certain related liabilities (collectively, the \u201cPrepaid Transaction\u201d), the complaint and proposed final judgment (the \u201cConsent Decree\u201d) agreed to by us, Deutsche Telekom AG (\u201cDT\u201d), Sprint Corporation, now known as Sprint LLC (\u201cSprint\u201d), SoftBank Group Corp. (\u201cSoftBank\u201d) and DISH with the U.S. District Court for the District of Columbia, which was approved by the Court on April\u00a01, 2020, the proposed commitments filed with the Secretary of the Federal Communications Commission (\u201cFCC\u201d), which we announced on May\u00a020, 2019, certain national security commitments and undertakings, and any other commitments or undertakings entered into, including but not limited to, those we have made to certain states and nongovernmental organizations (collectively, the \u201cGovernment Commitments\u201d), and the challenges in satisfying the Government Commitments in the required time frames and the significant cumulative costs incurred in tracking and monitoring compliance; adverse economic, political or market conditions in the U.S. and international markets, including those caused by the COVID-19 pandemic; our inability to manage the ongoing commercial and transition services arrangements entered into in connection with the Prepaid Transaction, and known or unknown liabilities arising in connection therewith; the timing and effects of any future acquisition, disposition, investment, or merger involving us; any disruption or failure of our third parties (including key suppliers) to provide products or services for the operation of our business; our substantial level of indebtedness and our inability to service our debt obligations in accordance with their terms or to comply with the restrictive covenants contained therein; changes in the credit market conditions, credit rating downgrades or an inability to access debt markets; restrictive covenants including the agreements governing our indebtedness and other financings; the risk of future material weaknesses we may identify while we continue to work to integrate the two companies following the Transactions, or any other failure by us to maintain effective internal controls, and the resulting significant costs and reputational damage; any changes in regulations or in the regulatory framework under which we operate; laws and regulations relating to the handling of privacy and data protection; unfavorable outcomes and increased costs from existing or future legal proceedings, including these proceedings and inquiries relating to the criminal cyberattack we became aware of in August 2021; the possibility that we may be unable to adequately protect our intellectual property rights or be accused of infringing the intellectual property rights of others; our offering of regulated financial services products and exposure to a wide variety of state and federal regulations; new or amended tax laws or regulations or administrative interpretations and judicial decisions affecting the scope or application of tax laws or regulations; our exclusive forum provision as provided in our Certificate of Incorporation; interests of our significant stockholders that may differ from the interests of other stockholders; future sales of our common stock by DT and SoftBank and our inability to attract additional equity financing outside the United States due to foreign ownership limitations by the FCC; our stock repurchase program may not be fully consummated, and may not enhance long-term stockholder value; failure to realize the expected benefits and synergies of the merger with Sprint, pursuant to the Business Combination Agreement with Sprint and the other parties named therein (as amended, the \u201cBusiness Combination Agreement\u201d) and the other transactions contemplated by the Business Combination Agreement (collectively, the \u201cTransactions\u201d) in the expected time frames or in the amounts anticipated; any delay and costs of, or difficulties in, integrating our business and Sprint\u2019s business and operations, and unexpected additional operating costs, customer loss and business disruptions, including challenges in maintaining relationships with employees, customers, suppliers or vendors; unanticipated difficulties, disruption, or significant delays in our long-term strategy to migrate Sprint\u2019s legacy customers onto T-Mobile\u2019s existing billing platforms; and other risks as disclosed in our most recent annual report on Form 10-K, 10-Q and other filings with the Securities and Exchange Commission. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "43": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "44": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "45": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "January\u00a019, 2023",
+                  "/S/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

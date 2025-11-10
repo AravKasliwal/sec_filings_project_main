@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): September 12, 2024",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g864102g0913085750326.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street",
+                      ""
+                    ],
+                    [
+                      "Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "16": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\nSymbol(s)",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Common Stock, $0.00001 par value per share",
+                              "TMUS",
+                              "The NASDAQ Stock Market LLC"
+                            ],
+                            [
+                              "3.550% Senior Notes due 2029",
+                              "TMUS29",
+                              "The NASDAQ Stock Market LLC"
+                            ],
+                            [
+                              "3.700% Senior Notes due 2032",
+                              "TMUS32",
+                              "The NASDAQ Stock Market LLC"
+                            ],
+                            [
+                              "3.850% Senior Notes due 2036",
+                              "TMUS36",
+                              "The NASDAQ Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "27": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "Emerging growth company \u2610",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act. \u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item 5.02 \u2014 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": ". ",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "On September\u00a012, 2024,\u00a0T-Mobile\u00a0US, Inc.\u00a0(\u201cT-Mobile\u201d\u00a0or the \u201cCompany\u201d) entered into a compensation letter agreement (the \u201cLetter Agreement\u201d) with Peter Osvaldik, its Executive Vice President and Chief Financial Officer, that provides for his continued employment with the Company. The material terms of the Letter Agreement are described below.",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "Mr.\u00a0Osvaldik\u2019s employment under the Letter Agreement will continue until July\u00a02, 2026 (the \u201cExpiration Date\u201d). The Company may extend the term of Mr.\u00a0Osvaldik\u2019s employment under the Letter Agreement by providing him with written notice no later than 30 days prior to the Expiration Date, and Mr.\u00a0Osvaldik will have 30 days to accept or decline the offer. If the Company does not provide Mr.\u00a0Osvaldik with such an extension offer or Mr.\u00a0Osvaldik does not timely accept such offer, then Mr.\u00a0Osvaldik\u2019s employment with the Company will terminate on the Expiration Date (a \u201cNon-Extension Termination\u201d).",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "Pursuant to the Letter Agreement, Mr.\u00a0Osvaldik is entitled to (i)\u00a0an annual base salary of no less than $975,000; (ii)\u00a0an annual short-term cash incentive (\u201cSTI\u201d) targeted at no less than 200% of Mr.\u00a0Osvaldik\u2019s eligible base earnings for the applicable calendar year, payable based on the attainment of\u00a0pre-established\u00a0performance\u00a0goals; and (iii)\u00a0annual long-term incentive (\u201cLTI\u201d) awards with an aggregate grant-date target value of no less than 250% of the sum of Mr.\u00a0Osvaldik\u2019s annual base salary and his target STI for the applicable calendar year.",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "The Letter Agreement provides that if Mr.\u00a0Osvaldik\u2019s employment terminates due to a Non-Extension Termination, then, subject to his timely execution\u00a0and\u00a0non-revocation\u00a0of\u00a0a release of claims and continued compliance with applicable restrictive covenants and cooperation obligations, he will be entitled to receive:",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "a lump-sum payment, in cash and/or shares of Company common stock (as determined by the Company), equal to (i) 2.5x the target grant-date value of Mr.\u00a0Osvaldik\u2019s performance-based LTI award that was granted to him on July\u00a05, 2023 (the \u201c2023 Special PRSU Award\u201d), as disclosed in the Company\u2019s annual Proxy Statement filed with the Securities and Exchange Commission on April\u00a026, 2024 (the \u201cTarget Grant-Date Value\u201d), minus (ii)\u00a0the aggregate dollar value of the portion of the 2023 Special PRSU Award that vests as of July\u00a01, 2026 (determined based on the Company\u2019s closing stock price on such vesting date); provided, that in no event will such payment exceed $10,000,000;",
+          "class": "predicted header"
+        },
+        "38": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "39": {
+          "title": "Company-paid health and dental benefit coverage for up to 18\u00a0months following such termination; and",
+          "class": "predicted header"
+        },
+        "40": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "41": {
+          "title": "continued eligibility for\u00a0T-Mobile\u2019s\u00a0employee mobile service discount program.",
+          "class": "predicted header"
+        },
+        "42": {
+          "title": "If Mr.\u00a0Osvaldik\u2019s employment is terminated by\u00a0T-Mobile\u00a0without \u201ccause\u201d or by Mr.\u00a0Osvaldik for \u201cgood reason\u201d (each as defined in the Letter Agreement) (each, a \u201cqualifying termination\u201d) prior to July\u00a02, 2026, then, subject to his timely execution\u00a0and\u00a0non-revocation\u00a0of\u00a0a release of claims and continued compliance with applicable restrictive covenants and cooperation obligations, he will be entitled to receive:",
+          "class": "predicted header"
+        },
+        "43": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "44": {
+          "title": "a lump-sum payment, in cash and/or shares of Company common stock (as determined by the Company), equal to (i)\u00a0a pro-rated portion of the 2.5x the Target Grant-Date Value (based on the number of days that he was employed during the period beginning on the 2023 Special PRSU Award grant date and ending on the date of the qualifying termination), minus (ii)\u00a0the aggregate dollar value of the portion of the 2023 Special PRSU Award that vests in connection with Mr.\u00a0Osvaldik\u2019s qualifying termination pursuant to the Letter Agreement (as described below and determined based on the Company\u2019s closing stock price on such termination date); provided, that in no event will such payment exceed a pro-rated portion of $10,000,000 (based on the number of days that he was employed during the period beginning on the 2023 Special PRSU Award grant date and ending on the date of the qualifying termination);",
+          "class": "predicted header"
+        },
+        "45": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "46": {
+          "title": "Company-paid health and dental benefit coverage for up to 18\u00a0months following such termination;",
+          "class": "predicted header"
+        },
+        "47": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "48": {
+          "title": "continued eligibility for\u00a0T-Mobile\u2019s\u00a0employee mobile service discount program; and",
+          "class": "predicted header"
+        },
+        "49": {
+          "title": "\u2022",
+          "class": "predicted header"
+        },
+        "50": {
+          "title": "if the qualifying termination occurs prior to July\u00a01, 2026, a portion of the 2023 Special PRSU Award will vest, determined by multiplying (x)\u00a0the total number of shares or units, as applicable, subject to such award that would, absent Mr.\u00a0Osvaldik\u2019s termination of employment, become earned and vested based on actual performance attained during the performance period ending on the last day of the Company\u2019s fiscal quarter ending immediately prior to the termination date by (y)\u00a0a fraction, the numerator of which is the number of days between the grant date and the date of such termination, and the denominator of which is the number of days in the full performance period.",
+          "class": "predicted header"
+        },
+        "51": {
+          "title": "Under the Letter Agreement, upon Mr.\u00a0Osvaldik\u2019s termination due to a Non-Extension Termination or due to a qualifying termination at any time during the term of the Letter Agreement, Mr.\u00a0Osvaldik will forfeit any outstanding and unvested LTI awards (after taking into account the accelerated vesting of the 2023 Special PRSU Award noted above), as well as his STI award for the calendar year of termination.",
+          "class": "predicted header"
+        },
+        "52": {
+          "title": "In addition, (i)\u00a0the incentive compensation provided to Mr.\u00a0Osvaldik under the Letter Agreement is subject to recovery by the Company in accordance with the Company\u2019s Amended and Restated Executive Incentive Compensation Recoupment Policy or any other Company clawback or recoupment policy; and (ii)\u00a0to the extent that any payment or benefit received by Mr.\u00a0Osvaldik pursuant to the Letter Agreement or otherwise would be subject to an excise tax under Internal Revenue Code Section\u00a04999, such payments and/or benefits will be subject to a \u201cbest pay cap\u201d reduction if such reduction would result in a greater\u00a0net\u00a0after-tax\u00a0benefit\u00a0to Mr.\u00a0Osvaldik than receiving the full amount of such payments.",
+          "class": "predicted header"
+        },
+        "53": {
+          "title": "The foregoing description of the Letter Agreement with Mr.\u00a0Osvaldik is qualified in its entirety by the full text of the Letter Agreement, a copy of which will be subsequently filed with the Securities and Exchange Commission.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "54": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "55": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "56": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "September\u00a013, 2024",
+                  "/s/ Mark Nelson"
+                ],
+                [
+                  "",
+                  "Mark Nelson"
+                ],
+                [
+                  "",
+                  "Executive Vice President and General Counsel"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

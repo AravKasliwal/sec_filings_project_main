@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): March 15, 2022",
+              "class": "predicted header"
+            }
+          }
+        },
+        "8": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "9": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\n of Incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "11": {
+                  "table": [
+                    [
+                      "208 S. Akard St., Dallas, Texas",
+                      "75202"
+                    ],
+                    [
+                      "(Address of Principal Executive Offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "Registrant\u2019s telephone number, including area code (210) 821-4105",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report)"
+                },
+                "14": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):",
+                  "class": "predicted header"
+                },
+                "15": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "23": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "24": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n Symbol(s)",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common\u00a0Shares\u00a0(Par\u00a0Value\u00a0$1.00\u00a0Per\u00a0Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December\u00a017, 2021",
+                      "T21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June\u00a01, 2022",
+                      "T22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March\u00a015, 2023",
+                      "T23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May\u00a019, 2023",
+                      "T23C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September\u00a05, 2023",
+                      "T23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September\u00a05, 2023",
+                      "T23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September\u00a05, 2023",
+                      "T23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September\u00a015, 2023",
+                      "T23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March\u00a015, 2024",
+                      "T24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December\u00a017, 2025",
+                      "T25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March\u00a04, 2026",
+                      "T26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a05, 2026",
+                      "T26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December\u00a04, 2026",
+                      "T26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May\u00a019, 2028",
+                      "T28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September\u00a05, 2029",
+                      "T29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September\u00a014, 2029",
+                      "T29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December\u00a017, 2029",
+                      "T29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March\u00a04, 2030",
+                      "T30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May\u00a019, 2032",
+                      "T32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December\u00a017, 2032",
+                      "T32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November\u00a018, 2033",
+                      "T33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March\u00a015, 2034",
+                      "T34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March\u00a015, 2035",
+                      "T35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September\u00a04, 2036",
+                      "T36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May\u00a019, 2038",
+                      "T38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September\u00a014, 2039",
+                      "T39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April\u00a030, 2040",
+                      "T40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June\u00a01, 2043",
+                      "T43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June\u00a01, 2044",
+                      "T44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June\u00a01, 2049",
+                      "T49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March\u00a01, 2050",
+                      "T50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September\u00a01, 2050",
+                      "T50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November\u00a01, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August\u00a01, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "25": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "Emerging growth company\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "28": {
+              "title": "Introductory Note.",
+              "class": "predicted header",
+              "contents": {
+                "29": {
+                  "title": "As previously announced, on May\u00a017, 2021, AT&T Inc., a Delaware corporation (\u201cAT&T\u201d), and Magallanes, Inc., a Delaware corporation and wholly owned subsidiary of AT&T (\u201cSpinco\u201d), entered into certain definitive agreements with Discovery, Inc., a Delaware corporation (\u201cDiscovery\u201d), and Drake Subsidiary, Inc., a Delaware corporation and wholly owned subsidiary of Discovery (\u201cMerger Sub\u201d), including an Agreement and Plan of Merger (as amended, the \u201cMerger Agreement\u201d), in connection with the planned transactions involving the separation of the WarnerMedia business from AT&T followed by the combination of WarnerMedia with Discovery (the\u00a0\u201cTransactions\u201d). Following the completion of the Transactions, holders of the shares of AT&T common stock will own approximately 71% of the outstanding capital stock of Discovery, which will be renamed Warner Bros. Discovery, Inc. (\u201cWBD\u201d), on a fully diluted basis (computed using the treasury method).",
+                  "class": "predicted header"
+                },
+                "30": {
+                  "title": "Under the terms of the Merger Agreement,\u00a0as of the closing of the Transactions (the \u201cEffective Time\u201d), the board of directors of WBD (the \u201cWBD Board\u201d) will consist of 13 directors, consisting of six directors designated by Discovery (including the Chief Executive Officer of WBD as of immediately after the Effective Time) and seven directors designated by AT&T (including the director who will serve as the Chairperson of the WBD Board). As of the Effective Time, the WBD Board will be classified into three classes designated as Class\u00a0I, Class\u00a0II and Class\u00a0III.",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Item\u00a05.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "32": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "33": {
+              "title": "In connection with being designated by AT&T to serve on the WBD Board as of the Effective Time, Samuel A. Di Piazza, Jr., Debra L. Lee and Geoffrey Y. Yang will resign from their respective positions as directors of AT&T effective as of immediately following the Effective Time, subject to and conditioned upon the occurrence of the consummation of the Transactions and being appointed to the WBD Board.",
+              "class": "predicted header"
+            },
+            "34": {
+              "title": "The information set forth under the Introductory Note of this Current Report on Form 8-K is incorporated into this Item 5.02 by reference.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "35": {
+      "title": "Item\u00a07.01",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "36": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "37": {
+              "title": "On March 15, 2022, AT&T issued a press release announcing the individuals designated by AT&T to serve on the WBD Board effective as of the Effective Time. A copy of the press release is furnished as Exhibit 99.1 hereto and, along with the information set forth under the Introductory Note, is incorporated herein by reference.",
+              "class": "predicted header"
+            },
+            "38": {
+              "title": "The information in this Item 7.01, including the exhibit attached hereto, shall not be deemed \u201cfiled\u201d for purposes of Section\u00a018 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference in any filing by AT&T under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference in such filing.",
+              "class": "predicted header"
+            }
+          }
+        },
+        "39": {
+          "title": "Statement Concerning Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "title": "Information set forth in this communication, including any financial estimates and statements as to the expected timing, completion and effects of the proposed transaction between AT&T, Spinco, and Discovery constitute forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These estimates and statements are subject to risks and uncertainties, and actual results might differ materially. Such estimates and statements include, but are not limited to, statements about the benefits of the transaction, including future financial and operating results, the combined Spinco and Discovery company\u2019s plans, objectives, expectations and intentions, and other statements that are not historical facts. Such statements are based upon the current beliefs and expectations of the management of AT&T and Discovery and are subject to significant risks and uncertainties outside of our control.",
+              "class": "predicted header"
+            },
+            "41": {
+              "title": "Among the risks and uncertainties that could cause actual results to differ from those described in the forward-looking statements are the following: the occurrence of any event, change or other circumstances that could give rise to the termination of the proposed transaction; the risk that the necessary regulatory approvals may not be obtained or may be obtained subject to conditions that are not anticipated; risks that any of the other closing conditions to the proposed transaction may not be satisfied in a timely manner; risks that the anticipated tax treatment of the proposed transaction is not obtained; risks related to litigation brought in connection with the proposed transaction; uncertainties as to the timing of the consummation of the proposed transaction; risks and costs related to the implementation of the separation of Spinco, including timing anticipated to complete the separation, any changes to the configuration of the businesses included in the separation if implemented; the risk that the integration of Discovery and Spinco being more difficult, time consuming or costly than expected; risks related to financial community and rating agency perceptions of each of AT&T and Discovery and its business, operations, financial condition and the industry in which it operates; risks related to disruption of management time from ongoing business operations due to the proposed merger; failure to realize the benefits expected from the proposed merger; effects of the announcement, pendency or completion of the proposed merger on the ability of AT&T, Spinco or Discovery to retain customers and retain and hire key personnel and maintain relationships with their suppliers, and on their operating results and businesses generally; and risks related to the potential impact of general economic, political and market factors on the companies or the proposed transaction. The effects of the COVID-19 pandemic may give rise to risks that are currently unknown or amplify the risks associated with the foregoing factors.",
+              "class": "predicted header"
+            },
+            "42": {
+              "title": "These risks, as well as other risks associated with the proposed transaction, are more fully discussed in the proxy statement/prospectus and information statement included in the registration statements filed with the SEC in connection with the proposed transaction. Discussions of additional risks and uncertainties are contained in AT&T\u2019s and Discovery\u2019s filings with the Securities and Exchange Commission. Neither AT&T nor Discovery is under any obligation, and each expressly disclaims any obligation, to update, alter, or otherwise revise any forward-looking statements, whether written or oral, that may be made from time to time, whether as a result of new information, future events, or otherwise. Persons reading this announcement are cautioned not to place undue reliance on these forward-looking statements which speak only as of the date hereof.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "43": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "44": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "45": {
+              "title": "The following exhibits are furnished as part of this report:",
+              "class": "predicted header"
+            },
+            "46": {
+              "title": "(d)",
+              "class": "predicted header"
+            },
+            "47": {
+              "title": "Exhibits",
+              "class": "predicted header",
+              "contents": {
+                "48": {
+                  "table": [
+                    [
+                      "99.1",
+                      "Press Release of AT&T, Inc., dated March\u00a015, 2022."
+                    ],
+                    [
+                      "104",
+                      "The cover page from AT&T Inc.\u2019s Current Report on Form 8-K, formatted in Inline XBRL"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "49": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "50": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "51": {
+              "table": [
+                [
+                  "",
+                  "AT&T INC.",
+                  "AT&T INC."
+                ],
+                [
+                  "Date: March\u00a015, 2022",
+                  "By:",
+                  "/s/ Stacey Maris"
+                ],
+                [
+                  "",
+                  "",
+                  "Stacey Maris"
+                ],
+                [
+                  "",
+                  "",
+                  "Senior Vice President, Deputy General Counsel and\n Secretary"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

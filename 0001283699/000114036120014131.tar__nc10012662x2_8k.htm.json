@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED\n\n\n        STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): June 18, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "nc10012662x2_8kimg001.jpg",
+                    "alt": "graphic"
+                  }
+                }
+              }
+            },
+            "9": {
+              "title": "T-Mobile US, Inc.",
+              "class": "predicted header"
+            },
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\n\n            incorporation or organization)",
+                      "(Commission\n\n            File Number)",
+                      "(I.R.S. Employer\n\n            Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street",
+                      ""
+                    ],
+                    [
+                      "Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header"
+            },
+            "14": {
+              "title": "(Former Name or Former Address, if Changed Since Last Report):",
+              "class": "predicted header",
+              "contents": {
+                "15": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the\n      following provisions (see General Instructions A.2. below):"
+                },
+                "16": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "17": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "20": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "21": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n            Symbol(s)",
+                      "Name of each exchange\n\n            on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "22": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or\n      Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "23": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "24": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or\n      revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "25": {
+      "title": "Item 8.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Other\n\n\n        Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "26": {
+          "title": "Proposed Private Placement of Senior Secured Notes",
+          "class": "predicted header",
+          "contents": {
+            "27": {
+              "text": "On June 18, 2020, T-Mobile US, Inc. (the \u201cCompany\u201d) issued a press release announcing that T-Mobile USA, Inc., its direct wholly-owned\n        subsidiary, plans to offer, subject to market and other conditions, senior secured notes (the \u201cNotes\u201d) in a private debt offering (the \u201cPrivate Placement\u201d) pursuant to an exemption from the registration requirements of the Securities Act of 1933,\n        as amended (the \u201cSecurities Act\u201d)."
+            },
+            "28": {
+              "text": "The Notes will be offered and sold only to persons reasonably believed to be qualified institutional buyers in reliance on Rule 144A\n        and in offshore transactions pursuant to Regulation S under the Securities Act.\u00a0 The Notes and related guarantees will not be registered under the Securities Act or any state securities laws and may not be offered or sold in the United States\n        absent registration or an applicable exemption from registration requirements."
+            },
+            "29": {
+              "text": "The press release announcing the Private Placement was issued in accordance with Rule 135c under the Securities Act. A copy of the\n        press release announcing the offering of the Notes is attached as Exhibit 99.1 and incorporated by reference into this Item 8.01."
+            },
+            "30": {
+              "text": "This Current Report on Form 8-K does not constitute an offer to sell or the solicitation of an offer to buy the Notes, the guarantees\n        or any other securities, nor shall it constitute an offer to sell, solicitation or sale in any jurisdiction in which such offer, solicitation or sale would be unlawful.\u00a0 Any offers of the Notes would be made only by means of a confidential offering\n        memorandum."
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Item 9.01.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "32": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "(d)\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+          "class": "predicted header",
+          "contents": {
+            "34": {
+              "title": "Exhibits",
+              "class": "predicted header",
+              "contents": {
+                "35": {
+                  "table": [
+                    [
+                      "EXHIBIT\n\n            NUMBER",
+                      "DESCRIPTION"
+                    ],
+                    [
+                      "99.1",
+                      "Press Release, dated June 18, 2020, entitled \u201cT-Mobile Announces Proposed Offering of Senior Secured Notes\u201d"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "36": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "37": {
+              "text": "The information contained in this Current Report on Form 8-K includes forward-looking statemnts within the meaning of the Private Securities Litigation\n        Reform Act of 1995. All statements, other than statements of historical fact, including information concerning plans and expectations with regard to the Private Placement, are forward-looking statements. These forward-looking statements are\n        generally identified by the words \u201canticipate\u201d, \u201cbelieve\u201d, \u201cestimate\u201d, \u201cexpect\u201d, \u201cintend\u201d, \u201cmay\u201d, \u201ccould\u201d or similar expressions.\u00a0 Forward-looking statements are based on current expectations and assumptions, which are subject to risks and\n        uncertainties and may cause actual results to differ materially from the forward-looking statements.\u00a0 Important factors that could affect future results and cause those results to differ materially from those expressed in the forward-looking\n        statements include, among others, the following: the failure to realize the expected benefits and synergies of the merger with Sprint, pursuant to the Business Combination Agreement with Sprint and the other parties named therein (as amended, the\n        \u201cBusiness Combination Agreement\u201d) and the other transactions contemplated by the Business Combination Agreement (collectively, the \u201cTransactions\u201d) in the expected timeframes, in part or at all; adverse economic, political or market conditions in\n        the U.S. and international markets, including those caused by the COVID-19 pandemic; costs of or difficulties in integrating Sprint\u2019s network and operations into our network and operations, including intellectual property and communications\n        systems, administrative and information technology infrastructure and accounting, financial reporting and internal control systems; changes in key customers, suppliers, employees or other business relationships as a result of the consummation of\n        the Transactions; our ability to make payments on debt or to repay existing or future indebtedness when due or to comply with the covenants contained therein; adverse changes in the ratings of our debt securities or adverse conditions in the credit\n        markets; the assumption of significant liabilities, including the liabilities of Sprint, in connection with, and significant costs, including financing costs, related to, the Transactions; the risk of future material weaknesses resulting from the\n        differences between T-Mobile\u2019s and Sprint\u2019s internal controls environments as we work to integrate and align guidelines and practices; the impacts of the actions we have taken and conditions we have agreed to in connection with the regulatory\n        approvals of the Transactions including costs or difficulties related to the completion of the divestiture of Sprint\u2019s prepaid wireless businesses to DISH Network Corporation and the satisfaction of any related government commitments to such\n        divestiture and any other commitments or undertakings that we have entered into; natural disasters, public health crises, including the COVID-19 pandemic, terrorist attacks or similar incidents, and the impact that any of the foregoing may have on\n        us and our customers and other stakeholders; competition, industry consolidation and changes in the market for wireless services, which could negatively affect our ability to attract and retain customers; the effects of any future merger,\n        investment, or acquisition involving us, as well as the effects of mergers, investments or acquisitions in the technology, media and telecommunications industry; our business, investor confidence in our financial results and stock price may be\n        adversely affected if our internal controls are not effective; the effects of the material weakness in Sprint\u2019s internal controls over financial reporting or the identification of any additional material weaknesses as we complete our assessment of\n        the Sprint control environment; breaches of our and/or our third-party vendors\u2019 networks, information technology and data security, resulting in unauthorized access to customer confidential information; the inability to implement and maintain\n        effective cyber-security measures over critical business systems; challenges in implementing our business strategies or funding our operations, including payment for additional spectrum or network upgrades; the impact on our networks and business\n        from major system and network failures; difficulties in managing growth in wireless data services, including network quality; material changes in available technology and the effects of such changes, including product substitutions and deployment\n        costs and performance; the timing, scope and financial impact of our deployment of advanced network and business technologies; the occurrence of high fraud rates related to device financing, credit cards, dealers or subscriptions; our inability to\n        retain and hire key personnel; any changes in the regulatory environments in which we operate, including any increase in restrictions on the ability to operate our networks and changes in data privacy laws; unfavorable outcomes of existing or\n        future litigation or regulatory actions, including litigation or regulatory actions related to the Transactions; the possibility that we may be unable to adequately protect our intellectual property rights or be accused of infringing the\n        intellectual property rights of others; changes in tax laws, regulations and existing standards and the resolution of disputes with any taxing jurisdictions; the possibility that we may be unable to renew our spectrum licenses on attractive terms\n        or acquire new spectrum licenses at reasonable costs and terms; any disruption or failure of our third parties\u2019 (including key suppliers\u2019) provisioning of products or services; material adverse changes in labor matters, including labor campaigns,\n        negotiations or additional organizing activity, and any resulting financial, operational and/or reputational impact; changes in accounting assumptions that regulatory agencies, including the Securities and Exchange Commission, may require, which\n        could result in an impact on earnings; ongoing purchase price accounting allocations, accounting policy alignments and other adjustments and assumptions; and interests of our significant stockholders that may differ from the interests of other\n        stockholders. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements.\u00a0 We undertake no obligation to revise or publicly release the results of any revision to these forward-looking\n        statements, except as required by law."
+            }
+          }
+        }
+      }
+    },
+    "38": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "39": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its\n      behalf by the undersigned hereunto duly authorized."
+        },
+        "40": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "Date:\u00a0 June 18, 2020",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

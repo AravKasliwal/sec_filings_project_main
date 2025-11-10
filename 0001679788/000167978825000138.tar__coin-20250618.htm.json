@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "table": []
+        },
+        "1": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "4": {
+              "table": []
+            }
+          }
+        },
+        "5": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "6": {
+              "table": []
+            }
+          }
+        },
+        "7": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "8": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of Report (Date of earliest event reported): June 18, 2025",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "table": []
+                }
+              }
+            },
+            "11": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "12": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "13": {
+                      "table": []
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "table": [
+                        [
+                          "One Madison Avenue",
+                          ""
+                        ],
+                        [
+                          "Suite 2400",
+                          ""
+                        ],
+                        [
+                          "New York, NY",
+                          "10010"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "16": {
+                      "title": "Not Applicable",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            },
+            "17": {
+              "title": "(1)",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "title": "(Registrant\u2019s telephone number, including area code)",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "19": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "20": {
+                  "title": "(Former name or former address, if changed since last report)",
+                  "class": "predicted header",
+                  "contents": {
+                    "21": {
+                      "table": []
+                    },
+                    "22": {
+                      "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                    },
+                    "23": {
+                      "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "26": {
+                      "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header",
+                      "contents": {
+                        "27": {
+                          "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                        },
+                        "28": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading Symbol(s)",
+                              "Name of each exchange on which registered"
+                            ],
+                            [
+                              "Class\u00a0A common stock, $0.00001 par value",
+                              "COIN",
+                              "The Nasdaq Stock Market LLC"
+                            ]
+                          ]
+                        },
+                        "29": {
+                          "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                        },
+                        "30": {
+                          "text": "(1) We are a remote-first company. Accordingly, we do not maintain a headquarters. We are including this address solely for the purpose of satisfying the Securities and Exchange Commission\u2019s request. Stockholder communications may also be sent to the email address: secretary@coinbase.com. "
+                        },
+                        "31": {
+                          "text": "Emerging growth company\u00a0\u00a0\u2610"
+                        },
+                        "32": {
+                          "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item 5.07. Submission of Matters to a Vote of Security Holders.",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "34": {
+          "text": "On June 18, 2025, Coinbase Global, Inc. (the \u201cCompany\u201d) held its 2025 annual meeting of stockholders (the \u201cAnnual Meeting\u201d). The Company\u2019s stockholders voted on three proposals at the Annual Meeting, each of which is described below as well as more fully in the Company\u2019s definitive proxy statement filed with the Securities and Exchange Commission on April 25, 2025 (the \u201cProxy Statement\u201d). Holders of the Company\u2019s Class A common stock were entitled to one vote for each share held as of the close of business on April 21, 2025 (the \u201cRecord Date\u201d), and holders of the Company\u2019s Class B common stock were entitled to twenty votes for each share held as of the close of business on the Record Date. The Class A common stock and Class B common stock voted as a single class on all matters at the Annual Meeting."
+        },
+        "35": {
+          "text": "At the Annual Meeting, the Company\u2019s stockholders voted on the following proposals:"
+        },
+        "36": {
+          "text": "1.To elect Brian Armstrong, Marc L. Andreessen, Paul Clement, Christa Davies, Frederick Ernest Ehrsam III, Kelly A. Kramer, Chris Lehane, Tobias L\u00fctke, Gokul Rajaram, and Fred Wilson to serve until the Company\u2019s 2026 annual meeting of stockholders and until such director\u2019s successor is duly elected and qualified."
+        },
+        "37": {
+          "text": "2.To ratify the appointment of Deloitte & Touche LLP as the Company\u2019s independent registered public accounting firm for the year ending December 31, 2025."
+        },
+        "38": {
+          "text": "3.To approve, on a non-binding advisory basis, the compensation paid by the Company to its named executive officers as disclosed in the Proxy Statement."
+        },
+        "39": {
+          "text": "The final voting results for each of these proposals are as follows:"
+        },
+        "40": {
+          "table": [
+            [
+              "Proposal 1: Election of Directors.",
+              "Proposal 1: Election of Directors.",
+              "Proposal 1: Election of Directors.",
+              "Proposal 1: Election of Directors."
+            ],
+            [
+              "Nominee",
+              "Votes For",
+              "Votes Withheld",
+              "Broker Non-Votes"
+            ],
+            [
+              "Brian Armstrong",
+              "930,421,840",
+              "18,100,643",
+              "47,079,294"
+            ],
+            [
+              "Marc L. Andreessen",
+              "891,403,095",
+              "57,119,388",
+              "47,079,294"
+            ],
+            [
+              "Paul Clement",
+              "947,820,619",
+              "701,864",
+              "47,079,294"
+            ],
+            [
+              "Christa Davies",
+              "947,947,717",
+              "574,766",
+              "47,079,294"
+            ],
+            [
+              "Frederick Ernest Ehrsam III",
+              "891,077,142",
+              "57,445,341",
+              "47,079,294"
+            ],
+            [
+              "Kelly A. Kramer",
+              "944,294,176",
+              "4,228,307",
+              "47,079,294"
+            ],
+            [
+              "Chris Lehane",
+              "947,525,265",
+              "997,218",
+              "47,079,294"
+            ],
+            [
+              "Tobias L\u00fctke",
+              "947,194,927",
+              "1,327,556",
+              "47,079,294"
+            ],
+            [
+              "Gokul Rajaram",
+              "912,821,562",
+              "35,700,921",
+              "47,079,294"
+            ],
+            [
+              "Fred Wilson",
+              "938,447,742",
+              "10,074,741",
+              "47,079,294"
+            ]
+          ]
+        },
+        "41": {
+          "text": "Each of the ten nominees for director was elected to serve until the Company\u2019s 2026 annual meeting of stockholders and until his or her successor has been duly elected and qualified."
+        },
+        "42": {
+          "table": [
+            [
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm.",
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm.",
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm.",
+              "Proposal 2: Ratification of Appointment of Independent Registered Public Accounting Firm."
+            ],
+            [
+              "Votes For",
+              "Votes Against",
+              "Abstentions",
+              "Broker Non-Votes"
+            ],
+            [
+              "994,621,717",
+              "772,665",
+              "207,395",
+              "\u2014"
+            ]
+          ]
+        },
+        "43": {
+          "text": "The Company\u2019s stockholders ratified the appointment of Deloitte & Touche LLP as the Company\u2019s independent registered public accounting firm for the year ending December 31, 2025."
+        },
+        "44": {
+          "table": [
+            [
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers.",
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers.",
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers.",
+              "Proposal 3: Advisory Vote on the Compensation of the Named Executive Officers."
+            ],
+            [
+              "Votes For",
+              "Votes Against",
+              "Abstentions",
+              "Broker Non-Votes"
+            ],
+            [
+              "926,035,361",
+              "22,171,778",
+              "315,344",
+              "47,079,294"
+            ]
+          ]
+        },
+        "45": {
+          "text": "The Company\u2019s stockholders approved, on an advisory basis, the compensation paid by the Company to its named executive officers."
+        }
+      }
+    },
+    "46": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "47": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "48": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: June 25, 2025",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

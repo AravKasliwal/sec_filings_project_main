@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): August\u00a05, 2025",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g26684g35a02.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street"
+                    ],
+                    [
+                      "Bellevue, Washington"
+                    ],
+                    [
+                      "(Address of principal executive offices)"
+                    ]
+                  ]
+                },
+                "13": {
+                  "table": [
+                    [
+                      "98006-1350"
+                    ],
+                    [
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "14": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "15": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "16": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "25": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "26": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\nSymbol(s)",
+                          "Name of each exchange\non which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.550% Senior Notes due 2029",
+                          "TMUS29",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.700% Senior Notes due 2032",
+                          "TMUS32",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.150% Senior Notes due 2032",
+                          "TMUS32A",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.850% Senior Notes due 2036",
+                          "TMUS36",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.500% Senior Notes due 2037",
+                          "TMUS37",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.800% Senior Notes due 2045",
+                          "TMUS45",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "27": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7\u2009230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7\u2009240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "Emerging growth company\u2002\u2610",
+                  "class": "predicted header"
+                },
+                "29": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u2002\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u20098.01 \u2013 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "On August\u00a05, 2025, T-Mobile US, Inc. (the \u201cCompany\u201d), together with T-Mobile USA, Inc., its wholly-owned subsidiary (\u201cT-Mobile USA\u201d), settled the previously announced exchange offers and consent solicitations (the \u201cExchange Offers and Consent Solicitations\u201d), in connection with the Company\u2019s acquisition of certain assets from Array Digital Infrastructure, Inc. (formerly known as United States Cellular Corporation), which closed on August\u00a01, 2025.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "Pursuant to the settlement of the Exchange Offers and Consent Solicitations, on August\u00a05, 2025, T-Mobile USA issued $488,860,000\u00a0million in aggregate principal amount of its 6.700% Senior Notes due 2033 (the \u201c2033 Notes\u201d), $393,481,525\u00a0million in aggregate principal amount of its 6.250% Senior Notes due 2069 (the \u201c2069 Notes\u201d), $400,797,075\u00a0million in aggregate principal amount of its 5.500% Senior Notes due March 2070 (the \u201cMarch 2070 Notes\u201d) and $394,753,475\u00a0million in aggregate principal amount of its 5.500% Senior Notes due June 2070 (the \u201cJune 2070 Notes\u201d and, together with the 2033 Notes, the 2069 Notes and the March 2070 Notes, the \u201cNotes\u201d). The Notes were issued pursuant to an Indenture, dated as of September\u00a015, 2022 (the \u201cBase Indenture\u201d), among T-Mobile USA, the Company and Deutsche Bank Trust Company Americas, as trustee (the \u201cTrustee\u201d), as amended and supplemented by (i)\u00a0a Twenty-Ninth Supplemental Indenture, dated as of August\u00a05, 2025 (the \u201cTwenty-Ninth Supplemental Indenture\u201d), with respect to the 2033 Notes, (ii)\u00a0a Thirtieth Supplemental Indenture, dated as of August\u00a05, 2025 (the \u201cThirtieth Supplemental Indenture\u201d), with respect to the 2069 Notes, (iii)\u00a0a Thirty-First Supplemental Indenture, dated as of August\u00a05, 2025 (the \u201cThirty-First Supplemental Indenture\u201d), with respect to the March 2070 Notes and (iv)\u00a0a Thirty-Second Supplemental Indenture, dated as of August\u00a05, 2025 (the \u201cThirty-Second Supplemental Indenture\u201d), with respect to the June 2070 Notes (the Base Indenture, as amended and supplemented by each of the Twenty-Ninth Supplemental Indenture, the Thirtieth Supplemental Indenture, the Thirty-First Supplemental Indenture and the Thirty-Second Supplemental Indenture, each an \u201cIndenture\u201d and, collectively, the \u201cIndentures\u201d), in each case among T-Mobile USA, the Company, the other guarantors party thereto and the Trustee. The offering of the Notes was registered pursuant to a registration statement on Form S-4 that the Company, T-Mobile USA and certain guarantors filed with the U.S. Securities and Exchange Commission on May\u00a020, 2025, as amended (File No.\u00a0333-287414).",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "The 2033 Notes will bear interest at a rate of 6.700% per year and mature on December\u00a015, 2033. The 2069 Notes will bear interest at a rate of 6.250% per year and mature on September\u00a01, 2069. The March 2070 Notes will bear interest at a rate of 5.500% per year and mature on March\u00a01, 2070. The June 2070 Notes will bear interest at a rate of 5.500% per year and mature on June\u00a01, 2070. T-Mobile USA will pay interest on the 2033 Notes semi-annually in arrears on June\u00a015 and December\u00a015 of each year, commencing on December\u00a015, 2025. T-Mobile USA will pay interest on the 2069 Notes, March 2070 Notes and June 2070 Notes quarterly in arrears on March\u00a01, June\u00a01, September\u00a01 and December\u00a01 of each year, commencing on September\u00a01, 2025. The 2069 Notes, March 2070 Notes and June 2070 Notes will be listed on Nasdaq\u2019s Global Select Market and such notes are expected to trade on Nasdaq\u2019s Global Select Market on or promptly following the date hereof. T-Mobile USA does not intend to apply for the 2033 Notes to be listed on any securities exchange or to arrange for the 2033 Notes to be quoted on any quotation system.",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "T-Mobile USA\u2019s obligations under the Notes will be guaranteed on a senior unsecured basis initially by the Company and certain wholly-owned subsidiaries, subject to release under the conditions provided in the applicable Indenture.",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "The above description of the Indentures is a summary only and is subject to, and qualified entirely by, the Base Indenture, the Twenty-Ninth Supplemental Indenture, the Thirtieth Supplemental Indenture, the Thirty-First Supplemental Indenture and the Thirty-Second Supplemental Indenture, as applicable, which are filed as Exhibits 4.1, 4.2, 4.3, 4.4 and 4.5, respectively, to this Current Report on Form 8-K and incorporated by reference herein.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "On August\u00a01, 2025, the Company, together with T-Mobile USA, issued a press release announcing successful completion of the Exchange Offers and Consent Solicitations. A copy of this press release is filed as Exhibit 99.1 to this Current Report on Form 8-K and incorporated by reference herein.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "37": {
+      "title": "Item\u20099.01 - Financial Statements and Exhibits",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "38": {
+          "title": "The following exhibits are provided as part of this Current Report on Form 8-K:",
+          "class": "predicted header"
+        },
+        "39": {
+          "title": "(d) Exhibits:",
+          "class": "predicted header",
+          "contents": {
+            "40": {
+              "table": [
+                [
+                  "Exhibit",
+                  "Description"
+                ],
+                [
+                  "\u20074.1",
+                  "Indenture, dated as of September\u00a015, 2022, by and among\u00a0T-Mobile\u00a0USA, Inc., the Company and Deutsche Bank Trust Company Americas, as trustee (incorporated by reference to Exhibit\u00a04.1 to\u00a0T-Mobile\u2019s\u00a0Current Report on Form\u00a08-K\u00a0filed with the SEC on September\u00a015, 2022)."
+                ],
+                [
+                  "\u20074.2",
+                  "Twenty-Ninth Supplemental Indenture, dated as of August\u00a05, 2025, by and among\u00a0T-Mobile\u00a0USA, Inc., the guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee, relating to T-Mobile\u00a0USA, Inc.\u2019s 6.700% Senior Notes due 2033."
+                ],
+                [
+                  "\u20074.3",
+                  "Thirtieth Supplemental Indenture, dated as of August\u00a05, 2025, by and among\u00a0T-Mobile\u00a0USA, Inc., the guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee, relating to T-Mobile\u00a0USA, Inc.\u2019s 6.250% Senior Notes due 2069."
+                ],
+                [
+                  "\u20074.4",
+                  "Thirty-First Supplemental Indenture, dated as of August\u00a05, 2025, by and among\u00a0T-Mobile\u00a0USA, Inc., the guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee, relating to T-Mobile\u00a0USA, Inc.\u2019s 5.500% Senior Notes due March 2070."
+                ],
+                [
+                  "\u20074.5",
+                  "Thirty-Second Supplemental Indenture, dated as of August\u00a05, 2025, by and among\u00a0T-Mobile\u00a0USA, Inc., the guarantors party thereto and Deutsche Bank Trust Company Americas, as trustee, relating to T-Mobile\u00a0USA, Inc.\u2019s 5.500% Senior Notes due June 2070."
+                ],
+                [
+                  "\u20074.6",
+                  "Form of 6.700% Senior Notes due 2033 (included in Exhibit\u00a04.2)."
+                ],
+                [
+                  "\u20074.7",
+                  "Form of 6.250% Senior Notes due 2069 (included in Exhibit\u00a04.3)."
+                ],
+                [
+                  "\u20074.8",
+                  "Form of 5.500% Senior Notes due March 2070 (included in Exhibit\u00a04.4)."
+                ],
+                [
+                  "\u20074.9",
+                  "Form of 5.500% Senior Notes due June 2070 (included in Exhibit\u00a04.5)."
+                ],
+                [
+                  "\u20075.1",
+                  "Opinion of Cleary Gottlieb Steen\u00a0& Hamilton LLP."
+                ],
+                [
+                  "\u20075.2",
+                  "Opinion of Ryan Brady, Esq."
+                ],
+                [
+                  "99.1",
+                  "Press release, dated August\u00a01, 2025, entitled \u201cT-Mobile US, Inc. and T-Mobile USA, Inc. Announce Final Results of its Exchange Offers and Consent Solicitations for Certain of United States Cellular Corporation\u2019s Outstanding Debt Securities\u201d."
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit\u00a0101)."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "41": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "42": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "43": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "August\u00a05, 2025",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): June 17, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g944984g0616044354873.jpg",
+                    "alt": "IMAGE"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\n incorporation or organization)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "textsmall": "(Address of principal executive offices)"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "textsmall": "(Zip Code)"
+                }
+              }
+            },
+            "17": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "19": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions:"
+                },
+                "20": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "21": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "22": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "23": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "24": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "25": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n symbol",
+                      "Name of each exchange\n on which registered"
+                    ],
+                    [
+                      "Common Stock, $0.00001 par value per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "26": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "27": {
+                  "text": "Emerging growth company\u00a0\u00a0\u2610"
+                },
+                "28": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a01.01",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "Entry into a Material Definitive Agreement.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "text": "As previously reported, on July\u00a026, 2019, T-Mobile US, Inc. (\u201cT-Mobile\u201d) entered into an Asset Purchase Agreement (the \u201cAsset Purchase Agreement\u201d) with Sprint Corporation (\u201cSprint\u201d) and DISH Network Corporation (\u201cDISH\u201d). Pursuant to the terms and conditions of the Asset Purchase Agreement, DISH will acquire Sprint\u2019s prepaid wireless business, which was historically operated by Sprint under the Boost Mobile, Virgin Mobile and Sprint prepaid brands, including customer accounts, inventory, contracts, intellectual property and certain other specified assets (but excluding the Assurance brand Lifeline customers and the prepaid wireless customers of Shenandoah Telecommunications Company and Swiftel Communications, Inc.), and assume certain related liabilities (collectively, the \u201cPrepaid Business Sale\u201d)."
+            },
+            "32": {
+              "text": "On June 17, 2020, the Department of Justice (the \u201cDOJ\u201d) determined that T-Mobile has complied with the requirement in the final judgment entered by a federal district court in Washington, D.C. on April 1, 2020 (the \u201cFinal Judgment\u201d) to provide DISH the ability to cross-provision any new or existing customer of the prepaid business with a compatible handset onto the T-Mobile network. As a result, we believe all conditions to closing under the Asset Purchase Agreement (other than those conditions that can only be satisfied at closing) have been satisfied and, subject to the satisfaction of the conditions that must be satisfied at closing, the closing of the Prepaid Business Sale will occur on July 1, 2020."
+            },
+            "33": {
+              "text": "In connection with the DOJ determination, on June 17, 2020, T-Mobile, Sprint and DISH entered into the First Amendment to the Asset Purchase Agreement (the \u201cFirst Amendment\u201d). Pursuant to the First Amendment, T-Mobile, Sprint and DISH agreed to proceed with the closing of the Prepaid Business Sale (the \u201cClosing\u201d) in accordance with the Asset Purchase Agreement on July\u00a01, 2020, subject to the terms and conditions of the Asset Purchase Agreement and the terms and conditions of the Final Judgment. The parties have also agreed to amend the definition of the \u201cTermination Date\u201d in the Asset Purchase Agreement so that either party may terminate the Asset Purchase Agreement if the Closing has not occurred before the end of the day on July\u00a01, 2020 (from June 30, 2020), subject to other terms and conditions provided under the Asset Purchase Agreement. All the other terms and conditions in the Asset Purchase Agreement remain unchanged. A copy of the First Amendment is filed as Exhibit 2.1 hereto and is incorporated herein by reference."
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "title": "Item\u00a09.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "35": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "(d) Exhibits:",
+          "class": "predicted header",
+          "contents": {
+            "37": {
+              "table": [
+                [
+                  "Exhibit \nNo.",
+                  "Description"
+                ],
+                [
+                  "2.1",
+                  "First Amendment to the Asset Purchase Agreement"
+                ],
+                [
+                  "104",
+                  "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document.)"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "38": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "39": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "40": {
+          "table": [
+            [
+              "Date: June 17, 2020",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "",
+              "By:",
+              "/s/ J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "J. Braxton Carter"
+            ],
+            [
+              "",
+              "",
+              "Executive Vice President and Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

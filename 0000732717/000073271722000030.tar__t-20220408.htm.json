@@ -1,0 +1,417 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of report (Date of earliest event reported) April 8, 2022",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "textsmall": "______________________________________________________"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "12": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "______________________________________________________"
+                },
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "75202\n(Zip Code)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "\u2610",
+                      "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    ],
+                    [
+                      "\u2610",
+                      "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                    ]
+                  ]
+                }
+              }
+            },
+            "16": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "18": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "20": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "title": "Item 1.02 Termination of a Material Definitive Agreement.",
+      "standardized_title": "item1.02",
+      "class": "item",
+      "contents": {
+        "23": {
+          "text": "The disclosure under Item 8.01 with respect to the termination of the Syndicated Term Loan (as defined in Item 8.01) is incorporated by reference into this Item 1.02."
+        }
+      }
+    },
+    "24": {
+      "title": "Item 8.01 Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "25": {
+          "text": "Throughout this document, AT&T Inc. is referred to as \u201cAT&T.\u201d As previously reported on the Form 8-K filed by AT&T on April 11, 2022, on April 11, AT&T provided irrevocable notice of prepayment of two existing term loan credit agreements with outstanding balances totaling $9.35 billion. AT&T recently completed the prepayment and termination of those two existing term loan credit agreements."
+        },
+        "26": {
+          "text": "As previously reported, on March 2, 2022, AT&T entered into a $7.35 billion Amended and Restated Term Loan Credit Agreement (the \u201cSyndicated Term Loan\u201d), with Bank of America, N.A. (\u201cBank of America\u201d), as agent. On April 13, 2022, AT&T repaid all of the $7,350,000,000 aggregate outstanding principal amount under the Syndicated Term Loan. Following the repayment, the Syndicated Term Loan terminated in its entirety."
+        },
+        "27": {
+          "text": "On April 13, 2022, AT&T repaid all of (i) the $1,000,000,000 aggregate outstanding principal amount of a term loan facility and (ii) the $1,000,000,000 aggregate outstanding principal amount of a term loan facility, each outstanding pursuant to the $2 billion Term Loan Credit Agreement, dated as of March 19, 2021, by and among AT&T and Bank of America, as amended by Amendment No. 1 to the Term Loan Credit Agreement, dated as of December 15, 2021 (as amended, the \u201cBilateral Term Loan\u201d). Following the repayment, the Bilateral Term Loan terminated in its entirety."
+        }
+      }
+    },
+    "28": {
+      "title": "Item 9.01  Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "29": {
+          "text": "On April 8, 2022, AT&T, a Delaware corporation (\u201cAT&T\u201d), completed the previously disclosed transactions contemplated by (i) that certain Agreement and Plan of Merger, dated as of May 17, 2021 (as amended, the \u201cMerger Agreement\u201d), by and among AT&T, Magallanes, Inc., a Delaware corporation and prior to the Merger (as defined below), a wholly owned subsidiary of AT&T (\u201cSpinco\u201d), Discovery, Inc., a Delaware corporation (\u201cDiscovery\u201d), which has been renamed Warner Bros. Discovery, Inc. (\u201cWBD\u201d) in connection with the Merger, and Drake Subsidiary, Inc., a Delaware corporation and a wholly owned subsidiary of Discovery (\u201cMerger Sub\u201d), (ii) that certain Separation and Distribution Agreement, dated as of May 17, 2021 (as amended, the \u201cSeparation Agreement\u201d), by and among AT&T, Spinco and Discovery, and (iii) certain other agreements in connection with the proposed transactions contemplated by the Merger Agreement and the Separation Agreement. Specifically, (1) AT&T transferred the business, operations and activities that constitute the WarnerMedia segment of AT&T, subject to certain exceptions as set forth in the Separation Agreement (the \u201cWarnerMedia Business\u201d), to Spinco (the \u201cSeparation\u201d), (2) AT&T distributed to its stockholders all of the shares of common stock, par value $0.01 per share, of Spinco (the \u201cSpinco Common Stock\u201d) held by AT&T by way of a pro rata dividend such that each holder of shares of common stock, par value $1.00 per share, of AT&T (the \u201cAT&T Common Stock\u201d) was entitled to receive one share of Spinco Common Stock for each share of AT&T Common Stock held as of the record date, April 5, 2022 (the \u201cDistribution\u201d), and (3) Merger Sub was merged with and into Spinco, with Spinco as the surviving corporation (the \u201cMerger\u201d and together with the Separation and the Distribution, the \u201cTransactions\u201d). Upon completion of the Merger, Spinco became a wholly owned subsidiary of WBD and the holders of Spinco Common Stock were entitled to receive 0.241917 shares of WBD common stock (the \u201cExchange Ratio\u201d) for each share of Spinco Common Stock held on the closing date."
+        },
+        "30": {
+          "text": "As a result of the completion of the Transactions, holders of AT&T Common Stock (as holders of Spinco Common Stock immediately following the Distribution) owned approximately 71% of the outstanding capital stock of WBD, on a fully diluted basis (computed using the treasury method)."
+        },
+        "31": {
+          "text": "For additional information regarding the WarnerMedia Business, please refer to the Form 10 and the information statement included therein and the final information statement made available in connection with the Transactions, which was filed by Spinco as Exhibit 99.1 to its Current Report on Form 8-K dated March 28, 2022."
+        },
+        "32": {
+          "text": "The unaudited pro forma condensed consolidated balance sheet of AT&T as of December 31, 2021 and the unaudited pro forma condensed consolidated statements of income of AT&T for the years ended December 31, 2021, 2020 and 2019 are filed as Exhibit 99.1 to this Current Report on Form 8-K."
+        },
+        "33": {
+          "table": [
+            [
+              "(d)",
+              "Exhibits",
+              "Exhibits"
+            ],
+            [
+              "",
+              "99.1",
+              "Unaudited pro forma condensed consolidated balance sheet of AT&T Inc. as of December 31, 2021 and the unaudited pro forma condensed consolidated statements of income of AT&T Inc. for the years ended December 31, 2021, 2020 and 2019."
+            ],
+            [
+              "",
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        }
+      }
+    },
+    "34": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "35": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "36": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: April 14, 2022",
+              "By: /s/ Debra L. Dial\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Debra L. Dial\n\u00a0Senior Vice President and Controller"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

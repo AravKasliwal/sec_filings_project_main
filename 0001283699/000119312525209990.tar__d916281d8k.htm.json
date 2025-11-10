@@ -1,0 +1,766 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): September\u00a019, 2025",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g916281g0904065448081.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "12": {
+              "title": "12920 SE 38th Street",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "title": "Bellevue, Washington",
+                  "class": "predicted header",
+                  "contents": {
+                    "14": {
+                      "textsmall": "(Address of principal executive offices)"
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "98006-1350",
+              "class": "predicted header",
+              "contents": {
+                "16": {
+                  "textsmall": "(Zip Code)"
+                }
+              }
+            },
+            "17": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header"
+            },
+            "18": {
+              "title": "(Former Name or Former Address, if Changed Since Last Report):",
+              "class": "predicted header",
+              "contents": {
+                "19": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "25": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "26": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "29": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\nSymbol(s)",
+                          "Name of each exchange\non which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.550% Senior Notes due 2029",
+                          "TMUS29",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.700% Senior Notes due 2032",
+                          "TMUS32",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.150% Senior Notes due 2032",
+                          "TMUS32A",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.850% Senior Notes due 2036",
+                          "TMUS36",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.500% Senior Notes due 2037",
+                          "TMUS37",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "3.800% Senior Notes due 2045",
+                          "TMUS45",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "6.250% Senior Notes due 2069",
+                          "TMUSL",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "5.500% Senior Notes due March 2070",
+                          "TMUSZ",
+                          "The NASDAQ Stock Market LLC"
+                        ],
+                        [
+                          "5.500% Senior Notes due June 2070",
+                          "TMUSI",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "30": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7\u00a0230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7 240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "31": {
+                  "title": "Emerging growth company\u2002\u2610",
+                  "class": "predicted header"
+                },
+                "32": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u2002\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "title": "Item\u20095.02",
+      "standardized_title": "item5.02",
+      "class": "item",
+      "contents": {
+        "34": {
+          "title": "Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "title": "On September\u00a019, 2025, the Board of Directors (the \u201cBoard\u201d) of T-Mobile US, Inc. (\u201cT-Mobile,\u201d the \u201cCompany,\u201d or \u201cus\u201d) appointed Srinivasan Gopalan as President and Chief Executive Officer (\u201cCEO\u201d) of T-Mobile and as a member of the Board, effective November\u00a01, 2025 (the \u201cEffective Date\u201d). Following the Effective Date, G. Michael Sievert, our current President and CEO, will transition to a new executive role, Vice Chairman of the Company. He will also continue to serve as a member of the Board, holding the position of Vice Chairman. Mr.\u00a0Sievert will be a designee of Deutsche Telekom AG (\u201cDT\u201d) pursuant to the Second Amended and Restated Stockholders\u2019 Agreement, dated June\u00a022, 2020, by and among the Company, DT, and SoftBank Group Corp.",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "Mr.\u00a0Gopalan, age 55, has served as our Chief Operating Officer since March 2025, bringing extensive experience in technology, telecommunications and business operations, along with a proven track record of operational excellence in digital transformation and customer-centric strategies. From August 2022 to February 2025, he served as a member of the Board. From October 2020 to February 2025, he served as the Managing Director of Telekom Deutschland GmbH. From January 2017 to October 2020, he served as a member of the Board of Management of Deutsche Telekom, responsible for the Europe segment. Prior to Deutsche Telekom, Mr.\u00a0Gopalan held top roles at Bharti Airtel, Capital One and Vodafone.",
+              "class": "predicted header"
+            },
+            "37": {
+              "title": "In connection with Mr.\u00a0Gopalan\u2019s appointment as President and CEO, on September\u00a019, 2025, T-Mobile entered into a new employment agreement with Mr.\u00a0Gopalan (the \u201cGopalan Employment Agreement\u201d), which will become effective as of the Effective Date and will supersede and replace the prior terms of employment between T-Mobile and Mr.\u00a0Gopalan, dated as of March\u00a01, 2025 (the \u201cGopalan Terms of Employment\u201d). In addition, in connection with Mr.\u00a0Sievert\u2019s continued service as an employee of the Company and as Vice Chairman of the Board, T-Mobile entered into an amendment to Mr.\u00a0Sievert\u2019s amended and restated employment agreement, dated as of March\u00a09, 2023 (the \u201cSievert Amendment\u201d and such amended and restated employment agreement, the \u201cSievert Employment Agreement\u201d), which became effective as of September\u00a019, 2025.",
+              "class": "predicted header"
+            },
+            "38": {
+              "title": "Also, on September\u00a019, 2025, T-Mobile entered into (i)\u00a0an amendment to the compensation term sheet, dated as of September\u00a012, 2024, for Peter Osvaldik, our Executive Vice President and Chief Financial Officer (such amendment, the \u201cOsvaldik Amendment\u201d and such term sheet, the \u201cOsvaldik Term Sheet\u201d) and (ii)\u00a0an amendment to the compensation term sheet, dated as of March\u00a018, 2025, for Michael J. Katz, our President, Marketing, Strategy and Products (the \u201cKatz Amendment\u201d), each of which will become effective as of the Effective Date.",
+              "class": "predicted header"
+            },
+            "39": {
+              "title": "The material terms of the Gopalan Employment Agreement, the Sievert Amendment, the Osvaldik Amendment and the Katz Amendment are described below.",
+              "class": "predicted header",
+              "contents": {
+                "40": {
+                  "title": "Gopalan Employment Agreement",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "41": {
+              "title": "The Gopalan Employment Agreement provides for an initial employment term that commences on the Effective Date and continues through November\u00a01, 2030, unless T-Mobile and Mr.\u00a0Gopalan mutually agree in writing to extend the term prior to the expiration thereof.",
+              "class": "predicted header"
+            },
+            "42": {
+              "title": "Pursuant to the Gopalan Employment Agreement, (i)\u00a0Mr.\u00a0Gopalan is entitled to an annual base salary initially equal to $1,400,000, effective as of the Effective Date; (ii)\u00a0Mr.\u00a0Gopalan is eligible for an annual short-term cash incentive targeted at (a)\u00a0with respect to calendar year 2025, the sum of (x) $2,000,000, prorated for the period starting on January\u00a01, 2025 and ending on the day immediately prior to the Effective Date and (y) $3,500,000, prorated for the period starting on the Effective Date and ending on",
+              "class": "predicted header"
+            },
+            "43": {
+              "title": "December 31, 2025 and (b)\u00a0with respect to calendar year 2026 and subsequent calendar years, 250% of Mr.\u00a0Gopalan\u2019s base salary (in each case, with a maximum award equal to 200% of target), payable based on the attainment of pre-established\u00a0performance goals; and (iii)\u00a0commencing with calendar year 2026, Mr.\u00a0Gopalan will be entitled to annual long-term incentive awards (\u201cLTI awards\u201d) with a target grant-date value (the \u201cAnnual LTI Target Value\u201d) that is not less than $19,500,000.",
+              "class": "predicted header"
+            },
+            "44": {
+              "title": "The Gopalan Employment Agreement provides that Mr.\u00a0Gopalan\u2019s annual base salary and Annual LTI Target Value will be increased by the Compensation Committee of the Board or a subcommittee thereof in subsequent calendar years as set forth below, based on the then-current annual base salaries or target grant date value of annual equity awards (as applicable) for chief executive officers in T-Mobile\u2019s then-current peer group utilized for executive compensation decisions (the \u201cPeer Group\u201d and such chief executive officers, the \u201cPeer CEOs\u201d); provided that the base salary and Annual LTI Target Value will not be lower than that in effect for the immediately preceding calendar year:",
+              "class": "predicted header",
+              "contents": {
+                "45": {
+                  "table": [
+                    [
+                      "Calendar\n Year",
+                      "Base Salary",
+                      "Annual LTI Target Value"
+                    ],
+                    [
+                      "2026",
+                      "40th percentile of then-current annual base salary for Peer CEOs",
+                      "40th percentile of then-current target grant date value of annual equity incentive awards for Peer CEOs"
+                    ],
+                    [
+                      "2027",
+                      "45th percentile of the then-current annual base salary for Peer CEOs",
+                      "45th percentile of then-current target grant date value of annual equity incentive awards for Peer CEOs"
+                    ],
+                    [
+                      "2028",
+                      "45th percentile of the then-current annual base salary for Peer CEOs",
+                      "45th percentile of then-current target grant date value of annual equity incentive awards for Peer CEOs"
+                    ],
+                    [
+                      "2029",
+                      "50th percentile of the then-current annual base salary for Peer CEOs",
+                      "50th percentile of then-current target grant date value of annual equity incentive awards for Peer CEOs"
+                    ],
+                    [
+                      "2030",
+                      "50th percentile of the then-current annual base salary for Peer CEOs",
+                      "50th percentile of then-current target grant date value of annual equity incentive awards for Peer CEOs"
+                    ]
+                  ]
+                }
+              }
+            },
+            "46": {
+              "title": "In connection with his commencement as President and CEO, Mr.\u00a0Gopalan will be granted, under the T-Mobile 2023 Incentive Award Plan, (i)\u00a0one-time\u00a0LTI awards with an aggregate target grant-date value equal to $2,904,110 (such awards, the \u201cTrue-Up LTI Awards\u201d) and (ii)\u00a0a one-time\u00a0award of performance-based restricted stock units (\u201cRSUs\u201d) with an aggregate target grant-date value equal to $10,000,000 (the \u201cTransformation Award\u201d). The actual number of shares of T-Mobile common stock subject to the True-Up LTI Awards and the Transformation Award will be determined by dividing the applicable value by the average closing price of T-Mobile common stock over the 30-calendar day period ending five business days prior to the applicable grant date, rounded to the nearest whole share. The True-Up LTI Awards will be comprised of 50% of time-based RSUs and 50% of performance-based RSUs and will be subject to the same vesting schedules and other terms and conditions (including, without limitation, performance goals) applicable to the annual awards of time-based RSUs and performance-based RSUs granted to Mr.\u00a0Gopalan on March\u00a01, 2025. The Transformation Award will generally be subject to the same vesting schedule and other terms and conditions (including, without limitation, performance goals) applicable to the awards of performance-based RSUs granted to certain members of the Company\u2019s senior leadership team on April\u00a01, 2025.",
+              "class": "predicted header"
+            },
+            "47": {
+              "title": "The Gopalan Employment Agreement also provides that Mr.\u00a0Gopalan is entitled to (i)\u00a0employee benefits to the same extent and on the same terms as such benefits are provided generally by T-Mobile to",
+              "class": "predicted header"
+            },
+            "48": {
+              "title": "its senior executives; (ii)\u00a0company-paid or reimbursed tax preparation and financial planning services (capped at $50,000 per calendar year); (iii) continued relocation assistance for costs associated with Mr.\u00a0Gopalan\u2019s relocation to the greater Bellevue, Washington area in accordance with the terms of T-Mobile\u2019s Relocation Policy, subject to pro-rata repayment in the event that Mr.\u00a0Gopalan\u2019s employment is terminated by T-Mobile for \u201ccause\u201d or by Mr.\u00a0Gopalan without \u201cgood reason\u201d (each as defined in the Gopalan Employment Agreement) on or prior to March\u00a01, 2026; and (iv)\u00a0company-paid or reimbursed first-class round-trip airfare for Mr.\u00a0Gopalan and his spouse and children until March\u00a01, 2027 (capped at 32 round-trip flights in the aggregate, inclusive of any round-trip flights occurring prior to the Effective Date, and grossed up for applicable taxes).",
+              "class": "predicted header"
+            },
+            "49": {
+              "title": "Under the Gopalan Employment Agreement, Mr.\u00a0Gopalan continues to be entitled to receive cash payments (each, a \u201cMatch Payment\u201d) on or within 60 days following each of May\u00a018, 2026, May\u00a013, 2027 and May\u00a018, 2028 (each, a \u201cMatch Date\u201d). The amount of each Match Payment will equal (i)\u00a0the average closing price of an ordinary share of DT over the 30 calendar-day period ending five business days before the applicable Match Date, multiplied by (ii)\u00a0the number of ordinary shares of DT released to Mr.\u00a0Gopalan on such Match Date, subject to Mr.\u00a0Gopalan\u2019s continued employment with T-Mobile through the applicable payment date (except as otherwise described below).",
+              "class": "predicted header"
+            },
+            "50": {
+              "title": "The Gopalan Employment Agreement provides that if Mr.\u00a0Gopalan\u2019s employment is terminated by T-Mobile other than for \u201ccause\u201d or by Mr.\u00a0Gopalan for \u201cgood reason,\u201d then, subject to his timely execution and\u00a0non-revocation\u00a0of a release and continued compliance with applicable restrictive covenants, he will be entitled to receive:",
+              "class": "predicted header"
+            },
+            "51": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "52": {
+              "title": "a lump-sum payment equal to two times the sum of (i)\u00a0his then-current base salary plus (ii)\u00a0his then-current target short-term incentive;",
+              "class": "predicted header"
+            },
+            "53": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "54": {
+              "title": "any earned, unpaid short-term incentive for the last completed fiscal year of T-Mobile preceding the termination date (a \u201cPrior Year STI\u201d);",
+              "class": "predicted header"
+            },
+            "55": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "56": {
+              "title": "a pro rata short-term incentive for the fiscal year in which the termination occurs (a \u201cPro-Rata STI\u201d), based on actual performance results for such year;",
+              "class": "predicted header"
+            },
+            "57": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "58": {
+              "title": "with respect to Mr.\u00a0Gopalan\u2019s then-outstanding LTI awards, and notwithstanding anything to the contrary in the applicable award agreement(s):",
+              "class": "predicted header"
+            },
+            "59": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "60": {
+              "title": "full vesting of time-based LTI awards (including any RSUs) that were granted prior to the Effective Date; and",
+              "class": "predicted header"
+            },
+            "61": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "62": {
+              "title": "with respect to performance-based LTI awards (including any performance-based RSUs) that were granted prior to the Effective Date,",
+              "class": "predicted header"
+            },
+            "63": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "64": {
+              "title": "a portion of each performance-based LTI award, determined by multiplying (x)\u00a0the total number of shares or units, as applicable, subject to such award by (y)\u00a0a fraction, the numerator of which is the number of days between the commencement of the applicable performance period in effect as of Mr.\u00a0Gopalan\u2019s termination of employment through the date of such termination, and the denominator of which is the number of days in the full performance period, will vest based on actual performance through the termination date; and",
+              "class": "predicted header"
+            },
+            "65": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "66": {
+              "title": "a portion of each performance-based LTI award, determined by multiplying (x)\u00a0the total number of shares or units, as applicable, subject to such award by (y)\u00a0a fraction, the numerator of which is the number of days between the date of Mr.\u00a0Gopalan\u2019s termination of employment and the end of the applicable performance period in effect as of such termination, and the denominator of which is the number of days in the full performance period, will vest at the greater of target or actual performance as of such termination date;",
+              "class": "predicted header"
+            },
+            "67": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "68": {
+              "title": "continued vesting of time-based LTI awards granted on or after the Effective Date on the regularly-scheduled post-termination vesting and payment dates set forth in the applicable award agreement(s);",
+              "class": "predicted header"
+            },
+            "69": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "70": {
+              "title": "continued vesting and payment of performance-based LTI awards (including performance-based RSUs) granted on or after the Effective Date in accordance with the terms of the applicable award agreement(s), based on the actual level of actual performance during the performance period (determined as if Mr.\u00a0Gopalan\u2019s employment had not terminated prior to the conclusion of the performance period);",
+              "class": "predicted header"
+            },
+            "71": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "72": {
+              "title": "company-paid health and dental benefit coverage for up to 18 months following such termination;",
+              "class": "predicted header"
+            },
+            "73": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "74": {
+              "title": "any then-unpaid Match Payments, payable on the applicable post-termination Match Dates (as described above); and",
+              "class": "predicted header"
+            },
+            "75": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "76": {
+              "title": "continued eligibility for T-Mobile\u2019s employee mobile service discount program (the \u201cContinued Mobile Discounts\u201d).",
+              "class": "predicted header"
+            },
+            "77": {
+              "title": "Additionally, the Gopalan Employment Agreement provides that Mr.\u00a0Gopalan may retire at the end of the 5-year employment term (i.e., on November\u00a01, 2030) by providing at least 12 months\u2019 written notice to the Company and receive substantially the same compensation and benefits as he would receive on a termination by T-Mobile other than for \u201ccause\u201d or by Mr.\u00a0Gopalan for \u201cgood reason\u201d.",
+              "class": "predicted header"
+            },
+            "78": {
+              "title": "The Gopalan Employment Agreement further provides that if Mr.\u00a0Gopalan\u2019s employment is terminated due to his death or disability, he will be entitled to receive the following:",
+              "class": "predicted header"
+            },
+            "79": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "80": {
+              "title": "any Prior Year STI;",
+              "class": "predicted header"
+            },
+            "81": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "82": {
+              "title": "a Pro-Rata STI, based on the greater of target or actual performance results for the fiscal year in which such termination occurs;",
+              "class": "predicted header"
+            },
+            "83": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "84": {
+              "title": "any then-unpaid Match Payments, payable on the applicable post-termination Match Dates (as described above);",
+              "class": "predicted header"
+            },
+            "85": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "86": {
+              "title": "with respect to Mr.\u00a0Gopalan\u2019s then-outstanding LTI awards, and notwithstanding anything to the contrary in the applicable award agreement(s):",
+              "class": "predicted header"
+            },
+            "87": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "88": {
+              "title": "with respect to LTI awards (including any time-based and performance-based RSUs) granted prior to the Effective Date, the vesting of such LTI awards will be governed by the terms of the applicable award agreement;",
+              "class": "predicted header"
+            },
+            "89": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "90": {
+              "title": "continued vesting of time-based LTI awards granted on or after the Effective Date on the regularly-scheduled post-termination vesting and payment dates set forth in the applicable award agreement(s);",
+              "class": "predicted header"
+            },
+            "91": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "92": {
+              "title": "continued vesting and payment of performance-based LTI awards (including performance-based RSUs) granted on or after the Effective Date in accordance with the terms of the applicable award agreement(s), based on the actual level of actual performance during the performance period (determined as if Mr.\u00a0Gopalan\u2019s employment had not terminated prior to the conclusion of the performance period); and",
+              "class": "predicted header"
+            },
+            "93": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "94": {
+              "title": "if such termination of employment is due to Mr.\u00a0Gopalan\u2019s disability, the Continued Mobile Discounts.",
+              "class": "predicted header"
+            },
+            "95": {
+              "title": "In addition, if Mr.\u00a0Gopalan\u2019s employment is terminated due to his resignation without \u201cgood reason,\u201d subject to his timely execution and\u00a0non-revocation\u00a0of a release and continued compliance with applicable restrictive covenants, he will continue to be paid any then-unpaid Match Payments on the applicable post-termination Match Dates (as described above).",
+              "class": "predicted header"
+            },
+            "96": {
+              "title": "The incentive compensation provided to Mr.\u00a0Gopalan under the Gopalan Employment Agreement is subject to recovery by T-Mobile in accordance with T-Mobile\u2019s Amended and Restated Executive Incentive Compensation Recoupment Policy or any other T-Mobile clawback or recoupment policy. Additionally, to the extent that any payment or benefit received by Mr.\u00a0Gopalan pursuant to the Gopalan Employment Agreement or otherwise would be subject to an excise tax under Internal Revenue Code Section\u00a04999, such payments and/or benefits will be subject to a \u201cbest pay cap\u201d reduction if such reduction would result in a greater net\u00a0after-tax\u00a0benefit to Mr.\u00a0Gopalan than receiving the full amount of such payments.",
+              "class": "predicted header"
+            },
+            "97": {
+              "title": "The Gopalan Employment Agreement also provides that T-Mobile will reimburse Mr.\u00a0Gopalan for up to $50,000 in legal fees incurred by him in connection with the Gopalan Employment Agreement.",
+              "class": "predicted header"
+            },
+            "98": {
+              "title": "The foregoing description of the Gopalan Employment Agreement is qualified in its entirety by the full text of the Gopalan Employment Agreement, a copy of which will be subsequently filed with the Securities and Exchange Commission (the \u201cSEC\u201d).",
+              "class": "predicted header",
+              "contents": {
+                "99": {
+                  "title": "Sievert Amendment",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "100": {
+              "title": "Pursuant to the Sievert Amendment, effective as of the Effective Date, Mr.\u00a0Sievert will cease to serve as President and CEO of the Company and, thereafter, will be employed as Vice Chairman of T-Mobile and serve as Vice Chairman of the Board. Mr.\u00a0Sievert\u2019s term as Vice Chairman of T-Mobile and Vice Chairman of the Board will initially terminate on November\u00a01, 2026, and may be extended by mutual written agreement between Mr.\u00a0Sievert and T-Mobile.",
+              "class": "predicted header"
+            },
+            "101": {
+              "title": "The Sievert Amendment provides that Mr.\u00a0Sievert will (i)\u00a0receive an annual base salary of $7,000,000, effective as of the Effective Date, and (ii)\u00a0continue to be eligible to participate in employee benefit plans maintained by the Company, in each case, in accordance with the terms and conditions of his existing employment agreement. Except as otherwise determined by T-Mobile, Mr.\u00a0Sievert will not be eligible to receive annual short-term incentive awards or grants of LTI awards on or after the Effective Date.",
+              "class": "predicted header"
+            },
+            "102": {
+              "title": "Pursuant to the Sievert Amendment, subject to Mr.\u00a0Sievert\u2019s continued employment through the Effective Date, and provided that Mr.\u00a0Sievert timely executes and does not revoke a release of claims, Mr.\u00a0Sievert will receive the cash severance payments and time-based and performance-based LTI award",
+              "class": "predicted header"
+            },
+            "103": {
+              "title": "accelerated vesting that he would have received under the Sievert Employment Agreement if his employment had been terminated on the Effective Date by the Company other than for \u201ccause\u201d or by him for \u201cgood reason,\u201d except that, with respect to any performance-based LTI awards that are subject to vesting based on the Company\u2019s relative total shareholder return (\u201cR-TSR Performance Awards\u201d) and are held by Mr.\u00a0Sievert as of the Effective Date, the level of actual performance will be determined as if the applicable performance period ended as of September\u00a019, 2025. If Mr.\u00a0Sievert becomes entitled to receive the foregoing payments and accelerated vesting, he will not be entitled to any further separation payments or benefits upon his subsequent termination of employment with T-Mobile, except as described below.",
+              "class": "predicted header"
+            },
+            "104": {
+              "title": "The Sievert Amendment also provides that, upon a termination of Mr.\u00a0Sievert\u2019s employment following the Effective Date by the Company other than for \u201ccause,\u201d by Mr.\u00a0Sievert with \u201cgood reason\u201d (each as defined in the Sievert Employment Agreement, as amended by the Sievert Amendment), due to Mr.\u00a0Sievert\u2019s death or disability or due to the expiration of the term of his employment as Vice Chairman of T-Mobile and Vice Chairman of the Board, subject to his timely execution and non-revocation of a release, he will be entitled to receive:",
+              "class": "predicted header"
+            },
+            "105": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "106": {
+              "title": "a lump-sum cash payment equal to (x) 12 months of his then-current base salary minus (y)\u00a0the aggregate base salary earned during the period commencing on the Effective Date and ending on (and including) the applicable termination date; and",
+              "class": "predicted header"
+            },
+            "107": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "108": {
+              "title": "the continued health and dental benefits and Continued Mobile Discounts that he is eligible to receive under the Sievert Employment Agreement upon a termination of his employment by the Company without \u201ccause\u201d or by him for \u201cgood reason.\u201d",
+              "class": "predicted header"
+            },
+            "109": {
+              "title": "A description of the material terms of the severance payments and benefits that Mr.\u00a0Sievert would be entitled to receive upon a termination of his employment by the Company other than for \u201ccause\u201d or by him for \u201cgood reason\u201d under the Sievert Employment Agreement was included in the Company\u2019s Current Report on Form 8-K filed with the SEC on March\u00a010, 2023, and such description is incorporated herein by reference. The foregoing description of the Sievert Amendment is qualified in its entirety by the full text of the Sievert Amendment, a copy of which will subsequently be filed with the SEC.",
+              "class": "predicted header",
+              "contents": {
+                "110": {
+                  "title": "Osvaldik Amendment",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "111": {
+              "title": "The Osvaldik Amendment amends the Osvaldik Term Sheet to extend the term of Mr.\u00a0Osvaldik\u2019s employment thereunder through July\u00a01, 2027.",
+              "class": "predicted header"
+            },
+            "112": {
+              "title": "Pursuant to the Osvaldik Amendment, upon a termination of Mr.\u00a0Osvaldik\u2019s employment by T-Mobile without \u201ccause\u201d or by Mr.\u00a0Osvaldik for \u201cgood reason\u201d (each as defined in the Osvaldik Term Sheet) (each, a \u201cqualifying termination\u201d), in either case, prior to July\u00a01, 2027, Mr.\u00a0Osvaldik will continue to be eligible to receive the severance payments and benefits described in the Osvaldik Term Sheet. In addition, in the event that Mr.\u00a0Osvaldik\u2019s qualifying termination occurs during the 180-day period (x)\u00a0immediately prior to February\u00a015, 2027 or (y)\u00a0immediately prior to February\u00a015th of any subsequent calendar year then, subject to his timely execution and non-revocation of a release of claims and continued compliance with applicable restrictive covenants, Mr.\u00a0Osvaldik will be entitled to receive:",
+              "class": "predicted header"
+            },
+            "113": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "114": {
+              "title": "a pro rata short-term incentive for the calendar year in which such termination occurs, based on actual performance results for the calendar year in which such termination occurs; and",
+              "class": "predicted header"
+            },
+            "115": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "116": {
+              "title": "with respect to Mr.\u00a0Osvaldik\u2019s then-outstanding LTI awards (excluding, for clarity, the 2023 Special PRSU Award (as defined below)) that are scheduled to vest on the next February 15th",
+              "class": "predicted header"
+            },
+            "117": {
+              "title": "following the date of such termination (the \u201cVesting LTI Awards\u201d), and notwithstanding anything to the contrary in the applicable award agreement(s):",
+              "class": "predicted header"
+            },
+            "118": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "119": {
+              "title": "with respect to time-based Vesting LTI Awards, vesting of a number of shares or units, as applicable, subject to such awards that would otherwise vest on the next-scheduled vesting date to occur following the termination date; and",
+              "class": "predicted header"
+            },
+            "120": {
+              "title": "\u2022",
+              "class": "predicted header"
+            },
+            "121": {
+              "title": "with respect to performance-based Vesting LTI Awards, vesting of a portion of such award, determined by multiplying (x)\u00a0the total number of shares or units, as applicable, subject to such awards by (y)\u00a0a fraction, the numerator of which is the number of days between the applicable grant date and the termination date, and the denominator of which is the number of days from the grant date to the applicable vesting date, based on actual performance through the conclusion of the applicable performance period.",
+              "class": "predicted header"
+            },
+            "122": {
+              "title": "The Osvaldik Amendment also provides that, (i)\u00a0commencing on the Effective Date, the Expiration Date Payment (as defined in the Osvaldik Term Sheet) will equal (x) 3.3x the target grant-date value of Mr.\u00a0Osvaldik\u2019s performance-based LTI award that was granted to him on July\u00a05, 2023 (the \u201c2023 Special PRSU Award\u201d), as disclosed in the Company\u2019s annual Proxy Statement filed with the SEC on April\u00a026, 2024, minus (y)\u00a0the aggregate dollar value of the portion of the 2023 Special PRSU Award that vests as of July\u00a01, 2026 (determined based on the Company\u2019s closing stock price on such vesting date); provided, that in no event will such payment exceed $10,000,000; and (ii)\u00a0if Mr.\u00a0Osvaldik\u2019s qualifying termination occurs on or after July\u00a02, 2026, the Expiration Date Payment that is payable as part of Mr.\u00a0Osvaldik\u2019s severance payments and benefits will not be pro-rated.",
+              "class": "predicted header"
+            },
+            "123": {
+              "title": "The foregoing description of the Osvaldik Amendment is qualified in its entirety by the full text of the Osvaldik Amendment, a copy of which will subsequently be filed with the SEC.",
+              "class": "predicted header",
+              "contents": {
+                "124": {
+                  "title": "Katz Amendment",
+                  "class": "predicted header"
+                }
+              }
+            },
+            "125": {
+              "title": "The Katz Amendment provides that Mr.\u00a0Katz will receive (i)\u00a0an annual base salary of no less than $975,000, effective as of the Effective Date; and (ii)\u00a0for each calendar year commencing after the Effective Date during Mr.\u00a0Katz\u2019s employment term, annual LTI awards with an Annual LTI Target Value of no less than $8,575,000. The Katz Amendment provides that Mr.\u00a0Katz\u2019s annual base salary and Annual LTI Target Value will be increased by the Compensation Committee of the Board or a subcommittee thereof in subsequent calendar years as set forth below, based on the then-current annual base salaries or target grant date value of annual equity awards (as applicable) for the most highly compensated executive officer role (excluding chief executive officers, chief financial officers and, if applicable, executive chairs) (such most highly compensated executive officer roles, \u201cPeer Officers\u201d) in T-Mobile\u2019s Peer Group; provided that the base salary and Annual LTI Target Value will not be lower than that in effect for the immediately preceding calendar year:",
+              "class": "predicted header",
+              "contents": {
+                "126": {
+                  "table": [
+                    [
+                      "Calendar\n Year",
+                      "Base Salary",
+                      "Annual LTI Target Value"
+                    ],
+                    [
+                      "2026",
+                      "50th percentile of then-current annual base salary for Peer Officers",
+                      "50th percentile of then-current target grant date value of annual equity incentive awards for Peer Officers"
+                    ],
+                    [
+                      "2027",
+                      "50th percentile of the then-current annual base salary for Peer Officers",
+                      "50th percentile of then-current target grant date value of annual equity incentive awards for Peer Officers"
+                    ],
+                    [
+                      "2028 and subsequent years",
+                      "60th percentile of the then-current annual base salary for Peer Officers",
+                      "60th percentile of then-current target grant date value of annual equity incentive awards for Peer Officers"
+                    ]
+                  ]
+                }
+              }
+            },
+            "127": {
+              "title": "Additionally, the Katz Amendment provides that Mr.\u00a0Katz may retire on the fifth anniversary of the Effective Date (i.e., on November\u00a01, 2030) by providing at least 12 months\u2019 written notice to the Company and receive the same compensation and benefits as he would receive on a termination by T-Mobile without \u201ccause\u201d or by Mr.\u00a0Katz for \u201cgood reason,\u201d as described in Mr.\u00a0Katz\u2019s existing compensation term sheet, except that (i)\u00a0the accelerated vesting of Mr.\u00a0Katz\u2019s LTI awards described in his existing compensation term sheet will only apply to LTI awards granted to him prior to the Effective Date and (ii)\u00a0any LTI awards granted to Mr.\u00a0Katz on or after the Effective Date will instead continue to vest and be paid to Mr.\u00a0Katz in accordance with the terms of the applicable award agreement(s).",
+              "class": "predicted header"
+            },
+            "128": {
+              "title": "The foregoing description of the Katz Amendment is qualified in its entirety by the full text of the Katz Amendment, a copy of which will subsequently be filed with the SEC.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "129": {
+      "title": "Item\u20097.01",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "130": {
+          "title": "Regulation FD Disclosure.",
+          "class": "predicted header",
+          "contents": {
+            "131": {
+              "title": "On September\u00a022, 2025, T-Mobile issued a press release announcing Mr.\u00a0Gopalan\u2019s appointment as President and CEO of the Company. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.",
+              "class": "predicted header"
+            },
+            "132": {
+              "title": "The information contained in Item 7.01, including Exhibit 99.1, shall not be deemed \u201cfiled\u201d for purposes of Section\u00a018 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "133": {
+      "title": "Item\u20099.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "134": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "135": {
+              "title": "(d) Exhibits:",
+              "class": "predicted header",
+              "contents": {
+                "136": {
+                  "table": [
+                    [
+                      "Exhibit\n No.",
+                      "Description"
+                    ],
+                    [
+                      "99.1",
+                      "Press Release, dated September\u00a022, 2025."
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit\u00a0101)."
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "137": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "138": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "139": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "September\u00a022, 2025",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik \nExecutive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

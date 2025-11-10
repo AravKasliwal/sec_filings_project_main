@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 OR 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of The Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of Report (Date of earliest event reported): July 24, 2024",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g872573logo.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact name of registrant as specified in its charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation)",
+                      "(Commission\n File Number)",
+                      "(IRS Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "title": "Not Applicable",
+                  "class": "predicted header",
+                  "contents": {
+                    "15": {
+                      "textsmall": "(Former name or former address, if changed since last report)"
+                    },
+                    "16": {
+                      "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:",
+                      "class": "predicted header"
+                    },
+                    "17": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "18": {
+                      "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                      "class": "predicted header"
+                    },
+                    "19": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "20": {
+                      "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                      "class": "predicted header"
+                    },
+                    "21": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "22": {
+                      "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                      "class": "predicted header"
+                    },
+                    "23": {
+                      "title": "\u2610",
+                      "class": "predicted header"
+                    },
+                    "24": {
+                      "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                      "class": "predicted header"
+                    },
+                    "25": {
+                      "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                      "class": "predicted header",
+                      "contents": {
+                        "26": {
+                          "table": [
+                            [
+                              "Title of each class",
+                              "Trading\nSymbol(s)",
+                              "Name of each exchange\n on which registered"
+                            ],
+                            [
+                              "Common Stock, $0.00001 par value per share",
+                              "TMUS",
+                              "The NASDAQ Stock Market LLC"
+                            ],
+                            [
+                              "3.550% Senior Notes due 2029",
+                              "TMUS29",
+                              "The NASDAQ Stock Market LLC"
+                            ],
+                            [
+                              "3.700% Senior Notes due 2032",
+                              "TMUS32",
+                              "The NASDAQ Stock Market LLC"
+                            ],
+                            [
+                              "3.850% Senior Notes due 2036",
+                              "TMUS36",
+                              "The NASDAQ Stock Market LLC"
+                            ]
+                          ]
+                        }
+                      }
+                    },
+                    "27": {
+                      "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                      "class": "predicted header"
+                    },
+                    "28": {
+                      "title": "Emerging growth company\u2002\u2610",
+                      "class": "predicted header"
+                    },
+                    "29": {
+                      "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u2002\u2610",
+                      "class": "predicted header"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item\u20097.01 \u2014 Regulation FD Disclosure.",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "title": "On July\u00a024, 2024, T-Mobile US, Inc. (\u201cT-Mobile\u201d) and KKR\u00a0& Co. Inc. (\u201cKKR\u201d) issued a joint press release announcing that they have entered into a definitive agreement to establish a joint venture (the \u201cJV\u201d) to acquire Metronet Holdings, LLC and certain of its affiliates (collectively, \u201cMetronet\u201d), including Metronet\u2019s broadband infrastructure, residential fiber business operations and existing customers. As part of the transaction, the JV will also acquire Oak Hill Capital\u2019s existing stake. Oak Hill Capital will re-invest to retain a minority position and founder John Cinelli will also retain a minority position in the business following close of the transaction. In connection with the completion of the transaction, T-Mobile and the JV will enter into an Asset Purchase Agreement, pursuant to which, among other things, T-Mobile will acquire Metronet\u2019s residential fiber retail operations and customers, and a Fiber-to-the-Premises Master Framework Agreement, pursuant to which, among other things, T-Mobile will purchase wholesale fiber services from Metronet and become the exclusive seller of Metronet\u2019s residential fiber services. T-Mobile will market and sell such services under the T-Mobile brand. A copy of the joint press release is furnished as Exhibit 99.1 hereto and is incorporated by reference herein.",
+          "class": "predicted header"
+        },
+        "32": {
+          "title": "The transaction is expected to close in 2025, subject to customary closing conditions and regulatory approvals. T-Mobile expects to invest approximately $4.9\u00a0billion to acquire a 50% equity stake in the JV at the closing and, pursuant to the Asset Purchase Agreement, 100% of Metronet\u2019s residential fiber retail operations and customers, as well as funding of the JV. The JV is expected to be self-funding on a go-forward basis, and T-Mobile does not anticipate contributing any additional future capital to the JV following the closing to support the current business plan to reach an aggregate of approximately 6.5\u00a0million homes passed by the end of 2030.",
+          "class": "predicted header"
+        },
+        "33": {
+          "title": "The operating agreement of the JV will provide that from the fourth to the seventh anniversary of the closing, T-Mobile will have an option to purchase a number of newly issued units of the JV to reach 50.01% ownership in the JV, subject to the terms and conditions contained therein. In addition, from the fifth (or in certain circumstances the fourth) to the seventh anniversary of the closing, T-Mobile will have an option to purchase KKR\u2019s interest in the JV at fair market value at the time of exercising such option, subject to certain specified guaranteed minimum and maximum internal rates of return and other terms and conditions (the \u201cCompletion Call\u201d).",
+          "class": "predicted header"
+        },
+        "34": {
+          "title": "Following the closing, the board of directors of the JV will consist of two directors appointed by T-Mobile, two directors appointed by KKR and one independent director. If T-Mobile elects to exercise the call option to reach 50.01% ownership in the JV, the board of directors of the JV will consist of three directors appointed by T-Mobile and two directors appointed by KKR. Certain actions by the JV will require the approval of at least one director appointed by KKR and at least one director appointed by T-Mobile and certain actions require the consent of each of KKR and T-Mobile.",
+          "class": "predicted header"
+        },
+        "35": {
+          "title": "The operating agreement of the JV will provide that the JV will be the only vehicle through which T-Mobile and certain affiliates of KKR will build, own or operate fixed wireline broadband services network to homes in certain geographic locations in the United States, subject to certain exceptions for mergers and acquisitions and other matters.",
+          "class": "predicted header"
+        },
+        "36": {
+          "title": "Following the closing of the transaction, T-Mobile expects to report the customers purchased from Metronet as T-Mobile customers, with the associated residential fiber customer operating revenues reflected in Service Revenues and wholesale costs paid to the JV for network access reflected in Cost of Services. T-Mobile\u2019s interests in the JV will be reflected in T-Mobile\u2019s Consolidated Balance Sheet as an investment within Other Assets and T-Mobile\u2019s share of the net income of the JV will be included in Consolidated Statement of Comprehensive Income under the equity method of accounting.",
+          "class": "predicted header"
+        },
+        "37": {
+          "title": "In addition, T-Mobile expects that its current business plan, after assuming a successful completion of this proposed transaction and previously announced pending transactions, continues to support a stockholder remuneration plan of up to $60\u00a0billion by mid-2026.",
+          "class": "predicted header"
+        },
+        "38": {
+          "title": "This information, including Exhibit 99.1, is being furnished to the U.S. Securities and Exchange Commission (\u201cSEC\u201d) and shall not be deemed \u201cfiled\u201d for purposes of Section\u00a018 of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or otherwise subject to the liabilities of that section. This information shall not be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a filing. This Current Report on Form 8-K will not be deemed an admission as to the materiality of any of the information contained in this Item 7.01, including Exhibit 99.1.",
+          "class": "predicted header"
+        }
+      }
+    },
+    "39": {
+      "title": "Item\u20099.01",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "40": {
+          "title": "Financial Statements and Exhibits.",
+          "class": "predicted header",
+          "contents": {
+            "41": {
+              "title": "(d)\u00a0Exhibits.",
+              "class": "predicted header",
+              "contents": {
+                "42": {
+                  "table": [
+                    [
+                      "Exhibit\nNo.",
+                      "Description"
+                    ],
+                    [
+                      "99.1",
+                      "Press Release dated July\u00a024, 2024 (furnished under Item 7.01)."
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "43": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "44": {
+              "title": "This communication contains certain forward-looking statements concerning T-Mobile and the proposed transaction with KKR to acquire Metronet. All statements other than statements of fact, including information concerning future results, are forward-looking statements. These forward-looking statements are generally identified by the words \u201cplan,\u201d \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions. Such forward-looking statements include, but are not limited to, statements about the benefits of the proposed transaction, including anticipated future financial and operating results, T-Mobile\u2019s and the JV\u2019s objectives, expectations and intentions, the accounting treatment of the proposed transaction, expectations regarding the JV being self-funding and future contributions (or lack thereof), the expected number of homes passed by the JV in the future, the expected timing of completion of the proposed transaction and T-Mobile\u2019s stock remuneration plan and the size and timing thereof. There are several factors which could cause actual plans and results to differ materially from those expressed or implied in forward-looking statements. Such factors include, but are not limited to, the failure to satisfy any of the conditions to the proposed transaction on a timely basis or at all; the occurrence of events that may give rise to a right of one or both of the parties to terminate the definitive agreements; adverse effects on the market price of T-Mobile\u2019s common stock and on T-Mobile\u2019s operating results because of a failure to complete the proposed transaction in the anticipated timeframe or at all; negative effects of the pendency or consummation of the proposed transaction on the market price of T-Mobile\u2019s common stock and on T-Mobile\u2019s operating results; the risk of litigation or regulatory actions; the possibility that T-Mobile may not fully realize the projected benefits of the proposed transaction within the expected timeframe or at all; business disruption during the pendency of or following the proposed transaction; diversion of management time from ongoing business operations due to the proposed transaction; the risk of any unexpected costs or expenses resulting from the proposed transaction; the risk that the proposed transaction and its announcement or T-Mobile\u2019s fiber strategy generally could have an adverse effect on the ability of T-Mobile or Metronet to retain customers and retain and hire key personnel and maintain relationships with customers, suppliers, employees, stockholders and other business relationships and on its operating results and business generally; and other risks and uncertainties detailed in T-Mobile\u2019s Annual Report on Form 10-K for the fiscal year ended December\u00a031, 2023, including in the sections thereof captioned \u201cRisk Factors\u201d and \u201cCautionary Statement Regarding Forward-Looking Statements,\u201d as well as in its subsequent reports on Form 8-K and Form 10-Q, all of which are filed with the SEC and available at www.sec.gov and www.t-mobile.com. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to differ materially from those expressed in or implied by such forward-looking statements. Given these risks and uncertainties, persons reading this communication are cautioned not to place undue reliance on such forward-looking statements. T-Mobile assumes no obligation to update or revise the information contained in this communication (whether as a result of new information, future events or otherwise), except as required by applicable law. References to our and the SEC\u2019s website are inactive textual references only. Information contained on our and the SEC\u2019s website is not incorporated by reference in this communication and should not be considered to be a part of this communication.",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "45": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "46": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "47": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "July\u00a024, 2024",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik\n Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

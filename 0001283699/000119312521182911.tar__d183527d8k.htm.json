@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): June\u00a03, 2021",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "g183527g0604203222259.jpg",
+                    "alt": "LOGO"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "DELAWARE",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction\n of incorporation or organization)",
+                      "(Commission\n File Number)",
+                      "(I.R.S. Employer\n Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street\n Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header",
+              "contents": {
+                "14": {
+                  "textsmall": "(Former Name or Former Address, if Changed Since Last Report):"
+                },
+                "15": {
+                  "title": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the following provisions (see General Instructions A.2. below):",
+                  "class": "predicted header"
+                },
+                "16": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "17": {
+                  "title": "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "18": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "19": {
+                  "title": "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "20": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "21": {
+                  "title": "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "Securities registered pursuant to Section\u00a012(b) of the Act:",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading\n Symbol(s)",
+                          "Name of each exchange\n on which registered"
+                        ],
+                        [
+                          "Common Stock, par value $0.00001 per share",
+                          "TMUS",
+                          "The NASDAQ Stock Market LLC"
+                        ]
+                      ]
+                    }
+                  }
+                },
+                "26": {
+                  "title": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter).",
+                  "class": "predicted header"
+                },
+                "27": {
+                  "title": "Emerging growth company\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                },
+                "28": {
+                  "title": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "29": {
+      "title": "Item\u00a05.07\u00a0\u00a0\u2014\u00a0\u00a0Submission",
+      "standardized_title": "item5.07",
+      "class": "item",
+      "contents": {
+        "30": {
+          "title": "of Matters to a Vote of Security Holders.",
+          "class": "predicted header",
+          "contents": {
+            "31": {
+              "title": "On June\u00a03, 2021, T-Mobile US, Inc. (the \u201cCompany\u201d) held its Annual Meeting of Stockholders (the \u201cAnnual Meeting\u201d). At the Annual Meeting, the following two proposals were presented, as described in the Company\u2019s definitive proxy statement on Schedule 14A filed with the Securities Exchange Commission on April\u00a021, 2021 (the \u201cProxy Statement\u201d):",
+              "class": "predicted header"
+            },
+            "32": {
+              "title": "(1)",
+              "class": "predicted header"
+            },
+            "33": {
+              "title": "Elect thirteen director nominees named in the Proxy Statement to the Company\u2019s Board of Directors; and",
+              "class": "predicted header"
+            },
+            "34": {
+              "title": "(2)",
+              "class": "predicted header"
+            },
+            "35": {
+              "title": "Ratify the appointment of PricewaterhouseCoopers LLP as the Company\u2019s independent registered public accounting firm for the fiscal year ending December\u00a031, 2021.",
+              "class": "predicted header"
+            },
+            "36": {
+              "title": "Proposal 1 - Election of Directors",
+              "class": "predicted header"
+            },
+            "37": {
+              "title": "The following thirteen director nominees were elected at the Annual Meeting to serve terms ending at the Company\u2019s 2022 Annual Meeting of Stockholders, or until their successors are elected and qualified:",
+              "class": "predicted header",
+              "contents": {
+                "38": {
+                  "table": [
+                    [
+                      "Director Nominee",
+                      "For",
+                      "Withhold",
+                      "Broker\nNon-Votes"
+                    ],
+                    [
+                      "Marcelo Claure",
+                      "907,437,892",
+                      "215,421,204",
+                      "33,905,611"
+                    ],
+                    [
+                      "Srikant M. Datar",
+                      "1,111,366,664",
+                      "11,492,432",
+                      "33,905,611"
+                    ],
+                    [
+                      "Bavan M. Holloway",
+                      "1,112,787,404",
+                      "10,071,692",
+                      "33,905,611"
+                    ],
+                    [
+                      "Timotheus H\u00f6ttges",
+                      "916,626,230",
+                      "206,232,866",
+                      "33,905,611"
+                    ],
+                    [
+                      "Christian P. Illek",
+                      "921,374,723",
+                      "201,484,373",
+                      "33,905,611"
+                    ],
+                    [
+                      "Raphael K\u00fcbler",
+                      "921,372,308",
+                      "201,486,788",
+                      "33,905,611"
+                    ],
+                    [
+                      "Thorsten Langheim",
+                      "978,961,423",
+                      "143,897,673",
+                      "33,905,611"
+                    ],
+                    [
+                      "Dominique Leroy",
+                      "966,037,542",
+                      "156,821,554",
+                      "33,905,611"
+                    ],
+                    [
+                      "G. Michael Sievert",
+                      "1,017,905,824",
+                      "104,953,272",
+                      "33,905,611"
+                    ],
+                    [
+                      "Teresa A. Taylor",
+                      "1,007,114,380",
+                      "115,744,716",
+                      "33,905,611"
+                    ],
+                    [
+                      "Omar Tazi",
+                      "979,561,233",
+                      "143,297,863",
+                      "33,905,611"
+                    ],
+                    [
+                      "Kelvin R. Westbrook",
+                      "877,211,912",
+                      "245,647,184",
+                      "33,905,611"
+                    ],
+                    [
+                      "Michael Wilkens",
+                      "963,402,294",
+                      "159,456,802",
+                      "33,905,611"
+                    ]
+                  ]
+                }
+              }
+            },
+            "39": {
+              "title": "Proposal 2 - Ratification of the Appointment of PricewaterhouseCoopers LLP",
+              "class": "predicted header"
+            },
+            "40": {
+              "title": "The ratification of the appointment of PricewaterhouseCoopers LLP as the Company\u2019s independent registered public accounting firm for the Company\u2019s fiscal year ending December\u00a031, 2021 was approved as follows:",
+              "class": "predicted header",
+              "contents": {
+                "41": {
+                  "table": [
+                    [
+                      "For",
+                      "Against",
+                      "Abstain",
+                      "Broker Non-Votes"
+                    ],
+                    [
+                      "1,145,168,953",
+                      "10,482,483",
+                      "1,113,271",
+                      "0"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "42": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "43": {
+          "title": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.",
+          "class": "predicted header",
+          "contents": {
+            "44": {
+              "table": [
+                [
+                  "",
+                  "T-MOBILE US, INC."
+                ],
+                [
+                  "June\u00a04, 2021",
+                  "/s/ Peter Osvaldik"
+                ],
+                [
+                  "",
+                  "Peter Osvaldik\n Executive Vice President and Chief Financial Officer"
+                ]
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

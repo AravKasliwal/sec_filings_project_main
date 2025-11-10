@@ -1,0 +1,578 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of report (Date of earliest event reported) October 21, 2021",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "textsmall": "______________________________________________________"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "12": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "______________________________________________________"
+                },
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "75202\n(Zip Code)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "\u2610",
+                      "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    ],
+                    [
+                      "\u2610",
+                      "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                    ]
+                  ]
+                }
+              }
+            },
+            "16": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.650% Global Notes due December 17, 2021",
+                      "T 21B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.450% Global Notes due June 1, 2022",
+                      "T 22B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "18": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "20": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "title": "Item 8.01  Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "23": {
+          "text": "Throughout this document, AT&T Inc. is referred to as \u201cwe\u201d or \u201cAT&T.\u201d AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications, media and technology industries."
+        },
+        "24": {
+          "text": "On July 31, 2021, we closed our transaction with TPG Capital to form a new company named DIRECTV. With the close of the transaction, we separated our Video business, comprised of our U.S. video operations, and began accounting for our investment in DIRECTV under the equity method."
+        },
+        "25": {
+          "title": "Overview",
+          "class": "predicted header",
+          "contents": {
+            "26": {
+              "text": "We announced on October\u00a021, 2021 that third-quarter 2021 net income attributable to common stock totaled $5.9 billion, or $0.82 per diluted share. Third-quarter 2021 income per diluted share included amounts totaling to $621 million, or $0.05 per share, resulting from the following significant items: $(0.11) per share for the amortization of merger-related intangible assets and $(0.02) per share of other charges, including an actuarial gain on remeasurement of our pension benefit plan assets and obligations, partially offset by $0.08 net gain on sale of businesses. The results compare with a reported net income attributable to common stock of $2.8 billion, or $0.39 per diluted share, in the third quarter of 2020."
+            },
+            "27": {
+              "text": "Operating revenues in the third quarter of 2021 were $39.9 billion, down 5.7 percent from the third quarter of 2020, reflecting our July 31, 2021 separation of the U.S. video business and lower Business Wireline revenues. The declines were partially offset by higher Mobility and WarnerMedia revenues, which reflect the partial recovery from the prior-year impacts of the pandemic. Operating revenues were also impacted by the fourth-quarter 2020 sale of our wireless and wireline operations in Puerto Rico and the U.S. Virgin Islands."
+            },
+            "28": {
+              "text": "Operating expenses in the third quarter of 2021 were $32.8 billion, down 9.4 percent, driven by the separation of the U.S. video business, lower sports-related costs and the timing of the NBA season in 2020 and lower personnel costs associated with our ongoing transformation initiatives. The declines were partially offset by higher domestic wireless equipment costs associated with higher sales, including 3G network shutdown costs, and higher WarnerMedia non-sports programming, marketing activities, and incremental selling costs associated with DIRECTV advertising revenue sharing arrangements. Expenses were also offset by lower depreciation and amortization expense, largely due to ceasing depreciation and amortization on held-for-sale assets, including Vrio."
+            },
+            "29": {
+              "text": "Operating income in the third quarter was $7.1 billion compared to $6.1 billion in the comparable 2020 period, and AT&T\u2019s third-quarter operating income margin was 17.8 percent, compared to 14.5 percent in the comparable 2020 period."
+            },
+            "30": {
+              "text": "Cash from operating activities in the third quarter of 2021 was $9.9 billion, down $2.3 billion when compared to 2020, reflecting increased cash spend for content and the separation of the U.S. video business. Total cash paid for WarnerMedia's content investment in the third quarter of 2021 was $4.8 billion ($1.7 billion higher than the prior-year comparable period). Capital expenditures in the third quarter of 2021 were $4.7 billion, and when including $1.0 billion cash paid for vendor financing, gross capital investment was $5.7 billion, compared to prior-year third quarter capital expenditures of $3.9 billion, vendor financing of $0.6 billion and gross capital investment of $4.5 billion."
+            }
+          }
+        },
+        "31": {
+          "title": "Segment Summary",
+          "class": "predicted header",
+          "contents": {
+            "32": {
+              "text": "We analyze our segments based on, among other things, segment contribution, which consists of operating income, excluding acquisition-related costs and other significant items, and equity in net income (loss) of affiliates for investments managed within each segment. Our reportable segments are: Communications, WarnerMedia and Latin America."
+            }
+          }
+        },
+        "33": {
+          "title": "Communications",
+          "class": "predicted header",
+          "contents": {
+            "34": {
+              "text": "Our Communications segment consists of our Mobility, Business Wireline and Consumer Wireline business units."
+            },
+            "35": {
+              "text": "Third-quarter 2021 operating revenues were $28.2 billion, up 3.8 percent versus third-quarter 2020, with segment operating contribution of $7.1 billion, up 0.8 percent versus the year-ago quarter. The Communications segment operating income margin was 25.2 percent, compared to 26.0 percent in the year-earlier quarter."
+            },
+            "36": {
+              "title": "Mobility",
+              "class": "predicted header",
+              "contents": {
+                "37": {
+                  "text": "Mobility revenues for the third quarter of 2021 were $19.1 billion, up 7.0 percent versus the third quarter of 2020, driven by service revenue growth from subscriber gains and lapping of pandemic impacts on international roaming revenues, and equipment revenue growth from higher smartphone sales, including the quarterly shift in product launch timing versus the prior year. Mobility operating expenses totaled $13.2 billion, up 8.0 percent versus the third quarter of 2020 due to increased equipment costs including 3G network shutdown costs, and higher costs associated with bundling HBO Max, partially offset by lower support costs. Mobility\u2019s operating income margin was 31.1 percent compared to 31.8 percent in the year-ago quarter."
+                },
+                "38": {
+                  "title": "1",
+                  "class": "predicted header",
+                  "contents": {
+                    "39": {
+                      "text": "In our Mobility business unit, during the third quarter of 2021, we reported a net gain of 4.9 million wireless subscribers. At September\u00a030, 2021, wireless subscribers totaled 196.5 million (including approximately 2.8 million FirstNet connections) compared to 176.7 million at September\u00a030, 2020."
+                    },
+                    "40": {
+                      "text": "During the third quarter, total phone net adds (postpaid and prepaid) were 1,177,000 with total net adds by subscriber category as follows:"
+                    },
+                    "41": {
+                      "text": "\u2022Postpaid subscriber net adds were 1,218,000, with phone net adds of 928,000 and additions from wearables more than offsetting losses in non-tablet computing devices."
+                    },
+                    "42": {
+                      "text": "\u2022Prepaid subscriber net adds were 351,000, with phone net adds of 249,000."
+                    },
+                    "43": {
+                      "text": "\u2022Reseller net losses were 164,000."
+                    },
+                    "44": {
+                      "text": "\u2022Connected device net adds were 3.5 million, 1.8 million of which were primarily attributable to wholesale connected cars."
+                    },
+                    "45": {
+                      "text": "For the quarter ended September\u00a030, 2021, postpaid phone-only ARPU decreased 0.6 percent versus the year-earlier quarter."
+                    },
+                    "46": {
+                      "text": "Postpaid phone-only churn was 0.72 percent compared to 0.69 percent in the third quarter of 2020. Total postpaid churn was 0.92 percent compared to 0.85 percent in the year-ago quarter."
+                    }
+                  }
+                }
+              }
+            },
+            "47": {
+              "title": "Business Wireline",
+              "class": "predicted header",
+              "contents": {
+                "48": {
+                  "text": "Business Wireline revenues for the third quarter of 2021 were $5.9 billion, down 5.2 percent versus the year-ago quarter, primarily due to the prior-year increase in demand for pandemic-related connectivity and lower legacy voice and data services in the current year. Business Wireline operating expenses totaled $5.0 billion, down 2.4 percent when compared to the third quarter of 2020 due to ongoing operational cost efficiencies. Business Wireline operating income margin was 16.6 percent compared to 18.9 percent in the year-earlier quarter."
+                }
+              }
+            },
+            "49": {
+              "title": "Consumer Wireline",
+              "class": "predicted header",
+              "contents": {
+                "50": {
+                  "text": "Consumer Wireline revenues for the third quarter of 2021 were $3.1 billion, up 3.4 percent versus the year-ago quarter, driven by growth in Broadband (high-speed internet) revenues attributable to an increase in fiber customers and pricing. Partially offsetting the increase was a decline in legacy voice and data service revenues. Consumer Wireline operating expenses totaled $3.0 billion, up 3.8 percent versus the third quarter of 2020, largely driven by higher technology and depreciation expense. These expense increases were partially offset by lower cost deferral amortization expense, reflecting prior-quarter update to expected subscriber lives. Consumer Wireline operating income margin was 5.8 percent compared to 6.2 percent in the year-earlier quarter."
+                },
+                "51": {
+                  "text": "At September\u00a030, 2021, Consumer Wireline had approximately 14.2\u00a0million broadband connections compared to 14.1\u00a0million at September\u00a030, 2020. During the third quarter, broadband subscribers had net adds of 6,000 (including fiber broadband net adds of 289,000)."
+                }
+              }
+            }
+          }
+        },
+        "52": {
+          "title": "WarnerMedia",
+          "class": "predicted header",
+          "contents": {
+            "53": {
+              "text": "WarnerMedia revenues for the third quarter of 2021 were $8.4 billion, up 14.2 percent versus the year-ago quarter, reflecting the partial recovery from prior-year impacts of the pandemic. The increase was primarily due to higher content and other revenues and subscription revenues, partially offset by lower advertising revenues. Content and other revenues increased driven by higher TV licensing and initial telecast, and higher theatrical, with the prior-year quarter including only one theatrical release compared to five in third-quarter 2021. Subscription revenues increased primarily due to growth of HBO Max subscribers. DTC subscription revenues were $2.0 billion in the third quarter of 2021, versus $1.6 billion in the year-ago quarter. Advertising revenues were lower than the prior year resulting from the timing of the NBA season in 2020 and lower political ad spending."
+            },
+            "54": {
+              "text": "WarnerMedia operating expenses totaled $6.4 billion, up 13.8 percent when compared to the third quarter of 2020, driven by higher film and programming costs, increased marketing, and incremental selling costs associated with DIRECTV advertising revenue sharing arrangements. These increases were partially offset by lower sports programming costs from the shift in timing of the NBA season in the prior year. Direct costs supporting DTC revenues were $2.0 billion in the third quarter of 2021, versus $1.6 billion in the year-ago quarter."
+            },
+            "55": {
+              "text": "WarnerMedia segment operating contribution was $1.9 billion, up 10.3 percent. The WarnerMedia segment operating income margin was 23.8 percent, compared to 23.6 percent in the year-earlier quarter."
+            }
+          }
+        },
+        "56": {
+          "title": "Latin America",
+          "class": "predicted header",
+          "contents": {
+            "57": {
+              "text": "Our Latin America segment consists of our Vrio and Mexico business units and is subject to foreign currency fluctuations."
+            },
+            "58": {
+              "text": "Third-quarter 2021 operating revenues were $1.5 billion, up 6.0 percent versus the prior year, reflecting growth in the Mexico wireless operations and improvements in foreign exchange impacts. Segment operating contribution was $(25) million, versus $(177) million in the comparable 2020 period. The Latin America operating income margin was (2.3) percent, compared to (13.7) percent in the year-earlier quarter."
+            },
+            "59": {
+              "title": "2",
+              "class": "predicted header"
+            },
+            "60": {
+              "title": "Vrio",
+              "class": "predicted header",
+              "contents": {
+                "61": {
+                  "text": "Video service revenues were $756 million, up 0.4 percent versus the prior year. Operating expenses were $660 million, down 17.6 percent, primarily due to ceasing depreciation on held-for-sale Vrio assets. Vrio\u2019s operating income margin was 12.7 percent, compared to (6.4) percent in the year-earlier quarter."
+                },
+                "62": {
+                  "text": "We had approximately 10.1 million Latin America video connections at September\u00a030, 2021 compared to 10.9 million at September\u00a030, 2020. During the third quarter of 2021, video net losses were 178,000."
+                }
+              }
+            },
+            "63": {
+              "title": "Mexico",
+              "class": "predicted header",
+              "contents": {
+                "64": {
+                  "text": "Revenues were $724 million, up 12.6 percent when compared to the third quarter of 2020, primarily due to increased service revenues driven by improvements in foreign exchange impacts, growing subscriber base and growth in other services. Operating expenses were $854 million, up 8.7 percent, driven by foreign exchange rates. Mexico\u2019s operating income margin was (18.0) percent, compared to (22.2) percent in the year-earlier quarter."
+                },
+                "65": {
+                  "text": "We had approximately 19.5 million Mexican wireless subscribers at September\u00a030, 2021 compared to 18.4 million at September\u00a030, 2020. During the third quarter of 2021, we had postpaid net adds of 36,000 and prepaid net adds of 389,000."
+                },
+                "66": {
+                  "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+                  "class": "predicted header",
+                  "contents": {
+                    "67": {
+                      "text": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and uncertainties. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on new information or otherwise."
+                    }
+                  }
+                },
+                "68": {
+                  "title": "3",
+                  "class": "predicted header"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "69": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "70": {
+          "text": "The following exhibits are furnished as part of this report:"
+        },
+        "71": {
+          "table": [
+            [
+              "(d)",
+              "Exhibits",
+              "Exhibits"
+            ],
+            [
+              "",
+              "99.1",
+              "AT&T Inc. selected financial statements and operating data."
+            ],
+            [
+              "",
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        },
+        "72": {
+          "title": "4",
+          "class": "predicted header"
+        }
+      }
+    },
+    "73": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "74": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "75": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: October\u00a021, 2021",
+              "By: /s/ Debra L. Dial\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Debra L. Dial\n\u00a0Senior Vice President and Controller"
+            ]
+          ]
+        },
+        "76": {
+          "title": "5",
+          "class": "predicted header"
+        }
+      }
+    }
+  }
+}

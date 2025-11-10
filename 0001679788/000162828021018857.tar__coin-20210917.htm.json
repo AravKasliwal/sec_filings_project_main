@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "table": []
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "table": []
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d) of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "Date of Report (Date of earliest event reported): September 17, 2021",
+              "class": "predicted header",
+              "contents": {
+                "9": {
+                  "table": []
+                }
+              }
+            },
+            "10": {
+              "title": "Coinbase Global, Inc.",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "title": "(Exact name of registrant as specified in its charter)",
+                  "class": "predicted header",
+                  "contents": {
+                    "12": {
+                      "table": []
+                    },
+                    "13": {
+                      "table": [
+                        [
+                          "Delaware",
+                          "001-40289",
+                          "46-4707224"
+                        ],
+                        [
+                          "(State or other jurisdiction\nof incorporation)",
+                          "(Commission\nFile Number)",
+                          "(IRS Employer\nIdentification No.)"
+                        ]
+                      ]
+                    },
+                    "14": {
+                      "table": [
+                        [
+                          "Address Not Applicable",
+                          "Address Not Applicable"
+                        ],
+                        [
+                          "(Address of principal executive offices)",
+                          "(Zip Code)"
+                        ]
+                      ]
+                    },
+                    "15": {
+                      "title": "Not Applicable",
+                      "class": "predicted header",
+                      "contents": {
+                        "16": {
+                          "textsmall": "(Registrant\u2019s telephone number, including area code)"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "17": {
+              "title": "Not Applicable",
+              "class": "predicted header",
+              "contents": {
+                "18": {
+                  "textsmall": "(Former name or former address, if changed since last report)"
+                },
+                "19": {
+                  "table": []
+                },
+                "20": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):"
+                },
+                "21": {
+                  "title": "\u2610 Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)",
+                  "class": "predicted header"
+                },
+                "22": {
+                  "title": "\u2610 Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)",
+                  "class": "predicted header"
+                },
+                "23": {
+                  "title": "\u2610 Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))",
+                  "class": "predicted header"
+                },
+                "24": {
+                  "title": "\u2610 Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))",
+                  "class": "predicted header",
+                  "contents": {
+                    "25": {
+                      "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                    },
+                    "26": {
+                      "table": [
+                        [
+                          "Title of each class",
+                          "Trading Symbol(s)",
+                          "Name of each exchange on which registered"
+                        ],
+                        [
+                          "Class\u00a0A common stock, $0.00001 par value",
+                          "COIN",
+                          "Nasdaq Global Select Market"
+                        ]
+                      ]
+                    },
+                    "27": {
+                      "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                    },
+                    "28": {
+                      "text": "Emerging growth company\u00a0\u00a0\u2610"
+                    },
+                    "29": {
+                      "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "title": "Item 1.01 Entry into a Material Definitive Agreement.",
+      "standardized_title": "item1.01",
+      "class": "item",
+      "contents": {
+        "31": {
+          "text": "On September 17, 2021, Coinbase Global, Inc. (the \u201cCompany\u201d), completed its previously announced private offering of $1.0 billion aggregate principal amount of its 3.375% Senior Notes due 2028 (the \u201c2028 Notes\u201d)\u00a0and $1.0 billion aggregate principal amount of its 3.625% Senior Notes due 2031 (the \u201c2031 Notes\u201d and, together with the 2028 Notes, the \u201cNotes\u201d). The Notes were sold within the United States only to persons reasonably believed to be qualified institutional buyers in reliance on Rule 144A under the Securities Act of 1933, as amended (the \u201cSecurities Act\u201d), and outside the United States to non-U.S. persons in reliance on Regulation S under the Securities Act."
+        },
+        "32": {
+          "text": "The Company intends to use the net proceeds from the offering for general corporate purposes, which may include continued investments in its product development, as well as potential investments in or acquisitions of other companies, products, or technologies that the Company may identify in the future."
+        },
+        "33": {
+          "text": "As of the issue date, one of the Company\u2019s subsidiaries, Coinbase, Inc. (the \u201cGuarantor\u201d), has guaranteed the Notes. Subject to certain exceptions, if the Notes achieve an investment grade rating, the Company will have the option to release the Guarantor from its guarantee under the Indenture (as defined below). In the future, certain of the Company\u2019s other domestic subsidiaries may be required to guarantee the Notes, upon the terms and subject to the conditions set forth in the Indenture."
+        },
+        "34": {
+          "text": "The Notes were issued pursuant to an Indenture, dated September 17, 2021 (the \u201cIndenture\u201d), among the Company, the Guarantor and U.S. Bank National Association, as trustee (the \u201cTrustee\u201d)."
+        },
+        "35": {
+          "text": "The 2028 Notes mature on October 1, 2028 and bear interest at a rate of 3.375% per year. The 2031 Notes mature on October 1, 2031 and bear interest at a rate of 3.625% per year. Interest on each series of the Notes is payable semi-annually in arrears on April 1 and October 1 of each year, beginning on April 1, 2022."
+        },
+        "36": {
+          "text": "The Company may redeem all or a portion of either series of the Notes, at its option, at any time prior to October 1, 2024, in the case of the 2028 Notes, and October 1, 2026, in the case of the 2031 Notes, in each case, at a price equal to 100% of the principal amount of thereof, plus a \u201cmake-whole\u201d premium and any accrued and unpaid interest."
+        },
+        "37": {
+          "text": "On and after October 1, 2024, in the case of the 2028 Notes, and on or after October 1, 2026, in the case of the 2031 Notes, the Company may redeem all of a portion of either series of the Notes at the redemption prices set forth in the Indenture, plus any accrued and unpaid interest."
+        },
+        "38": {
+          "text": "In addition, prior to October 1, 2024, in the case of each series of the Notes, the Company may redeem up to 40% of the aggregate principal amount of either series of the Notes with funds in the aggregate amount not exceeding the net cash proceeds from certain equity offerings at a redemption price equal to, in the case of the 2028 Notes, 103.375% of the principal amount of the 2028 Notes to be redeemed, and in the case of the 2031 Notes, 103.625% of the principal amount of the 2031 Notes to be redeemed, in each case, plus any accrued and unpaid interest."
+        },
+        "39": {
+          "text": "Upon the occurrence of a change of control triggering event (as defined in the Indenture), the Company must offer to repurchase each series of Notes at a repurchase price equal to 101% of the principal amount of the Notes to be repurchased, plus any accrued and unpaid interest, to, but excluding, the applicable repurchase date."
+        },
+        "40": {
+          "text": "The Indenture contains covenants that, among other things, restrict the ability of the Company and certain of its domestic subsidiaries:"
+        },
+        "41": {
+          "text": "\u2022to create certain liens and enter into sale and lease-back transactions;"
+        },
+        "42": {
+          "text": "\u2022in the case of certain of the Company\u2019s domestic subsidiaries, to create, assume, incur or guarantee certain indebtedness without such subsidiary guaranteeing the Notes\u037e and"
+        },
+        "43": {
+          "text": "\u2022to consolidate or merge with, or convey, transfer or lease all or substantially all of their respective assets, to another person."
+        },
+        "44": {
+          "text": "These covenants are subject to a number of other limitations and exceptions set forth in the Indenture."
+        },
+        "45": {
+          "text": "The Indenture provides for customary events of default, including, but not limited to, failure to pay principal and interest, failure to comply with covenants, agreements or conditions, cross-acceleration to other material indebtedness and certain events of bankruptcy or insolvency involving the Company and its significant subsidiaries. In the case of an event of default arising from specified events of bankruptcy or insolvency, all outstanding Notes under the Indenture will become due and payable immediately without further action or notice. If any other event of default under the Indenture occurs or is continuing, the Trustee or holders of at least 25% in aggregate principal amount of the applicable series of outstanding Notes under the Indenture may declare all the Notes of such series to be due and payable immediately."
+        },
+        "46": {
+          "text": "A copy of the Indenture and the form of Note for each series are attached as Exhibits 4.1, 4.2 and 4.3, respectively, to this Current Report on Form\u00a08-K\u00a0and are incorporated herein by reference. The foregoing description of the Indenture and Notes do not purport to be complete and is qualified in its entirety by reference to the full text in such exhibits."
+        }
+      }
+    },
+    "47": {
+      "title": "Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an\u00a0Off-Balance\u00a0Sheet Arrangement of a Registrant.",
+      "standardized_title": "item2.03",
+      "class": "item",
+      "contents": {
+        "48": {
+          "text": "The information set forth under Item 1.01 in this Current Report on\u00a0Form\u00a08-K\u00a0is\u00a0incorporated herein by reference."
+        }
+      }
+    },
+    "49": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "50": {
+          "title": "(d) Exhibits",
+          "class": "predicted header",
+          "contents": {
+            "51": {
+              "table": [
+                [
+                  "Exhibit",
+                  "Description"
+                ],
+                [
+                  "4.1",
+                  "Indenture, dated as of September 17, 2021, among Coinbase Global, Inc., Coinbase, Inc. and U.S. Bank National Association, as trustee."
+                ],
+                [
+                  "4.2",
+                  "Form of 3.375% Senior Notes due 2028 (included in Exhibit 4.1)."
+                ],
+                [
+                  "4.3",
+                  "Form of 3.625% Senior Notes due 2031 (included in Exhibit 4.1)."
+                ],
+                [
+                  "104",
+                  "The cover page from this Current Report on Form 8-K, formatted in Inline XBRL."
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "52": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "53": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized."
+        },
+        "54": {
+          "table": [
+            [
+              "",
+              "COINBASE GLOBAL, INC.",
+              "COINBASE GLOBAL, INC."
+            ],
+            [
+              "Date: September 17, 2021",
+              "By:",
+              "/s/ Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Alesia J. Haas"
+            ],
+            [
+              "",
+              "",
+              "Chief Financial Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

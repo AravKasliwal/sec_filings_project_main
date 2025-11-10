@@ -1,0 +1,543 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, D.C. 20549",
+          "class": "predicted header",
+          "contents": {
+            "3": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "4": {
+          "title": "FORM 8-K",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "textsmall": "______________________________________________________"
+            }
+          }
+        },
+        "6": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "7": {
+              "title": "Pursuant to Section\u00a013 or 15(d)",
+              "class": "predicted header"
+            },
+            "8": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "9": {
+              "title": "Date of report (Date of earliest event reported) April 20, 2023",
+              "class": "predicted header",
+              "contents": {
+                "10": {
+                  "textsmall": "______________________________________________________"
+                }
+              }
+            }
+          }
+        },
+        "11": {
+          "title": "AT&T INC.",
+          "class": "predicted header",
+          "contents": {
+            "12": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "13": {
+                  "textsmall": "______________________________________________________"
+                },
+                "14": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "001-08610",
+                      "43-1301883"
+                    ],
+                    [
+                      "(State or Other Jurisdiction\nof Incorporation)",
+                      "(Commission\nFile Number)",
+                      "(IRS Employer\nIdentification No.)"
+                    ],
+                    [
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "208 S. Akard St., Dallas, Texas\n(Address of Principal Executive Offices)",
+                      "75202\n(Zip Code)"
+                    ]
+                  ]
+                },
+                "15": {
+                  "table": [
+                    [
+                      "\u2610",
+                      "Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                    ],
+                    [
+                      "\u2610",
+                      "Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240-14d-2(b))"
+                    ],
+                    [
+                      "\u2610",
+                      "Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                    ]
+                  ]
+                }
+              }
+            },
+            "16": {
+              "title": "Securities Registered Pursuant to Section\u00a012(b) of the Act",
+              "class": "predicted header",
+              "contents": {
+                "17": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "Common Shares (Par Value $1.00 Per Share)",
+                      "T",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A",
+                      "T PRA",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C",
+                      "T PRC",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.500% Global Notes due March 15, 2023",
+                      "T 23",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.750% Global Notes due May 19, 2023",
+                      "T 23C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due September 5, 2023",
+                      "T 23D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.050% Global Notes due September 5, 2023",
+                      "T 23E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.300% Global Notes due September 5, 2023",
+                      "T 23A",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "18": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\nSymbol(s)",
+                      "Name of each exchange\non which registered"
+                    ],
+                    [
+                      "AT&T Inc. 1.950% Global Notes due September 15, 2023",
+                      "T 23F",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.400% Global Notes due March 15, 2024",
+                      "T 24A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. Floating Rate Global Notes due March 6, 2025",
+                      "T 25A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.500% Global Notes due December 17, 2025",
+                      "T 25",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.250% Global Notes due March 4, 2026",
+                      "T 26E",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 5, 2026",
+                      "T 26D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.900% Global Notes due December 4, 2026",
+                      "T 26A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.600% Global Notes due May 19, 2028",
+                      "T 28C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.350% Global Notes due September 5, 2029",
+                      "T 29D",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.375% Global Notes due September 14, 2029",
+                      "T 29B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due December 17, 2029",
+                      "T 29A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 0.800% Global Notes due March 4, 2030",
+                      "T 30B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.050% Global Notes due May 19, 2032",
+                      "T 32A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.550% Global Notes due December 17, 2032",
+                      "T 32",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.200% Global Notes due November 18, 2033",
+                      "T 33",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.375% Global Notes due March 15, 2034",
+                      "T 34",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.450% Global Notes due March 15, 2035",
+                      "T 35",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.150% Global Notes due September 4, 2036",
+                      "T 36A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 2.600% Global Notes due May 19, 2038",
+                      "T 38C",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 1.800% Global Notes due September 14, 2039",
+                      "T 39B",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 7.000% Global Notes due April 30, 2040",
+                      "T 40",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due June 1, 2043",
+                      "T 43",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.875% Global Notes due June 1, 2044",
+                      "T 44",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.000% Global Notes due June 1, 2049",
+                      "T 49A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 4.250% Global Notes due March 1, 2050",
+                      "T 50",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 3.750% Global Notes due September 1, 2050",
+                      "T 50A",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.350% Global Notes due November 1, 2066",
+                      "TBB",
+                      "New York Stock Exchange"
+                    ],
+                    [
+                      "AT&T Inc. 5.625% Global Notes due August 1, 2067",
+                      "TBC",
+                      "New York Stock Exchange"
+                    ]
+                  ]
+                },
+                "19": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (\u00a7230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (\u00a7240.12b-2 of this chapter)."
+                },
+                "20": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "21": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section\u00a013(a) of the Exchange Act.\u00a0\u00a0\u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "title": "Item 8.01  Other Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "23": {
+          "text": "Throughout this document, AT&T Inc. is referred to as \u201cwe\u201d or \u201cAT&T.\u201d AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications and technology industries."
+        },
+        "24": {
+          "title": "Overview",
+          "class": "predicted header",
+          "contents": {
+            "25": {
+              "text": "We announced on April\u00a020, 2023 that first-quarter 2023 income from continuing operations totaled $4.5 billion, or $0.57 per diluted share. First-quarter 2023 income per diluted share included amounts totaling to $203 million (pre-tax), or $0.03 per share, resulting from the following significant items: $(0.04) per share from our proportionate share of DIRECTV intangible amortization and $(0.01) per share related to Accounting Standards Update (ASU) No. 2020-06 (ASU 2020-06), partially offset by $0.02 per share of benefit-related market-driven adjustments. These results compare with a reported net income from continuing operations of $5.1 billion, or $0.65 per diluted share, in the first quarter of 2022, which included $0.11 per share of actuarial gains, $(0.04) per share from our proportionate share of DIRECTV intangible amortization, $(0.05) per share of other items, including benefit related market-driven adjustments, and $(0.01) per share related to ASU 2020-06. On April 5, 2023 we repurchased all outstanding AT&T Mobility II LLC preferred interests, and, as such, our calculation of diluted earnings per share under U.S. generally accepted accounting principles (GAAP), beginning with the second quarter of 2023, will no longer reflect dilutive potential of these instruments."
+            },
+            "26": {
+              "text": "Operating revenues in the first quarter of 2023 were $30.1 billion, up 1.4 percent from the first quarter of 2022, reflecting higher Mobility, Mexico and Consumer Wireline revenues, partially offset by continued declines in Business Wireline."
+            },
+            "27": {
+              "text": "Operating expenses in the first quarter of 2023 were $24.1 billion, down 0.2 percent, reflecting the benefits of our continued transformation efforts, offset by inflationary increases. Operating expense declines were also driven by lower domestic wireless equipment and associated selling costs from lower sales volumes, first-quarter 2022 3G network shutdown costs, lower personnel costs and higher returns on benefit-related assets. Expense decreases were partially offset by higher amortization of deferred customer acquisition costs and increased bad debt and depreciation expenses."
+            },
+            "28": {
+              "text": "Operating income in the first quarter was $6.0 billion compared to $5.5 billion in the comparable 2022 period, and AT&T\u2019s first-quarter operating income margin was 19.9 percent, compared to 18.6 percent in the comparable 2022 period."
+            },
+            "29": {
+              "text": "Other income (expense) - net in the first quarter was $0.9 billion compared to $2.2 billion in the comparable 2022 period. The decrease reflects a $1.1 billion actuarial gain on pension benefits in the first quarter of 2022, with no comparative actuarial remeasurement in the first quarter of 2023. Also contributing to the decrease were lower pension and postretirement benefit credits in 2023, primarily driven by higher interest costs from discount rate increases. Partially offsetting the decreases were higher returns on other benefit-related investments."
+            },
+            "30": {
+              "text": "Cash from operating activities from continuing operations in the first quarter of 2023 was $6.7 billion, down nearly $1.0 billion when compared to 2022, reflecting timing of working capital, including fewer receivable sales. Capital expenditures in the first quarter of 2023 were $4.3 billion, and when including $2.1 billion cash paid for vendor financing, capital investment was $6.4 billion, compared to prior-year first quarter capital investment of $6.1 billion (capital expenditures of $4.6 billion and vendor financing of $1.6 billion)."
+            }
+          }
+        },
+        "31": {
+          "title": "Segment Summary",
+          "class": "predicted header",
+          "contents": {
+            "32": {
+              "text": "We analyze our segments based on segment operating income, which excludes acquisition-related costs and other significant items. Our reportable segments are: Communications and Latin America."
+            },
+            "33": {
+              "text": "Effective for the first quarter of 2023, we no longer record prior service credits to our individual business units or the corresponding charge to Corporate and Other, and segment operating expenses were recast to remove prior service credits from our historical reporting. Prior service credits are, and will continue to be, recorded as other income in our consolidated income statement in accordance with GAAP. This recast increased Communications segment operations and support expenses by approximately $2,400 for full-year 2022. Correspondingly, this recast lowered administrative expenses within Corporate and Other, with no change on a consolidated basis."
+            }
+          }
+        },
+        "34": {
+          "title": "Communications",
+          "class": "predicted header",
+          "contents": {
+            "35": {
+              "text": "Our Communications segment consists of our Mobility, Business Wireline and Consumer Wireline business units."
+            },
+            "36": {
+              "text": "First-quarter 2023 operating revenues were $29.2 billion, up 1.0 percent versus first-quarter 2022, with segment operating income of $6.7 billion, up 3.9 percent versus the year-ago quarter. The Communications segment operating income margin was 23.1 percent, compared to 22.5 percent in the year-earlier quarter."
+            },
+            "37": {
+              "title": "Mobility",
+              "class": "predicted header",
+              "contents": {
+                "38": {
+                  "text": "Mobility revenues for the first quarter of 2023 were $20.6 billion, up 2.5 percent versus the first quarter of 2022, driven by service revenue growth from subscriber and ARPU growth, partially offset by lower equipment revenues from lower sales volumes. Mobility operating expenses totaled $14.3 billion, down 0.5 percent versus the first quarter of 2022 due to lower equipment costs driven by lower device sales, first-quarter 2022 3G network shutdown costs and lower HBO Max licensing fees. These decreases were offset by higher amortization of deferred customer acquisition costs and increased network and customer support costs, marketing and bad debt expenses. Mobility\u2019s operating income margin was 30.5 percent compared to 28.3 percent in the year-ago quarter."
+                },
+                "39": {
+                  "text": "In our Mobility business unit, during the first quarter of 2023, we reported a net gain of 5.1 million wireless subscribers. At March\u00a031, 2023, wireless subscribers totaled 222.8 million (including approximately 4.7 million FirstNet connections) compared to 196.6 million at March\u00a031, 2022."
+                },
+                "40": {
+                  "text": "During the first quarter, total phone net adds (postpaid and prepaid) were 464,000 with total net adds by subscriber category as follows:"
+                },
+                "41": {
+                  "text": "\u2022Postpaid subscriber net adds were 542,000, with phone net adds of 424,000."
+                },
+                "42": {
+                  "text": "\u2022Prepaid subscriber net adds were 40,000, with phone net adds of 40,000."
+                },
+                "43": {
+                  "text": "\u2022Reseller net adds were 108,000."
+                },
+                "44": {
+                  "text": "\u2022Connected device net adds were 4.5 million, 2.7 million of which were primarily attributable to wholesale connected cars."
+                },
+                "45": {
+                  "text": "For the quarter ended March\u00a031, 2023, postpaid phone-only ARPU increased 1.9 percent versus the year-earlier quarter."
+                },
+                "46": {
+                  "text": "Postpaid phone-only churn was 0.81 percent compared to 0.79 percent in the first quarter of 2022. Total postpaid churn was 0.99 percent compared to 0.94 percent in the year-ago quarter."
+                }
+              }
+            },
+            "47": {
+              "title": "Business Wireline",
+              "class": "predicted header",
+              "contents": {
+                "48": {
+                  "text": "Business Wireline revenues for the first quarter of 2023 were $5.3 billion, down 5.5 percent versus the year-ago quarter, primarily due to lower demand for legacy voice and data services and product simplification, partially offset by growth in connectivity services. Business Wireline operating expenses totaled $5.0 billion, down 1.0 percent when compared to the first quarter of 2022 due to ongoing operational cost efficiencies, lower personnel costs, and lower network access costs and marketing expenses. The declines were partially offset by favorable compensation true-ups in the first quarter of 2022 and higher depreciation expense. Business Wireline operating income margin was 7.1 percent compared to 11.3 percent in the year-earlier quarter."
+                }
+              }
+            },
+            "49": {
+              "title": "Consumer Wireline",
+              "class": "predicted header",
+              "contents": {
+                "50": {
+                  "text": "Consumer Wireline revenues for the first quarter of 2023 were $3.2 billion, up 2.5 percent versus the year-ago quarter, driven by growth in broadband revenues attributable to fiber growth, partially offset by declines in legacy voice and data services and other services. Consumer Wireline operating expenses totaled $3.1 billion, up 4.8 percent versus the first quarter of 2022, largely driven by increased depreciation expense, higher network and customer support costs, higher amortization of deferred acquisition costs and favorable compensation true-ups in the first quarter of 2022. Expense increases were offset by lower sales and advertising costs and lower HBO Max licensing fees. Consumer Wireline operating income margin was 2.9 percent compared to 5.0 percent in the year-earlier quarter."
+                },
+                "51": {
+                  "text": "At March\u00a031, 2023, Consumer Wireline had approximately 13.7\u00a0million broadband connections compared to 13.9\u00a0million at March\u00a031, 2022. During the first quarter, broadband subscriber net losses were 23,000, with fiber broadband net adds of 272,000. Total broadband and DSL connections were 13.9\u00a0million at March\u00a031, 2023, compared to 14.1\u00a0million at March\u00a031, 2022."
+                }
+              }
+            }
+          }
+        },
+        "52": {
+          "title": "Latin America",
+          "class": "predicted header",
+          "contents": {
+            "53": {
+              "text": "Our Latin America segment consists of our Mexico business unit and is subject to foreign currency fluctuations."
+            },
+            "54": {
+              "text": "Revenues were $883 million, up 28.0 percent when compared to the first quarter of 2022, primarily due to increased service and equipment revenues driven by growth in wholesale revenue and subscribers and favorable impact of foreign exchange. Operating expenses were $913 million, up 15.3 percent, driven by unfavorable impact of foreign exchange, higher equipment costs and increased bad debt and depreciation expenses. Mexico\u2019s operating income margin was (3.4) percent, compared to (14.8) percent in the year-earlier quarter."
+            },
+            "55": {
+              "text": "We had approximately 21.6 million Mexico wireless subscribers at March\u00a031, 2023 compared to 20.5 million at March\u00a031, 2022. During the first quarter of 2023, we had postpaid net adds of 49,000 and prepaid net losses of 58,000."
+            },
+            "56": {
+              "title": "1",
+              "class": "predicted header"
+            }
+          }
+        },
+        "57": {
+          "title": "Preferred Interest Expansion",
+          "class": "predicted header",
+          "contents": {
+            "58": {
+              "text": "On April 18, 2023, we issued $1.0 billion additional Class A-3 AT&T Fiber Investment, LLC preferred interests, expanding our April 4, 2023 Class A-2 transaction. The Class A-3 limited membership interests entitle holders to receive cumulative quarterly distributions at a per annum rate of 6.85% and provide the same terms, redemption and liquidation provisions as the Class A-2 preferred interests issued on April 4, 2023."
+            },
+            "59": {
+              "title": "CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS",
+              "class": "predicted header",
+              "contents": {
+                "60": {
+                  "text": "Information set forth in this filing contains financial estimates and other forward-looking statements that are subject to risks and uncertainties. A discussion of factors that may affect future results is contained in AT&T\u2019s filings with the Securities and Exchange Commission. AT&T disclaims any obligation to update or revise statements contained in this filing based on new information or otherwise."
+                }
+              }
+            },
+            "61": {
+              "title": "2",
+              "class": "predicted header"
+            }
+          }
+        }
+      }
+    },
+    "62": {
+      "title": "Item 9.01 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "63": {
+          "text": "The following exhibits are filed as part of this report:"
+        },
+        "64": {
+          "table": [
+            [
+              "(d)",
+              "Exhibits",
+              "Exhibits"
+            ],
+            [
+              "",
+              "99.1",
+              "AT&T Inc. selected financial statements and operating data."
+            ],
+            [
+              "",
+              "104",
+              "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+            ]
+          ]
+        },
+        "65": {
+          "title": "3",
+          "class": "predicted header"
+        }
+      }
+    },
+    "66": {
+      "title": "Signature",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "67": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized."
+        },
+        "68": {
+          "table": [
+            [
+              "",
+              "AT&T INC."
+            ],
+            [
+              "Date: April\u00a020, 2023",
+              "By: /s/ Sabrina Sanders \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .\n\u00a0\u00a0\u00a0\u00a0 \u00a0\u00a0Sabrina Sanders\nSenior Vice President - Chief Accounting Officer \n\u00a0\u00a0\u00a0and Controller"
+            ]
+          ]
+        },
+        "69": {
+          "title": "4",
+          "class": "predicted header"
+        }
+      }
+    }
+  }
+}

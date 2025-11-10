@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "parser": "doc2dict",
+    "github": "https://github.com/john-friedman/doc2dict",
+    "version": "0.4.9"
+  },
+  "document": {
+    "-1": {
+      "title": "introduction",
+      "class": "introduction",
+      "contents": {
+        "0": {
+          "title": "UNITED\n\n\n\n\n\n\n        STATES",
+          "class": "predicted header"
+        },
+        "1": {
+          "title": "SECURITIES AND EXCHANGE COMMISSION",
+          "class": "predicted header"
+        },
+        "2": {
+          "title": "WASHINGTON, DC 20549",
+          "class": "predicted header"
+        },
+        "3": {
+          "title": "FORM 8-K",
+          "class": "predicted header"
+        },
+        "4": {
+          "title": "CURRENT REPORT",
+          "class": "predicted header",
+          "contents": {
+            "5": {
+              "title": "Pursuant to Section 13 or 15(d)",
+              "class": "predicted header"
+            },
+            "6": {
+              "title": "of the Securities Exchange Act of 1934",
+              "class": "predicted header"
+            },
+            "7": {
+              "title": "Date of report (Date of earliest event reported): April 1, 2020",
+              "class": "predicted header",
+              "contents": {
+                "8": {
+                  "image": {
+                    "src": "image0.jpg",
+                    "alt": "graphic"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "9": {
+          "title": "T-MOBILE US, INC.",
+          "class": "predicted header",
+          "contents": {
+            "10": {
+              "title": "(Exact Name of Registrant as Specified in Charter)",
+              "class": "predicted header",
+              "contents": {
+                "11": {
+                  "table": [
+                    [
+                      "Delaware",
+                      "1-33409",
+                      "20-0836269"
+                    ],
+                    [
+                      "(State or other jurisdiction of\n\n            \u00a0incorporation or organization)",
+                      "(Commission\n\n            \u00a0File Number)",
+                      "(I.R.S. Employer\n\n            \u00a0Identification No.)"
+                    ]
+                  ]
+                },
+                "12": {
+                  "table": [
+                    [
+                      "12920 SE 38th Street",
+                      ""
+                    ],
+                    [
+                      "Bellevue, Washington",
+                      "98006-1350"
+                    ],
+                    [
+                      "(Address of principal executive offices)",
+                      "(Zip Code)"
+                    ]
+                  ]
+                }
+              }
+            },
+            "13": {
+              "title": "Registrant\u2019s telephone number, including area code: (425) 378-4000",
+              "class": "predicted header"
+            },
+            "14": {
+              "title": "(Former Name or Former Address, if Changed Since Last Report):",
+              "class": "predicted header",
+              "contents": {
+                "15": {
+                  "text": "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the Registrant under any of the\n      following provisions (see General Instructions A.2. below):"
+                },
+                "16": {
+                  "text": "\u2610Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)"
+                },
+                "17": {
+                  "text": "\u2610Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)"
+                },
+                "18": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))"
+                },
+                "19": {
+                  "text": "\u2610Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))"
+                },
+                "20": {
+                  "text": "Securities registered pursuant to Section 12(b) of the Act:"
+                },
+                "21": {
+                  "table": [
+                    [
+                      "Title of each class",
+                      "Trading\n\n            \u00a0Symbol(s)",
+                      "Name of each exchange\n\n            on which registered"
+                    ],
+                    [
+                      "Common Stock, par value $0.00001 per share",
+                      "TMUS",
+                      "The NASDAQ Stock Market LLC"
+                    ]
+                  ]
+                },
+                "22": {
+                  "text": "Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR \u00a7230.405) or Rule\n      12b-2 of the Securities Exchange Act of 1934 (17 CFR \u00a7240.12b-2)."
+                },
+                "23": {
+                  "text": "Emerging growth company\u00a0 \u2610"
+                },
+                "24": {
+                  "text": "If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or\n      revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.\u00a0 \u2610"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "25": {
+      "title": "Item 7.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Regulation\n\n\n\n\n\n\n        FD Disclosure",
+      "standardized_title": "item7.01",
+      "class": "item",
+      "contents": {
+        "26": {
+          "text": "On April 1, 2020, T-Mobile US, Inc. (the \u201cCompany\u201d)\n\n\n\n\n\n\n      issued a press release announcing that T-Mobile USA, Inc., its direct wholly-owned subsidiary, plans to offer, subject to market and other conditions, senior secured notes (the \u201cNotes\u201d) in a private debt offering (the \u201cPrivate Placement\u201d) pursuant to an exemption from the registration requirements of the\n      Securities Act of 1933, as amended (the \u201cSecurities Act\u201d)."
+        },
+        "27": {
+          "text": "In connection with the Private Placement, the Company intends to disclose certain information regarding its business to prospective\n      investors in a confidential preliminary offering memorandum dated April 1, 2020. The preliminary offering memorandum includes information that supplements or updates certain prior disclosures of the Company, which information is attached hereto as\n      Exhibit 99.1 and incorporated by reference herein."
+        },
+        "28": {
+          "text": "The information contained and incorporated by reference in Item 7.01 in this report will not be deemed \u201cfiled\u201d for purposes of Section 18\n      of the Securities Exchange Act of 1934, as amended (the \u201cExchange Act\u201d), or incorporated by reference in any filing under the Securities Act, or the Exchange\n      Act, except as may be expressly set forth by specific reference in such a filing."
+        }
+      }
+    },
+    "29": {
+      "title": "Item 8.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Other\n\n\n\n\n\n\n        Events.",
+      "standardized_title": "item8.01",
+      "class": "item",
+      "contents": {
+        "30": {
+          "text": "On April 1, 2020, the Company issued a press release announcing the Private Placement of the Notes discussed above."
+        },
+        "31": {
+          "text": "The Notes will be offered and sold only to persons reasonably believed to be qualified institutional buyers in reliance on Rule 144A and\n      in offshore transactions pursuant to Regulation S under the Securities Act.\u00a0 The Notes and related guarantees will not be registered under the Securities Act or any state securities laws and may not be offered or sold in the United States absent\n      registration or an applicable exemption from registration requirements."
+        },
+        "32": {
+          "text": "The press release announcing the Private Placement was issued in accordance with Rule 135c under the Securities Act. A copy of the press\n      release announcing the offering of the Notes is attached as Exhibit 99.2 and incorporated by reference into this Item 8.01."
+        },
+        "33": {
+          "text": "This Current Report on Form 8-K does not constitute an offer to sell or the solicitation of an offer to buy the Notes, the guarantees or\n      any other securities, nor shall it constitute an offer to sell, solicitation or sale in any jurisdiction in which such offer, solicitation or sale would be unlawful.\u00a0 Any offers of the Notes would be made only by means of a confidential offering\n      memorandum."
+        }
+      }
+    },
+    "34": {
+      "title": "Item 9.01.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Financial Statements and Exhibits.",
+      "standardized_title": "item9.01",
+      "class": "item",
+      "contents": {
+        "35": {
+          "title": "(d)\u00a0 \u00a0 ",
+          "class": "predicted header",
+          "contents": {
+            "36": {
+              "title": "Exhibits",
+              "class": "predicted header",
+              "contents": {
+                "37": {
+                  "table": [
+                    [
+                      "EXHIBIT\n\n            NUMBER",
+                      "DESCRIPTION"
+                    ],
+                    [
+                      "99.1",
+                      "Excerpts from preliminary offering memorandum of T-Mobile USA, Inc. dated April 1, 2020"
+                    ],
+                    [
+                      "99.2",
+                      "Press Release, dated April 1, 2020, entitled \u201cT-Mobile Announces Proposed Offering of Senior Secured Notes\u201d"
+                    ],
+                    [
+                      "104",
+                      "Cover Page Interactive Data File (embedded within the Inline XBRL document)"
+                    ]
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "38": {
+          "title": "Cautionary Statement Regarding Forward-Looking Statements",
+          "class": "predicted header",
+          "contents": {
+            "39": {
+              "text": "This communication contains certain forward-looking statements concerning T-Mobile. All statements, other than statements of historical fact, including\n      information concerning future results and performance, are forward-looking statements. These forward-looking statements may be identified by the words \u201canticipate,\u201d \u201cbelieve,\u201d \u201cestimate,\u201d \u201cexpect,\u201d \u201cintend,\u201d \u201cmay,\u201d \u201ccould\u201d or similar expressions.\n      Such forward-looking statements include, but are not limited to, statements about the benefits of the business combination with Sprint Corporation (\u201cSprint\u201d), including anticipated future financial and operating results, synergies, accretion and\n      growth rates, and T-Mobile\u2019s plans, objectives, expectations and intentions. There are several factors that could cause actual plans and results to differ materially from those expressed or implied in forward-looking statements. Such factors include,\n      but are not limited to, adverse economic, political or market conditions in the U.S. and international markets and other factors such as natural disasters, pandemics and outbreaks of contagious diseases and other adverse public health developments,\n      such as COVID-19; the risk that the conditions imposed in connection with the regulatory approvals for the business combination, including the divestiture of Sprint\u2019s Boost Mobile and Sprint prepaid wireless brands and certain other assets to DISH\n      Network Corporation and ongoing commercial and transition services arrangements to be entered into in connection with such divestiture, could adversely affect T-Mobile and/or the expected benefits of the business combination; the ability of T-Mobile\n      to make payments on debt or to repay existing or future indebtedness when due or to comply with the covenants contained therein; adverse changes in the ratings of T-Mobile\u2019s debt securities or adverse conditions in the credit markets; negative\n      effects of the business combination on the market price of T-Mobile\u2019s common stock and on T-Mobile\u2019s operating results, including as a result of changes in key customer, supplier, employee or other business relationships; the incurrence of\n      significant costs and/or assumption of significant liabilities in connection with the business combination; failure to realize the expected benefits and synergies of the business combination in the expected timeframes or at all; costs or difficulties\n      related to the integration of Sprint\u2019s network, operations and financial reporting and internal controls into T-Mobile, including the effects of any material weakness in Sprint\u2019s internal control over financial reporting; the risk of litigation or\n      regulatory actions, including litigation or actions that may arise from T-Mobile\u2019s consummation of the business combination during the pendency of the California Public Utility Commission\u2019s review of the business combination; the inability of\n      T-Mobile to retain and hire key personnel; effects of changes in the regulatory environment in which T-Mobile operates; changes in global, political, economic, business, competitive and market conditions; changes in tax and other laws and\n      regulations; challenges in implementing T-Mobile\u2019s business strategies or funding its operations; breaches of T-Mobile\u2019s and/or its third-party vendors\u2019 networks, information technology and data security, resulting in unauthorized access to customer\n      confidential information; natural disasters, pandemics or public health crises, including the impact of coronavirus, terrorist attacks or similar incidents; and other risks and uncertainties detailed in T-Mobile\u2019s Annual Report on Form 10-K for the\n      fiscal year ended December 31, 2019 and in its subsequent reports on Form 10-Q, including in the sections thereof captioned \u201cRisk Factors\u201d and \u201cCautionary Statement Regarding Forward-Looking Statements,\u201d as well as in its subsequent reports on Form\n      8-K, all of which are filed with the SEC and available at www.sec.gov and www.t-mobile.com. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause actual results to\n      differ materially from those expressed in or implied by such forward-looking statements. Given these risks and uncertainties, persons reading this communication are cautioned not to place undue reliance on such forward-looking statements. T-Mobile\n      assumes no obligation to update or revise the information contained in this communication (whether as a result of new information, future events or otherwise), except as required by applicable law."
+            }
+          }
+        }
+      }
+    },
+    "40": {
+      "title": "SIGNATURES",
+      "standardized_title": "signatures",
+      "class": "signatures",
+      "contents": {
+        "41": {
+          "text": "Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its\n      behalf by the undersigned hereunto duly authorized."
+        },
+        "42": {
+          "table": [
+            [
+              "",
+              "T-MOBILE US, INC.",
+              "T-MOBILE US, INC."
+            ],
+            [
+              "Date:\u00a0 April 1, 2020",
+              "By:",
+              "/s/ Peter Osvaldik"
+            ],
+            [
+              "",
+              "",
+              "Peter Osvaldik\n\n            Senior Vice President, Finance & Chief Accounting Officer"
+            ]
+          ]
+        }
+      }
+    }
+  }
+}
